@@ -1,0 +1,104 @@
+= Savage Musketeers
+Andy Hall <achall@gmail.com>
+v1.0, 2020-04-04
+:toc: left
+:toclevels: 4
+:experimental:
+:sectlinks:
+:sectanchors:
+
+See the shared Musketeers setting at link:https://savaged.us/s/57iudowe[savaged.us].
+
+****
+This is a historical setting that is based  in France of the early 17th century.
+
+Much is borrowed from _All For One: Regime Diabolique_) (Triple Ace Games). Paul "Wiggy" Wade-Williams is brilliant.
+
+_Flashing Blades_ (Fantasy Games Unlimited) is an old-school historical swashbuckling RPG that is fill of great ideas.
+
+TIP: Pirating RPG content is just plain douchey. Most folks making tabletop RPG products struggle to make a buck. Buy tabletop RPG books from your Friendly Local Area Gaming Store or fron online vendors like xref:https://www.drivethrurpg.com/[DriveThruRPG].
+
+****
+
+== Character archetypes
+All character’s begin as a member of the King’s or Queen’s Musketeers but each musketeer is different - don’t let the uniform fool you.
+
+The following are some suggested archetypes for a musketeer character.
+
+* The Academic
+* The Adventurer
+* The Aristocrat
+* The Artisan
+* The Artist
+* The Aspiring Hero
+* The Aspiring Noble
+* The Carouser
+* The Duelist
+* The Down-on-his-Luck Noble
+* The Grizzled Veteran
+* The Huntsman
+* The Inspiring Leader
+* The Man of Faith
+* The Reformed Criminal
+* The Peasant
+* The Physician
+* The Polymath
+* The Professional Soldier
+* The Spy
+* The Survivor
+* The Swordsman
+
+== Female musketeers
+The musketeers accept female applicants.
+
+== Ranks
+This is not a game about military rank. Officers and sergeants respect the opinions of all musketeers. There are no special edges for rank.
+
+== Lackeys
+
+All Musketeers begin with a lackey, a loyal and trusted (or maybe not) companion to their master. Lackeys may be male or female, though not every profession is open to both sexes. Lackeys are there to serve, not fight.
+
+You create a lackey as a regular character, except they are Extras, receive four attribute points, and eight skill points (plus the five default skills). No lackey may ever have Fighting or Shooting higher than d6. They are a great way of ensuring the party has access to a wide range of skills, and also for providing Cooperative bonuses where appropriate.
+
+A player should not create his own lackey. Another player character builds the lackey and plays him during the game. This allows for the Musketeer to interact with his servant in play without the player talking to himself.
+
+Whether or not the Musketeer has any say in the character generation is up to the individual players—some may ask for a servant with a specific skill set, while others may be happy to take pot luck.
+
+A lackey Advances like any other Extra (see Allies and Advancement in SWADE). A lackey who dies is not automatically replaced—the character must use an advance to earn a new lackey. Replaced lackeys begin with the same experience as their predecessor. Fortunately, most villains ignore lackeys who do not attack them. Unless a hero places his lackey in direct danger, villains will always target a player character over the lackey.
+
+The lackey’s basic salary (typically a small sum) is assumed covered by whatever income his master has. Any bonus rewards must come from the Musketeer’s pocket. Typically, a lackey begins with the basic tools needed for his profession, a dagger, and appropriate clothing, though the lackey’s background may alter this.
+
+== Social duels
+A social duel is an exchange of jests, barbed comments, overt or sliy insults, witty slander, and backhanded compliments.
+The social duel rules are intended for use in social occasions, such as balls and dances; they are not used in standard combat.
+A social duel takes time and requires an audience to witness the exchange.
+
+CAUTION: Be careful before you insult someone. Generally speaking, avoid insulting high status individuals or other luminaries unless you're pretty sure you can win (or deal with the repercussions). See <<#results>>.
+
+Social dueling works much like the Social Conflict rules (SWADE p 143) except that Taunt is used instead of Persuasion.
+
+Another character can provide a Support roll but, if the duel is lost, that supporting character suffers the same penalties as the character who initiates the social duel.
+
+NOTE: Not every NPC has Taunt. For the purpose of social dueling only, every NPC should be considered to have Taunt d4 unless he has a higher die listed—even the crudest peasant knows how to deliver a witty double entendre, throw an insult, or just deliver a defamatory statement in social situations.
+
+[[results]]
+=== Social dueling results
+This replaces the Social Conflict Results table in the SWADE core rules.
+Losers of a social duel suffer from a loss of esteem and respect.
+The penalties are removed at the rate of one point per week.
+Word spreads quickly around the realm.
+Any character with a damaged reputation will receive knowing smiles at best, and be mocked by all and sundry at worst.
+Alternately, the loser can demand a duel of blades or pistols. Should he win, the reputation is restored and all penalties removed.
+While the character is suffering a social penalty, he will not be the target of social duels—a damaged reputation cannot be further harmed until it is repaired.
+He may, if he so chooses, instigate social duels, though.
+
+[cols="20%,80%", options="header"]
+|===
+| Margin | Result
+| Tie | There is no clear winner. Both parties have slandered each other, but the insults have not damaged their reputations. Neither feels the need to pursue the matter further, at least not until their next meeting.
+| 1-2 | The loser’s honor and reputation are besmirched, but only temporarily. He suffers a –1 penalty to Intimidation, Persuasion, and Taunt rolls.
+| 3-4 | A stinging remark has left a deep wound on the loser’s reputation. He suffers a –2 penalty to Intimidation, Persuasion, and Taunt roll.
+| 5+ | The target’s honor is not only tarnished, it is hemorrhaging! He suffers a –4 penalty to Intimidation, Persuasion, and Taunt rolls.
+|===
+
+How else might a character repair his reputation? You can count the ways!

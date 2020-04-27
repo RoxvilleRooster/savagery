@@ -1,0 +1,237 @@
+= Setting Rules for Firefly
+Andy Hall <achall@gmail.com>
+v1.0, 2019-11-24
+:toc: right
+:experimental:
+:sectlinks:
+:sectanchors:
+
+== Setting rules
+
+The settings rules assume that the players play the crew like that of the _Serenity_.
+
+All heroes have the Poverty hindrance. The crew's financial situation is almost always tight and near broke. Income is uncertain.
+
+The following setting rules from SWADE are fitting for a Savage Worlds Firefly campaign:
+
+* Conviction (SWADE 136)
+
+==== Hindrance trappings
+
+Suggested re-skins of existing hindrances include:
+
+* Trap the Outsider (Minor) hindrance as "Browncoat"
+* Trap the Clueless (Major) hindrance as "Greenhorn"
+* Trap the Obligation (Minor or Major) hindrance as "Debt" or "In Debt to..."
+
+
+=== Favors, Contacts, and Perks
+
+==== Favors
+[[favors]]
+
+.Where these rules come from
+****
+These rules are from Eric Lamoureux and _Just Insert Imagination_'s _Wiseguys_ but they should work really well for the Firefly setting. Buy _Wiseguys_ on https://www.drivethrurpg.com/product/290098/Wiseguys-The-Savage-Guide-to-Organized-Crime[ DTRPG,role=external,window=_blank].
+****
+
+When spending a Benny to Influence the Story, a player can do things like make up a new acquaintance to gain a clue, information, gear, or access to a restricted area. In this instance, the hero recalls that an old friend still owes a favor. This assumes that the acquaintance has a Friendly attitude and is available to help.
+
+Only allow the player group to use the _Influence the Story_ rule for a Favor once per session.
+
+After the acquaintance does the favor, he fades into the background unless a player spends a Benny to add the character to his list of _Contacts_. Now that this contact has performed the favor, the contact's Reaction to the hero returns to Neutral.
+
+==== Contacts
+
+.Where these rules come from
+****
+These rules are from Eric Lamoureux and _Just Insert Imagination_'s  _Wiseguys_ but they fit for the Firefly setting. Buy _Wiseguys_ on https://www.drivethrurpg.com/product/290098/Wiseguys-The-Savage-Guide-to-Organized-Crime[ DTRPG,role=external,window=_blank].
+****
+
+Contacts are different from the Connections edge. A contact provides personal and specialized assistance.
+
+You can draw a card from a deck and then the GM can refer to chapter six in  _Wiseguys_ to generate a contact for the game.
+Talk to your GM about creating a contact.
+
+You can provide a hero a contact in the following ways:
+
+//* By taking A Friend of Mine as an Edge
+* By spending a Benny to convert a character who performed a Favor for the hero into a Contact (see <<favors,Favors>>).
+* By spending a Benny to turn a character that the hero met through the Connections edge into a Contact.
+* By meeting people during the campaign, based on the GM's discretion and roleplay.
+* As a reward for completing an assignment.
+// * For finding certain Artifacts (see Chapter Seven)
+
+Contacts are Wild Cards, even if they really came into the story as Extras. A player is allowed to call on one Contact per session. Contacts do not wait around and may not always be available when called on. Reciprocity is important; a contact expects the hero to return a favor when called. A loyal contact can turn if the hero mistreats him; heroes need to nurture and maintain relationships with contacts.
+
+A hero uses the Reactions table to represent the status of the relationship between a the hero and his Contact. The initial attitude of the contact depends on how the relationship starts; it is typically Neutral.
+
+===== Maintaining the relationships with a Contact
+
+If the attitude of a Contact falls to Hostile, the contact becomes a foe to the hero and the hero gains the Enemy (Minor) Hindrance.
+
+The hero can also develop the relationship with the contact and improve the attitude of the Contact’s to Helpful. In this case, the hero gets access to a “Perk” from the Contact.
+
+At the session's start, the GM can ask each player who's hero has a Contact to draw a card from the Action Deck. If the player draws a face card, check the Contact Event Table (https://www.drivethrurpg.com/product/290098/Wiseguys-The-Savage-Guide-to-Organized-Crime[ Wiseguys,role=external,window=_blank], 33).
+
+// TK Left off on page 33 of Wiseguys
+
+
+==== Perks
+
+A Perk is a service, favor, or item that a Contact offers a hero that goes beyond what a Contact generally provides a hero.
+
+Beware, a perk can come with strings attached.
+
+=== Heists
+
+Firefly is all about the crew attempting to pull heists.
+
+.Where these rules come from
+****
+These rules are derived from Eric Lamoureux and _Just Insert Imagination_'s _Wiseguys_, with some minor adjustments that suit the flavor of the Firefly setting. Buy _Wiseguys_ on https://www.drivethrurpg.com/product/290098/Wiseguys-The-Savage-Guide-to-Organized-Crime[ DTRPG,role=external,window=_blank].
+****
+
+Use Dramatic Tasks for running heist scenes with the option Multiple Skills.
+For each step in the heist use a different skill and have a different character perform that skill until all the key characters have their turn.
+
+You can use a Quick Encounter for a heist that is either (a) a minor part of a scenario or (b) when game time is short. Each person engaged in the heist chooses a different skill. A heist is a group  effort; whether it succeeds depends on the members of the team.
+
+==== Planning the heist
+
+Consider using a _preparation montage_. Drop the characters into the heist and then use these mechanics and allow the players to describe the heist's preparations.
+
+Have each player pick an appropriate skill and the group keeps the highest roll. For every success and raise, award the crew a Heist Token.
+
+Suggested skills for preparation montages:
+
+* Academics
+* Common Knowledge
+* Electronics
+* Hacking
+* Intimidation
+* Persuasion
+* Repair
+* Research
+* Science
+
+==== Running the heist scene
+
+Start the heist's Dramatic Task or Quick Encounter. During the heist, the players can redeem Heist Tokens to _Influence the Story_ as per "Using Bennies in Savage Worlds".
+
+A player can spend a Benny to influence the narrative, making a story, which allows the player character to
+
+[loweralpha]
+a. use a different skill for a step of the Dramatic Task than the GM determined or
+a. call upon help from a Contact or Connections to bypass the challenge.
+
+
+You can use a flashback to show what happened to influence the story and facilitate the success of the heist.
+
+Examples of influencing the story include:
+
+* bribing a guard
+* placing an object that creates a diversion or distraction
+* replacing one object (e.g., a forgery) for another
+* bypassing a security system
+* finding objects (e.g., uniforms, badges) or covers to blend in
+
+==== Generating a heist
+
+Heists are a fixture of a Firefly campaign.
+
+.Where these rules come from
+****
+See the "Heist Generator" rules (https://www.drivethrurpg.com/product/290098/Wiseguys-The-Savage-Guide-to-Organized-Crime[ Wiseguys,role=external,window=_blank], 36). Minor tweaks to the original rules are intended to reflect the Firefly setting.
+****
+
+For each scene of a heist's dramatic task or quick encounter, the GM can draw a card for inspiration.
+
+.Challenges
+[cols="^2,^2,4",options="header"]
+|===========================================================
+| Suit | Theme | Suggested skills
+| Clubs | Complications | See <<Complications,Complications>>.
+| Diamonds | Barriers | Athletics, Driving, Electronics, Hacking, Piloting, Repair, Research, Thievery
+| Hearts | Guards | Athletics, Fighting, Intimidation, Performance, Persuasion, Shooting, Taunt
+| Spades | Subterfuge | Common Knowledge, Electronics, Hacking, Notice, Repair, Research, Stealth
+|===========================================================
+
+[[Complications]]
+===== Complications
+
+If you draw a club, compare the card value against the table below.
+
+[cols="^1,^2,5",options="header"]
+|===================================================
+| Card | Nature | Comments
+| 2 | Trap | They seemed to know that you were coming. But how did they know?
+| 3 | Recent change | A password, lock, or  combination was altered. What now?
+| 4 | Surveillance | The crew's activities has been noticed and monitored.
+| 5 | Unforeseen bystanders | These people were not supposed to be in the location at this time!
+| 6 | Rival crew | There's another crew pulling the same caper or watching the crew pull it off.
+| 7 | Unforeseen security | The guards were not supposed to be on duty at this location at this time. For some reason, the guard rotation changed.
+| 8 | Questionable cover identity | A crew members cover ID or disguise raises questions by someone at the target site. This could be a blown cover, where a crew member is recognized, or a coincidental case of mistaken identity.
+| 9 | Malfunction | A device vital to the heist acts up, glitches out, or breaks
+| 10 | Alarm systems upgraded | These systems are more advanced than your intel revealed.
+| Jack |  Illness or Injury | A crew member or ally is injured or taken out of the heist at a bad time.
+| Queen | Fire! | Grab an extinguisher. But this could be a useful distraction of you can play it right.
+| King | Unforeseen maintenance | Recent  construction work affects the layout or access/egress points of the location.
+| Ace | Bogies | Military, lawmen, or gangsters are active in the location for some reason at this time.
+|===================================================
+
+
+
+===== Barriers
+
+Barriers make a location difficult to access. Barriers are inanimate, unlike guards.
+Examples of barriers include
+
+* fence/wall
+* door/lock
+* moat
+
+Skill use examples:
+
+* Hacking (bypass monitoring system)
+* Electronics (disable security panel)
+* Thievery (forge an ID badge, copy a key, pick a lock)
+* Athletics (scale a wall)
+* Research or Networking (discover plans to the target location)
+* Repair (create a breach by using explosives)
+* Piloting or Driving (accessing or escaping from a hard to reach location)
+
+
+===== Guards
+
+Examples of guards include:
+
+* guard dogs
+* robotic sentries or drones
+* private security
+* protective staff (managers and supervisors, receptionists)
+* interested third parties (journalists)
+
+
+Examples of skills used to bypass guards include:
+
+* *Performance* and a convincing cover story or bogus identity
+* *Shooting* to take out a guard (lethal) or deliver a knockout drug/poison
+* *Survival* to distract or lure away a guard animal
+* *Athletics* to lob a knockout grenade in the right spot to incapacitate the guards
+* *Healing* to cook up a treat that will disable or distract the guards
+* *Common Knowledge* or *Research* to know the timing and details of guard shift changes
+* *Stealth* to sneak up on a guard and administer a sedative or a chloroform-like substance
+
+===== Subterfuge
+
+You need to get around or avoid security measures.
+
+Examples of skills for subterfuge elements of the heist include:
+
+* Persuasion (fast talking)
+* Stealth
+* Athletics
+* Electronics
+* Hacking
+* Repair

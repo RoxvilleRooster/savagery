@@ -1,0 +1,212 @@
+= Wealth mechanics
+Andy Hall <achall@gmail.com>
+v1.0, 2019-11-23
+:toc: right
+:experimental:
+:sectlinks:
+:sectanchors:
+
+== Wealth
+
+Go to
+
+By default, each character has d6 Wealth.
+Wealth is not a trait but behaves like one in some respects.
+Players can spend Bennies, roll the Wild Die, and benefit from Support rolls.
+
+Typically a setting's starting funds is $500; some settings start at $1000. The decision on the setting's starting funds relates to the <<table-value-penalty,value penalty table>>.
+
+=== Edges and hindrances
+
+* The Poverty hindrance decreases the Wealth die by 1 step.
+* The Rich edge increases the Wealth die by 1 step.
+** The Very Rich edge increases the Wealth die by 1 more step.
+* The Fame edge adds +1 to Wealth rolls.
+** The Famous edge adds another +1 to Wealth rolls.
+
+
+== Purchasing items
+
+The cost of the item inflicts a penalty (the _value penalty_) on the Wealth roll.
+
+[NOTE]
+The GM has the latitude to adjust prices listed in the books for various reasons just as he can determine <<availability,Availability of items>>.
+
+
+[[table-value-penalty]]
+.Value Penalty Table
+[%header,cols=3*]
+|===
+|Value Penalty
+|Cost ($500 Starting Funds)
+|Cost ($1000 Starting Funds)
+| –0
+| Up to $250
+| Up to $500
+| –1
+| Up to $500
+| Up to $1,000
+| –2
+| Up to $1,000
+| Up to $2,000
+| –3
+| Up to $2,000
+| Up to $5,000
+| –4
+| Up to $5,000
+| Up to $10,000
+| –5
+| Up to $10,000
+| Up to $20,000
+| –6
+| Up to $20,000
+| Up to $50,000
+| –7
+| Up to $50,000
+| Up to $100,000
+| –8
+| Up to $100,000
+| Up to $200,000
+| –9
+| Up to $200,000
+| Up to $500,000
+| –10
+| Up to $500,000
+| Up to $1,000,000
+| –11
+| Up to $1,000,000
+| Up to $2,000,000
+| –12
+| Up to $2,000,000
+| Up to $5,000,000
+|===
+
+=== Results of Wealth rolls
+
+[[table-wealth-roll-results]]
+[%header,format=csv]
+|===
+Wealth roll for purchase, Result
+Critical failure, Purchase fails but hero can tray again next week or when she gets 1 or more Rewards.
+Failure, Purchase fails and Wealth is not affected _OR_ purchase succeeds as if a Success were rolled but there are strings attached _OR_ purchase succeeds and the hero _goes broke_.
+Success, Purchase is successful but the character's Wealth die is temporarily reduced by 1 die step.
+Raise, Purchase is successful;  Wealth die is not reduced.
+|===
+
+=== Purchasing limit
+
+You cannot purchase an item that has a penalty greater than your wealth die. For example, if the hero has a d8 Wealth, she cannot try to purchase an item with a penalty of –9 or worse (that is, greater than $200,000 in value).
+[NOTE]
+You cannot use Savings, benefit from Support rolls, and benefit from any other bonuses
+to Wealth rolls to push a hero over the  purchasing limit.
+
+=== Purchasing with strings attached
+
+If the character fails the Wealth roll, the player and GM may jointly agree that it would be more interesting if the purchase succeeds.
+The purchase functions as if a Success were rolled but the character now owes something else to the seller that has no clear value.
+
+Examples of _strings attached_ include:
+
+* Run an errand
+* Guard something
+* Help me when I call
+* Keep a secret
+
+Of course, this could introduce an economy of favors that might need tracking. There is a setting rule for favors in the _Rippers Resurrected_ setting books.
+
+== Going broke
+
+If a hero's Wealth is reduced below d4,
+she’s broke. The hero as access to the basics (simple food, clean enough water, and passable shelter) unless the GM determines otherwise.
+
+The hero has no resources to purchase transportation, tasty foods, ammunition, or other typical supplies.
+
+== Support Rolls
+You can only Support another character's Wealth
+roll by making a Wealth roll yourself. You assume the same risks as the buyer (for example, on a Success, you lose a die type in Wealth).
+
+[NOTE]
+The rules are not clear as to whether you can Support another character's Wealth roll using an applicable skill. +
+For example, the GM can use his discretion and allow a character to  roll the Persuasion skill to Support another character's Wealth roll to purchase an item.
+If the supporting character succeeds, the supporter also loses a die type in Wealth.
+
+
+
+== Availability of items
+[[availability]]
+For items not available on the open market, you need to use the Research skill or do some  Networking (SWADE 133) to find it.
+The GM has the say whether the item is available and the GM can assign modifiers to the rolls to find the item.
+
+== Rewards
+
+Getting a Reward increases a character's Wealth die by one step.
+
+Wealth, Rewards, and cost of living are relative. A Reward increase typically  increase lasts only for a month of game. Thrifty heroes can put their Rewards into Savings.
+
+=== Determining Rewards
+
+What qualifies as a Reward?
+To determine the reward, consider the value of the payment (and its corresponding _value penalty_ from the table) and the hero's Wealth die
+
+* If no wealth roll would be needed to buy the Reward item/amount, it is not considered a Reward.
+* If the value of the payment would impose half a value penalty of at least half the hero's Wealth die. For example, in a setting where $500 is the starting funds, a $1000 reward imposes -2 value penalty. +
+For a hero with 4d Wealth, this Reward is worth 2 Reward points. +
+For a hero with d6 Wealth, this payment is only worth 1 Reward.
+* If the value of the payment would impose a value penalty that is greater than the hero's Wealth die, it is worth at least 3 Reward points.
+
+=== Savings
+
+A hero can bank her Rewards by exchanging each Reward into 1 point of Savings. Maximum Savings for a hero is 4.
+When the hero makes a Wealth roll, she can choose to apply point from Savings. Each point of Savings use in the Wealth roll adds +1 to the result. The Savings points used are removed regardless of whether the Wealth roll succeeds.
+
+== Gambling and Wealth
+
+This is the standard procedure for gambling:
+
+. Set the stakes (buy-in phase)
+.. Participants agree on the price (the ante).
+.. Each participant, assuming they want in on the action, makes Wealth roll (us). +
+Apply any applicable bonuses and penalties to the Wealth roll. +
+Observe the consequences of the Wealth  rolls.
+. Make Gambling rolls.
+.. Wild Cards who are participating make Gambling rolls.
+.. Make a "Group roll" for extras who are participating.
+. Compare the results.
+.. Compare the highest Gambling result with the lowest result. If the character with the highest result (the winner) scored a success on the Gambling skill, she restores her Wealth (her ante from the buy-in phase). If the winner gets a raise, her Wealth increases by 1 step.
+.. Compare the second highest Gambling result with the second lowest result. If the character with the second highest result (the winner of that comparison) scored a success on the Gambling skill, she restores her Wealth (her ante from the buy-in phase). If the winner also gets a raise, her Wealth increases by 1 step.
+.. If there is an odd person in the game, this character restores her Wealth (her ante from the buy-in phase) as if she scored a success against.
+
+//.. Refer to the rules for the Gambling skill:
+//****
+//The lowest total pays the highest total the difference times the stake. +
+//The next lowest pays the second highest the difference times the stake, and so on. +
+//If there's an odd man in the middle, he breaks even.
+//****
+
+.High stakes? Low stakes?
+****
+When you set the stakes, consider the Wealth penalty.
+
+. If the _value penalty_ of the ante is less than or equal to one less than half of the Character's Wealth die (that is, -1 for Wealth of d4, –2 for Wealth of d6, –3 for Wealth of d8, –4 for Wealth of d10, –5 for Wealth of d12), the character gets another step of Wealth on a success or raise.
+
+. If the _value penalty_ of the ante is equal to two less than half of the Character's Wealth die (that is, -2 for Wealth of d4, –4 for Wealth of d6, –6 for Wealth of d8, –8 for Wealth of d10, –10 for Wealth of d12), the character increases her winnings by two "steps" of Wealth.
+****
+
+=== Example of gambling
+
+In a quiet saloon, our hero, Tex McNutty, is  playing cards four other cowpokes (extras). Tex just got paid so his Wealth is d6. The buy-in for this game is $250. Tex makes a Wealth roll (with the -1 _value penalty_ applied) and gets a success; Tex's Wealth is temporarily reduced to d4. Tex then rolls his Gambling skill (d8), which is an 11 (a raise). A group roll (SWADE 89) is made for Gambling skill of the 4 cowpokes (assume d4 Gambling and roll a wild die). The cowpokes get a 5.
+
+Tex wins back his ante (+1 die step to return his Wealth to d6) and +1 Wealth for raise.
+
+The cowpokes lose their ante. They grumble some. Tex may not want to gloat; one of the cowpokes at the table is a bad sport and likely to call Tex a cheat.
+
+
+
+
+
+
+
+.Lifestyles
+****
+The _Expanded Wealth_ rules include more optional rules on Lifestyles. I have not factored these rules in yet.
+****

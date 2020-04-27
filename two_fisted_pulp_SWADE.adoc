@@ -1,0 +1,509 @@
+= Classic Two-Fisted Pulp Adventures Using _Savage Worlds Adventure Edition_
+Andy Hall <achall@gmail.com>
+v1.0, 2020-02-15
+:toc: left
+:toclevels: 4
+:experimental:
+:sectlinks:
+:sectanchors:
+
+****
+This is an attempt to take the setting rules from several older Savage Worlds products and adapt them to _Savage Worlds Adventure Edition_ (SWADE) games.
+
+This is an effort to make the scenarios of the  _Daring Tales of Adventure_ series more usable to SWADE game masters and players.
+
+In addition _Savage Worlds Adventure Edition_ (2018), this document references the following books:
+
+* _Daring Tales of Adventure: Pulp Rules_ (2008, Paul "Wiggy" Wade-Williams, Triple Ace Games)
+* _Daring Tales of Adventure: Rocket Rangers_ (2010, Paul "Wiggy" Wade-Williams, Triple Ace Games)
+* _Savage Worlds Pulp GM's Toolkit_ (2006, Paul "Wiggy" Wade-Williams, Pinnacle Entertainment)
+* _Thrilling Tales of Adventure_ (2009, Gareth-Michael Skarka et al., Adamant Entertainment)
+* _Realms of Cthulhu_ (2009, Sean Preston, Reality Blurs)
+* _The Eye of Kilquato: Savage Worlds Adventure Edition_ (2019, Shane Hensley, Pinnacle Entertainment)
+
+****
+
+== Heroes in the "Golden Age" of Pulp
+
+=== Acts and scenes
+
+Typically, a Daring Tales of Adventure scenario was divided into 3 or 4 acts; each act usually consists of 3 or 4 scenes.
+
+== Setting Rules
+
+Savage Worlds Adventure Edition has a number of setting rules that are perfect for running a two-fisted pulp game.
+
+* Conviction (SWADE p 136)
+* Creative Combat (SWADE p 137)
+* Fast Healing (SWADE p 139)
+* Multiple Languages (SWADE p 149)
+// * Wound Cap (SWADE p 141)
+* Dumb Luck (SWADE p 138)
+* Fanatics (SWADE p 138)
+* Heroes Never Die (SWADE p 140)
+* High Adventure (SWADE p 140)
+// Born a Hero (SWADE p 136)
+
+.Why not use the Wound Cap setting rule?
+****
+I thought of adding the Wound Cap setting rule (SWADE p 141) but I figured that, with Fast Healing, Dumb Luck, Heroes Never Die,  <<#injuries_are_temporary>>, and  <<#nonlethal_damage_to_heroes>>, the heroes were wearing enough bubble wrap. There has to be some danger.
+****
+
+The following rules and directions further tune the setting for a classic pulp action game.
+
+
+
+=== Bennies
+
+Before the start of every combat, each hero gets a benny, provided that the benny does not exceed the character's amount of bennies at the session's start. A typical wild card hero has 3 bennies at session start, unless the hero as edges or hindrances that affect starting bennies.
+
+==== Be the Hero
+
+The protagonists are heroes. Play them that way. If a protagonist commits an evil, villainous, or morally ambiguous act, they lose a benny. This benny loss reduces the protagonist's benny maximum until the start of the next session. For example, if the hero typically starts a session with 3 bennies, her benny limit would then be reduced to 2 for the duration of the session.
+[TIP]
+The game master should warn the player about this rule and the consequences of the action before the player's hero commits an ignoble deed.
+
+==== Soaking
+
+When a hero soaks all of the damage from an attack, she gets her benny back.
+
+==== Stunts
+// From Adamant Entertainment's "Thrilling Tales of Adventure"
+
+A stunt action is any action that is performed in a flashier than normal way.
+Any hero who attempts a stunt action deserves a benny.
+
+In game terms, a stunt is an action where the player purposefully makes the action more difficult for the hero. A stunt action always requires a trait roll, at a minimum -2 penalty. The GM is the final arbiter of the roll penalty of a particular stunt action.
+
+Conventional action::
+Getting on board an airship before it lifts off from the platform is an action
+
+Stunt action::
+Leaping from the sidecar of a speeding motorcycle onto an airship at the last second as it lifts off from the platform.
+
+=== Surrender
+
+When the heroes surrender at a dramatically fitting place in the story and go along with the demands of the antagonists, each heroes takes a benny.
+
+== Setting the Classic Pulp Tone
+
+=== Cinematic Death
+In a pulp game, death is not gory and messy.
+
+=== Contacts
+
+Once per adventure, one of the players can invent a Contact, who is a slightly helpful non-player character. A player may invent a Contact for his hero once per rank.
+A contact typically serves to provide gear,  information, or clues and leads when parties are struggling. The GM gets the final decision on what the Contact provides the heroes.
+
+////
+ === Henchmen
+
+An NPC henchman has three wounds like a wild card but, in all other respects, they are extras (that is, no wild die, no bennies for an non-player character wild card).
+
+////
+
+// === Heroic Combat
+
+////
+==== Damage by Extras
+
+The damage rolls of Extras do not ace.
+////
+
+
+[[nonlethal_damage_to_heroes]]
+=== Nonlethal Damage to Heroes
+
+All damage taken by heroes is treated as nonlethal. A hero can only die if a villain performs a Finishing Move (SWADE p 101).
+
+////
+==== Fast healing
+
+Heroes recover 1 wound at the start of an "Act". See <<_acts_and_scenes>>.
+////
+
+[[injuries_are_temporary]]
+=== Injuries are Temporary
+
+Heroes do not suffer a permanent injury. When the wounds from the injury heals, the hero no longer suffers the effect of the injury.
+
+=== Never-Ending Ammo
+
+At the end of the scene, heroes recover all spent ammunition.
+// At the end of the scene, heroes recover all spent Power Points.
+
+=== Pulp Fisted
+
+Heroes never suffer the Unarmed Defender penalty (SWADE p 109).
+
+////
+=== Recurring villains
+
+All of the villains that the GM wants to return in a sequel are treated as having the Harder to Kill edge (SWADE p 42) but with a 100% chance of survival.
+
+The GM can also spend a benny to guarantee a villain's escape. The escaping villain ignores all die rolls and action limits. He cannot perform actions that he is normally incapable of taking and he cannot attack. Heroes who are on hold cannot interrupt the escape.
+
+[WARNING]
+The "Recurring villains" setting rules are a bit _too_ much. Do not get too committed to the survival of a villain. Make some allowance for the heroes to kill them off.
+////
+
+=== Police Interference
+
+The cops do not turn up on the scene until after the action has ended.
+
+
+
+
+== Creating Heroes
+
+=== Motivations
+
+Suggested motivations:
+
+* Money
+* Higher purpose (e.g., preserve, protect)
+* Adventure and thrills
+* Reputation, glory, and fame
+* Professional rivalry
+* Redemption
+
+
+=== Archetypes
+
+The archetypes below are suggestions and do not specify dice values.
+
+.Improved edges
+****
+For simplicity's sake, I do not list the _improved_ version of an edge. For example, when I list the Luck edge, I do not list the Great Luck edge. Take the improved version of the edge later, when the character advances.
+****
+
+==== Actor
+
+Suggested Skills::
+Athletics, Fighting, Intimidation, Performance, Persuasion, Riding, Taunt
+Suggested Edges::
+Attractive, Charismatic, Connections, Elan, Fame, Rich, Work the Room
+Suggested Hindrances::
+Arrogant, Big Mouth, Habit, Think Skinned, Stubborn
+
+==== Archaeologist
+
+Suggested Skills::
+Academics, Athletics, Notice, Repair, Research, Stealth, Survival
+Suggested Edges::
+Investigator, Scholar, Danger Sense, Dodge, Luck
+Suggested Hindrances::
+Code of Honor, Heroic, Bad Luck, Curious, Greedy, Phobia
+
+==== Big Game Hunter
+
+Suggested Skills::
+Athletics, Fighting, Notice, Riding, Shooting, Stealth, Survival
+Suggested Edges::
+Alertness, Danger Sense, Dead Shot, Giant Killer, Marksman, No Mercy, Steady Hands, Trademark Weapon, Woodsman.
+Suggested Hindrances::
+Arrogant, Bloodthirsty, Greedy
+
+==== Dilettante
+
+Suggested Skills::
+Athletics, Driving, Gambling, Performance, Persuasion, Riding, Shooting, Taunt
+Suggested Edges::
+Aristocrat, Fame, Rich
+Suggested Hindrances::
+All Thumbs, Arrogant, Clueless, Code of Honor, Impulsive, Obligation, Overconfident, Secret, Shamed, Think Skinned, Vengeful
+
+==== Explorer
+
+Suggested Skills::
+Academics, Athletics, Healing, Notice, Research, Riding, Science, Survival
+Suggested Edges::
+Brave, Scholar, Strong Willed, Woodsman
+Suggested Hindrances::
+Bad Luck, Code of Honor, Curious, Driven, Stubborn
+////
+==== Fortune hunter
+
+Suggested Skills::
+Research, Academics, Thievery, Notice, Survival
+Suggested Edges::
+Investigator, Scholar
+Suggested Hindrances::
+Bad Luck, Curious, Greedy, Phobia
+////
+==== G-Man
+
+Suggested Skills::
+Common Knowledge, Driving, Fighting, Intimidation, Notice, Research, Persuasion, Shooting
+Suggested Edges::
+Alertness, Combat Reflexes, Command, Connections, Dodge, Investigator, Strong Willed
+Suggested Hindrances::
+Code of Honor, Loyal, Mean, Obligation, Overconfident
+
+
+==== Jungle Man
+
+Suggested Skills::
+Athletics, Fighting, Healing, Notice, Survival, Stealth
+Suggested Edges::
+Acrobat, Alertness, Beast Bond, Beast Master, Brawny, Danger Sense, Fleet-Footed, Free Runner, Giant Killer, Iron Jaw, Woodsman
+Suggested Hindrances::
+All Thumbs, Clueless, Curious, Heroic, Illiterate, Outsider
+
+
+
+==== Mad Scientist
+
+Suggested Skills::
+Academics, _Gadgetry_, Research, Repair, Science, Weird Science,
+Suggested Edges::
+Arcane Background (Weird Science), Gadgeteer, McGyver, Mr. Fix It, Rich
+Suggested Hindrances::
+Curious, Delusional, Doubting Thomas, Outsider, Overconfident
+
+////
+==== Man of Mystery
+
+Suggested Skills::
+text
+Suggested Edges::
+text
+Suggested Hindrances::
+text
+////
+
+==== Martial Artist
+
+Suggested Skills::
+Athletics, Fighting, Intimidation, Stealth
+Suggested Edges::
+Acrobat, Ambidextrous, Block, Chi, First Strike, Frenzy, Martial Artist
+Suggested Hindrances::
+Driven, Heroic, Loyal, Outsider, Pacifist, Vow
+
+////
+==== Mesmerist
+
+Suggested Skills::
+Intimidation, Notice, Performance, Persuasion, Psionics.
+Suggested Edges::
+Arcane Background (Psionics), Arcane Resistance (Psionics), Danger Sense, Mentalist, Soul Drain, Strong Willed
+Suggested Hindrances::
+Cautious, Pacifist
+////
+
+==== Pilot
+
+Suggested Skills::
+Piloting, Repair, Shooting
+Suggested Edges::
+Ace, Dead Shot, Level-Headed, Quick, Steady Hands,
+Suggested Hindrances::
+Arrogant, Code of Honor, Enemy, Outsider, Overconfident
+
+
+==== Private Detective
+
+Suggested Skills::
+Research, Stealth, Notice, Persuasion, Performance, Taunt
+Suggested Edges::
+Alertness, Connections, Investigator, Streetwise
+Suggested Hindrances::
+Code of Honor, Curious
+
+==== Prizefighter
+
+Suggested Skills::
+Athletics, Fighting, Intimidation
+Suggested Edges::
+Ambidextrous, Block, Brawler, Brawny, Bruiser, Brute, Combat Reflexes, Counterattack, Fame, First Strike, Frenzy, Iron Jaw, Martial Artist, Quick, Strong Willed, Sweep, Two Fisted
+Suggested Hindrances::
+Arrogant, Driven, Heroic, Illiterate, Loyal, Menacing, Overconfident, Ruthless, Ugly
+
+
+==== Punk Kid
+
+Suggested Skills::
+Athletics, Notice, Persuasion, Repair, Stealth, Taunt
+Suggested Edges::
+Alertness, Acrobat, Dodge, Extraction, Fleet Footed, Humiliate, Luck, Provoke, Quick, Retort, Scavenger, Strong Willed,
+Suggested Hindrances::
+Big Mouth, Curious, Loyal, Young
+
+
+==== Reformed Criminal
+
+Suggested Skills::
+Athletics, Fighting, Gambling, Intimidation, Notice, Persuasion, Shooting, Stealth, Taunt, Thievery
+Suggested Edges::
+Acrobat, Assassin, Calculating, Connections, Dodge, Free Runner, Level Headed, Menacing, Rock and Roll, Streetwise, Thief
+Suggested Hindrances::
+Code of Honor, Enemy, Greedy, Habit, Heroic, Mean, Ruthless, Secret, Shamed, Suspicious, Ugly, Vow, Wanted
+
+==== Reporter
+
+Suggested Skills::
+Academics, Athletics, Notice, Persuasion, Research, Stealth, Taunt, Thievery
+Suggested Edges::
+Alertness, Attractive, Calculating, Connections, Investigator, Luck, Streetwise, Strong Willed
+Suggested Hindrances::
+Curious, Doubting Thomas, Driven, Habit, Suspicious
+
+==== Rocketeer
+
+Suggested Skills::
+Athletics, Fighting, Intimidation, Piloting, Shooting, Stealth
+Suggested Edges::
+Ace, Combat Reflexes, Dodge, Level Headed, Rock 'n' Roll, Steady Hands
+Suggested Hindrances::
+Code of Honor, Heroic, Loyal, Overconfident
+
+==== Soldier of Fortune
+
+Suggested Skills::
+Athletics, Battle, Fighting, Intimidation, Notice, Riding, Shooting, Stealth
+Suggested Edges::
+Enlisted;;
+Combat Reflexes, Dodge, Marksman, Rock and Roll, Soldier, Steady Hands
+Officer;;
+Command, Command Presence, Hold the Line, Inspire, Natural Leader, Tactician
+Suggested Hindrances::
+Greedy, Loyal
+
+==== Star Athlete
+
+Suggested Skills::
+Athletics, Fighting, Intimidation, Performance, Riding, Taunt
+Suggested Edges::
+Acrobat, Attractive, Brawny, Brute, Elan, Fame, Fleet Footed, Free Runner, Level Headed, Quick
+Bolster, Common Bond, Provoke, Reliable, Strong Willed
+Suggested Hindrances::
+Arrogant, Driven, Heroic, Ruthless, Thin Skinned, Young
+
+////
+==== Archetype name 1
+
+Suggested Skills::
+text
+Suggested Edges::
+text
+Suggested Hindrances::
+text
+////
+
+
+=== Races
+Heroes are humans.
+
+=== Skills
+
+==== Changed Skills
+
+* Electronics is reskinned as Gadgetry
+
+==== Removed Skills
+
+* Hacking
+* Focus, applies to the Arcane Background (Gifted)
+* Faith, applies to the Arcane Background (Miracles)
+* Language (see the Multiple Languages setting rules in SWADE p 149)
+//* Psionics, applies to the Arcane Background (Psionics)
+* Spellcasting, applies to the Arcane Background (Magic)
+
+=== Edges
+
+==== Changed Edges
+
+New Powers (SWADE p 47)::
+//An arcane character may learn two new powers by choosing this Edge (which may be taken multiple times). He may choose from any powers of his Rank or lower normally available to his particular Arcane Background.
+//A character can add a new Trapping on a power she already has instead of gaining a new one. She might add an ice Trapping to her existing fire bolt, for example, so she could switch between ice and fire Trappings freely.
+The weird scientist may learn one new power by choosing this Edge (which may be taken multiple times). She may choose from any powers of her Rank or lower that are normally available to Arcane Background (Weird Science).
+This character can also add a new Trapping on a power she already has instead of gaining a new one. For example, she might add an electrical Trapping to her existing freeze bolt, for example, so she could switch between shock and cold Trappings.
+
+
+==== Removed Edges
+
+* Linguist (as per the Multiple Languages setting rules in SWADE p 149)
+* See <<_arcane_backgrounds>> for other unavailable edges
+// * Arcane Resistance (SWADE p 37) and Improved Arcane Resistance
+// * Giant Killer (SWADE p 42)
+
+==== Arcane Backgrounds
+
+Only the Weird Science arcane background is available for heroes. Edges that are associated with unavailable arcane backgrounds are not available to heroes.
+
+.Why No Psionics?
+****
+I do not think heroes control the minds of others, wipe others' memories, and project mental blasts. Let's focus on fists, bullets, and car chases and leave the superhuman and supernatural stuff to the big villains.
+****
+
+The unavailable edges are:
+
+** Extra Effort (SWADE p 46)
+** Holy/Unholy Warrior (SWADE p 46)
+** Mentalist (SWADE p 46)
+** Wizard (SWADE p 47)
+
+.Men of Mystery and Street-Level Superheroes
+****
+We would likely build heroes such as the _The Shadow_ and _Doc Savage_  using **Arcane Background - Gifted**. Here we are focusing on a low-powered, classic pulp adventure game _a la_ the Indiana Jones movies or the Mummy series.
+****
+
+
+////
+The following arcane backgrounds are allowed for villains:
+
+* Weird science
+* Psionics
+* Magic
+////
+
+=== Hindrances
+
+Cocky (minor)::
+The character is a braggart and will typically spend the first round of any combat announcing how great he is, or what he's going to do to any and all opponents.
+****
+Cocky is like a minor version of the Overconfident (major) hindrance (SWADE p 26). This could easily be considered as a trapping of the hindrance Quirk (minor).
+****
+
+
+=== Powers
+
+Fly (SWADE p 162)::
+For heroes with the Arcane Background (Weird Science) edge, Fly is available at Novice rank.
+
+
+== Chases
+
+There are at least three chases per _Darting Tales of Adventure_ scenario; the _Daring Tales_ chases used different rules from those specified in the _Savage Worlds Deluxe Explorers' Edition_ rules and they are also markedly different from the
+_Savage Worlds Adventure Edition_ chase rules.
+
+Wiggy wrote some excellent set piece chase actin scenes.
+If you can use these chases with minimal change, I suggest doing so. Some minor changes are needed. For example, if the chase calls for an Agility trait roll to maneuver, you will most likely want to call for the Athletics skill.
+
+There will be cases where you may want to use a Quick Encounter to handle a chase scene. For example, you may want to keep the pace of the game going and move on to the next scene before the session ends.
+
+=== Obstacles and Complications
+
+As per the rules, if the action card that is dealt to a character at the start of a chase round (SWADE p 114) is a club, there's a problems of some kind;  the hero needs to make a maneuvering roll.
+
+In standard chases, you check the chase card suit against the Complications table to determine the mechanical effect of the complication and the hero makes a maneuvering roll (SWADE p 116).
+
+In many of the set-piece chases in _Daring Tales of Adventure_ scenarios, when the action card is a club, the GM refers to the Obstacles listed for the scene, looking up the card value to determine what's next.footnote:[See "Daring Tales of Adventure - The Devil's Chalice",  Act 1, Scene 2.] The obstacle descriptions provide useful narrative color, indicate the maneuvering penalty, and state what happens if the maneuvering roll fails.
+
+In some _Daring Tales of Adventure_ chase scenes, the obstacles and events of a chase are fixed beforehand; the heroes are running a gauntlet.footnote:[See "Daring Tales of Adventure - The Talons of Lo-Peng",  Act 2, Scene 3.]
+
+At the fixed event points (called increments) in the chase, stuff happens when the heroes reach that increment, no matter if they pass that stage or not.
+If the scene defines 20 increments, lay down 20 chase cards. Use some kind of counter to mark the increments on which fixed events occur.
+
+
+
+
+
+
+
+////
+=== Success with a cost
+
+If you roll a 1 on your skill die but your wild die is successful, the result is still considered a success, but there is a negative effect or compromise (e.g., your weapon becomes entangled in an enemy's armor). The player can describe what the negative effect looks like.
+////

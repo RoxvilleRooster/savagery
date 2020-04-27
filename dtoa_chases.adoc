@@ -1,0 +1,139 @@
+= Daring Tales of Adventure Chases
+Andy Hall <achall@gmail.com>
+v1.0, 2020-02-17
+:toc: left
+:toclevels: 4
+:experimental:
+:sectlinks:
+:sectanchors:
+
+***
+
+== Adventures and Chases
+.Chases
+[%header,cols="3,1,1,2,3"]
+|===
+|Adventure | Act | Scene | Maneuvering | Chase Type
+
+| The Tale Of The Fabulous Four | 1 | 2 | Athletics | Chase with obstacles
+| The Tale Of The Fabulous Four | 2 | 2 | Athletics | Standard chase
+| The Tale Of The Fabulous Four | 3 | 2 | Athletics | Standard chase with obstacles (variation)
+| The Tale Of The Fabulous Four | 4 | 2 | Athletics | Standard chase with obstacles (variation)
+|  Rocket Nazis On The Orient Express  | 1 | 2 | Driving |  Chase with obstacles
+|  Rocket Nazis On The Orient Express  | 2 | 4 | Piloting |  Chase with obstacles
+|  Rocket Nazis On The Orient Express  | 3 | 1 | Athletics |  Chase with fixed encounters
+|  Rocket Nazis On The Orient Express  | 4 | 2 | Piloting |  Standard chase
+| To End All Wars | 1 | 2 | Driving | Chase with obstacles
+| Chaos On Crete | 4 | 1 | Boating | Standard chase
+| Web Of The Spider Cult | 1 | 3 | Athletics | Chase with obstacles
+| Web Of The Spider Cult | 2 | 2 | Boating | Chase with fixed encounters
+| Treasure Of The Templars | 1 | 1 | Driving | Chase with obstacles
+| Treasure Of The Templars | 3 | 4 | Piloting  | Standard chase
+| The Talons Of Lo Peng | 2 | 3 | Driving  | Chase with fixed encounters
+| The Talons Of Lo Peng | 3 | 2 | Athletics | Chase with obstacles
+| Sky Pirates Of The Caribbean | 3 | 3 | Athletics | Standard chase
+| Sky Pirates Of The Caribbean | 4 | 1 | Piloting  | Chase with fixed encounters
+| The Palladium Peril | 1 | 1 | Driving | Chase with obstacles
+| The Palladium Peril | 2 | 2 | Driving | Chase with obstacles
+| The Palladium Peril | 3 | 3 | Driving | Chase with fixed encounters
+| The Twelfth Gate | 1 | 2 | Athletics | Chase with obstacles
+| The Twelfth Gate | 3 | 3 | Driving | Standard chase
+| Terror Of The Z Bomb | 1 | 2 | Driving | Chase with obstacles (variation)
+| Terror Of The Z Bomb | 2 | 4 | Athletics | Chase with obstacles (variation)
+| Terror Of The Z Bomb | 3 | 2 | Driving | Chase with obstacles
+| Terror Of The Z Bomb | 3 | 4 | Piloting | Standard chase
+| Terror Of The Z Bomb | 4 | 2 | Athletics | Chase with obstacles
+| Island Of Terror | 1 | 1 | Driving | Standard chase
+| Island Of Terror | 1 | 3 | Athletics | Chase with obstacles
+| Kingdom Of The Blood Gods | 1 | 1 | Driving | Standard chase
+| Kingdom Of The Blood Gods | 2 | 1 | Boating | Chase with obstacles (variation)
+| Kingdom Of The Blood Gods | 2 | 5 | Athletics | Standard chase
+| Kingdom Of The Blood Gods | 3 | 3 | Athletics | Chase with obstacles
+| The Hands Of Kali | 1 | 4 | Athletics | Chase with obstacles
+| The Hands Of Kali | 3 | 3 | Driving | Chase with obstacles
+| The Hands Of Kali | 3 | 4 | Driving | Standard chase
+| Legacy Of Tunguska | 1 | 1 | Driving | Chase with obstacles
+| Legacy Of Tunguska | 2 | 1 | Driving | Chase with obstacles
+| Legacy Of Tunguska | 2 | 3 | Driving | Standard chase
+| Legacy Of Tunguska | 3 | 1 | Piloting | Standard chase
+| Legacy Of Tunguska | 3 | 3 | Driving | Standard chase
+| Legacy Of Tunguska | 4 | 1 | Athletics | Standard chase
+| Legacy Of Tunguska | 4 | 2 | Piloting | Standard chase
+| The Devil's Chalice | 1 | 2 | Driving | Chase with obstacles
+| The Devil's Chalice | 3 | 2 | Driving | Standard chase
+| The Sword of Avalon | 1 | 2 | Athletics | Standard chase
+| The Sword of Avalon | 2 | 1 | Boating | Chase with obstacles (variation)
+| The Sword of Avalon | 2 | 3 | Athletics | Chase with fixed encounters
+| The Sword of Avalon | 3 | 3 | Driving | Standard chase
+| The Muramasa Curse | 1 | 3 | Athletics | Chase with obstacles
+| The Muramasa Curse | 2 | 2 | Athletics | Chase with fixed encounters _and_ obstacles
+| The Muramasa Curse | 2 | 3 | Driving | Chase with obstacles
+| The Muramasa Curse | 4 | 3 | Athletics | Chase with obstacles (variation)
+| Empire of the Black Pharaoh | 1 | 4 | Driving | Chase with obstacles
+|===
+
+
+.Scenarios for Daring Tales of Adventure
+[%header,cols="3,2,1,1"]
+|===
+| Scenario Name | Book | Order in Compendium | Chronological Order
+| The Tale Of The Fabulous Four | N/A | Not in compendium | 1
+| Rocket Nazis On The Orient Express | N/A | Not in compendium | 2
+| To End All Wars | Compendium 1 | 1 | 3
+| Chaos On Crete | Compendium 1 | 2 | 4
+| Web Of The Spider Cult | Compendium 1 | 3 | 5
+| Treasure Of The Templars | Compendium 1 | 4 | 6
+| The Talons Of Lo Peng | Compendium 1 | 5 | 7
+| Sky Pirates Of The Caribbean | Compendium 2 | 1 | 8
+| The Palladium Peril | Compendium 2 | 2 | 9
+| The Twelfth Gate | Compendium 2 | 3 | 10
+| Terror Of The Z Bomb | Compendium 2 | 4 | 11
+| Island Of Terror | Compendium 3 | 1 | 12
+| Kingdom Of The Blood Gods | Compendium 3 | 2 | 13
+| The Hands Of Kali | Compendium 3 | 3 | 14
+| Legacy Of Tunguska | Compendium 3 | 4 | 15
+| The Devil's Chalice | Compendium 4 | 1 | 16
+| The Sword of Avalon | Compendium 4 | 2 | 17
+| The Muramasa Curse | Compendium 4 | 3 | 18
+| Empire of the Black Pharaoh | Compendium 4 | 4 | 19
+|===
+
+== To End All Wars
+=== 1.2
+
+== Chaos On Crete
+=== 1.4
+
+////
+
+== Web Of The Spider Cult
+
+== Treasure Of The Templars
+
+== The Talons Of Lo Peng
+
+== Sky Pirates Of The Caribbean
+
+== The Palladium Peril
+
+== The Twelfth Gate
+
+== Terror Of The Z Bomb
+
+== Island Of Terror
+
+== Kingdom Of The Blood Gods
+
+== The Hands Of Kali
+
+== Legacy Of Tunguska
+
+== The Devil's Chalice
+
+== The Sword of Avalon
+
+== The Muramasa Curse
+
+==  Empire of the Black Pharaoh
+
+////

@@ -1,0 +1,1039 @@
+= SWADE Gear Master List
+:toc:
+
+== Common gear
+
+.Common Gear
+[cols="45%,10%,10%,30%",options="header"]
+|===
+| Item | Cost | Weight | Notes
+4+| *ANIMALS & TACK*
+| Horse | 300 | — |
+| War Horse | 750 | — |
+| Saddle | 10 | 10 |
+| Elaborate Saddle | 50 | 10 |
+4+| *ADVENTURING GEAR*
+| Backpack | 50 | 2 |
+| Bedroll (sleeping bag; winterized) | 25 | 4 |
+| Blanket | 10 | 4 |
+| Camera (disposable) | 10 | 1 |
+| Camera (regular) | 75 | 2 |
+| Camera (digital) | 300 | 1 |
+| Candle (one hour, 2″ radius) | 1 | 1 |
+| Canteen (waterskin) | 5 | 1 |
+| Crowbar | 10 | 2 |
+| First Aid Kit | 10 | 1 | Three uses, see Healing on SWADE p 96.
+| Flashlight (10″ beam) | 20 | 3 |
+| Flask (ceramic) | 5 | 1 |
+| Flint and Steel | 3 | 1 |
+| Goggles | 20 | 1 |
+| Grappling Hook | 100 | 2 |
+| Hammer | 10 | 1 |
+| Handcuffs (manacles) | 15 | 2 |
+| Lantern (4 hours, 4″ radius) | 25 | 3 |
+| Lighter | 2 | — |
+| Lockpicks | 200 | 1 |
+| Medic Kit | 100 | 4 | Five uses, +1 to Healing skill rolls; $25 to refill.
+| Oil (for lantern; one pint) | 2 | 1 |
+| Quiver (holds 20 arrows/bolts) | 25 | 2 |
+| Rope, hemp (10″/20 yards) | 10 | 15 |
+| Rope, nylon (10″/20 yards) | 10 | 3 |
+| Shovel | 5 | 5 |
+| Soap | 1 | 0.2 |
+| Tool Kit | 200 | 5 |
+| Torch (one hour, 4″ radius) | 5 | 1 |
+| Umbrella | 5 | 2 |
+| Whistle | 2 | — |
+| Whetstone | 5 | 1 |
+
+4+| *CLOTHING*
+| Boots, Hiking | 100 | 2 |
+| Camouflage Fatigues | 20 | 3 |
+| Clothing, Casual | 20 | 2 |
+| Clothing, Formal | 200 | 3 |
+| Winter Gear (cloak/parka) | 200 | 3 |
+| Winter Boots | 100 | 1 |
+4+| *COMPUTERS & ELECTRONICS*
+| Desktop | 800 | 20 |
+| GPS | 250 | 1 |
+| Hand held | 250 | 1 |
+| Laptop | 1,200 | 5 |
+4+| *FIREARMS ACCESSORIES*
+| Bipod/Tripod | 100 | 2 | Takes an action to deploy. +
+Negates Recoil and Min Str penalties.
+| Laser/Red Dot Sight | 150 | 1 | +1 to Shooting at Short and Medium Range.
+| Rifle Scope | 100 | 2 | Cancels 2 additional points of penalties when Aiming, SWADR p 97.
+4+| *FOOD*
+| Fast Food Meal | 8 | 1 |
+| Good Meal (restaurant) | 15+ | — |
+| MRE (Meal Ready to Eat) | 10 | 1 |
+| Trail Rations | 10 | 5 | 5 meals; keeps one week.
+
+4+| *PERSONAL DEFENSE*
+| Pepper Spray | 15 | 0.5 | Use Shooting (or Fighting if engaged).
+No Range penalty but max range is 2″ (about 10 feet), Shots 5, +
+victim must make Vigor roll at –2 or be Stunned (SWADE p 106).
+| Stun Gun | 25 | 0.5 | Uses Shooting. +
+Range 1/2/4. Shots 3 before needing to be recharged for at least two hours. +
+Victims must make a Vigor roll at –2 or be Stunned.
+4+| *SURVEILLANCE*
+| “Bug” (Micro Transmitter) | 30 | — | 12 hours of continuous use.
+| Button Camera | 50 | — | 12 hours of continuous use.
+| Cellular Interceptor | 650 | 5 |
+| Lineman’s Telephone | 150 | 2 | Repair roll to tap into a phone line.
+| Night Vision Goggles | 500 | 3 | No penalty for Dim or Dark Illumination (see SWADE p 102). +
+For double the price the goggles are “active” and ignore all Illumination penalties.
+| Parabolic Microphone | 750 | 4 | Hear whispers up to 200 yards distant.
+| Telephone Tap | 250 | — |
+| Transmitter Detector | 525 | 1 |
+|===
+
+== Ammo
+
+.Ammo
+[cols="45%,10%,10%,30%",options="header"]
+|===
+| Ammo | Cost | Weight | Notes
+| Arrows/Bolts | 1/2 arrows | 1 lbs/5 arrows |  Arrows for bows, bolts for crossbows
+4+|  Bullets
+| Small | 10/50 rounds | 1 lbs/50 | .22 to .32 caliber
+| Medium | 20/50 rounds | 2 lbs/50 | 9mm to .45 caliber
+| Large | 50/50 rounds | 15 lbs/50 | .50 caliber and larger rounds
+4+| Laser Batteries
+| Pistol | 20 | 0.25 .3+| Provides one full magazine for the listed weapon
+| Rifle, SMG | 20 |0.5
+| Gatling | 50 | 4
+| Shot (w/powder) | 1/10 shots | 0.5 lbs/10 | For black powder weapons
+4+| Shotgun
+| Shells | 15/25 | 1.5 lbs/25 | Standard buckshot
+| Slugs | 20/25 | 1.5 lbs/25 | See SWADE p 105.
+| Sling stones | 2/20 stones | 1 lbs/20 | —
+
+
+|===
+
+== Armor
+
+=== Pre-modern armor
+
+Armor is written in parentheses next to a character’s Toughness, like this: 11 (2). This means
+2 points of the character’s 11 Toughness comes from Armor. An Armor Piercing attack can
+bypass those 2 points but not the other 9.
+
+Note that greaves (leg guards) and vambraces (arm guards) are listed as pairs. Halve the
+weight and cost if a character wears only half the set (Minimum Strength doesn’t change).
+
+.MEDIEVAL & ANCIENT ARMOR
+[cols="20%,15%,10%,15%,10%,30% ",options="header"]
+|===
+| Item | Armor | Min Str | Weight | Cost | Notes
+6+| *CLOTH/LIGHT LEATHER*
+6+| Heavy winter clothing, supple leather armor, soft hides.
+| Jacket (torso, arms) | +1 | d4 | 5 | 20 |
+| Robes (torso, arms, legs) | +1 | d4 | 8 | 30 |
+| Leggings (legs) | +1 | d4 | 5 | 20 |
+| Cap (head) | +1 | d4 | 1 | 5 |
+6+| *THICK LEATHER/TOUGH HIDES*
+6+| Boiled leather, cuir bouilli, alligator hides.
+| Jacket (torso, arms) | +2 | d6 | 8 | 80 |
+| Leggings (legs) | +2 | d6 | 7 | 40 |
+| Cap (head) | +2 | d6 | 1 | 20 |
+6+| *CHAIN MAIL*
+6+| Chain, splint, metal scale, ring mail, samurai armor.
+| Shirt (torso, arms) | +3 | d8 | 25 | 300 |
+| Leggings (legs) | +3 | d8 | 10 | 150 |
+| Chain Hood or Helm (head) | +3 | d8 | 4 | 25 |
+6+| *BRONZE ARMOR (PRE-IRON AGE SETTINGS)*
+6+| Typically only found in ancient times or pre-iron civilizations.
+| Bronze Barding (horse) | +3 | d10 | 50 | 1,500 |
+| Bronze Corselet (torso) | +3 | d8 | 13 | 80 |
+| Vambraces (arms) | +3 | d8 | 5 | 40 |
+| Greaves (legs) | +3 | d8 | 6 | 50 |
+| Bronze Helmet (head) | +3 | d8 | 6 | 25 |
+6+| *PLATE MAIL*
+6+| Heavy steel armor made with “plates” of metal.
+| Plate Barding (horse) | +4 | d10 | 50 | 1,500 |
+| Corselet (torso) | +4 | d10 | 30 | 500 |
+| Vambraces (arms) | +4 | d10 | 10 | 200 |
+| Greaves (legs) | +4 | d10 | 10 | 200 |
+| Heavy Helm (head) | +4 | d10 | 4 | 100 |
+| Heavy Helm, Enclosed (head) | +4 | d10 | 8 | 200 |
+
+|===
+
+
+=== Modern armor
+
+
+Ballistic Protection::
+Armor marked with an asterisk reduces the damage from bullets by 4. “Bullets” includes
+physical shot fired from a firearm.
+
+Apply AP only to the item’s actual Armor value.
+
+.MODERN ARMOR
+[cols="20%,15%,10%,15%,10%,30% ",options="header"]
+|===
+| Item | Armor | Min Str | Weight | Cost | Notes
+6+| *CLOTH\LEATHER*
+6+| Heavy winter clothing, leather jacket or pants, chaps.
+| Thick Coat, Leather Jacket (torso, arms) | +1 | d4 | 5 | 100 |
+| Leather Riding Chaps (legs) | +1 | d4 | 5 | 70 |
+| Kevlar Riding Jacket (torso, arms) | +2 | d4 | 8 | 350 |
+| Kevlar Riding Jeans (legs) | +2 | d4 | 4 | 175 |
+| Bike helmet (head) | +2 | d4 | 1 | 50 |
+| Motorcycle Helmet (head) | +3 | d4 | 3 | 100 |
+6+| *BODY ARMOR*
+6+| Flak jackets, bulletproof vests, body armor, and bombproof suits.
+| Flak Jacket (Vietnam-era, torso) | +2 | d6 | 10 | 40 |
+| Kevlar Vest (torso) | +2* | d6 | 5 | 200 |
+| Kevlar Vest with ceramic inserts (torso) | +4* | d8 | 17 | 500 |
+| Kevlar helmet (head) | +4* | d4 | 5 | 80 |
+| Bombproof Suit (entire body) | +10 | d12 | 80 | 25K |
+Bombproof suits aren’t built for flexibility except in the hands, which are uncovered. Agility
+and related skills that require more than manual dexterity cannot exceed d6 while wearing the
+suit, and Pace is reduced by 2 (in addition to Minimum Strength penalties).
+|===
+
+
+
+=== Futuristic armor
+
+.Futuristic Armor
+[cols="20%,15%,10%,15%,10%,30% ",options="header"]
+|===
+| Item | Armor | Min Str | Weight | Cost | Notes
+6+| *LIGHT/CIVILIAN ARMOR*
+6+a|
+Energy Skin::
+Any armor listed below may be treated with an “energy skin” (or skein) to diffuse energy, reducing
+damage from lasers by 4. This costs 50% of the armor treated and is very shiny, subtracting 2 from Stealth
+rolls based on vision.
+| Body Armor (torso, arms, legs) | +4* | d4 | 4 | 200 | Light, armored clothing made from complex polymers or advanced ballistic weave.
+6+| *MILITARY ARMOR*
+6+| Armor used by private or state armed forces.
+| Infantry Battle Suit (torso, arms, legs) | +6* | d6 | 12 | 800 | A full suit of armor with boots and gloves.
+| Battle Helmet (head, full face) | +6* |  d6 |  2 |  100 |
+|===
+
+=== Shields
+
+Shields add to a character’s Parry as shown below. Cover subtracts from ranged attacks from the front and
+shielded side (attacks from the rear or unprotected side ignore cover).
+
+Medieval shields are Hardness 10 and provide +2 armor should someone attempt to shoot through them
+(see "Obstacles" on SWADE p 99).
+
+Modern shields are Hardness 12 and also provide +2 Armor. Polymer shields
+are Hardness 10 and provide Armor +4.
+
+While worn, shields can be used to bash for Str+d4 damage.
+
+.Ancient & Medieval Shields
+[cols="20%,15%,15%,15%,10%,10%,25% ",options="header"]
+|===
+| Type | Parry | Cover | Min Str | Weight | Cost | Notes
+| Small | +1 | — | d4 | 4 | 50 |
+| Medium | +2 | −2 | d6 | 8 | 100 |
+| Large |  +3 |  −4 |  d8 |  12 | 200 |
+|===
+
+.Modern Shields
+[cols="20%,15%,15%,15%,10%,10%,25% ",options="header"]
+|===
+| Type | Parry | Cover | Min Str | Weight | Cost | Notes
+| Riot Shield |  +3 | −4 | d4 | 5 | 80 |
+| Ballistic Shield | +3 | −4 | d6 | 9 | 250 |
+Reduces damage from firearms by 4 when an attacker tries to shoot through it.
+|===
+
+
+.Futuristic Shield
+[cols="20%,15%,15%,15%,10%,10%,25% ",options="header"]
+|===
+| Type | Parry | Cover | Min Str | Weight | Cost | Notes
+| Polymer Shield, Small | +1 | — | d4 | 2 | 200 |
+| Polymer Shield, Medium | +2 | −2 | d4 | 4 | 300 |
+| Polymer Shield, Large | +3 | −4 | d6 | 6 | 400 |
+|===
+
+== Personal Weapons
+
+.Melee weapons
+[cols="20%,15%,10%,15%,10%,30% ",options="header"]
+|===
+| Type | Damage | Min Str | Weight | Cost | Notes
+
+6+| *MEDIEVAL*
+| Axe, Hand | Str+d6 | d6 | 2 | 100 |
+| Axe, Battle | Str+d8 | d8 | 4 | 300 |
+| Axe, Great | Str+d10 | d10 | 7 | 400 |  AP 2, Parry –1, two hands
+| Club, Light | Str+d4 | d4 | 2 | 25 | A sign of low status or thuggery
+| Club, Heavy | Str+d6 | d6 | 5 | 50 | A sign of low status or thuggery
+| Dagger/Knife | Str+d4 | d4 | 1 | 25 |
+| Flail |  Str+d6 | d6 | 3 | 200 | Ignores shield bonus
+| Halberd | Str+d8 | d8 | 6 | 250 | Reach 1, two hands
+| Katana | Str+d6+1 | d6 | 3 | 1,000 | Two hands
+| Lance | Str+d8 | d8 | 6 | 300 | AP 2 when charging, Reach 2, only usable in mounted combat
+| Mace | Str+d6 | d6 | 4 |  100 |
+| Maul | Str+d10 | d10 | 10 | 400 | Two hands, +2 damage to break objects (SWADE p 98)
+| Pike | Str+d8 | d8 | 18 | 400 | Reach 2, two hands
+| Rapier | Str+d4 | d4 | 2 | 150 | Parry +1
+| Spear | Str+d6 | d6 | 3 | 100 |  Reach 1. Parry +1 if used two-handed
+|  Staff |  Str+d4 |  d4 |  4 |  10 | Parry +1, Reach 1, two hands
+| Sword, Great | Str+d10 | d10 | 6 | 400 |  Two hands
+| Sword, Long | Str+d8 | d8 | 3 | 300 | Basic swords and scimitars
+| Sword, Short | Str+d6 | d6 | 2 | 100 | Includes cavalry sabers
+| Warhammer | Str+d6 | d6 | 2 | 250 | Spiked, AP 1
+
+6+| *MODERN*
+| Bangstick | 3d6 | d6 | 2 | 5 | A shotgun shell on a stick used in melee; must be reloaded with a fresh shell (one action)
+| Bayonet | Str+d4 | d4 | 1 | 25 | Str+d6 and Parry +1 attached to rifle, Reach 1, two hands
+| Billy Club/Baton | Str+d4 | d4 | 1 | 10 | Often carried by law enforcement
+| Brass Knuckles | Str+d4 | d4 | 1 | 20 | Do not count as a weapon for Unarmed Defender (SWADE p 109)
+| Chainsaw | 2d6+4 | d6 | 20 | 200 | Critical Failure hits the user
+| Switchblade | Str+d4 | d4 | 0.5 | 10 | −2 to be Noticed if hidden
+| Survival Knife | Str+d4 | d4 | 1 | 50 | Basic tools in handle add +1 to Survival rolls
+
+6+| *FUTURISTIC*
+| Molecular Knife | Str+d4+2 | d4 | 0.5 | 250 | AP 2, Cannot be thrown
+| Molecular Sword | Str+d8+2 | d6 | 2 | 500 | AP 4
+| Laser Sword | Str+d6+8 | d4 | 2 | 1,000 | AP 12
+|===
+
+
+
+==== Ranged weapons
+
+Thrown axes and knives, bows, nets, slings, and spears are available in most every era or setting.
+
+.Ranged weapons
+[cols="15%,10%,10%,5%,5%,5%,5%,5%,30% ",options="header"]
+|===
+| Type | Range | Damage | AP | RoF| Min Str | Weight | Cost | Notes
+9+| *MEDIEVAL*
+| Axe, Throwing | 3/6/12 | Str+d6 | — | 1 | d6 | 3 | 100 |
+| Bow | 12/24/48 | 2d6 | — | 1 | d6 | 3 | 250 |
+| Crossbow (Hand Drawn) | 10/20/40 | 2d6 | 2 | 1 | d6 | 5 | 250 |
+Hand-drawn.
+| Crossbow, Heavy | 15/30/60 | 2d8 | 2 | 1 | d6 | 8 | 400 | Requires a windlass to load. Reload 2.
+| Dagger/Knife | 3/6/12 | Str+d4 | — | 1 | d4 | 1 | 25 |
+| Long Bow | 15/30/60 | 2d6 | 1 | 1 | d8 | 3 | 300 |
+| Net (Weighted) | 3/6/12 | — | — | 1 | d4 | 8 | 50 | A successful hit means the target is Entangled (see page 98). The net is Hardness 10 and
+vulnerable only to cutting attacks.
+| Sling (Athletics (throwing)) | 4/8/16 | Str+d4 | — | 1 | d4 | 1 | 10 |
+| Spear/Javelin | 3/6/12 | Str+d6 | — | 1 | d6 | 3 | 100 |
+9+| *MODERN*
+| Compound Bow | 12/24/48 | Str+d6 | 1 | 1 | d6 | 3 | 200 |
+| Crossbow | 15/30/60 | 2d6 | 2 | 1 | d6 | 7 | 300 |
+|===
+
+
+==== Black powder weapons
+
+Black powder weapons are Reload 3.
+
+.Black powder weapons
+[cols="15%,15%,10%,5%,5%,5%,5%,5%,5%,30% ",options="header"]
+|===
+| Type | Range | Damage | AP | RoF| Shots | Min Str | Weight | Cost | Notes
+10+| *PISTOLS*
+| Flintlock Pistol | 5/10/20 | 2d6+1 | — | 1 | — | d4 | 3 | 150 |
+10+| *MUSKETS*
+| Brown Bess or Similar Muskets | 10/20/40 | 2d8 | — | 1 | — | d6 | 15 | 300 |
+| Blunderbuss | 10/20/40 | 1–3d6 | — | 1 | — | d6 | 12 | 300 | Treat as Shotgun, see SWADE p 105.
+10+| *RIFLED MUSKETS*
+| Kentucky Rifle | 15/30/60 | 2d8 | 2 | 1 | — | d6 | 8 | 300 | Reload 4. The tight rifling requires four actions to reload instead of the usual three.
+| Springfield Model 1861 | 15/30/60 | 2d8 | — | 1 | — | d6 | 11 | 250 |
+|===
+
+==== Modern firearms
+
+===== Pistols
+
+.Pistols
+[cols="15%,15%,10%,5%,5%,5%,5%,5%,5%,30% ",options="header"]
+|===
+| Type | Range | Damage | AP | RoF| Shots | Min Str | Weight | Cost | Notes
+10+| *REVOLVERS*
+10+| Revolvers typically have six chambers that must be reloaded one bullet at a time, though separate cylinders called “speed loaders” are also available for more modern firearms for about 10% of the weapon’s cost.
+| Derringer (.41) | 3/6/12 | 2d4 | — | 1 | 2 | d4 | 1 | 100 | −2 to be Noticed if hidden
+| Police Revolver (.38) | 10/20/40 | 2d6 | — | 1 | 6 | d4 | 2 |  150 |
+| Colt Peacemaker (.45) | 12/24/48 | 2d6+1 | 1 | 1 | 6 | d4 | 4 | 200 |
+| Smith & Wesson (.357) | 12/24/48 | 2d6+1 | 1 | 1 | 6 | d4 | 5 | 250 |
+10+| *SEMI-AUTOMATICS*
+10+| Semi-automatics are fed from a magazine. The standard size magazines are listed below. Additional
+magazines may be purchased for 10% of the weapon’s cost. They weigh about 1 lb each, fully loaded.
+| Colt 1911 (.45) | 12/24/48 | 2d6+1 | 1 | 1 | 7 | d4 | 4 | 200 |
+| Desert Eagle (.50) | 15/30/60 | 2d8 | 2 | 1 | 7 | d6 | 8 | 300 |
+| Glock (9mm) | 12/24/48 | 2d6 | 1 | 1 | 17 | d4 | 3 | 200 |
+| Ruger (.22) | 10/20/40 | 2d4 | — | 1 | 9 | d4 | 2 | 100 |
+|===
+
+===== Submachine guns
+
+Typical magazine sizes are listed with each weapon. Additional magazines are available at 10% of the weapon’s
+cost and weigh about 1 lb each, fully loaded.
+
+.Submachine guns
+[cols="15%,15%,10%,5%,5%,5%,5%,5%,5%,30% ",options="header"]
+|===
+| Type | Range | Damage | AP | RoF| Shots | Min Str | Weight | Cost | Notes
+| H&K MP5 (9mm) | 12/24/48 | 2d6 | 1 | 3 | 30 | d6 | 10 | 300 |
+| Tommy Gun (.45) | 12/24/48 | 2d6+1 | 1 | 3 | 20 | d6 | 13 | 350 |
+Thompson submachine guns may also use a 50-round drum. This increases the weight by 2
+lbs and each loaded drum costs $50.
+| Uzi (9mm) | 12/24/48 | 2d6 | 1 | 3 | 32 | d4 | 9 | 300 |
+
+
+|===
+
+===== Shotguns
+
+Shotguns fire a spread of pellets (called “shot” or “buckshot”) to increase the shooter’s chance of hitting his
+target. Up close, the blast can be devastating. See Shotguns on SWADE p 105 for details.
+
+.Shotguns
+[cols="15%,15%,10%,5%,5%,5%,5%,5%,5%,30% ",options="header"]
+|===
+| Type | Range | Damage | AP | RoF| Shots | Min Str | Weight | Cost | Notes
+| Double-Barrel | 12/24/48 | 1–3d6 | — | 1 | 2 | d6 | 11 | 150 |
+| Pump Action | 12/24/48 | 1–3d6 | — | 1 | 6 | d4 | 8 | 150 |
+| Sawed-Off DB | 5/10/20 | 1–3d6 | — | 1 | 2 | d4 | 6 | 150 |
+| Streetsweeper | 12/24/48 | 1–3d6 | — | 1 | 12 | d6 | 10 | 450 |
+|===
+
+===== Rifles
+
+Rifles can be either bolt-action, lever-action, or fed from a magazine or clip, noted in its description. Additional
+magazines or clips cost 10% of the rifle and weigh 1 lb each.
+
+.Rifles
+[cols="15%,15%,10%,5%,5%,5%,5%,5%,5%,30% ",options="header"]
+|===
+| Type | Range | Damage | AP | RoF| Shots | Min Str | Weight | Cost | Notes
+
+10+| *LEVER- AND BOLT ACTION RIFLES*
+
+| Barrett (.50) | 50/100/200 | 2d10 | 4 | 1 | 10 | d8 | 35 | 750 a|
+Heavy Weapon, Snapfire. +
+Barretts use a 10-shot removable magazine that weighs 2 lbs when loaded. They are almost always fitted with a scope.
+| M1 Garand (.30-06) | 24/48/96 | 2d8 | 2 | 1 | 8 | d6 | 10 | 300 | The standard US infantry rifle in World War II.
+| Hunting Rifle (.308) | 24/48/96 | 2d8 | 2 | 1 | 5 | d6 | 8 | 350 | Snapfire.
+| Sharps Big 50 (.50) | 30/60/120 | 2d10 | 2 | 1 | 1 | d8 | 11 | 400 | Snapfire.
+| Spencer Carbine (.52) | 20/40/80 | 2d8 | 2 | 1 | 7 | d4 | 8 | 250 |
+| Winchester ‘73 (.44-40) | 24/48/96 | 2d8–1 | 2 | 1 | 15 | d6 | 10 | 300 |
+10+| *ASSAULT RIFLES*
+| AK47 (7.62mm) | 24/48/96 | 2d8+1 | 2 | 3 | 30 | d6 | 10 | 450 |
+| M-16 (5.56mm) | 24/48/96 | 2d8 | 2 | 3 | 20/30 | d6 | 8 | 400 | The A-2 version can also fire a Three-Round Burst (see SWADE p 67).
+| Steyr AUG (5.56mm) | 24/48/96 | 2d8 | 2 | 3 | 30 | d6 | 8 | 400 | May fire a Three-Round Burst (see SWADE p 67).
+|===
+
+===== Machine guns
+
+Machine guns are heavy, fully automatic weapons built to withstand prolonged fire. Most are fed by belts
+or drums and thus have far more ammo capacity than assault rifles, despite similar calibers and rates of fire.
+
+Weapon Mount:: Most machine-guns require a bipod, tripod, or vehicle mount to fire, which eliminates any
+Strength requirement and the Recoil penalty (see SWADE p 105). Their Minimum Strength is listed as “NA,” or
+“Not Applicable.” If a weapon has a Minimum Strength listed, it may be fired from the hip with the Snapfire
+and Recoil penalties.
+
+Minimum Rate of Fire:: Machine-guns have a minimum Rate of Fire of 2 unless otherwise noted.
+
+Reloading:: Machine guns are Reload 2, which includes changing belts or drums, cocking, etc.
+
+
+
+.Machine guns
+[cols="15%,15%,10%,5%,5%,5%,5%,5%,5%,30% ",options="header"]
+|===
+| Type | Range | Damage | AP | RoF| Shots | Min Str | Weight | Cost | Notes
+| Browning Automatic Rifle (BAR) (.30-06) | 20/40/60 | 2d8 | 2 | 3 | 20 | d8 | 17 | 300 |
+Rate of Fire 1 to 3. Uses magazines (one action to Reload instead of the usual 2).
+| Gatling (.45) | 24/48/96 | 2d8 | 2 | 3 | 100 | NA | 170 | 500 |
+| Minigun (7.62mm) | 30/60/120 | 2d8+1 | 2 | 5 | 4000 | d10 | 85 | 100K |
+Minimum Rate of Fire 3, requires backpack harness with ammo which weighs an additional; 85 pounds when full (carries 4000 linked rounds).
+| M2 Browning (.50 Cal) | 50/100/200 | 2d10 | 4 | 3 | 200 | NA | 84 | 1,500 | Heavy Weapon.
+| M60 (7.62mm) | 30/60/120 | 2d8+1 | 2 | 3 | 100 | d8 | 33 | 6,000 |
+| MG42 (7.92mm) |  30/60/120 | 2d8+1 | 2 | 4 | 200 | d10 | 26 | 750 |
+| SAW (5.56mm) | 30/60/120 | 2d8 | 2 | 4 | 200 | d8 | 20 | 4,000 |
+
+|===
+
+
+===== Lasers (futuristic)
+
+Lasers fire intensely focused beams of light to penetrate and burn their targets.
+
+Cauterize:: Anyone Incapacitated by a laser blast adds +2 to his Vigor rolls to keep from Bleeding Out.
+Overcharge:: The lasers below can overcharge to cause an extra d6 damage, but if any of the Shooting dice are a 1, the weapon must cool down for a full round before it can be fired again.
+No Recoil:: Pistols, SMGs, and rifles ignore the Recoil penalty. Gatling lasers still take the penalty, however, which is why they’re usually mounted on a tripod.
+
+
+.Lasers
+[cols="15%,15%,10%,5%,5%,5%,5%,5%,5%,30% ",options="header"]
+|===
+| Type | Range | Damage | AP | RoF| Shots | Min Str | Weight | Cost | Notes
+| Pistol | 15/30/60 | 2d6 | 2 | 1 | 50 | d4 | 2 |  250 |
+| SMG | 15/30/60 | 2d6 | 2 | 4 | 100 | d4 | 4 | 500 |
+| Rifle | 30/60/120 | 3d6 | 2 | 3 | 100 | d6 | 8 | 700 |
+| Gatling Laser | 50/100/200 | 3d6+4 | 2 | 4 | 800 | d8 | 20 | 1,000 |
+
+|===
+
+
+== Special weapons
+
+=== Cannons
+
+Cannons are used to destroy city walls or break up large troop formations. The leader of the weapon’s crew makes the Shooting roll.
+
+Bombard::
+Assuming they have a rough idea of their target’s location, howitzers, mortars, and bombards may fire at targets they cannot see by lobbing projectiles over intervening terrain or obstacles. Bombarding suffers
+a −4 penalty in addition to all other modifiers, and doubles deviation when the Shooting roll is failed (see "Area Effect Attacks",  SWADE p 97)
+Reduce the penalty to −2 with precise coordinates (such as from a spotter).
+Cannons can fire three different types of shells: solid shot, shrapnel, and canister.
+The crew can pick the type of ammunition to be loaded each time it reloads.
+
+Solid Shot::
+Heavy balls of iron, lead, or stone designed to batter walls or plow through packed ranks of troops.
+To fire, the leader of the crew makes a Shooting roll as usual.
+If successful, roll a die.
+If even, it bounces to another victim behind and within 6” of the first and hits him as well.
+Continue in this way until the die roll is odd.
+Shrapnel::
+Explosive shells filled with small metal balls that explode outward in a shower of debris.
+This is an area effect attack and uses the Medium Blast Template unless otherwise noted.
+Canister:: Grapeshot or canister is a shell that detonates inside the barrel of a cannon and fires out a spray
+of deadly balls or other debris like a giant shotgun. The attack is the size of a Medium Blast Template and
+moves in a straight line up to 24” (it affects d6 targets if not using miniatures, or 2d6 if they’re tightly packed).
+Compare the Shooting roll to every target within using a base TN of 4, adjusted for each target’s cover,
+special abilities like the Dodge Edge, etc. A hit causes 2d6 damage and a raise causes 3d6.
+
+NOTE: All types of shot are Heavy Weapons, Reload 8. Two crew members may reload at the same time.
+
+.Cannons
+[cols="20%,15%,15%,10%,5%,5%,10%,10%,10% ",options="header"]
+|===
+| Type | Range | Damage | AP | RoF| Blast | Weight | Cost | Notes
+
+| Cannon (12 lb) 5+| By Ammo Type | 1200 | 10K |
+| Canister  | 24″ path | 2d6 | — | 1 | MBT | — | 50 |
+| Solid Shot | 50/100/200 | 3d6+1 | 4 | 1 | — | — | 50 |
+| Shrapnel | 50/100/200 | 3d6 | — | 1 | MBT | — | 50 |
+|===
+
+=== Catapults
+
+Catapults are simple devices that hurl large stones at enemy defenses or ranks of troops.
+They normally require a crew of eight to load the projectile, crank down the lever that propels it, then sight and aim it.
+Firing can be done by a single person, but loading the projectile takes at least four.
+
+.Catapults
+[cols="20%,15%,15%,10%,5%,5%,5%,5%,20% ",options="header"]
+|===
+| Type | Range | Damage | AP | RoF| Blast | Weight | Cost | Notes
+| Catapult | 24/48/96 | 3d6 | 4 | Special | MBT | — | 10K |
+Heavy Weapon, +
+Reload time is every 5 minutes with a crew of 4.
+| Trebuchet | 30/60/120 | 3d8 | 4 | Special | MBT | — | 50K |
+Heavy Weapon, +
+Reload time is every 5 minutes with a crew of 4.
+|===
+
+=== Flamethrowers
+Flamethrowers propel incendiary liquid or gas to incinerate their targets. They are Heavy Weapons, use the
+Cone Template (see Area Effect Attacks, SWADE p 97), and may be Evaded (SWADE p 100).
+
+Armor protects normally, but flammable targets may catch fire (see Fire, SWADE p 127).
+
+For vehicular flamethrowers, see SWADE p 80.
+
+.Flamethrowers
+[cols="15%,15%,10%,5%,5%,5%,5%,5%,5%,30% ",options="header"]
+|===
+| Type | Range | Damage | AP | RoF| Shots | Min Str | Weight | Cost | Notes
+| Flamethrower | Cone Template | 3d6 | — | 1 | 10 | d8 | 70 |  300 |
+|===
+
+=== Grenades
+
+Grenades activate when their safety pin is pulled, then detonate a few seconds later. They are thrown with
+the Athletics skill at the Ranges listed below, and cannot make use of Extreme Range (see SWADE p 93).
+
+All grenades are Heavy Weapons and detonate in the listed blast template (see Area Effect Attacks, SWADE p 97).
+
+Grenades may be Evaded. See Evasion, SWADE p 100.
+
+.Grenades
+[cols="20%,15%,15%,5%,5%,5%,15%,15%,25% ",options="header"]
+|===
+| Type | Range | Damage | AP | RoF| Blast | Weight | Cost | Notes
+
+| Mk II (WW2 Pineapple) | 4/8/16 | 3d6 | — | — | MBT | 1 | 40 |
+| Potato Masher (WW2) | 5/10/20 | 3d6–2 | — | — | MBT | 2 | 50 |
+| Mk67 (Modern) | 5/10/20 | 3d6 | — | — | MBT | 1 | 50 |
+| Smoke Grenade | 5/10/20 | — | — | — | LBT | 1 | 50 | Creates an area of smoke in a LBT that obscures vision (–4).
+| Stun Grenade | 5/10/20 | — | — | — | LBT | 1 | 50 | Targets must make a Vigor roll (at –2 with a raise) or be Stunned (see page 106).
+
+|===
+
+.More on grenades
+****
+These additional rules get a bit picky, but they represent the cinematic shenanigans—
+and real-life heroics—players often look for in their game.
+
+Grenades in the modern era and earlier explode after mechanisms inside trigger the
+detonator—typically a delay of three to five seconds depending on make and model
+after the pin is pulled to initiate detonation.
+
+Hot Potato:: Because of the delay in the grenade’s detonation, one character (and one
+only) in the blast radius can attempt to pick up and throw the grenade before it goes off.
+This is an Athletics roll at −4 as a free action (or −2 if he was on Hold, but it consumes
+his held action). Failure means it goes off before he can throw it, causing damage as if
+thrown with a raise (if it wasn’t already).
+
+Cooking:: A character can “cook” a grenade by pulling its pin and counting off a few
+seconds so that it can’t be thrown back. To do so, the attacker first makes a Smarts roll as
+a free action. With success, he times the detonation correctly and it can’t be hurled back
+or Evaded (SWADE p 100). Failure means it can be thrown back or Evaded, and a Critical
+Failure on the Smarts roll means it detonates in the attacker’s hand! Roll damage as if
+thrown with a raise.
+
+Covering Grenades:: A character may also throw himself on a grenade. He takes double
+the normal dice of damage for his heroic act, but his total Toughness is subtracted from
+the damage inflicted on other characters in the blast radius.
+
+****
+
+=== Mines
+
+Mines are explosives planted beneath shallow dirt that detonate in the listed blast template when a person
+(for anti-personnel mines) or vehicle (for anti-tank mines) passes over them.
+
+Minefields:: For dramatic purposes, a character who steps on a mine should get a Notice roll. Success means
+she realizes it before stepping off and detonating it. Saving the victim requires a Repair roll at −4, but failure
+detonates the device immediately.
+
+.Mines
+[cols="20%,5%,15%,5%,5%,5%,10%,15%,40% ",options="header"]
+|===
+| Type | Range | Damage | AP | RoF| Blast | Weight | Cost | Notes
+
+| Anti-Personnel Mine | — | 2d6+2 | — | — | SBT | 10 | 100 | Heavy Weapon.
+| Anti-Tank Mine | — | 4d6 | — | — | MBT | 20 | 200 | Heavy Weapon, AP 5 vs. ½ the vehicle’s Armor value (round up).
+| Bouncing Betty | — | 3d6 | — | — | SBT | 9 | 125 |
+These deadly anti-personnel mines are designed to pop up into the air and rain shrapnel
+down from about head-height. Only full overhead cover offers an Armor bonus against such
+devices. Simply being prone offers no protection from these deadly explosives.
+| Claymore Mine | — | 3d6 | — | — | Special | 4 | 75 |
+Claymores fire a spray of deadly steel balls in a 60° frontal arc. Everyone within 12″ (24
+yards) is automatically hit. Roll a die for all other targets up to 50″ (100 yards). Those who get an
+odd result are also hit.
+
+|===
+
+=== Missiles
+
+Unless otherwise noted, missiles must “lock” onto their targets before they can be fired. This action is an
+opposed Electronics roll versus the target’s maneuvering skill (Boating, Driving, or Piloting, as appropriate).
+Success gives the attacker a “short” lock and allows him to fire up to half the missiles his particular craft can
+fire at once. A raise is a more solid lock and allows him to fire all of them.
+The enemy attempts to evade each missile separately by making a maneuvering roll at −4 (or −2 if the target
+has substantial cover to hide behind—such as asteroids, skyscrapers, canyon walls, or even large enemy ships.
+A Critical Failure means the craft goes Out of Control (see SWADE p 119).
+
+Anti-Missile Systems:: Warships and futuristic space vessels often have “point defense” systems to shoot
+down incoming missiles. Operators must be on Hold to shoot down missiles; automated systems attack
+automatically. The system grants a single Shooting roll per missile at Short Range and any other relevant
+modifiers (including Speed—missiles move at Mach 1, a −6 penalty, unless otherwise noted). Unless otherwise
+noted, missiles are objects with a Toughness of 8 (2) (see Breaking Things, SWADE p 98).
+
+.Missiles
+[cols="20%,20%,15%,5%,5%,5%,10%,15%,25% ",options="header"]
+|===
+| Type | Range | Damage | AP | RoF| Blast | Weight | Cost | Notes
+
+| TOW | 75/150/300 | 5d10 | 34 | 1 | MBT | 207 | 60K | Heavy Weapon. +
+A wire-guided missile fired from a portable or vehicle-mounted launcher. +
+Doesn’t require a lock—just a Shooting roll, and can’t be jammed.
+| Hellfire | 150/300/600 | 5d10 | 40 | — | MBT | 100 | 115K | Heavy Weapon. +
+A laser-guided missile fired from a vehicle-mounted launcher.
+| Sidewinder | 100/200/400 | 4d8 | 6 | — | SBT | 188 | 600K | Heavy Weapon. +
+A short range, heat-seeking missile fired from an aircraft.
+| Sparrow | 150/300/600 | 5d8 | 6 | — | SBT | 617 | 125K | Heavy Weapon. +
+A medium range, radar-guided missile fired from an aircraft.
+
+|===
+
+=== Rocket launchers and torpedoes
+
+Rocket launchers and early torpedoes are direct-fire weapons that explode on contact with their target.
+
+All the listed weapons are Heavy Weapons.
+
+.Rocket launchers and torpedoes
+[cols="20%,20%,15%,5%,5%,5%,10%,15%,25% ",options="header"]
+|===
+| Type | Range | Damage | AP | RoF| Blast | Weight | Cost | Notes
+| AT-4 | 24/48/96 | 4d8+2 | 24 | 1 | MBT | 15 | 1,500 | A heavy American anti-tank weapon of the modern era.
+| Bazooka | 24/48/96 | 4d8 | 8 | 1 | MBT | 12 | 500 | Snapfire. +
+The standard American anti-tank weapon in World War II. +
+Additional warheads weigh 9 lbs and cost $50. WWII price.
+| M203 40MM | 24/48/96 | 4d8 | — | 1 | MBT | 3 | 1,500 | Snapfire. +
+A grenade launcher mounted on the bottom of an assault rifle.
+| M72 Law | 24/48/96 | 4d8+2 | 22 | 1 | MBT | 5 | 750 | Snapfire. +
+The standard American anti-tank weapon in Vietnam.
+| Panzerschreck | 15/30/60 | 4d8 | 12 | 1 | MBT | 20 | 1,000 | Snapfire. +
+Literally, the “tank terror” rocket launcher used by German forces in World War II.
+| Torpedo | 300/600/1200 | 8d10 | 22 | 1 | LBT | 3000 | 500K |
+|===
+
+
+
+
+
+=== Vehicular weapons
+
+Below are the most common weapons mounted on military vehicles in the 20th century and beyond. All
+except the medium machine gun and Gatling laser are Heavy Weapons.
+
+Minimum Rate of Fire:: Vehicular weapons with a Rate of Fire 3 or higher have a minimum Rate of Fire of 2.
+Heavy Flamethrowers:: Vehicular flamethrowers have longer ranges than personal devices. The wielder can
+use the Cone Template or arc a blast the size of a Medium Blast Template up to 18” (36 yards) distant. (Use the
+center of the template for the Range.) This shot can Deviate (see Area Effect Attacks, SWADE p 97).
+Tank and AT Guns:: May fire either Armor Piercing (AP) or High-Explosive (HE) rounds as the gunner chooses.
+AP rounds do additional damage up close. Increase the weapon’s damage dice by one when fired at half their
+Short Range or less (so 4d10+2 becomes 5d10+2, for example).
+Costs:: Prices of military-grade weapons varies widely depending on setting, and should be considered
+baselines the GM can use to set prices in her campaign world.
+
+.Vehicular weapons
+[cols="25%,15%,10%,15%,15%,15%,5% ",options="header"]
+|===
+| Type | Range | AP Rounds | HE Rounds | RoF | Cost | Notes
+| Med. Machine Gun | 30/60/120 | 2d8+1, AP 2 | — | 3 | 750 |
+| Heavy Machine Gun | 50/100/200 |  2d10, AP 4 | — | 3 | 1,000 |
+| Heavy Flamethrower | Cone or MBT | — | 3d8 | 1 | 1,000 |
+| 20mm Cannon | 50/100/200 | 2d12, AP 4 | — | 4 | 50K |
+| 25mm Cannon | 50/100/200 | 3d8, AP 4 | — | 3 | 75K |
+| 30mm Cannon | 50/100/200 | 3d8, AP 6 | — | 3 | 200K |
+| 40mm Cannon | 75/150/300 | 4d8, AP 5 | 3d8, AP 2, MBT | 4 |  200K |
+| 2 pd AT Gun | 75/150/300 | 4d8, AP 5 | 3d6, AP 2, MBT | 1 | 75K |
+| 37mm AT Gun | 50/100/200 | 4d8, AP 3 | 4d6, AP 3, MBT | 1 | 100K |
+| 57mm AT Gun | 75/150/300 | 4d8, AP 5 | 3d8, AP 3, MBT | 1 | 150K |
+| 75mm Tank Gun | 75/150/300 | 4d10, AP 6 | 3d8, AP 3, MBT | 1 | 250K |
+| 76mm Tank Gun | 75/150/300 | 4d10, AP 10 | 3d8, AP 5, MBT | 1 | 300K |
+| 88mm Tank Gun | 100/200/400 | 4d10+1, AP 16 | 4d8, AP 8, MBT | 1 | 500K |
+| 120mm Tank Gun | 100/200/400 | 5d10, AP 31 | 4d8, AP 17, MBT | 1 | 800K |
+| 125mm Tank Gun | 100/200/400 | 5d10, AP 30 | 4d8, AP 15, MBT | 1 | 1M |
+7+| *FUTURISTIC*
+| Gatling Laser | 50/100/200 | 3d6+4, AP 4 | — | 4 | 1K |
+| Heavy Laser | 150/300/600 | 4d10, AP 30 | — | 1 | 1M |
+|===
+
+== Rippers
+
+.Melee weapons
+[cols="20%,15%,10%,15%,10%,30% ",options="header"]
+|===
+| Type | Damage | Min Str | Weight | Cost | Notes
+| Axe | Str+d6 | d6 | 2 | £0.50 |
+| Baton | Str+d4 | d4 | 1 | £0.10 |
+The listed price assumes a baton specifically designed for combat, such as a policeman’s truncheon.
+Makeshift clubs (such as chair legs or thick branches) are free, but count as Improvised Weapons (see Savage Worlds).
+| Bayonet | Str+d4 |  d4 | 1 | £0.50 | On rifle, Str+d6, Parry +1, Reach 1, 2 hands
+|  Great Axe | Str+d10 |  d4 | 15 | £4 | Parry –1, 2 hands, AP 1
+| Great Sword | Str+d10 | d10 | 12 | £4 | Parry –1, 2 hands
+| Rapier | Str+d4 | d4| 3 | £2 | Parry +1
+| Ripper Claws | Str+d6 | d6 | 4 |  £3 | Parry +1, can’t be disarmed
+Ripper claws are a set of sharpened blades set into a metal housing and worn on the forearm like a bracer.
+A specially designed handgrip improves the weapon’s responsiveness.
+Ripper claws take a full round (no other actions besides free ones) to strap on,
+or a single action for a character with Quick Draw.
+
+| Saber | Str+d6 | d6 | 4 | £2 |
+| Sap | Str+d4 | d4 | 4 | £0.25 | Counts as an Unarmed Defender +
+Sometimes called a “blackjack” or simply a “bag,”
+a sap is a small leather pouch filled with stones or lead shot used to knock victims out from behind.
+They offer no defense, so users are considered Unarmed Defenders.
+
+| Staff | Str+d4 | d4 | 8 | £0.05 | Parry +1, Reach 1, 2 hands
+| Sword | Str+d8 | d8 | 8 | £3 |
+| Sword Cane | — | d4 | 5 |  £2.50 |  Walking stick plus rapier
+A sword cane is a most gentlemanly weapon: simply a walking stick with a rapier hidden inside it.
+A Ripper armed with a sword cane does not suffer any Status penalty for traveling armed
+| Torch | Str+d4 |  d4 | 1 | £0.05 | Improvised Weapon, +2 damage lit.
+An unlit torch is treated as an improvised weapon, so attacks with it are made at a –1 penalty.
+A lit torch can also be used as a weapon.
+Anyone struck by it may catch fire,
+but the torch goes out if the Trait die comes up a 1 (regardless of the Wild Die).
+| Walking Stick | Str+d4 |  d4 | 2 | £0.50 | Parry +1 +
+A well-balanced walking stick or cane makes an acceptable weapon in a pinch.
+Walking sticks not specifically designed for combat are considered Improvised Weapons.
+| Whip | Str+d4 | d4 | 2 | £0.10 | Reach 2, Parry –1 +
+If the wielder scores a raise on his attack roll,
+the victim is momentarily entangled and suffers a –2 to his Parry until his next action.
+| Wooden Stake | Str+d4 |  d4 | 1 |  £0.05 |
+The listed cost assumes the stake was carefully crafted for use as a weapon.
+Broken furniture, snapped tree branches, and the like fulfill the same purpose and are free,
+but they are considered Improvised Weapons.
+|===
+
+
+.Thrown weapons
+[cols="15%,10%,10%,5%,5%,5%,5%,5%,30% ",options="header"]
+|===
+| Type | Range | Damage | AP | RoF| Min Str | Weight | Cost | Notes
+| Holy Water | 3/6/12 | Special | — | 1 |  d4 |  1 | £0.10 | Small Burst Template +
+On impact, the flask breaks. See <<#holy_water>>.
+
+| Lamp Oil | 3/6/12 | Special | — | 1 |  d4| 1 | £0.05 | Small Burst Template, see text
+Though normally used to power a lantern, lamp oil can also be thrown in combat
+with a –1 penalty. On impact, the oil splashes in a Small Burst Template. Any creature in the area
+must make an Agility roll (at –2 on a raise) or be covered with oil. If the affected area or an oilsoaked
+person comes into contact with fire, use the standard rules for catching fire, with a base damage of 1d10.
+
+| Net | 3/6/12 | Special | — | 1 |  d4 | 5 | £0.05 |
+A popular weapon for capturing monsters, the net is a rope mesh with a line for control, lead
+sinkers to provide weight, and barbed fishhooks to prevent easy escape.
+On a successful hit with a net,  the target is entangled and must make a successful Agility or Strength roll at –2 to slip out or tear free.
+Success frees the target but uses the action—a raise frees it immediately and the target can act as usual.
+
+| Throwing Knife | 4/8/16 | Str+d4 | 1 | — | d4 | 1 | £0.05 | Improvised Weapon for Fighting +
+Throwing knives are considered Improvised Weapons in melee combat but are perfectly balanced for
+throwing.
+|===
+
+[[holy_water]]
+.Holy water
+****
+Any creature susceptible to holy symbols can also be affected by holy water. Officially,
+this only covers demons, but the GM may wish to expand this in his campaign to cover
+other fiends.
+
+Unlike a holy symbol, waving around a vial of holy water causes demons no ill effects,
+though it may add a +1 bonus to Intimidation rolls at the GM’s discretion. In order to be
+truly effective, the water must be sprinkled on them, typically by throwing the entire vial.
+Throwing a vial of holy water counts as an area effect Improvised Weapon, and is thus subject
+to scatter on a failed Throwing roll.
+
+Holy water fills a Small Burst Template.
+Any demon under the template may make an Agility roll at –2 as a free action to avoid the
+water. Those who fail suffer a –2 penalty to all Trait rolls for three rounds.
+At the GM’s discretion, holy water may also be used to create a physical barrier to demons.
+By sprinkling a vial around his feet, the hero creates a warded area covering a 1” square—
+enough to protect just one hero.
+
+A demon must make a Spirit roll to physically attack a hero protected by holy
+water. On a failure, it cannot enter until the water evaporates (assume an hour for
+simplicity). However, it can use ranged attacks of any sort against heroes in the template,
+including special abilities not requiring touch. Naturally, heroes leaving the area
+immediately lose this protection.
+
+Holy water can be created by any Lodge with a Chapel.
+****
+
+
+[cols="15%,15%,10%,5%,5%,5%,5%,5%,5%,30% ",options="header"]
+|===
+| Type | Range | Damage | AP | RoF| Shots | Min Str | Weight | Cost | Notes
+// Weapon Range Damage RoF Shots Min. Str Weight Cost
+| Derringer | 5/10/20 |2d6 | 1 | 1 |2 | — |0.5 | £0.50 |
+| Flintlock Pistol | 5/10/20 | 2d6+1 | - | 1 | 1 | — |3 | £0.50 | 2 actions to reload, black powder
+| Gatling Pistol | 12/24/48 | 2d6 | 1 | 2 | 12 | — | 6 | £8 |
+The weapon jams on a Critical Failure nd requires an action to clear. +
+It can fire lead, cold iron, or silver ammunition.
+| Pistol | 12/24/48 | 2d6 | 1 | 1 | 6 | — | 3 | £1 |
+|===
+
+.Rifles & Shotguns
+[cols="15%,15%,10%,5%,5%,5%,5%,5%,5%,30% ",options="header"]
+|===
+| Type | Range | Damage | AP | RoF| Shots | Min Str | Weight | Cost | Notes
+| Blunderbuss | 5/10/20 | 1-3d6 | - | 1 | 1 | — | 12 |  £2 |+2 Shooting, 2 actions to reload, black powder
+| Elephant Gun | 30/60/120 | 2d10 | 2 | 1 | 1 | d8 | 12 | £5 | Snapfire penalty
+| Musket | 10/20/40 | 2d8+1 | 1 | 1 | 1 | d6 | 10 | £1 | 2 actions to reload, black powder
+| Rifle | 24/48/96 | 2d8 | 2 | 1 | 8 | d6 | 10 | £2 |
+| Sawed-Off Shotgun | 5/10/20 | 1–3d6 | - | 1 | 1 | — | 8 | £4 | +2 Shooting +
+A shotgun can have its barrel sawed down.
+Doing so reduces its range, but makes the weapon easily concealable within a long coat or bag.
+| Shotgun | 12/24/48 | 1–3d6 | - | 1 | 1 | — | 12 | £4 | +2 Shooting +
+A shotgun can fire pellets or slugs (2d10 damage).
+Slugs can be made of lead, silver, or cold iron, while pellets can be lead, silver, cold iron, or rock salt.
+|===
+
+.Special Weapons
+[cols="15%,15%,10%,5%,5%,5%,5%,5%,5%,30% ",options="header"]
+|===
+| Type | Range | Damage | AP | RoF| Shots | Min Str | Weight | Cost | Notes
+//Weapon Range Damage RoF Shots Min. Str Weight Cost
+| Crossbow | 15/30/60 | 2d6 | 2 | 1 | 1 | d6 | 6 | £3 |
+| Flamethrower | Cone |2d8 | - |1 | 10 | d8 | 30 | £10 |
+The flamethrower uses the standard rules but has a nasty tendency to explode.
+On a Critical Failure the flame is drawn back into the gas tanks,
+which explode for 5d6 damage in a Medium Burst Template.
+Everything caught in the blast has a chance of catching fire.
+The gas tank has a Toughness of 10(2).
+Any Called Shot inflicting a wound causes the tank to explode as above
+| Impaler | 5/10/20 | 2d8+1 | - | 1 | 1 | d8 | 12 | £10 | 2 actions to reload +
+The impaler fires wooden, silver, or cold iron stakes.
+Any creature Shaken by a stake is impaled and suffers a –2 to all actions until
+it or someone else makes a Strength roll to remove the stake
+(–2 for the target counting the penalty for being impaled).
+| Machine Gun | 24/48/96 | 2d8+1 | 2 | 3 | 250 | — | 100 | £50 | may not move
+| Mini-Crossbow | 6/12/24 | 2d4 | 1 | 1 | 1 | — | 3 | £1 | 1 action to reload, usable one-handed
+| Repeating Crossbow | 10/20/40 | 2d6 | 2 | 3 | 36 | d6 | 12 | £15 |
+It has a 36-round gas-fed rotary magazine and comes fitted with a selector switch allowing for
+single shot or fully automatic fire.
+Fitting a new magazine takes one round.
+|===
+
+
+
+
+.Ammunition
+[cols="45%,10%,10%,30%",options="header"]
+|===
+| Ammo | Cost | Weight | Notes
+| Bullets, medium (lead) | 5/50 | £0.25/50 | For a pistol
+| Bullets, large (lead) | 8/50 | £0.50/50 | For a rifle or shotgun
+| Gas cylinder | 8 | £0.50 | For a flamethrower
+| Mini-quarrels (wooden) | 1/10 | £0.10/10 | For a mini-crossbow
+| Quarrels (wooden) | 1/5 | £0.05/5 | For a crossbow
+| Shot and powder (lead) | 5/50 |  £0.10/50 |  For a black powder weapon
+| Stake (wooden) | 1 | £0.05 | For an impaler
+| Trick bolt (binding) | 1 | £0.20 | For a crossbow or mini-crossbow +
+Anyone hit by the bolt doesn’t take damage but is Entangled (Bound with a raise).
+| Trick bolt (grappling) | 1 | £0.20 | For a crossbow or mini-crossbow +
+These crossbow bolts trail a fine strong cable when fired, and
+can be used to scale vertical surfaces or bridge chasms.
+Range is reduced to 3/6/12.
+Anyone hit by a grappling bolt takes 1d6 damage and must make an opposed Strength roll against the damage
+or be caught on the bolt until they take an action to remove it.
+A caught target may be subject to a Push maneuver at the GM’s discretion (or more
+accurately a “Pull” maneuver).
+| Trick bolt (explosive) | 1 | £0.40 | For a crossbow or mini-crossbow +
+These crossbow bolts explode when they hit, causing 2d6 damage in a Small Burst Template.
+Roll deviation normally if the shot misses.
+| Trick bolt (knockout gas) | 1 | £0.40 | For a crossbow or mini-crossbow +
+These crossbow bolts release knockout gas on impact.
+Any living creature within a Small Burst Template (including living supernatural creatures)
+must make a Vigor roll (at –2 on a raise) or fall Incapacitated for 1d6 rounds.
+Others can automatically rouse a sleeping target as an action, but the victim awakens Shaken.
+|===
+
+.Specialty ammo
+====
+Given the proper facilities, most ammunition can be made of special substances, such as cold iron or silver. Double the cost of cold iron ammunition.
+Triple the cost for silver ammunition.
+Rock salt shotgun shells cost the same as normal ammo but do one die type less damage (1–3d4).
+====
+
+.Mundane Equipment
+----
+Item Weight Cost
+Brush or comb 0.5 £0.05
+Bedroll 4 £0.20
+Book (blank, 50 pages) 2 £0.10
+Camera 5 £0.20
+Candles (dozen) 5 £0.25
+Climbing gear 6 £0.50
+Clothing, cheap 5 £0.50
+Clothing, common 5 £1
+Clothing, fine 5 £2+
+Compass 1 £0.50
+Fan 0.5 £0.05
+Flask (ceramic) 1 £0.05
+Flint and steel 1 £0.05
+Graphophone (recorder/player) 10 £7
+Grappling hook 2 £0.25
+Hammer* 5 £0.20
+Holy symbol 4 £1
+Lamp oil* 1 £0.05
+Lantern* 2 £0.15
+Leather satchel 2 £0.10
+Manacles 2 £0.50
+Matches (gross) 0.5 £0.05
+Mirror 0.5 £0.10
+Morphine* 0.5 £0.10
+Pickaxe 5 £1
+Pocketbook 0.5 £0.05
+Pocket watch 0.5 £1
+Repeating crossbow magazine 8 £1
+Riding gear (saddle etc.) - £1
+Rope, hemp (10 feet) 2 £0.05
+Rope, silk (10 feet) 1 £0.10
+Ruhmkorff’s Apparatus 5 £5
+Scroll case 1 £0.05
+Shovel 5 £1
+Smoking Pipe 0.5 £0.05
+Spyglass or field glasses 1 £1
+Sunglasses 0.5 £0.20
+Toolkit* 5 £5
+Item Weight Cost
+Torch* 1 £0.05
+Travel bag 2 £0.20
+Umbrella 2 £0.40
+Voltaic cell* 1 £0.05
+Whistle 0.5 £0.05
+Winter blanket 5 £0.15
+Writing equipment 1 £0.25
+Food Weight Cost
+Beer, per 4 pint glasses 4 £0.05
+Meal, common 1 £0.05
+Meal, fine 1 £0.10+
+Cheap rations (1 week) 10 £1
+Champagne, bottle 2 £0.25
+Wine, bottle 2 £0.15
+Gin, bottle 2 £0.10
+Lodging Cost
+Cottage £200
+House £650
+Mansion £999+
+Room furnishings, quality £15+
+Room furnishings, cheap £2
+Cheap tenement, per week £0.10
+Common house, per week £0.25
+Country home, per week £1.5
+Inn, per night £0.05
+Hotel, per night (breakfast included) £0.15
+Luxury hotel, per night (breakfast
+included)
+£1
+Animals Cost
+Camel £4
+Dog, guard (use Wolf stats) £2
+Dog, hunting (Bloodhound) £4
+Horse, riding £5
+Horse, Rippers £7
+Vehicles Cost
+Armored wagon £25
+Bicycle £1
+Carriage £20
+Hansom cab £10
+Hansom cab (rent/day) £0.05
+Steam launch £50
+----
+
+.Armor for Rippers
+[cols="20%,15%,10%,15%,10%,30% ",options="header"]
+|===
+| Item | Armor | Min Str | Weight | Cost | Notes
+| Boilerplate | +3 (torso), +1 (arms and legs) | d10 | 30 | £4 |
+These heavy steel plates provide reasonable protection against firearms,
+but soon dent and become useless. Boilerplate must be worn in a heavy coat’s lining.
+If an attack does enough damage to penetrate the boilerplate and inflict a wound, roll a die.
+Odd, the boilerplate is ruined and provides no further protection.
+| Chainmail Vest  (torso)| +2 | d6 | 10 | £3 |
+For occasions when a heavy coat does not provide adequate defense,
+Ripper teams can clothe themselves in chainmail vests.
+These vests can be hidden under a heavy coat.
+| Heavy Coat | +1 | d4 | 6 | £2 |
+These long coats are made from stiffened leather.
+| Leather Armor (torso) | +1 | d4| 1 | £1 | A lightweight leather vest
+| Leather Costume (entire body) | +1 | d4| 8 | £3 |
+Some Rippers dress in outlandish skintight leather costumes,
+typically including a leather mask.
+|===
