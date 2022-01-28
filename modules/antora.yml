@@ -1,0 +1,9 @@
+name: savagery
+title: Savage Worlds Content
+version: 1.5.6
+start_page: ROOT:index.adoc
+nav:
+- modules/ROOT/nav.adoc
+- modules/settings/nav.adoc
+- modules/rules/nav.adoc
+- modules/ops/nav.adoc
