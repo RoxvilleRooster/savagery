@@ -1,0 +1,2 @@
+* xref:SWADE_gear_master.adoc[Gear List]
+* xref:wealth_sw.adoc[Wealth]

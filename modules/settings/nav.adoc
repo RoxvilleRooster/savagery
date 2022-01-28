@@ -1,0 +1,5 @@
+* xref:firefly_swade.adoc[Firefly]
+* xref:Savage_Musketeers.adoc[Musketeers]
+* xref:Savage_Three_Rocketeers.adoc[Rocketeers]
+* xref:two_fisted_pulp_SWADE.adoc[Classic Pulp]
+** xref:dtoa_chases.adoc[Pulp Chases]
