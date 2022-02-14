@@ -1,0 +1,403 @@
+
+ [4m/pages/dtoa_chases.adoc[0m
+ 1:3   [33mwarning[0m  'Daring Tales of Adventure      Openly.Titles 
+                Chases' should be in sentence                 
+                case                                          
+ 68:7  [33mwarning[0m  Did you really mean             Vale.Spelling 
+                'Muramasa'?                                   
+ 69:7  [33mwarning[0m  Did you really mean             Vale.Spelling 
+                'Muramasa'?                                   
+ 70:7  [33mwarning[0m  Did you really mean             Vale.Spelling 
+                'Muramasa'?                                   
+ 71:7  [33mwarning[0m  Did you really mean             Vale.Spelling 
+                'Muramasa'?                                   
+ 97:7  [33mwarning[0m  Did you really mean             Vale.Spelling 
+                'Muramasa'?                                   
+
+
+ [4m/pages/Savage_Musketeers.adoc[0m
+ 1:3     [33mwarning[0m  'Savage Musketeers' should be   Openly.Titles            
+                  in sentence case                                         
+ 10:81   [33mwarning[0m  Try to avoid using              Microsoft.We             
+                  first-person plural like 'us'.                           
+ 13:1    [33mwarning[0m  'This is' is an unclear         Openly.UnclearAntecedent 
+                  antecedent                                               
+ 13:30   [33mwarning[0m  Use 'that's' instead of 'that   Microsoft.Contractions   
+                  is'.                                                     
+ 15:44   [33mwarning[0m  Did you really mean             Vale.Spelling            
+                  'Diabolique'?                                            
+ 15:83   [33mwarning[0m  Did you really mean 'Wiggy'?    Vale.Spelling            
+ 17:91   [33mwarning[0m  Use 'that's' instead of 'that   Microsoft.Contractions   
+                  is'.                                                     
+ 19:41   [33mwarning[0m  Did you really mean 'douchey'?  Vale.Spelling            
+ 19:184  [33mwarning[0m  Did you really mean 'fron'?     Vale.Spelling            
+ 24:1    [33mwarning[0m  Write short sentences (less     Openly.SentenceLength    
+                  than 25 words).                                          
+ 55:1    [33mwarning[0m  'This is' is an unclear         Openly.UnclearAntecedent 
+                  antecedent                                               
+ 55:6    [33mwarning[0m  Use 'isn't' instead of 'is      Microsoft.Contractions   
+                  not'.                                                    
+ 61:52   [33mwarning[0m  Use 'they're' instead of 'they  Microsoft.Contractions   
+                  are'.                                                    
+ 61:216  [33mwarning[0m  Use 'they're' instead of 'They  Microsoft.Contractions   
+                  are'.                                                    
+ 63:10   [33mwarning[0m  Use 'shouldn't' instead of      Microsoft.Contractions   
+                  'should not'.                                            
+ 65:1    [33mwarning[0m  Consider using 'whether'        Microsoft.Wordiness      
+                  instead of 'Whether or not'.                             
+ 65:1    [33mwarning[0m  Write short sentences (less     Openly.SentenceLength    
+                  than 25 words).                                          
+ 67:97   [33mwarning[0m  Use 'isn't' instead of 'is      Microsoft.Contractions   
+                  not'.                                                    
+ 67:253  [33mwarning[0m  Consider removing               Microsoft.Adverbs        
+                  'Fortunately'.                                           
+ 67:299  [33mwarning[0m  Use 'don't' instead of 'do      Microsoft.Contractions   
+                  not'.                                                    
+ 67:378  [33mwarning[0m  Possible future tense.          Openly.FutureTense       
+ 72:66   [33mwarning[0m  Did you really mean 'sliy'?     Vale.Spelling            
+ 73:91   [33mwarning[0m  Use 'they're' instead of 'they  Microsoft.Contractions   
+                  are'.                                                    
+ 76:48   [33mwarning[0m  Consider removing 'Generally'.  Microsoft.Adverbs        
+ 80:1    [33mwarning[0m  Write short sentences (less     Openly.SentenceLength    
+                  than 25 words).                                          
+ 82:215  [33mwarning[0m  Did you really mean             Vale.Spelling            
+                  'entendre'?                                              
+ 89:14   [33mwarning[0m  Consider removing 'quickly'.    Microsoft.Adverbs        
+ 90:41   [33mwarning[0m  Possible future tense.          Openly.FutureTense       
+ 92:1    [33mwarning[0m  Write short sentences (less     Openly.SentenceLength    
+                  than 25 words).                                          
+ 92:55   [33mwarning[0m  Possible future tense.          Openly.FutureTense       
+ 92:55   [33mwarning[0m  Use 'won't' instead of 'will    Microsoft.Contractions   
+                  not'.                                                    
+ 92:115  [33mwarning[0m  Use 'can't' instead of          Microsoft.Contractions   
+                  'cannot'.                                                
+ 92:146  [33mwarning[0m  Use 'it's' instead of 'it is'.  Microsoft.Contractions   
+ 93:15   [33mwarning[0m  Don't start a sentence with     Openly.So                
+                  'so '                                                    
+ 98:9    [33mwarning[0m  Don't start a sentence with     Openly.ThereIs           
+                  'There is'                                               
+ 98:91   [33mwarning[0m  Use 'haven't' instead of 'have  Microsoft.Contractions   
+                  not'.                                                    
+ 99:3    [33mwarning[0m  In most cases, use 'from' or    Microsoft.Ranges         
+                  'through' to describe a range                            
+                  of numbers.                                              
+ 99:3    [31merror[0m    Use an en dash in a range of    Microsoft.RangeFormat    
+                  numbers.                                                 
+ 99:92   [31merror[0m    Remove the spaces around ' –'.  Microsoft.Dashes         
+ 100:3   [31merror[0m    Use an en dash in a range of    Microsoft.RangeFormat    
+                  numbers.                                                 
+ 100:3   [33mwarning[0m  In most cases, use 'from' or    Microsoft.Ranges         
+                  'through' to describe a range                            
+                  of numbers.                                              
+ 100:88  [31merror[0m    Remove the spaces around ' –'.  Microsoft.Dashes         
+ 101:27  [33mwarning[0m  Use 'isn't' instead of 'is      Microsoft.Contractions   
+                  not'.                                                    
+ 101:50  [33mwarning[0m  Use 'it's' instead of 'it is'.  Microsoft.Contractions   
+ 101:82  [31merror[0m    Remove the spaces around ' –'.  Microsoft.Dashes         
+ 104:10  [33mwarning[0m  Consider removing 'might'       Openly.Hedging           
+
+
+ [4m/pages/firefly_swade.adoc[0m
+ 1:3      [33mwarning[0m  'Setting Rules for Firefly'     Openly.Titles          
+                   should be in sentence case                             
+ 23:43    [33mwarning[0m  Did you really mean             Vale.Spelling          
+                   'Browncoat'?                                           
+ 25:77    [33mwarning[0m  Inconsistent use of '"'         Openly.QuoteType       
+                   ('smart' mixed with 'dumb')                            
+ 35:27    [33mwarning[0m  Did you really mean             Vale.Spelling          
+                   'Lamoureux'?                                           
+ 35:101   [33mwarning[0m  Consider removing 'really'.     Microsoft.Adverbs      
+ 38:1     [33mwarning[0m  Write short sentences (less     Openly.SentenceLength  
+                   than 25 words).                                        
+ 38:322   [33mwarning[0m  Consider using 'assist'         Openly.Clarity         
+                   instead of 'help'                                      
+ 42:1     [33mwarning[0m  Write short sentences (less     Openly.SentenceLength  
+                   than 25 words).                                        
+ 53:1     [33mwarning[0m  Write short sentences (less     Openly.SentenceLength  
+                   than 25 words).                                        
+ 61:75    [33mwarning[0m  Did you really mean             Vale.Spelling          
+                   'roleplay'?                                            
+ 63:6     [33mwarning[0m  Write short sentences (less     Openly.SentenceLength  
+                   than 25 words).                                        
+ 65:39    [33mwarning[0m  Consider removing 'really'.     Microsoft.Adverbs      
+ 65:142   [33mwarning[0m  Use 'don't' instead of 'do      Microsoft.Contractions 
+                   not'.                                                  
+ 67:189   [33mwarning[0m  Use 'it's' instead of 'it is'.  Microsoft.Contractions 
+ 73:16    [33mwarning[0m  Don't start a sentence with     Openly.So              
+                   'so '                                                  
+ 73:160   [33mwarning[0m  Inconsistent use of '”'         Openly.QuoteType       
+                   ('smart' mixed with 'dumb')                            
+ 82:98    [33mwarning[0m  Consider removing 'generally'.  Microsoft.Adverbs      
+ 92:35    [33mwarning[0m  Did you really mean             Vale.Spelling          
+                   'Lamoureux'?                                           
+ 98:1     [33mwarning[0m  Write short sentences (less     Openly.SentenceLength  
+                   than 25 words).                                        
+ 98:43    [33mwarning[0m  Use 'that's' instead of 'that   Microsoft.Contractions 
+                   is'.                                                   
+ 120:132  [33mwarning[0m  Consider using 'per' instead    Microsoft.Wordiness    
+                   of 'as per'.                                           
+ 120:139  [33mwarning[0m  Punctuation should be inside    Openly.Quotes          
+                   the quotes.                                            
+ 120:139  [31merror[0m    Punctuation should be inside    Microsoft.Quotes       
+                   the quotes.                                            
+ 126:14   [33mwarning[0m  Consider using 'assist'         Openly.Clarity         
+                   instead of 'help'                                      
+ 135:25   [33mwarning[0m  Use 'eg' instead of 'e.g.'      Openly.Punctuation     
+ 135:25   [31merror[0m    Use 'for example' instead of    Microsoft.Foreign      
+                   'e.g.,'.                                               
+ 137:20   [33mwarning[0m  Use 'eg' instead of 'e.g.'      Openly.Punctuation     
+ 137:20   [31merror[0m    Use 'for example' instead of    Microsoft.Foreign      
+                   'e.g.,'.                                               
+ 145:9    [33mwarning[0m  Inconsistent use of '"'         Openly.QuoteType       
+                   ('smart' mixed with 'dumb')                            
+ 171:44   [33mwarning[0m  Use 'weren't' instead of 'were  Microsoft.Contractions 
+                   not'.                                                  
+ 173:40   [33mwarning[0m  Use 'weren't' instead of 'were  Microsoft.Contractions 
+                   not'.                                                  
+ 174:126  [33mwarning[0m  Consider removing 'could'       Openly.Hedging         
+ 176:75   [33mwarning[0m  Did you really mean 'intel'?    Vale.Spelling          
+ 178:50   [33mwarning[0m  Consider removing 'could'       Openly.Hedging         
+ 179:90   [33mwarning[0m  Use 'eg, or ie,' instead of     Openly.Punctuation     
+                   'egr'                                                  
+ 222:37   [33mwarning[0m  Possible future tense.          Openly.FutureTense     
+
+
+ [4m/pages/Savage_Three_Rocketeers.adoc[0m
+ 1:3      [33mwarning[0m  'Savage Three Rocketeers'       Openly.Titles            
+                   should be in sentence case                               
+ 1:16     [33mwarning[0m  Did you really mean             Vale.Spelling            
+                   'Rocketeers'?                                            
+ 12:1     [33mwarning[0m  'This is' is an unclear         Openly.UnclearAntecedent 
+                   antecedent                                               
+ 12:145   [33mwarning[0m  Did you really mean 'Wiggy'?    Vale.Spelling            
+ 14:1     [33mwarning[0m  Write short sentences (less     Openly.SentenceLength    
+                   than 25 words).                                          
+ 14:35    [33mwarning[0m  Consider removing 'could'       Openly.Hedging           
+ 14:115   [33mwarning[0m  Did you really mean             Vale.Spelling            
+                   'Rocketeers'?                                            
+ 14:139   [33mwarning[0m  Possible future tense.          Openly.FutureTense       
+ 14:168   [33mwarning[0m  Did you really mean             Vale.Spelling            
+                   'Rocketeers'?                                            
+ 16:41    [33mwarning[0m  Did you really mean 'douchey'?  Vale.Spelling            
+ 16:184   [33mwarning[0m  Did you really mean 'fron'?     Vale.Spelling            
+ 23:1     [33mwarning[0m  'The Rocketeers' should be in   Openly.Titles            
+                   sentence case                                            
+ 23:5     [33mwarning[0m  Did you really mean             Vale.Spelling            
+                   'Rocketeers'?                                            
+ 24:1     [33mwarning[0m  Did you really mean             Vale.Spelling            
+                   'Rocketeers'?                                            
+ 39:33    [33mwarning[0m  Write short sentences (less     Openly.SentenceLength    
+                   than 25 words).                                          
+ 51:87    [33mwarning[0m  Did you really mean             Vale.Spelling            
+                   'Rocketeers'?                                            
+ 65:135   [31merror[0m    Remove the spaces around ' –'.  Microsoft.Dashes         
+ 89:34    [33mwarning[0m  Did you really mean             Vale.Spelling            
+                   'Rocketeers'?                                            
+ 96:42    [33mwarning[0m  Write short sentences (less     Openly.SentenceLength    
+                   than 25 words).                                          
+ 97:38    [33mwarning[0m  Use 'don't' instead of 'do      Microsoft.Contractions   
+                   not'.                                                    
+ 102:1    [33mwarning[0m  Write short sentences (less     Openly.SentenceLength    
+                   than 25 words).                                          
+ 102:44   [31merror[0m    Remove the spaces around ' —'.  Microsoft.Dashes         
+ 106:1    [33mwarning[0m  Write short sentences (less     Openly.SentenceLength    
+                   than 25 words).                                          
+ 106:57   [33mwarning[0m  Consider removing 'very'.       Microsoft.Adverbs        
+ 106:118  [33mwarning[0m  Use 'doesn't' instead of 'does  Microsoft.Contractions   
+                   not'.                                                    
+ 107:40   [31merror[0m    Remove the spaces around ' —'.  Microsoft.Dashes         
+ 111:1    [33mwarning[0m  Write short sentences (less     Openly.SentenceLength    
+                   than 25 words).                                          
+ 111:1    [33mwarning[0m  Consider using 'to' instead of  Microsoft.Wordiness      
+                   'In order to'.                                           
+ 115:12   [33mwarning[0m  Did you really mean             Vale.Spelling            
+                   'Rocketeers'?                                            
+ 122:75   [33mwarning[0m  Use 'can't' instead of          Microsoft.Contractions   
+                   'cannot'.                                                
+ 126:17   [31merror[0m    Remove the spaces around ' –'.  Microsoft.Dashes         
+ 127:107  [33mwarning[0m  Possible future tense.          Openly.FutureTense       
+ 129:29   [33mwarning[0m  Use 'can't' instead of          Microsoft.Contractions   
+                   'cannot'.                                                
+ 131:49   [33mwarning[0m  Use 'can't' instead of          Microsoft.Contractions   
+                   'cannot'.                                                
+ 138:62   [33mwarning[0m  Don't start a sentence with     Openly.So                
+                   'so '                                                    
+ 147:1    [33mwarning[0m  'This is' is an unclear         Openly.UnclearAntecedent 
+                   antecedent                                               
+ 148:81   [31merror[0m    Remove the spaces around ' –'.  Microsoft.Dashes         
+ 160:90   [31merror[0m    Don't use 'and so on'.          Microsoft.Avoid          
+ 160:94   [33mwarning[0m  Don't start a sentence with     Openly.So                
+                   'so '                                                    
+ 162:1    [33mwarning[0m  Write short sentences (less     Openly.SentenceLength    
+                   than 25 words).                                          
+ 177:76   [33mwarning[0m  Inconsistent use of '”'         Openly.QuoteType         
+                   ('smart' mixed with 'dumb')                              
+ 179:55   [33mwarning[0m  Write short sentences (less     Openly.SentenceLength    
+                   than 25 words).                                          
+ 181:23   [33mwarning[0m  Inconsistent use of '”'         Openly.QuoteType         
+                   ('smart' mixed with 'dumb')                              
+ 182:30   [33mwarning[0m  Inconsistent use of '”'         Openly.QuoteType         
+                   ('smart' mixed with 'dumb')                              
+ 191:70   [33mwarning[0m  Write short sentences (less     Openly.SentenceLength    
+                   than 25 words).                                          
+ 191:70   [33mwarning[0m  Use 'that's' instead of 'That   Microsoft.Contractions   
+                   is'.                                                     
+ 191:172  [31merror[0m    Don't use 'and so on'.          Microsoft.Avoid          
+ 191:176  [33mwarning[0m  Don't start a sentence with     Openly.So                
+                   'so '                                                    
+ 200:75   [31merror[0m    Don't use 'and so on'.          Microsoft.Avoid          
+ 200:79   [33mwarning[0m  Don't start a sentence with     Openly.So                
+                   'so '                                                    
+ 203:26   [33mwarning[0m  Did you really mean 'wil'?      Vale.Spelling            
+ 204:39   [31merror[0m    Remove the spaces around ' –'.  Microsoft.Dashes         
+ 208:66   [33mwarning[0m  Inconsistent use of '”'         Openly.QuoteType         
+                   ('smart' mixed with 'dumb')                              
+ 210:42   [33mwarning[0m  Inconsistent use of '”'         Openly.QuoteType         
+                   ('smart' mixed with 'dumb')                              
+ 212:39   [33mwarning[0m  Use 'can't' instead of          Microsoft.Contractions   
+                   'cannot'.                                                
+ 214:1    [33mwarning[0m  Write short sentences (less     Openly.SentenceLength    
+                   than 25 words).                                          
+ 215:31   [31merror[0m    Remove the spaces around ' –'.  Microsoft.Dashes         
+ 217:43   [33mwarning[0m  Use 'can't' instead of          Microsoft.Contractions   
+                   'cannot'.                                                
+ 220:94   [31merror[0m    Remove the spaces around ' –'.  Microsoft.Dashes         
+ 221:43   [33mwarning[0m  Use 'can't' instead of          Microsoft.Contractions   
+                   'cannot'.                                                
+ 227:45   [33mwarning[0m  Use 'they're' instead of 'they  Microsoft.Contractions   
+                   are'.                                                    
+ 229:155  [31merror[0m    Form a negative number with an  Microsoft.Negative       
+                   en dash, not a hyphen.                                   
+ 232:42   [33mwarning[0m  Use 'can't' instead of          Microsoft.Contractions   
+                   'cannot'.                                                
+
+
+ [4m/pages/two_fisted_pulp_SWADE.adoc[0m
+ 1:1      [33mwarning[0m  'Classic Two-Fisted Pulp        Openly.Titles            
+                   Adventures Using Savage Worlds                           
+                   Adventure Edition' should be                             
+                   in sentence case                                         
+ 1:1      [33mwarning[0m  Grade level (15.00) too high!   Openly.Readability       
+ 11:1     [33mwarning[0m  'This is' is an unclear         Openly.UnclearAntecedent 
+                   antecedent                                               
+ 13:1     [33mwarning[0m  'This is' is an unclear         Openly.UnclearAntecedent 
+                   antecedent                                               
+ 17:56    [33mwarning[0m  Did you really mean 'Wiggy'?    Vale.Spelling            
+ 18:60    [33mwarning[0m  Did you really mean 'Wiggy'?    Vale.Spelling            
+ 19:50    [33mwarning[0m  Did you really mean 'Wiggy'?    Vale.Spelling            
+ 20:56    [33mwarning[0m  Did you really mean 'Skarka'?   Vale.Spelling            
+ 20:66    [33mwarning[0m  Possible future tense.          Openly.FutureTense       
+ 22:15    [33mwarning[0m  Did you really mean             Vale.Spelling            
+                   'Kilquato'?                                              
+ 30:88    [33mwarning[0m  Consider removing 'usually'     Openly.Hedging           
+ 49:1     [33mwarning[0m  Write short sentences (less     Openly.SentenceLength    
+                   than 25 words).                                          
+ 49:1     [33mwarning[0m  Use first person (such as 'I    Microsoft.FirstPerson    
+                   ') sparingly.                                            
+ 49:65    [33mwarning[0m  Use first person (such as ' I   Microsoft.FirstPerson    
+                   ') sparingly.                                            
+ 58:1     [33mwarning[0m  Write short sentences (less     Openly.SentenceLength    
+                   than 25 words).                                          
+ 58:83    [33mwarning[0m  Use 'doesn't' instead of 'does  Microsoft.Contractions   
+                   not'.                                                    
+ 62:234   [33mwarning[0m  Write short sentences (less     Openly.SentenceLength    
+                   than 25 words).                                          
+ 62:345   [33mwarning[0m  Consider using 'during'         Microsoft.Wordiness      
+                   instead of 'for the duration                             
+                   of'.                                                     
+ 73:30    [33mwarning[0m  Use 'that's' instead of 'that   Microsoft.Contractions   
+                   is'.                                                     
+ 76:170   [31merror[0m    Form a negative number with an  Microsoft.Negative       
+                   en dash, not a hyphen.                                   
+ 86:1     [33mwarning[0m  Write short sentences (less     Openly.SentenceLength    
+                   than 25 words).                                          
+ 91:23    [33mwarning[0m  Use 'isn't' instead of 'is      Microsoft.Contractions   
+                   not'.                                                    
+ 110:28   [33mwarning[0m  Use 'don't' instead of 'do      Microsoft.Contractions   
+                   not'.                                                    
+ 128:8    [33mwarning[0m  Use 'don't' instead of 'do      Microsoft.Contractions   
+                   not'.                                                    
+ 135:10   [33mwarning[0m  Did you really mean 'Fisted'?   Vale.Spelling            
+ 152:10   [33mwarning[0m  Use 'don't' instead of 'do      Microsoft.Contractions   
+                   not'.                                                    
+ 164:19   [33mwarning[0m  Use 'eg' instead of 'e.g.'      Openly.Punctuation       
+ 164:19   [31merror[0m    Use 'for example' instead of    Microsoft.Foreign        
+                   'e.g.,'.                                                 
+ 173:42   [33mwarning[0m  Use 'don't' instead of 'do      Microsoft.Contractions   
+                   not'.                                                    
+ 177:26   [33mwarning[0m  Use 'don't' instead of 'do      Microsoft.Contractions   
+                   not'.                                                    
+ 177:90   [33mwarning[0m  Use first person (such as ' I   Microsoft.FirstPerson    
+                   ') sparingly.                                            
+ 177:112  [33mwarning[0m  Use first person (such as ' I   Microsoft.FirstPerson    
+                   ') sparingly.                                            
+ 280:58   [33mwarning[0m  'Martial Artist' should be in   Openly.Titles            
+                   sentence case                                            
+ 319:174  [33mwarning[0m  Did you really mean 'Fisted'?   Vale.Spelling            
+ 402:18   [33mwarning[0m  Did you really mean             Vale.Spelling            
+                   'reskinned'?                                             
+ 411:3    [33mwarning[0m  Did you really mean             Vale.Spelling            
+                   'Spellcasting'?                                          
+ 419:165  [33mwarning[0m  Don't start a sentence with     Openly.So                
+                   'so '                                                    
+ 421:118  [33mwarning[0m  Consider removing 'might'       Openly.Hedging           
+ 421:193  [33mwarning[0m  Don't start a sentence with     Openly.So                
+                   'so '                                                    
+ 421:200  [33mwarning[0m  Consider removing 'could'       Openly.Hedging           
+ 426:13   [33mwarning[0m  Consider using 'per' instead    Microsoft.Wordiness      
+                   of 'as per'.                                             
+ 433:129  [33mwarning[0m  Use 'aren't' instead of 'are    Microsoft.Contractions   
+                   not'.                                                    
+ 435:9    [33mwarning[0m  Did you really mean             Vale.Spelling            
+                   'Psionics'?                                              
+ 437:1    [33mwarning[0m  Use first person (such as 'I    Microsoft.FirstPerson    
+                   ') sparingly.                                            
+ 437:3    [33mwarning[0m  Use 'don't' instead of 'do      Microsoft.Contractions   
+                   not'.                                                    
+ 437:102  [33mwarning[0m  Try to avoid using              Microsoft.We             
+                   first-person plural like                                 
+                   'Let's'.                                                 
+ 449:1    [33mwarning[0m  Try to avoid using              Microsoft.We             
+                   first-person plural like 'We'.                           
+ 449:10   [33mwarning[0m  Consider removing 'likely'      Openly.Hedging           
+ 449:116  [33mwarning[0m  Try to avoid using              Microsoft.We             
+                   first-person plural like 'we'.                           
+ 449:116  [33mwarning[0m  Use 'we're' instead of 'we      Microsoft.Contractions   
+                   are'.                                                    
+ 464:1    [33mwarning[0m  Write short sentences (less     Openly.SentenceLength    
+                   than 25 words).                                          
+ 464:33   [33mwarning[0m  Possible future tense.          Openly.FutureTense       
+ 464:140  [33mwarning[0m  Consider using 'all' instead    Microsoft.Wordiness      
+                   of 'any and all'.                                        
+ 466:89   [33mwarning[0m  Consider removing 'could'       Openly.Hedging           
+ 466:95   [33mwarning[0m  Consider removing 'easily'.     Microsoft.Adverbs        
+ 478:1    [33mwarning[0m  Write short sentences (less     Openly.SentenceLength    
+                   than 25 words).                                          
+ 478:1    [33mwarning[0m  Don't start a sentence with     Openly.ThereIs           
+                   'There are'                                              
+ 478:203  [33mwarning[0m  Use 'they're' instead of 'they  Microsoft.Contractions   
+                   are'.                                                    
+ 481:1    [33mwarning[0m  Did you really mean 'Wiggy'?    Vale.Spelling            
+ 482:49   [33mwarning[0m  Use first person (such as ' I   Microsoft.FirstPerson    
+                   ') sparingly.                                            
+ 482:176  [33mwarning[0m  Possible future tense.          Openly.FutureTense       
+ 482:186  [33mwarning[0m  Consider removing 'likely'      Openly.Hedging           
+ 484:7    [33mwarning[0m  Possible future tense.          Openly.FutureTense       
+ 488:1    [33mwarning[0m  Consider using 'per' instead    Microsoft.Wordiness      
+                   of 'As per'.                                             
+ 488:1    [33mwarning[0m  Write short sentences (less     Openly.SentenceLength    
+                   than 25 words).                                          
+ 488:38   [33mwarning[0m  Use 'that's' instead of 'that   Microsoft.Contractions   
+                   is'.                                                     
+ 490:1    [33mwarning[0m  Write short sentences (less     Openly.SentenceLength    
+                   than 25 words).                                          
+ 492:1    [33mwarning[0m  Write short sentences (less     Openly.SentenceLength    
+                   than 25 words).                                          
+ 494:1    [33mwarning[0m  Punctuation should be inside    Openly.Quotes            
+                   the quotes.                                              
+ 494:1    [31merror[0m    Punctuation should be inside    Microsoft.Quotes         
+                   the quotes.                                              
+ 496:1    [33mwarning[0m  Write short sentences (less     Openly.SentenceLength    
+                   than 25 words).                                          
+
+✖ [31m23 errors[0m, [33m199 warnings[0m and [34m0 suggestions[0m in 5 files.
