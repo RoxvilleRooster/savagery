@@ -16,7 +16,7 @@ Much is borrowed from _All For One: Regime Diabolique_) (Triple Ace Games). Paul
 
 _Flashing Blades_ (Fantasy Games Unlimited) is an old-school historical swashbuckling RPG that is fill of great ideas.
 
-TIP: Pirating RPG content is just plain douchey. Most folks making tabletop RPG products struggle to make a buck. Buy tabletop RPG books from your Friendly Local Area Gaming Store or fron online vendors like xref:https://www.drivethrurpg.com/[DriveThruRPG].
+TIP: Pirating RPG content is just plain douchey. Most folks making tabletop RPG products struggle to make a buck. Buy tabletop RPG books from your Friendly Local Area Gaming Store or from online vendors like xref:https://www.drivethrurpg.com/[DriveThruRPG].
 
 ****
 
@@ -62,14 +62,14 @@ You create a lackey as a regular character, except they are Extras, receive four
 
 A player should not create his own lackey. Another player character builds the lackey and plays him during the game. This allows for the Musketeer to interact with his servant in play without the player talking to himself.
 
-Whether or not the Musketeer has any say in the character generation is up to the individual players—some may ask for a servant with a specific skill set, while others may be happy to take pot luck.
+Whether the Musketeer has any say in the character generation is up to the individual players—some may ask for a servant with a specific skill set, while others may be happy to take pot luck.
 
 A lackey Advances like any other Extra (see Allies and Advancement in SWADE). A lackey who dies is not automatically replaced—the character must use an advance to earn a new lackey. Replaced lackeys begin with the same experience as their predecessor. Fortunately, most villains ignore lackeys who do not attack them. Unless a hero places his lackey in direct danger, villains will always target a player character over the lackey.
 
 The lackey’s basic salary (typically a small sum) is assumed covered by whatever income his master has. Any bonus rewards must come from the Musketeer’s pocket. Typically, a lackey begins with the basic tools needed for his profession, a dagger, and appropriate clothing, though the lackey’s background may alter this.
 
 == Social duels
-A social duel is an exchange of jests, barbed comments, overt or sliy insults, witty slander, and backhanded compliments.
+A social duel is an exchange of jests, barbed comments, overt or sly insults, witty slander, and backhanded compliments.
 The social duel rules are intended for use in social occasions, such as balls and dances; they are not used in standard combat.
 A social duel takes time and requires an audience to witness the exchange.
 
@@ -86,7 +86,7 @@ NOTE: Not every NPC has Taunt. For the purpose of social dueling only, every NPC
 This replaces the Social Conflict Results table in the SWADE core rules.
 Losers of a social duel suffer from a loss of esteem and respect.
 The penalties are removed at the rate of one point per week.
-Word spreads quickly around the realm.
+Word spreads around the realm.
 Any character with a damaged reputation will receive knowing smiles at best, and be mocked by all and sundry at worst.
 Alternately, the loser can demand a duel of blades or pistols. Should he win, the reputation is restored and all penalties removed.
 While the character is suffering a social penalty, he will not be the target of social duels—a damaged reputation cannot be further harmed until it is repaired.
