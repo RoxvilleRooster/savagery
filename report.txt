@@ -30,7 +30,6 @@
  17:91   [33mwarning[0m  Use 'that's' instead of 'that   Microsoft.Contractions   
                   is'.                                                     
  19:41   [33mwarning[0m  Did you really mean 'douchey'?  Vale.Spelling            
- 19:184  [33mwarning[0m  Did you really mean 'fron'?     Vale.Spelling            
  24:1    [33mwarning[0m  Write short sentences (less     Openly.SentenceLength    
                   than 25 words).                                          
  55:1    [33mwarning[0m  'This is' is an unclear         Openly.UnclearAntecedent 
@@ -43,8 +42,6 @@
                   are'.                                                    
  63:10   [33mwarning[0m  Use 'shouldn't' instead of      Microsoft.Contractions   
                   'should not'.                                            
- 65:1    [33mwarning[0m  Consider using 'whether'        Microsoft.Wordiness      
-                  instead of 'Whether or not'.                             
  65:1    [33mwarning[0m  Write short sentences (less     Openly.SentenceLength    
                   than 25 words).                                          
  67:97   [33mwarning[0m  Use 'isn't' instead of 'is      Microsoft.Contractions   
@@ -54,7 +51,6 @@
  67:299  [33mwarning[0m  Use 'don't' instead of 'do      Microsoft.Contractions   
                   not'.                                                    
  67:378  [33mwarning[0m  Possible future tense.          Openly.FutureTense       
- 72:66   [33mwarning[0m  Did you really mean 'sliy'?     Vale.Spelling            
  73:91   [33mwarning[0m  Use 'they're' instead of 'they  Microsoft.Contractions   
                   are'.                                                    
  76:48   [33mwarning[0m  Consider removing 'Generally'.  Microsoft.Adverbs        
@@ -62,13 +58,12 @@
                   than 25 words).                                          
  82:215  [33mwarning[0m  Did you really mean             Vale.Spelling            
                   'entendre'?                                              
- 89:14   [33mwarning[0m  Consider removing 'quickly'.    Microsoft.Adverbs        
  90:41   [33mwarning[0m  Possible future tense.          Openly.FutureTense       
  92:1    [33mwarning[0m  Write short sentences (less     Openly.SentenceLength    
                   than 25 words).                                          
- 92:55   [33mwarning[0m  Possible future tense.          Openly.FutureTense       
  92:55   [33mwarning[0m  Use 'won't' instead of 'will    Microsoft.Contractions   
                   not'.                                                    
+ 92:55   [33mwarning[0m  Possible future tense.          Openly.FutureTense       
  92:115  [33mwarning[0m  Use 'can't' instead of          Microsoft.Contractions   
                   'cannot'.                                                
  92:146  [33mwarning[0m  Use 'it's' instead of 'it is'.  Microsoft.Contractions   
@@ -78,11 +73,11 @@
                   'There is'                                               
  98:91   [33mwarning[0m  Use 'haven't' instead of 'have  Microsoft.Contractions   
                   not'.                                                    
+ 99:3    [31merror[0m    Use an en dash in a range of    Microsoft.RangeFormat    
+                  numbers.                                                 
  99:3    [33mwarning[0m  In most cases, use 'from' or    Microsoft.Ranges         
                   'through' to describe a range                            
                   of numbers.                                              
- 99:3    [31merror[0m    Use an en dash in a range of    Microsoft.RangeFormat    
-                  numbers.                                                 
  99:92   [31merror[0m    Remove the spaces around ' –'.  Microsoft.Dashes         
  100:3   [31merror[0m    Use an en dash in a range of    Microsoft.RangeFormat    
                   numbers.                                                 
@@ -206,10 +201,10 @@
  106:118  [33mwarning[0m  Use 'doesn't' instead of 'does  Microsoft.Contractions   
                    not'.                                                    
  107:40   [31merror[0m    Remove the spaces around ' —'.  Microsoft.Dashes         
- 111:1    [33mwarning[0m  Write short sentences (less     Openly.SentenceLength    
-                   than 25 words).                                          
  111:1    [33mwarning[0m  Consider using 'to' instead of  Microsoft.Wordiness      
                    'In order to'.                                           
+ 111:1    [33mwarning[0m  Write short sentences (less     Openly.SentenceLength    
+                   than 25 words).                                          
  115:12   [33mwarning[0m  Did you really mean             Vale.Spelling            
                    'Rocketeers'?                                            
  122:75   [33mwarning[0m  Use 'can't' instead of          Microsoft.Contractions   
@@ -360,10 +355,10 @@
  449:1    [33mwarning[0m  Try to avoid using              Microsoft.We             
                    first-person plural like 'We'.                           
  449:10   [33mwarning[0m  Consider removing 'likely'      Openly.Hedging           
- 449:116  [33mwarning[0m  Try to avoid using              Microsoft.We             
-                   first-person plural like 'we'.                           
  449:116  [33mwarning[0m  Use 'we're' instead of 'we      Microsoft.Contractions   
                    are'.                                                    
+ 449:116  [33mwarning[0m  Try to avoid using              Microsoft.We             
+                   first-person plural like 'we'.                           
  464:1    [33mwarning[0m  Write short sentences (less     Openly.SentenceLength    
                    than 25 words).                                          
  464:33   [33mwarning[0m  Possible future tense.          Openly.FutureTense       
@@ -400,4 +395,4 @@
  496:1    [33mwarning[0m  Write short sentences (less     Openly.SentenceLength    
                    than 25 words).                                          
 
-✖ [31m23 errors[0m, [33m199 warnings[0m and [34m0 suggestions[0m in 5 files.
+✖ [31m23 errors[0m, [33m195 warnings[0m and [34m0 suggestions[0m in 5 files.
