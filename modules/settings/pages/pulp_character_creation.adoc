@@ -15,15 +15,19 @@ Heroes are humans.
 
 == Skills
 
+Pulp heroes are more capable than most.
+At character creation, they start with 15 skill points.
+
 .Changed skills
-* Electronics is reskinned as Gadgetry
-* Hacking is reskinned as Cryptography
+// * Electronics is reskinned as Gadgetry
+* Hacking is reskinned as Cryptopgraphy + 
+It assumes some knowledge of codes and code breaking (e.g., Morse code) and mathematics
 
 .Removed skills
 * Focus, applies to the Arcane Background (Gifted)
 * Faith, applies to the Arcane Background (Miracles)
 * Language (see the Multiple Languages setting rules in SWADE p 149)
-//* Psionics, applies to the Arcane Background (Psionics)
+* Psionics, applies to the Arcane Background (Psionics)
 * Spellcasting, applies to the Arcane Background (Magic)
 
 == Edges
@@ -32,23 +36,27 @@ Heroes are humans.
 New Powers (SWADE p 47)::
 //An arcane character may learn two new powers by choosing this Edge (which may be taken multiple times). He may choose from any powers of his Rank or lower normally available to his particular Arcane Background.
 //A character can add a new Trapping on a power she already has instead of gaining a new one. She might add an ice Trapping to her existing fire bolt, for example, so she could switch between ice and fire Trappings freely.
-The weird scientist may learn one new power by choosing this Edge (which may be taken multiple times). She may choose from any powers of her Rank or lower that are normally available to Arcane Background (Weird Science).
-This character can also add a new Trapping on a power she already has instead of gaining a new one. For example, she might add an electrical Trapping to her existing freeze bolt, for example, so she could switch between shock and cold Trappings.
+The weird scientist adds *one* new power by choosing this Edge (which may be taken multiple times) _and_ one new power trapping.
+For the new power, the hero may choose from any powers of her Rank or lower that are normally available to Arcane Background (Weird Science).
+For the new trapping, the hero adds an effect to an existing power.
+For example, the player might add an electrical Trapping to her hero's existing freeze bolt; she can then switch between shock and cold Trappings.
 
-=== Removed Edges
-
+.Removed Edges
 * Linguist (as per the Multiple Languages setting rules in SWADE p 149)
 * See <<_arcane_backgrounds>> for other unavailable edges
 // * Arcane Resistance (SWADE p 37) and Improved Arcane Resistance
 // * Giant Killer (SWADE p 42)
 
+[[arcane_bg]]
 === Arcane Backgrounds
 
-Only the Weird Science arcane background is available for heroes. Edges that are associated with unavailable arcane backgrounds are not available to heroes.
+Only the Weird Science arcane background is available for heroes. 
+Edges that are associated with unavailable arcane backgrounds are not available to heroes.
 
 .Why No Psionics?
 ****
-I do not think heroes control the minds of others, wipe others' memories, and project mental blasts. Let's focus on fists, bullets, and car chases and leave the superhuman and supernatural stuff to the big villains.
+In this setting, heroes do not control the minds of others, wipe others' memories, and project mental blasts. 
+Let's focus on fists, bullets, and car chases and leave the superhuman and supernatural stuff to the big villains.
 ****
 
 The unavailable edges are:
@@ -60,7 +68,8 @@ The unavailable edges are:
 
 .Men of Mystery and Street-Level Superheroes
 ****
-We would likely build heroes such as the _The Shadow_ and _Doc Savage_  using **Arcane Background - Gifted**. Here we are focusing on a low-powered, classic pulp adventure game _a la_ the Indiana Jones movies or the Mummy series.
+If we were to build heroes such as the _The Shadow_ and _Doc Savage_, we'd likely be using the Arcane Backgrounds of Gifted or Psionics.
+In this campaign, we are focusing on a low-powered, classic pulp adventure game _a la_ the Indiana Jones movies or the Mummy series.
 ****
 
 
@@ -76,10 +85,7 @@ The following arcane backgrounds are allowed for villains:
 
 Cocky (minor)::
 The character is a braggart and will typically spend the first round of any combat announcing how great he is, or what he's going to do to any and all opponents.
-****
-Cocky is like a minor version of the Overconfident (major) hindrance (SWADE p 26). This could easily be considered as a trapping of the hindrance Quirk (minor).
-****
-
+Cocky is like a minor version of the Overconfident (major) hindrance (SWADE p 26). 
 
 == Powers
 
