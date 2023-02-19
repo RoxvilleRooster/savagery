@@ -65,7 +65,8 @@ The following rules and directions further tune the setting for a classic pulp a
 Before the start of every combat, each hero gets a benny, provided that the benny does not exceed the character's amount of bennies at the session's start. 
 A typical wild card hero has 3 bennies at session start, unless the hero as edges or hindrances that affect starting bennies.
 
-IMPORTANT: A player (GM included) can't have more than 6 bennies in your pile in front of you.
+IMPORTANT: As a player (GM included!), you can't have more than 6 bennies in your stack.
+Spend bennies your bennies and trust that that the bennies will flow back to you.
 
 ==== Be the Hero
 
