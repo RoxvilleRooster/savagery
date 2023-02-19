@@ -4,4 +4,4 @@
 * xref:two_fisted_pulp_SWADE.adoc[Classic Pulp]
 ** xref:pulp_archetypes.adoc[]
 ** xref:pulp_character_creation.adoc[]
-** xref:dtoa_chases.adoc[Pulp Chases]
+// ** xref:_dtoa_chases.adoc[Pulp Chases]
