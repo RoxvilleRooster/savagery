@@ -1,7 +1,8 @@
 name: savagery
 title: Savage Worlds Content
 version: master
-start_page: ROOT:index.adoc
+start_page: settings:two_fisted_pulp_SWADE.adoc
+# start_page: ROOT:index.adoc
 nav:
 - modules/ROOT/nav.adoc
 - modules/settings/nav.adoc
