@@ -1,0 +1,778 @@
+= Campaign for Weird Wars Rome - Beyond the Wall
+:doctype: book
+:toc: auto
+:toclevels: 5
+:sectnums:
+:sectnumlevels: 5
+:sectlinks:
+
+.Disclaimer
+****
+As of February 2023, Pinnacle Entertainment Group has not released a document that supports the conversion of the Weird Wars Rome books from 2013, which was published for the Savage Worlds Explorer's Edition (SWDEE), for the use with Savage Worlds Adventure Edition (SWADE).
+
+This document is not intended as a conversion document for mass consumption by Savage Worlds fans and gamers.
+This was drafted with the intent to support my own Weird Wars Rome campaign that will be played using SWADE.
+
+I encourage Savage Worlds enthusiasts of all stripes to purchase Weird Wars Rome (2013) from the link:https://peginc.com/product-category/weird-wars-rome/[Pinnacle Entertainment Group site]. 
+
+This document features excerpts of that book and is not intended to plagiarize elements from it. 
+It also includes additional content that was adapted from the link:https://peginc.com/savage-settings/savage-pathfinder/[Pathfinder for Savage Worlds] rules set and the link:https://peginc.com/product-category/savage-worlds-companions/fantasy-companion/[Savage Worlds Fantasy Companion].
+****
+
+////
+The campaign focused on a group of Roman soldiers of _Legio VI Victrix_, who are posted to the northern frontier near the end of the second century AD, around the link:https://en.wikipedia.org/wiki/List_of_Roman_emperors#193%E2%80%93235:_Year_of_the_Five_Emperors_and_Severan_dynasty[year of the five emperors].
+
+
+_Legio sexta victrix_ ("Victorious Sixth Legion") was a legion of the Imperial Roman army that was founded in 41 BC by the Emperor Augustus.
+This legion was stationed at Hadrian's Wall at the end of the second century AD.
+
+////
+
+The campaign focuses on a squad of auxiliaries who are attached to the legion link:https://en.wikipedia.org/wiki/Legio_VI_Victrix[_Legio VI Victrix_] ("Victorious Sixth Legion"). 
+This legion was stationed at Hadrian's Wall at the end of the second century AD.
+
+
+.Auxiliary cavalry instead of legionaries
+****
+// Player characters are supposed to be Roman legionaries, but the players have the option of playing a squad of auxiliaries that are attached to a legion. 
+
+//Sarmatian auxiliaries were brought to Britain in the time of Marcus Aurelius (d. 180 CE).footnote:[link:https://en.wikipedia.org/wiki/Roman_cavalry[Roman cavalry], Wikipedia] 
+//____
+//In 175, the Roman emperor, Marcus Aurelius, defeated the Iazyges tribe of Sarmatians. He took them into Roman service and settled 5,500 of them in Britain; some were assigned to the Legio VI Victrix.
+//____
+
+
+At the outset of the campaign, the players play members of a unit of auxiliary cavalry instead of legionaries.
+The _Ala II Asturum_, or second Asturian cavalry unit, was a cavalry unit from the province of Hispania (Spain). 
+After 180 AD, this cavalry unit was based at Cilurnum (Chesters).
+// footnote:[In the 2004 movie link:https://en.wikipedia.org/wiki/King_Arthur_(2004_film)[King Arthur], the protagonists were Sarmatian cavalry attached to a Roman legion around 410 CE.]
+As cavalry, they can engage in irregular operations and have some mobility to get into different types of action. 
+
+As _auxilia_, you are one of the _peregrini_, a free provincial subject of the Empire.
+At the end of 25 years of service in the _auxilia_, you are awarded Roman citizenship.
+****
+
+At the start, you play a soldier who is generally competent but relatively insignificant. 
+You're stationed on the frontier of a land that is far from home, family, and the burial ground of your ancestors.
+
+At the outset, the protagonists are involved in military endeavors. 
+As the story develops, the heroes are exposed to more of the "weird" aspects of the world.
+
+As the arc continues, the protagonists develop a reputation as foes of the sinister forces and allies to those that oppose the evil of the elder gods. 
+Over time, your soldier can rise to that of hero and agent, a member of the Twilight Legion.
+
+// Throughout the campaign, the noble classes vy for power and prestige, tribal factions compete, and faith and religion motivate most.
+
+
+== Creating characters
+
+Use the Weird Wars Rome setting in https://savaged.us/.
+
+Sanity is a derived trait, which functions as mental toughness. 
+See <<#_sanity>>.
+
+Requirements;; Foreigner, Riding d6+, Fighting d6+
+
+.Every soldier is different
+****
+Unlike many other settings, your character begins as a member of the same military unit.
+At first this may seem a somewhat limited choice, but the Roman military still allows for an almost unlimited variety when it comes to building your character. 
+
+One soldier might be a feisty, naive adventurer; another may be a man of high birth who is running from a dark past; another may be a gregarious carouser and notorious brawler; another, a skilled combatant who is passionate about mosaics. 
+
+There is nothing to prevent a solider being a gambler, explorer, hunter, horse trainer, "reformed" thief, messenger, casual occultist, curious scholarly type, or scientific-minded fellow. 
+There's no such thing as a standard legionary or auxiliary.
+// Choose the archetype that most appeals to you (or that will fit best with the other characters) and put your own spin on it. 
+// There are many different archetypes; the ones most common to All for One are listed below. 
+// Feel free to come up with one of your own if none of these suit you, but make sure to get your Gamemaster's approval first.
+****
+
+
+.Motivations and goals
+****
+
+____
+So what is my motivation? What am I doing here? Why do I care?
+____
+
+.Goals for honor and reputation 
+* Increase/maintain 
+** personal honor
+** family honor 
+** military unit's honor
+* Avoid or conceal dishonor
+
+.Long-term goals 
+* Survival (e.g., to retirement)
+* Return to your family
+* Obtain wealth
+* Serve the gods and spirits of your belief system (e.g., the spirits of your ancestors, Mithras, the Christian God)
+
+.Short-term goals
+* Stay alive
+* Stay sane
+* Enjoy life
+
+.Twilight legion goals
+* Hold back the forces of darkness
+* Understand the secrets you were not meant to know
+* Understand what plots are at work beyond the mundane
+
+****
+
+=== Language
+
+Characters who hail from Hispania speak Latin as their native tongue.
+
+=== Gear
+
+Members of the _auxilia_ cavalry have the following standard equipment.  
+
+Equipment;; Scale mail, metal helmet, hasta (spear) and clipeus (medium shield), spatha (long sword), riding horse with scale barding.
+
+=== Skills
+
+.The following skills are not available to player characters in this setting:
+* Electronics
+* Hacking
+* Focus
+* Piloting
+* Psionics
+* Spellcasting
+* Weird Science
+
+The Driving skill is used for the use of animal-drawn wheeled vehicles, such as chariots. 
+
+=== Edges
+
+The following edges are not available to player characters in this setting (though some
+may become available later on): 
+Adept, Arcane Background (Any), Champion, Holy/Unholy Warrior, Martial Artist, Mr. Fix It, Rich, Rock and Roll. 
+Edges which list any of the above as requirements are also off-limits.
+
+A few other edges have changed slightly to better fit the setting. 
+
+
+==== Background edges
+
+Campaign Veteran::
+As a Background Edge, it may only be taken at character creation, and you must have the GM's permission to take it. 
+Your soldier begins play at Seasoned Rank to represent his years of military service. 
+Start with a standard Novice character, then give him four Advances.
+The price for this experience is that the advancements must be repaid. 
+The first 4 Advances your hero earns are forfeited to "pay back" the debt.
+Requirements;; Novice, Smarts d6+, Spirit d6+, Vigor d8+, Fighting d8+, Athletics d6+
+
+
+Military Family::
+The hero's father was a career soldier who rose to the ranks of centurio (or higher with the GM's permission) or legatus (for parents with the Equestrian or Military Family Edge). 
+He begins the game with a d4 in Fighting, Battle, Riding, or Athletics (player's choice).
+In addition, he has +1 Persuasion when dealing with officers of centurio rank and above and to promotion rolls because of his father's reputation.
+Should he fail to live up to his father's deeds (GM's discretion), he suffers a -2 penalty to Persuasion until he makes amends.
+Requirements;; Novice
+
+Equestrian/Patrician (Aristocrat)::
+Rome's social elites were Patricians (Senatorials) and Equestrians (knights). 
+// (Commoners were called plebians, or plebs).
+Such individuals have +2 to Persuasion trait rolls when they are dealing with those of lesser station in the Roman world.
+Most aristocrats have small estates that provide income (in game terms, the character wants for nothing reasonable) and somewhere to go when not on active service. 
+Aristocrats may also find themselves subject to political maneuvers instigated both back in Rome or within the upper echelons of his legion.
+Requirements;; Novice 
+
+==== Combat edges
+
+Blood and guts::
+The character ignores Fear tests caused by gore, and adds +1 to damage in bloody hand-to-hand combat.
+Requirements;; Veteran
+
+Combat sense::
+Opponents halve any Gang Up bonuses against you (round down).
+Requirements;; Seasoned, Fighting d8+, Notice d8+
+
+Improved combat sense::
+Opponents gain no Gang Up bonus against you.
+Requirements;; Veteran, Combat Sense
+
+Mighty throw::
+The character increases the range brackets of thrown weapons by +1/+2/+4. 
+He also causes an extra +1 damage when using thrown weapons at targets _within short range_.
+Requirements;; Seasoned, Strength d8+, Athletics d10+
+
+Formation fighter::
+The character increases the Gang Up bonus by an additional +1 for himself and his allies. 
+The maximum Gang Up bonus is still +4 no matter how many Formation Fighters stand together. footnote:[The "Formation Fighter" edge appears in Savage Worlds Fantasy Companion and was not part of Weird Wars Rome.]
+Requirements;; Novice, Fighting d8+
+
+Shield wall::
+Legionaries with the Shield Wall edge and a shield add +1 to each adjacent man's Parry if that man has the Edge (and a shield) as well. 
+The maximum bonus for this Edge is +2 (if there is one man to the left and right), and stacks with any Parry bonuses for the shields or weapons they hold.
+Requirements;; Novice, Roman Legionary
+
+==== Leadership edges
+A few good men::
+When the GM checks to see which of the commander's Extras are alive or dead after a fight, he may reroll any failures. 
+This Edge affects up to 12 men; it does not stack if multiple characters have the ability.
+If the leader is the overall commander in a Mass Battle, roll a d6 whenever a token is lost. 
+On a 6, the token isn't lost.
+Requirements;; Heroic, Smarts d8+, Battle d10+, Command, Inspire
+
+Cry havoc!::
+Once per Mass Battle, during the Battle Roll Phase, the hero may “Cry Havoc” — perhaps by ordering a certain group of his troops to charge or by inspiring them with his command. 
+He must do this before he rolls his battle die. 
+If he succeeds in his roll and beats his opponent, his enemy loses one extra token.
+Requirements;; Veteran, Spirit d8+, Battle d10+, Command, Fervor
+
+Death before dishonor::
+The character has led his army to many victories and the men have come to accept retreat as a stain on their honor. 
+The leader adds +2 to Spirit rolls when rolling for Morale in a Mass Battle.
+Requirements;; Veteran, Spirit d6+, Command, Hold the Line
+
+Fanaticism::
+Troops under command of a character with this edge add +2 to Fear checks.
+Requirements;; Seasoned, Command, Persuasion d8+
+
+==== Professional edges
+
+Aquilifer::
+The aquilifer is a veteran soldier charged with carrying the legion's standard (_aquila_ or eagle) and keeping it safe.
+The character has _immunis_ when making camp, and when the aquila is carried the aquilifer gains the benefits of one Leadership Edge of his choice, though he must meet all the requirements. 
+He may only choose and use one such Edge per session. 
+His command range is equal to 5".
+For each of the following edges he takes, add +1" to the signifier's command range: 
+
+* Charismatic
+* Work the Room
+* Work the Crowd   
+// footnote:[What modifiers affect this range? Maybe the Charismatic edge?] 
+Requirements;; Seasoned, Spirit d10+, Fighting d10+
+// plus his Charisma modifier.
+
+Hardened::
+The soldier regains one extra point of Sanity during “down time.” 
+This is usually between missions, is entirely at the GM's discretion, and is in addition to any he might gain for other reasons.
+Requirements;; Seasoned
+
+Medicus (medic)::
+If the character with this edge can get to a wounded non-Wild Card by the end of the round in which he was wounded, he can make an immediate Healing roll at -2. 
+If the roll is successful, the victim is just Shaken instead of wounded.
+Requirements;; Novice, Healing d6+
+
+Rank (decanus or tribune)::
+The the character with this edge can lead others in combat. 
+They are also responsible for those under their command. 
++ 
+NOTE: Those who achieve rank through promotion do not automatically get the effects of the edge, but may purchase it with an advance once promoted.
++ 
+The Rank edge doubles the character's command range from 5' to 10" (or from 10" to 20" if he also has Command Presence). + 
+A character created with this edge begins as a _decanus_ if he is to lead common legionaries.
+If the GM allows, a character who also has the Equestrian/Patrician or Military Family Edge may be a tribune instead. + 
+Tribunes rank above centurions but are rarely given command of centuries or larger unless they have the skill to lead it (typically the Battle skill at d6 or higher).  
+This rank is usually only appropriate if the player characters are a command group either led by or composed of tribunes.
+
+Requirements;; Novice, Fighting d6+, Command
+
+
+Signifer::
+Each century has a _signum_, which is a spear shaft that is decorated with the century's awards. On top of the shaft is an open hand; the hand symbolizes the oath of loyalty that all soldiers take. 
+The soldier who carries the _signum_ is the _signifer_. 
+The _signum_ is a rallying point during battle.
+A signifer has immunis when making camp and +1 bonus to Persuasion rolls among his century.
+When he carries the signum, the players of the signifer can select one Leadership edge; the character must have all of the requirements for the edge. 
+He may only choose and use one such Edge per game session.
+Requirements;; Novice, Smarts d6+, Spirit d6+, Fighting d8+
+// The signifer also ran a “burial club,” and collected payments from the men to ensure they had a decent burial.
+
+Sticky fingers::
+The soldier adds +2 to Common Knowledge rolls made to look for Spoils.
+Requirements;; Novice
+
+==== Social edges
+
+Band of brothers::
+Characters with this Edge gain +1 Toughness for each other “brother” with this ability within 6”, to a maximum of +4. 
+For example, if four soldiers with this edge stand together, they each gain +3 Toughness.
+Requirements;; Wild Card, Veteran, Common Bond
+
+==== Arcane backgrounds
+
+Arcane Background (Cult of Mithras):: 
+*Requirements*: Seasoned, Faith d4+, Spirit d6+, Fighting d6+ + 
+*Arcane Skill*: Faith (Spirit) + 
+*Power Points*: 10 + 
+*Starting Powers*: 2 + 
+*Backlash*: When a priest of Mithras rolls a 1 on his Faith die, he's Shaken. + 
+*Trappings*: No visible effects beyond a slight yellowish glow. + 
+*Powers List*: 
+// * Armor
+* Arcane Protection
+* Banish
+* Boost/lower trait
+* Confusion
+* Deflection
+* Detect/conceal arcana
+* Dispel
+* Divination
+* Drain Power Points
+* Environmental protection
+* Farsight
+* Fear
+* Havoc
+* Healing
+* Light (of Light/Darkness)
+// * Pummel
+// * Quickness
+* Protection
+* Relief
+* Smite
+* Speak language
+* Speed (of Sloth/Speed)
+// * Speed
+* Stun
+// * Succor
+
++
+*Special rules*: + 
+_Sins_: + 
+Priests of Mithras are subject to the usual rules for sinning described in Savage Worlds.
+In their case, minor sins are retreating from battle unless it's it is certain suicide. 
+A major sin is shirking battle — particularly with a deserving foe or creature of darkness. 
+Working with evil is a mortal sin.
+
+
+=== Hindrances
+
+
+The following hindrances are only suitable with the GM's consent: 
+Elderly, Hard of Hearing (Major), Obese, One Arm, One Eye, One Leg, Outsider, Small, Wanted, and Young.  
+// #Review of SWADE#
+In addition, the hindrance Outsider (SWADE) is replaced by _Foreigner_.
+
+The SWADE hindrance Hesitant replaces the Slow hindrance, which was defined in Weird Wars Rome. 
+
+Doubting Thomas (Major)::
+Besides the description presented in Savage Worlds, Doubting Thomases are just not prepared to deal with the mind-twisting realization that these horrors could actually be real. 
+Characters with this Hindrance suffer double Sanity loss. 
+On the plus side, they start with a Sanity of +2.
+
+Foreigner (Major / Minor)::
+The character isn't a Roman citizen. She may come from outside the Roman provinces or belong to a subjugated people.
+He can't be a legionary, but he may serve as a medicus, auxilia, speculatore, or similar character type.
+As a Minor Hindrance, the Foreigner is a Greek (the only other civilization Rome truly respected).
+He suffers -2 Persuasion with "proper" Romans but begins the game with the ability to speak Latin and his native tongue.
+As a Major Hindrance, the character is from outside Rome or its recognized and civilized provinces. 
+These foreigners have -2 Persuasion with "true" Romans and cannot reroll Persuasion trait rolls.
+These characters are often sacrificed by their commanders as diversions, distractions, or to cover the retreat of the legions. 
+All _auxilia_ are therefore Foreigners in a Romano-centric campaign.
+Foreigners of either stripe can't own slaves or serve in the legions. 
+Besides the disadvantages listed above, Foreigners may be called on to use their local knowledge to serve the empire, perhaps betraying their own people.
+
+Replacement (Minor)::
+Not every young soldier has this hindrance - only those who take a little longer to adjust to the realities of war.
+Do not deal this character an Action Card on the first round of any combat (that is, every combat is a surprise). 
+In addition, the soldier has a -2 penalty for Notice rolls made to detect ambushes or booby traps; he also suffers the -2 penalty to most Common Knowledge rolls related to military operations.
+The replacement is often assigned the worst duties.
+Of course, the soldier doesn't stay new forever.
+After each relatively active month of service, the hero makes a Smarts roll at -2. 
+If the roll is successful, he drops one group of penalties - either the Action Card penalty or the -2 to Notice and Common Knowledge rolls. 
+He may roll again after another active month to rid himself of the other penalty, at which point he's no longer a replacement.
+Shirker (Minor)::
+This soldier procrastinates and actively tries to dodge any sort of work, or tries to get someone else to do it for him. 
+When forced into doing something, he attempts to finish whatever he's doing as quickly as possible.
+Shirkers suffer -2 to Promotion rolls. 
+His reputation for being lazy may not sit well with his companions or superior officers, so he has a -2 to his Persuasion with them.
+
+
+
+
+== Setting rules
+
+The following are "character-facing" setting rules.
+
+NOTE: Setting rules for naval combat, sieges, travel, the _tetsudo_ formation, and volley fire still apply but are not discussed here. 
+
+=== Betrayal
+
+Characters may not Soak Wounds caused by The Drop,
+nor may they spend Bennies to resist a Knockout Blow.
+See the Savage Worlds Fantasy Companion for more information.
+
+=== Sanity
+
+Sanity is a derived trait that monitors your character's mental health and resilience. 
+A soldier's starting Sanity is 2 plus half his Spirit die
+type unless modified by edges and hindrances.
+
+If a character increases his Spirit after character generation, it increases Sanity by one point as
+well.
+As a character faces various horrors, his Sanity may change. 
+If his current Sanity reaches 0, he suffers a Disorder. 
+// The War Master has the specific effects on page 51.
+
+==== Madness
+
+Every time a Fear test is failed, the character suffers the usual effects _and_ also loses a point of Sanity
+(or two with a critical failure).
+
+Recovery:: 
+If a character has at least one point of Sanity and goes two game months without losing any more, he regains 1 point of Sanity. 
+He may also spend Spoils to recover Sanity (see <<#sanity_recover,Indulgence>>).
+When Sanity reaches 0, the soldier cannot recover normally. 
+He must spend time in a sanctum of some sort, such as a temple or famous philosopher's home. 
+At the end of each month, he may make a single Smarts roll at -2 (reflecting the primitive stage of psychology in this era). 
+If successful, he removes one of his Disorders (see <<#disorder_table>>). 
+If he removes all of his Disorders, he gains a point of Sanity instead and may then recover normally.
+
+Over the Edge:: 
+If a character Sanity slips too far, he can become dangerously unhinged. 
+Characters with a Sanity of 1 or 2 are noticeably odd. 
+People don't feel comfortable around them and they have a hard time fitting in.
+Should a character's Sanity drop below 0, he must roll on the Disorders Table. 
+If duplicate results are rolled, the problem becomes worse.
+Sanity cannot drop below 0, but each time it would, the character suffers a new Disorder instead.
+
+[[disorder_table]]
+.Disorders
+[cols="15%,85%",options="header"]
+|===
+| d20 | Result
+| 1-3 a| 
+Superstitious:: 
+Your character has found something that helps him deal with the terrors he faces. 
+Pick a simple routine or object to be the focus of this disorder. 
++ 
+As long as the focus is undisturbed, this soldier can function normally. 
+If the focus is lost or disturbed his trait rolls are modified by -1 for this mission.
+| 4-6 a| 
+Thousand-Yard Stare::
+The distant look in this soldier's eyes speaks volumes about the horrors he's seen. This soldier makes all his Notice rolls at -2.
+| 7-8 a|
+Flashbacks:: 
+This legionary is overwhelmed by images of past battles and dead comrades. 
+In combat, images flash through his mind, confusing the past with reality. 
+He must make a Spirit test at -4 or gain the Hesitant hindrance for the remainder of the battle.
+| 9-10 a|
+Distant:: This legionary has been through many units and many comrades in the course of his career. 
+He finds it difficult to form relationships. Viewed as a bit of a wet blanket in the best
+situations, this soldier suffers a -2 penalty to his Persuasion and cannot spend a benny to reroll a Persuasion check.
+| 11-12 a| 
+Night Terrors:: 
+This character has been traumatized by past events and cannot sleep properly without some kind of sedative. 
+As a result, the individual is permanently tired. 
+When it is important to sleep, a failed Vigor roll (-2) means this character cannot.
+| 13-14 a|
+Addiction:: 
+Many legionaries deal with their mental pain and stress with strong wine or other narcotics.
+The character has a Major Habit Hindrance.
+| 15-16 a|
+The Shakes:: 
+During combat or anytime the character is under stress (determined by the GM) his hands start shaking, reducing all Agility and Agility-related skill rolls by -2.
+| 17-18 a| 
+Paranoia:: 
+This legionary has seen things in the course of his duty that his superiors have refused to explain. 
+He feels that every unexplained or odd action has a deeper meaning and goes to great lengths to fit them into his skewed perception of the world around him. 
+He gets the Major Delusional hindrance, as well as a -2 to his Persuasion.
+| 19-20 a| 
+Blood Lust:: 
+Bloody battle has awakened a strange lust within this veteran. 
+He has the Bloodthirsty hindrance and a Minor Habit for killing.
+
+|===
+
+
+// [[awards_honors]]
+=== Awards and honors
+The individual battle honors can be won. 
+When any major awards is first granted, the character receives one advance. 
+When worn, the legionary adds +2 to his Persuasion (+4 for the _corona graminea_).
+
+==== Greater awards
+
+Corona Muralis:: 
+Awarded to the first soldier to scale the walls of a besieged enemy fortification.
+// Despite its name, the Mural Crown was made of gold shaped to resemble battlements. 
+// It was awarded to the first soldier to scale the walls of a besieged enemy fortification.
+Corona Navalis::
+Awarded to the first soldier to board an enemy ship during combat.
+// The Naval Crown was bestowed upon the first soldier to board an enemy ship during combat.
+Corona Civica:: 
+Awarded to soldiers who saved the lives of their fellow soldiers (a minimum of a _contubernium_) in the face of the enemy. 
+Recipients are required to wear it at all civic functions.
+// The Civic Crown was awarded to soldiers who saved the lives of their fellow soldiers (a minimum of a contubernium) in the face of the enemy. 
+// Recipients are required to wear it at all civic functions.
+Corona Graminea:: 
+Awarded to soldiers (usually of _centurio_ rank or higher) whose actions saved an entire legion.
+Recipients of this award draw one additional Benny per session (this stacks with Luck).
+// The Grass Crown was woven from the grass of the battlefield, and is awarded to soldiers (usually of centurio rank or higher) whose actions saved an entire legion.
+// In addition to the bonuses listed for all awards above, recipients of a corona graminea draw one additional Benny per session (this stacks with Luck).
+Triumph:: 
+To be awarded a triumph (parade) the soldier had to be a _legatus_, have scored a victory over a significant foreign power, and be an elected magistrate.
++ 
+Should a character be awarded a triumph, he gains a point of Conviction and gains an extra advance, and makes many powerful friends and enemies.footnote:[For "making many powerful friends and enemies", there may need to be some mechanic with reputation/glory/renown.]
++
+NOTE: This award is out of reach of most characters.
+
+// The greatest honor Rome could bestow on a soldier was a triumph (parade) through the streets of Rome. 
+// To qualify for this honor, the soldier had to be a legatus (which rules out most characters), have scored a victory over a significant foreign power, and be an elected magistrate. 
+// He also had to bring the army back to Rome, indicating the campaign was over and the legion was no longer required in the engagement. 
+// Should a character be awarded a triumph, he gains a permanent +2 bonus to Charisma, gains +5 Experience Points, draws an additional Benny per session, and makes many powerful friends and enemies.
+// Characters who march in their commander's triumph draw an additional Benny per session for the next three sessions and gain +2 Charisma for the next month.
+
+==== Lesser awards
+
+Minor awards and honors can be earned for distinguishing oneself in military action. 
+
+.Examples of lesser awards include:
+* _armillae_ (armbands)
+* _phalerae_ (sculpted discs worn on armor during parades)
+* golden cups
+* silver flags
+
+These items count as a Spoil that the legionary can use (i.e., "cash in") once.
+The legionary does not lose his award once spent, but he can't gain any other benefit from it.
+
+After a Wild Card engages in an authorized conflict under the command of a superior officer, roll a d20. 
+On a result of 20+, the character's actions earned distinction and he gains a lesser award as above.
+
+Apply the following modifiers to the d20 roll.
+
+.Award modifiers
+[cols="30%,70%",options="header"]
+|===
+| Modifier | Event
+| +1 | Saved the life of a non-citizen ally
+| +1 | Saved the life of a fellow soldier
+| +1 | Saved the life of a superior officer
+| +1 | Defeated 3+ Extra foes without aid
+| +2 | Defeated a Wild Card foe without aid
+| +4 | Defeated a Wild Card opposing leader without aid
+| +2 | Exemplary actions viewed by more than one superior (per superior)
+|===
+
+=== Promotion
+
+When a character receives an award, roll a d20 and add +2 for each Leadership edge he possesses and a bonus equal to the Persuasion modifier that his combined awards grant him. 
+He may also add +1 for each Spoil he cares to "share" to ensure that he's noticed by his superiors or those around him.
+On a roll of 20 or higher, the character has distinguished himself. 
+If there's an opening and the GM allows it, he's promoted a rank (with all the responsibility the rank entails). 
+
+NOTE: The character does not get the Rank edge for free, but may choose it as an advance, ignoring the Command edge requirement.
+
+If a spot isn't available or an advance in rank isn't appropriate, the character instead receives 1d4+1 Spoils as a reward for service.
+
+A character who starts as a legionary cannot rise above _primi ordino_ rank without enlisting for a second tour; most will likely never rise above _optio_. 
+See <<#_military_ranks>>.
+
+
+
+=== Spoils
+
+Spoils are treasures legionaries collect beyond their normal pay.
+Spoils is an abstraction and represent a somewhat random assortment of coins, jewelry, objects of art, or even money from captives sold to bands of slavers who always followed the legions on campaign. 
+
+The GM provides the players tokens to track their Spoils.
+
+Each Spoil weighs two pounds and must be carried and watched  like all other gear. 
+
+A character can spend a Spoil on any of the actions below when appropriate and with the GM's permission.
+Each action costs one Spoil, does not stack with itself, and generally cannot be repeated for at least a month of game time.
+
+Blessing:: 
+The character makes a donation to the local temple or priest of his chosen deity.
+He adds +1 to Spirit and all Spirit-based rolls for the next game month.
+Carousing:: 
+While on leave, the soldier parties hards. 
+He gains a Benny that may be saved between sessions until used.
+Celebrated::
+The soldier finds someone who is willing to tell the stories of the soldier's prowess and success.
+The soldier becomes a minor celebrity in a specific and limited place (e.g., quarter of a city, limited territorial region). 
+He receives a +1 to Persuasion rolls if a target is friendly and knows who he is (a Common Knowledge roll modified by how likely the individual is to know the celebrity).footnote:[This functions like a more limited Fame edge from SWADE p39.]
+////
+Experience:: 
+Occasionally a legionary might find a veteran willing to share his tales and tactics — for a price. 
+The legionary gains an Experience Point. #Need to revise#
+////
+// This sounds like it should be related to a glory, renown, or reputation mechanic
+_Immunis_:: 
+The soldier pays a superior to grant him immunity from camp work for a week if on the march, or a month if in camp.
+[[sanity_recover]]
+Indulgence:: 
+The character spends a Spoil on something meaningful—helping someone less fortunate or a personal interest. 
+This strengthens his mental resolve and recovers one lost point of Sanity.
+Rest and Recuperation:: 
+If the soldier has been stricken with a disease, illness, or Fatigue, he may spend a spoil to get the best medical care, unguents, and medicines. 
+With a successful Vigor roll, all Fatigue and illness is removed.
+No refund is due if the roll is failed.
+
+=== New combat maneuver: Desperate Attack
+The character unleashes a frantic attack that focuses on hitting a target at the expense of damage. 
+He adds +2 or +4 to any Fighting roll and subtracts the corresponding amount from damage if the hit is successful. 
+This can be determined per attack (before rolling); it can't be combined with the Wild Attack combat maneuver. footnote:[The "Desperate Attack" maneuver appears in Savage Pathfinder core rules and the Savage Worlds Fantasy Companion and was not part of Weird Wars Rome.]
+
+[appendix]
+== Military structure
+
+The core of each legion was made up of full-time, highly disciplined, professional soldiers. Rome had a varying number of legions over the years, ranging from four to as many as 60. Numbers in parentheses are the typical number of legionaries within the individual formations during the late Republic and early Imperial eras (see the sidebar on page 8 for the early Republic).
+In general, 10 _contubernii_ make up a century, six centuries make up a cohort, and ten cohorts make up a legion.
+
+Contubernium (8):: 
+The smallest group within the legion was the "tent group", made up of eight soldiers. 
+The name comes from the fact that each contubernium shared a single tent when on the march. Each unit also shared a millstone and cooking pot, carried by a mule assigned to the unit.
+Century (80):: 
+Despite the name, a century was usually formed of 80 actual soldiers and 20
+noncombatant cooks and other servants. 
+Led by a centurio (centurions), it was broken down into 8-10 contuberniums. 
+Each century had a _signum_, a standard which served as a rallying point and carried their battle honors.
+Cohort (480):: 
+Six centuries made a cohort, the largest formation within a legion. 
+Each cohort was led by a pilus prior, a senior centurio. 
+The first cohort is double strength (800—960 men depending on period), made up of six 160-man centuries.
+Legion (5280—6000):: 
+Ten cohorts made a legion. 
+Each legion had a single standard, the _aquila_ (eagle). 
+This carried the legion's battle honors and was highly revered. 
+Loss of the aquila could lead to the legion being disgraced and disbanded.
+
+[appendix]
+== Auxiliaries
+
+As well as legionaries, each legion was supported by _auxilia_, comprising foreign soldiers and specialist troops. 
+A typical legion was supported by auxilia equal in number to the legionaries.
+Among the auxilia were Balearic slingers, archers, cavalry, as well as _velites_, skirmishers
+wearing little armor and armed with javelins. 
+These were usually placed into cohorts of 500 or 1,000 men and commanded by a Roman
+officer.
+
+Specialist troops included engineers, medics, priests, and _speculatores_. 
+They were organized into smaller groups, from a single man or contubernium up to about a century.
+Every legion also had an extensive mule train, with each contubernium having its own mule, on which was loaded the unit's tent, mill stone, cooking pot, and extra rations.
+
+Artillery:: 
+A typical legion had one _onager_ (light catapult) per cohort (six per legion) and one _scorpio_ (light ballista) per century (60 per legion). 
+These were carried on carts drawn by mules. 
+Each artillery piece was manned by artillerists, and had a compliment of carpenters to enact repairs or construct new siege engines.
+
+=== Ranks in the auxilia cavalry
+
+Player characters are members of an _ala_ (cavalry).
+
+.Ranks within the ala 
+[options=header,cols="1,2,2"]
+|===
+| Rank level | Rank name | Latin rank name
+| 0 | Cavalryman (common soldier) |  _gregalis_  
+| 1 | Corporal | sesquiplicarius
+| 2 | Sergeant | duplicarius
+| 2 | turma standard-bearer | signifer
+| 2 | decurion's deputy | curator 
+| 2 | ala standard-bearer | vexillarius
+// | 2.5 | (2) subaltern officer | principalis
+| 3 | turma commander | decurio
+| 4 | chief decurion | decurio princeps
+| 5 | deputy ala commander | beneficiarius
+| 6 | ala commander | praefectus or tribunus 
+|===
+
+For reference see link:https://en.wikipedia.org/wiki/Auxilia#Recruitment,_ranks_and_pay[Auxilia] and link:https://en.wikipedia.org/wiki/Turma#Empire[Turma].
+
+.Building blocks of an ala
+[options=header,cols=",,,"]
+|===
+| Unit type| Number of sub-units | Sub-unit strength | Unit strength
+| Ala quingenaria | 16 turmae | 30 (32) | 480 (512)
+| Ala milliaria   | 24 turmae | 30 (32) | 720 (768)
+|===
+
+A turma is divided into three 10-man files.
+In game terms, the 10-man file in the cavalry is the equivalent of the 8-man contubernium in the legion and infantry.
+
+For reference see link:https://en.wikipedia.org/wiki/Auxilia#Unit_types_and_structure[Auxilia].
+
+[appendix]
+== Military ranks
+
+The following were the common military ranks used within the legions. 
+Numbers in parentheses after the title indicate how many served in a typical legion. 
+The standard early Imperial model is used.
+
+Miles Gregarius:: 
+Literally meaning "common soldier", this is the term for a legionary without any rank.
+Decanus (480):: 
+The lowest rank within the legions is the _decanus_, who led a _contubernium_. + 
+In a cavalry _ala_, a _decurio_ commands 30 men _turma_. 
++ 
+This is the highest rank characters can begin the game.
+Tesserarius (60):: 
+Each century had a _tesserarius_, who served as a sergeant of the watch and assistant to the century's _optio_, taking his place if the optio fell in battle or was sick. 
+They are third in command of a century. 
+Optio (60):: 
+Second in command to a _centurio_, and thus the second highest officer within a century. 
+As well as filling the centurio's sandals should he be incapable of command, they also relieved him of many mundane duties, such as training and administration.
+Centurio (45):: 
+Each century of a legion is  commanded by a _centurio_, though select individuals held special titles (see below). 
+Like modern day sergeants, they were the backbone of the army, handling the day-to-day running
+of the legion as well as commanding men in the field. 
+Many were appointed through the ranks, meaning they were excellent soldiers who already had the loyalty of their men, but some were appointed to the post by a higher power, which did not always sit well with the men they commanded.
+For the auxiliary cavalry _alae_ units, a _turma_ of about 30 men was commanded by a _decurio_, which is the relative equivalent of a _centurio_.
+See link:https://en.wikipedia.org/wiki/Decurion_(Roman_cavalry_officer)[Decurion].
+Primus Ordino (5):: 
+The five centurios in charge of the second to sixth centuries of the first cohort held the title primi ordines.
+Pilus Prior (9):: 
+The centurio of the first century within each cohort was the pilus prior.
+Primus Pilum (1):: 
+The "First Spear" (more correctly, "first file") was the senior centurio of the legion, and the highest rank an enlisted man could achieve. 
+He commanded the first cohort and was fourth in command of the legion.
+Tribunus (5):: 
+Tribunes served as adjutants to the legatus. 
+In most cases they were staff officers, handling the running of the camp under the camp prefect, but some were given command of a cohort in battle. 
+This is the rank given to those characters who choose the Rank (Officer) Edge during character generation.
+Praefectus Castrorum (1):: 
+Translated as "camp prefect," this post was usually held by a long-serving career soldier, often a primus pilum who had served his time and had been promoted as reward. 
+He was typically in charge of training or given tactical command, and was third in command of the legion itself.
+Tribunus Laticlavius (1):: 
+Senior tribune, and second in command of the legion. 
+Literally, it means "Broad Band Tribune," due to the striped tunic typically worn by these men.
+Legatus Legionis (1):: 
+The highest rank within the legion and one appointed by the Emperor or Senate (depending on the era). 
+Not all had military experience, so the camp prefect was often the true military commander. Many legati were provincial governors or consuls, commanding a single legion raised to protect
+that province.
+Legatus Augusti pro Praetore:: 
+An "Imperial Legate" appointed by the Senate or Emperor in charge of multiple legions. He was usually the governor of the legions' province as well.
+
+=== Other ranks
+
+Signifer:: 
+Standard bearer for a century. 
+His rank put him slightly above that of a legionary, but he had little command authority.
+Aquilifer:: 
+Despite carrying the legion's standard, he ranked only slightly higher than a _signifer_ (though he earned more).
+Praefectus:: 
+Commanded an auxilia _ala_ or cohort. 
+He held a rank similar in authority to that of a _tribunus_ and was always a Roman. 
+In a game where all the characters are auxilia, a character with Rank (Military Tribune) receives this rank.
+
+=== Naval ranks
+The Roman navy used far fewer ranks than the legions.
+
+Miles Classicus:: 
+A common marine.
+Centurio Classicus:: 
+A centurio in command of a marine century.
+Navarchus:: 
+The captain of single warship.
+Praefectus Classis:: 
+The Roman equivalent of an admiral, this officer commanded a fleet.
+
+
+[appendix]
+== Inspiration
+
+.Movies
+* link:https://www.imdb.com/title/tt0349683/?ref_=fn_al_tt_2[King Arthur] (2004)
+* link:https://www.imdb.com/title/tt1020558/?ref_=fn_al_tt_1[Centurion] (2010)
+* link:https://www.imdb.com/title/tt1034389/?ref_=fn_al_tt_2[The Eagle] (2011)
+* link:https://www.imdb.com/title/tt0462396/?ref_=fn_al_tt_1[The Last Legion] (2007)
+* link:https://www.imdb.com/title/tt0172495/?ref_=fn_al_tt_1[Gladiator] (2000)
+
+.TV
+* link:https://www.imdb.com/title/tt0384766/?ref_=fn_al_tt_1[Rome] (2005-2007)
+* link:https://www.imdb.com/title/tt9184986/[Barbarians] (2020-)

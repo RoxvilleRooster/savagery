@@ -1,0 +1,22 @@
+
+:experimental:
+
+[colophon]
+= Colophon
+
+This document is not intended for wide distribution.
+It is intended for players and prospective players.
+
+In addition _Savage Worlds Adventure Edition_ (2018), this document references the following books:
+
+* _Daring Tales of Adventure: Pulp Rules_ (2008, Paul "Wiggy" Wade-Williams, Triple Ace Games)
+* _Daring Tales of Adventure: Rocket Rangers_ (2010, Paul "Wiggy" Wade-Williams, Triple Ace Games)
+* _Savage Worlds Pulp GM's Toolkit_ (2006, Paul "Wiggy" Wade-Williams, Pinnacle Entertainment)
+* _Thrilling Tales of Adventure_ (2009, Gareth-Michael Skarka et al., Adamant Entertainment)
+* _Realms of Cthulhu_ (2009, Sean Preston, Reality Blurs)
+* _The Eye of Kilquato: Savage Worlds Adventure Edition_ (2019, Shane Hensley, Pinnacle Entertainment)
+* _Savage Daddy's One Shot Wonders_ (2018, Atomic Ninja Studios)
+* _The Secret Files of Section D: Taster Edition_ (2020, Alan Wroe, Imaginarium Games)
+* _The Day After Ragnarok_ (2011, Kenneth Hite, Atomic Overmind Press)
+* _Acthung Cthulhu_ (Savage Worlds, Modiphius)
+* _Index Card RPG_ (2018, Second Edition, Runehammer)

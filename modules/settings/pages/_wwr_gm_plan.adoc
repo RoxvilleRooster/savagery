@@ -1,0 +1,348 @@
+= Campaign Plan for Weird Wars Rome
+:sectnums:
+:imagesdir: ../images 
+
+In this story, the heroes slowly discover why the druids performed human sacrifice realize the implications of Rome's long-term campaign against the druids.   
+
+Christianized Britons were preventing the rituals of Satiada, which were keeping Aphoom-Zhah dormant.
+
+== Items of interest
+
+strange ice:: 
+* does not melt
+* so cold that it burns
+
+living light::
+* appears as a pillar of white fire
+* moves and destroys with ice and cold
+* link:https://lovecraft.fandom.com/wiki/Aphoom-Zhah[Aphoom-Zhah]
+
+____
+It was a weird light, gray-white in color, and a bizarre sound accompanied it, a loud crackling, as if all the trees of the forest were snapping before the advance of some immense bulk. 
+The temperature plummeted.
+____
+
+____
+For eons the White Sybils have kept the doom of Aphoom-Zhah at bay, and always comes a man, some unworthy priest, to break the people's covenant, and bring the cold death down upon us.
+____
+
+Satiada::
+Old Briton deity footnote:[link:https://en.wikipedia.org/wiki/Satiada[Satiada]]
+
+Crag Lake::
+link:https://en.wikipedia.org/wiki/Crag_Lough[Crag_Lough]
+
+== NPCs
+
+Gnaeus Antius:: 
+image::
+stern officer and straight arrow; studious; mocked for being a more clerk than soldier
+Description and mannerisms;;
+Studious. 
+Most often seen behind a desk, accompanied by his slave.
+Short curly black hair.
+Constantly takes notes of things others say, or what happens around.
+Favors a conciliatory and peaceful approach.
+Titus Decimus:: 
+_frumentarius_ and agent of the emperor; ruthless and driven
+Description and mannerisms;;
+Shifts eyes between every person in the room, in an attempt to show dominance with all.
+Distinctive scar over eye.
+Euandros:: 
+Greek, _auxilia medicus_, scholar, member of the Twilight Legion
+Description and mannerisms;;
+Talks with his hands.
+Paces when talking.
+Intelligent eyes.
+Flavius Priscus:: ambitious young officer out to prove himself 
+Description and mannerisms;;
+Dark-skinned and African complexion.
+Closely cropped black hair and a well-tended black beard.
+Compact frame with strong limbs.
+Intelligent and curious eyes.
+A born soldier.
+Gaius Fabianus:: pretentious officer and politician
+Description and mannerisms;;
+Always appears on the verge of yawning.
+Handsome.
+Pale skin.
+Trim and confident.
+Marcellus Numerius:: aggressive and dashing officer; ruthless; wants to make a name for himself and move on to more active posts
+Description and mannerisms;;
+Intense eyes. 
+Does not break eye contact.
+Cheeks are pockmark scarred.
+Always using his outdoor voice.
+Cassius Summanus:: medicus, scholar, herbalist, and painkiller addict
+Description and mannerisms;;
+Long fingers and large feet.
+Long arms, short legs, and a barrel-shaped chest gives him an ape-like appearance.
+Thick head of close-cropped silvering black, curly hair.  
+Awen:: young and enterprising Briton merchant; widow of a Roman merchant 
+Description and mannerisms;;
+Her hair is a mane of lush chestnut.
+Missing her right ear; the removed ear is covered by the way she wears her hair.
+Imposing and curt.
+Madien:: traveling bard and envoy of the druids
+Description and mannerisms;;
+Refined attire.
+Clean shaven in the Roman style.
+Wears his long brown hair in braids.
+Welcoming and gregarious.
+Galcagus:: Caledonian chieftain and opponent of Rome; descendant of link:https://en.wikipedia.org/wiki/Calgacus[Calgacus]
+Description and mannerisms;;
+Short, stout, and athletic.
+Hairy arms.
+Battle scarred.
+Generally laconic.
+Tancorix:: 
+* The White Lady  / The white sybil 
+* mysterious and compelling leader of the Britons;
+* preaches the coming cold death, which is a punishment for the Briton's abandonment of the goddess Satiada;
+* lady of the lake/avalon
+Description and mannerisms;;
+Lithe.
+Striking green eyes.
+Long red hair.
+Dresses in white linen.
+Melodious voice.
+Thick and unusual accent. 
+Modius Macula:: retired legionary, hates the cold and damp, bodyguard of the scholar
+Description and mannerisms;;
+Short, black hair.
+Fit and athletic.
+Carries himself with the confidence of a skilled fighting man.
+Laconic and observant.
+Damis of Nineveh:: highly regarded scholar and Pythagorean mystic  footnote:[link:https://en.wikipedia.org/wiki/Pythagoras[Pythagoras]], mystery solver, business partner of Modius, seller of talismans
+Description and mannerisms;;
+Bushy eyebrows and grey beard.
+Large brown and intelligent eyes.
+Burn scars on his left hand.
+Stiff and arthritic but does not complain.
+Alain:: Bishop of Albion, Christian
+Description and mannerisms;;
+Tonsured black hair.
+Pinched face with a trimmed beard.
+Tall and thin with long, bony fingers.
+Lucius Ulpius Marcellus:: former consular governor of Britain (c. 178 - c. 184) and later general who repelled a revolt during Commodus' reign; overuse of military discipline; eager to retake the Antonine wall
+link:https://en.wikipedia.org/wiki/Ulpius_Marcellus[Ulpius Marcellus]
+// Marcellus undertook punitive raids north of the border and may have attempted to reoccupy the Antonine Wall. However, he ultimately withdrew to Hadrian's Wall and probably concluded treaties with the relevant tribes. 
+Description and mannerisms;;
+TBD
+Marcus Antius Crescens Calpurnianus::
+Senator and acting governor of Britain (c. 185)
+link:https://en.wikipedia.org/wiki/Marcus_Antius_Crescens_Calpurnianus[Marcus Antius Crescens Calpurnianus]
+Description and mannerisms;;
+TBD
+Publius Helvius Pertinax:: senator, former military tribune of Legio VI, governor of Britain (185-187), and link:https://en.wikipedia.org/wiki/Pertinax[future emperor]
+Claudius Hieronymianus::
+link:https://en.wikipedia.org/wiki/Claudius_Hieronymianus[Legate and commander] of Legio VI in Severus' campaigns against the Caledonii 
+Decimus Clodius Albinus:: Governor of Britain (c. 191 - c. 197), Roman imperial pretender between 193 and 197; link:https://en.wikipedia.org/wiki/Clodius_Albinus[Clodius Albinus]
+Virius Lupus::
+Governor of Britain (c. 197); link:https://en.wikipedia.org/wiki/Virius_Lupus[Virius Lupus]
+
+
+****
+link:https://en.wikipedia.org/wiki/List_of_governors_of_Roman_Britain[List of governors of Roman Britain]
+****
+
+[appendix]
+== Names 
+
+* Bryhtonic names
+** link:http://www.old-north.co.uk/Holding/celt_personalnames.html[Brythonic Personal Names] (best source)
+** link:https://www.behindthename.com/names/usage/brythonic[Brythonic Names]
+** link:https://www.behindthename.com/names/usage/ancient-celtic[Ancient Celtic Names]
+** link:https://heraldry.sca.org/names/brythonic/brythonic.html[Names of Women of the Brythonic North in the 5-7th Centuries]
+** link:http://www.peiraeuspubliclibrary.com/names/europa/brythonic.html[Celtic Names - Britain, Gaul, and Wales]
+
+
+.British male names
+* Driskell
+* Gildas
+* Taland
+* Aod
+
+
+.British male names
+* Tancorix
+* Cartimandua
+* Cuamenai
+* Annerix
+* Saca
+* Getaxia
+* Brocca
+
+.British tribes/kingdoms
+* link:https://en.wikipedia.org/wiki/Brigantes[Brigantes]
+** link:https://en.wikipedia.org/wiki/Textoverdi[Textoverdi]
+* link:https://en.wikipedia.org/wiki/Carvetii[Carvetii]
+
+
+.Caledonians
+* link:https://en.wikipedia.org/wiki/Vacomagi[Vacomagi]
+* link:https://en.wikipedia.org/wiki/Damnonii[Damnonii]
+* link:https://en.wikipedia.org/wiki/Votadini[Votadini]
+* link:https://en.wikipedia.org/wiki/Novantae[Novantae]
+* link:https://en.wikipedia.org/wiki/Taexali[Taexali]
+* link:https://en.wikipedia.org/wiki/Caledonians[Caledonii]
+* link:https://en.wikipedia.org/wiki/Maeatae[Maeatae]
+
+.Briton kingdoms
+* link:https://en.wikipedia.org/wiki/Brigantia_(ancient_region)[Brigantia]
+** link:https://en.wikipedia.org/wiki/Isurium_Brigantum[Isurium] (Aldborough)
+
+** link:https://en.wikipedia.org/wiki/Ribchester[Bremetennacum Veteranorum] (Ribchester)
+** Mamucium (Manchester)
+** Coccium (Wigan)
+
+* link:https://en.wikipedia.org/wiki/Eboracum[Eboracum] (York)
+** link:https://en.wikipedia.org/wiki/Derventio_Brigantum[Derventio] (Malton), home to "Ala Gallorum Picentiana" auxilia calvary and Hamian (Syrian) archers
+* link:https://en.wikipedia.org/wiki/Luguvalium[Luguvalium] (Carlisle)
+** https://en.wikipedia.org/wiki/Dere_Street[Dere Street] - road that connects York, Catterick, and Carlisle 
+** https://en.wikipedia.org/wiki/Cataractonium[Cataractonium] (Catterick)
+
+
+.Places
+* link:https://en.wikipedia.org/wiki/Carpow[Carpow] (fort in Scotland from the time of Severus' campaigns)
+* link:https://en.wikipedia.org/wiki/Cawdor_(Roman_fort)[Cawdor] - fort
+* link:https://en.wikipedia.org/wiki/Trimontium_(Newstead)[Trimontium] - fort
+* link:http://www.roman-britain.co.uk/places-of-roman-britain/[Places of Roman Britain]
+
+.Regions
+* link:https://en.wikipedia.org/wiki/Pennines[Pennines]
+
+.Deities
+* link:https://en.wikipedia.org/wiki/Satiada[Satiada]
+* link:https://en.wikipedia.org/wiki/Brigantia_(goddess)[Brigantia] (syncretized with Victoria and Minerva)
+* link:https://en.wikipedia.org/wiki/Cunomaglus[Cunomaglus] (syncretized with Apollo)
+* link:https://en.wikipedia.org/wiki/Sulis[Sulis]  (syncretized with Minerva)
+* link:https://en.wikipedia.org/wiki/Christianity_in_Roman_Britain[Christianity]
+** link:https://en.wikipedia.org/wiki/Joseph_of_Arimathea[Joseph of Arimathea]
+
+
+.Roman forts and camps in Scotland
+* link:https://en.wikipedia.org/wiki/Normandykes[Normandykes] - marching camp, Severan invasion
+* Balmakewan 
+* link:https://en.wikipedia.org/wiki/Bellie[Bellie] - camp 
+* link:https://en.wikipedia.org/wiki/Raedykes[Raedykes] - marching camp
+* link:https://en.wikipedia.org/wiki/Stracathro[Stracathro] - marching camp 
+* link:https://en.wikipedia.org/wiki/Deers_Den[Deers Den] - likely tied to the Severan invasion
+* link:https://en.wikipedia.org/wiki/Battledykes[Battledykes] - marching camp, Severan invasion
+* link:https://en.wikipedia.org/wiki/Balnageith[Balnageith] - marching camp, Severan invasion
+* link:https://en.wikipedia.org/wiki/Ythan_Wells[Ythan_Wells] - marching camp
+* link:https://en.wikipedia.org/wiki/Bothwellhaugh_Roman_Fort[Bothwellhaugh]
+* link:https://en.wikipedia.org/wiki/Ardoch_Roman_Fort[Ardoch]
+
+.Gask Ridge
+====
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gask_Ridge.jpg/880px-Gask_Ridge.jpg[]
+
+Flavian-era fortifications along the link:https://en.wikipedia.org/wiki/Gask_Ridge[Gask Ridge]
+====
+
+.Other places of interest
+* link:https://en.wikipedia.org/wiki/Burnswark_Hill[Burnswark Hill] - siege during the Antonine period
+
+.Roman forts and camps in Scotland
+====
+image:https://upload.wikimedia.org/wikipedia/commons/2/2d/RomanFortsNorthernScotland.gif[]
+====
+== Events
+
+=== Monster in the bath
+
+Inspired by Andi Newton's "Green Water", where a Celtic woman avenges the murder of druids by becoming the monster in the Roman bath at Aquae Sulis.
+
+
+=== Hounds of death
+
+Inspired by William Meikle's "The Hounds of the Dawn", this tale focuses on curse from a Briton against the Romans who killed her people and dishonored her husband.
+
+____
+She raised her hands and began a chant, grotesque malformed words none present but her showed any sign of understanding, coarse, guttural sounds that hung and echoed in the quiet air long after she herself had fallen quiet under the whips and scourges of her guards and was dragged away.
+____
+
+The "hounds" form from a dark mist and, night by night, shred the officer's men and staff.
+
+Can the heroes stop this?
+
+=== Bloodsport
+
+Inspired by Josh Reynolds' "Matched Pairs", focuses on a Briton and a set of gladiators and  criminals set to fight in a aristocrat's personal gladiatorial games.
+The aristocrat has a otherworldly monster that he sets on the gladiators:
+
+____
+It was like nothing Attilus had ever seen - a gargantuan, toad-like shape, elephantine in size, its insectile proboscis surrounded by a forest of writhing tendrils. He thought he glimpsed stubby wings on its back, and its claws were those of some great crustacean. It uttered a painful, whistling shriek as it bounded towards them with frog-like leaps. The ground shook beneath its tread as it approached.
+____
+
+
+=== Down in the pit
+
+Inspired by Glynn Owen Barrass' "The Ruins at Raven's Rock", focuses on unit of legionaries sent to investigate an old "holy" site but instead awaken an ancient cosmic power.
+
+
+=== Sickness
+
+Inspired by John Linwood Grant's "Mothers Of Flesh And Fire", this story focuses on legionaries who brought back a supernatural sickness to the Roman civilization in Eboracum, that was tied to an ancient ane corrupt fertility goddess.
+
+
+
+////
+Operation size::
+
+Mission::
+
+Support::
+
+Enemy force size::
+
+Complications::
+
+Weird event::
+////
+
+== TV tropes
+
+* link:https://tvtropes.org/pmwiki/pmwiki.php/Main/DirtyCoward[DirtyCoward] - this is going to a member of the PC unit
+
+
+
+
+== Looking for game post
+
+
+Campaign Name:: Weird Wars Rome - Beyond Hadrian's Wall
+GM:: Andy 
+Number of Players:: 1 out of 5; experience with Savage Worlds is an asset but new players are welcome.
+Characters:: Customize your character based on an archetype
+Requirements:: Computer and microphone
+System:: Savage Worlds Adventure Edition (SWADE)
+Time::
+10 AM EST Saturdays, sessions typically last 2.5 hours 
+// #7:30 PM EST Wednesdays, sessions typically last 3 hours#
+Platform:: Discord for voice, Roll20 for VTT
+Notes:: Looking for mature players who can commit to show up for session. 
+Mature Content (18+)::  
+This is a game of horror and war, not high fantasy.
+The tone is more grim and gritty rather than pulpy and silly.
+Execution, torture, and human sacrifice are not uncommon but these are not aspects I want to dwell on.   
+The player characters are mortal and, while they have seen some of the savagery of war and the empire, they will witness even greater horrors. 
+How to join:: 
+Message me about your experience with Savage Worlds and other tabletop RPGs.
+Message me if you have any questions or need more information.
+Game Posting URL:: https://app.roll20.net/lfg/listing/323385/weird-wars-rome-beyond-the-wall
+
+
+=== Elevator Pitch 
+Commodus, a dissolute emperor rules from Rome and claims the name Britannicus.
+The years of the five good emperors now seem a distant memory. 
+The army has grown undisciplined and mutinous.
+North of Hadrian's wall, the tribal peoples stir; to the south, years of rule and subjugation cast a long shadow.
+In these shadows, dark beings rise up. 
+In the twilight of a fading empire, the heroes do what they must.    
+
+You are a soldier in an auxiliary cavalry cohort stationed near Hadrian's wall at the close of the 2nd century AD. 
+You and your fellows are members of the same file (10-man unit within a turma).
+
+Sources from _Cthulhu Invictus_ will influence the adventures. 

@@ -1,0 +1,57 @@
+
+// :dtoa: Daring Tales of Adventure 
+
+= Playing the pulp action game
+
+The players, the GM included, are trying to mimic pulp action films.
+The heroes are very hard to kill; they perform daring deeds and take extreme risks. 
+
+// == Expectations for the Pulp Action Campaign
+////
+.Player Attendance
+****
+Players must commit to attend each session of a scenario.
+Don't ask for a longer commitment.
+A {dtoa} scenario typically runs for 3-4 sessions of 2.5-3 hours.
+****
+////
+
+
+// We are using the Savage Worlds Adventure Edition (SWADE) rules.
+
+// * Determine setting rules up front and keep houseruling to a minimum
+// * Unless we state otherwise, heroes are awarded an average of 1 advance every 2 sessions
+// * If you miss a session, you get no credit for an advance and your character will operate as an allied extra
+
+//<!-- * After a few sessions, I expect players to have a licensed copy of the SWDEE (an affordable $10 USD) -->
+
+// == When we're playing Savage Worlds
+
+.Expectations
+* We want to follow the "Fast, Furious, and Fun" ethos.
+Do your part to keep the pace of the game relatively brisk.
+// * We're playing on a virtual tabletop (likely Roll20); I am not planning to over-invest in visual aids unless they are especially evocative.
+// * Learn the Roll20 technology for Savage Worlds but you do not need to know Roll20 when you first join
+** Learn the Savage Worlds rules; if you're new to Savage Worlds rules, you can download the most recent https://www.peginc.com/tag/test-drive-rules/[Savage Worlds Test Drive]
+** If you have any rules for your character's schticks (e.g., arcane powers or gambling), learn them or have the rules handy
+* You'll get bennies for trying to do cool things, making the game fun and interesting, playing according to the tone, and playing hindrances
+* Bring your imagination and a willingness to narrate and add to the story footnote:[https://thealexandrian.net/wordpress/44891/roleplaying-games/gm-dont-list-11-description-on-demand and https://gamingandbs.com/descriptions-on-demand-in-rpgs-gbs308/]
+* Be engaged during the game session and do your best to pay attention
+* Share the stage so your fellow players can shine
+// * Plan to make the game entertaining, interesting, and challenging
+* If you cannot attend the game at the specified time, give reasonable advanced notice
+* Give the GM feedback on what is working well, what you want to see more of, and what could use some work
+* Prepare to engage in an adult conversation if we ever need to course correct
+// * Be open to trying new tools for communication
+* Stay classy
+
+////
+== Goals
+
+As a GM and player, I have these goals:
+
+* To build some memorable gaming stories together
+* Make the game fun, or at least engaging, for all involved
+* To become a better GM; to develop as player
+* To encourage and help other players and GMs
+////

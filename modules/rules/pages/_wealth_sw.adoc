@@ -8,8 +8,6 @@ v1.0, 2019-11-23
 
 == Wealth
 
-Go to
-
 By default, each character has d6 Wealth.
 Wealth is not a trait but behaves like one in some respects.
 Players can spend Bennies, roll the Wild Die, and benefit from Support rolls.

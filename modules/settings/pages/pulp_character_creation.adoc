@@ -39,7 +39,7 @@ New Powers (SWADE p 47)::
 The weird scientist adds *one* new power by choosing this Edge (which may be taken multiple times) _and_ one new power trapping.
 For the new power, the hero may choose from any powers of her Rank or lower that are normally available to Arcane Background (Weird Science).
 For the new trapping, the hero adds an effect to an existing power.
-For example, the player might add an electrical Trapping to her hero's existing freeze bolt; she can then switch between shock and cold Trappings.
+For example, the player might add an electrical trapping to her hero's existing freeze bolt; she can then switch between shock and cold trappings.
 
 .Removed Edges
 * Linguist (as per the Multiple Languages setting rules in SWADE p 149)

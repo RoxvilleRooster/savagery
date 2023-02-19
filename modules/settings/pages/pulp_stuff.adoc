@@ -1,0 +1,488 @@
+
+= Equipment and Vehicles
+
+== Common Gear
+
+.Common gear
+[cols="30%,10%,10%,50%",options="header"]
+|===
+| Item | Cost | Weight | Notes
+4+| *ANIMALS & TACK*
+| Horse | 300 | — |
+| Saddle | 10 | 10 |
+| Elaborate Saddle | 50 | 10 |
+4+| *ADVENTURING GEAR*
+| Backpack | 50 | 2 |
+| Bedroll (sleeping bag; winterized) | 25 | 4 |
+| Blanket | 10 | 4 |
+| Camera (regular) | 75 | 2 |
+| Candle (one hour, 2″ radius) | 1 | 1 |
+| Canteen (waterskin) | 5 | 1 |
+| Crowbar | 10 | 2 |
+| First Aid Kit | 10 | 1 | Three uses, see Healing on SWADE p 96.
+| Flashlight (10″ beam) | 20 | 3 |
+| Flask (ceramic) | 5 | 1 |
+| Flint and Steel | 3 | 1 |
+| Goggles | 20 | 1 |
+| Grappling Hook | 100 | 2 |
+| Hammer | 10 | 1 |
+| Handcuffs (manacles) | 15 | 2 |
+| Lantern (4 hours, 4″ radius) | 25 | 3 |
+| Lighter | 2 | — |
+| Lockpicks | 200 | 1 |
+| Medic Kit | 100 | 4 | Five uses, +1 to Healing skill rolls; $25 to refill.
+| Oil (for lantern; one pint) | 2 | 1 |
+| Quiver (holds 20 arrows/bolts) | 25 | 2 |
+| Rope, hemp (10″/20 yards) | 10 | 15 |
+// | Rope, nylon (10″/20 yards) | 10 | 3 |
+| Shovel | 5 | 5 |
+| Soap | 1 | 0.2 |
+| Tool Kit | 200 | 5 |
+| Torch (one hour, 4″ radius) | 5 | 1 |
+| Umbrella | 5 | 2 |
+| Whistle | 2 | — |
+| Whetstone | 5 | 1 |
+
+4+| *CLOTHING*
+| Boots, Hiking | 100 | 2 |
+| Camouflage Fatigues | 20 | 3 |
+| Clothing, Casual | 20 | 2 |
+| Clothing, Formal | 200 | 3 |
+| Winter Gear (cloak/parka) | 200 | 3 |
+| Winter Boots | 100 | 1 |
+4+| *FIREARMS ACCESSORIES*
+| Bipod/Tripod | 100 | 2 | Takes an action to deploy. +
+Negates Recoil and Min Str penalties.
+| Rifle Scope | 100 | 2 | Cancels 2 additional points of penalties when Aiming, SWADE p 97.
+4+| *FOOD*
+| Fast Food Meal | 8 | 1 |
+| Good Meal (restaurant) | 15+ | — |
+| MRE (Meal Ready to Eat) | 10 | 1 |
+| Trail Rations | 10 | 5 | 5 meals; keeps one week.
+
+4+| *SURVEILLANCE*
+// | “Bug” (Micro Transmitter) | 30 | — | 12 hours of continuous use.
+// | Button Camera | 50 | — | 12 hours of continuous use.
+| Lineman’s Telephone | 150 | 2 | Repair roll to tap into a phone line.
+// | Parabolic Microphone | 750 | 4 | Hear whispers up to 200 yards distant.
+// | Telephone Tap | 250 | — |
+// | Transmitter Detector | 525 | 1 |
+|===
+
+== Ammunition
+
+.Ammo
+[cols="30%,10%,10%,50%",options="header"]
+|===
+| Ammo | Cost | Weight | Notes
+| Arrows/Bolts | 1/2 arrows | 1 lbs/5 arrows |  Arrows for bows, bolts for crossbows
+| Sling stones | 2/20 stones | 1 lbs/20 | —
+4+|  Bullets
+| Small | 10/50 rounds | 1 lbs/50 | .22 to .32 caliber
+| Medium | 20/50 rounds | 2 lbs/50 | 9mm to .45 caliber
+| Large | 50/50 rounds | 15 lbs/50 | .50 caliber and larger rounds
+// 4+| Laser Batteries
+// | Pistol | 20 | 0.25 .3+| Provides one full magazine for the listed weapon
+// | Rifle, SMG | 20 |0.5
+// | Gatling | 50 | 4
+// | Shot (w/powder) | 1/10 shots | 0.5 lbs/10 | For black powder weapons
+4+| Shotgun
+| Shells | 15/25 | 1.5 lbs/25 | Standard buckshot
+| Slugs | 20/25 | 1.5 lbs/25 | See SWADE p 105.
+|===
+
+
+== Personal Weapons
+
+=== Melee Weapons
+
+.Melee weapons
+[cols="15%,15%,10%,15%,15%,30%",options="header"]
+|===
+| Type | Damage | Min Str | Weight | Cost | Notes
+
+6+| *ARCHAIC*
+| Axe, Hand | Str+d6 | d6 | 2 | 100 |
+// | Axe, Battle | Str+d8 | d8 | 4 | 300 |
+// | Axe, Great | Str+d10 | d10 | 7 | 400 |  AP 2, Parry –1, two hands
+// | Club, Light | Str+d4 | d4 | 2 | 25 | A sign of low status or thuggery
+| Club, Heavy | Str+d6 | d6 | 5 | 50 | A sign of low status or thuggery
+| Dagger/Knife | Str+d4 | d4 | 1 | 25 |
+| Bowie Knife | Str+d4+1 | d4 | 2 | 50 | 
+// | Flail |  Str+d6 | d6 | 3 | 200 | Ignores shield bonus
+// | Halberd | Str+d8 | d8 | 6 | 250 | Reach 1, two hands
+| Katana | Str+d6+1 | d6 | 3 | 1,000 | Two hands
+// | Lance | Str+d8 | d8 | 6 | 300 | AP 2 when charging, Reach 2, only usable in mounted combat
+// | Mace | Str+d6 | d6 | 4 |  100 |
+// | Maul | Str+d10 | d10 | 10 | 400 | Two hands, +2 damage to break objects (SWADE p 98)
+// | Pike | Str+d8 | d8 | 18 | 400 | Reach 2, two hands
+| Rapier | Str+d4 | d4 | 2 | 150 | Parry +1
+| Spear | Str+d6 | d6 | 3 | 100 |  Reach 1. Parry +1 if used two-handed
+|  Staff |  Str+d4 |  d4 |  4 |  10 | Parry +1, Reach 1, two hands
+// | Sword, Great | Str+d10 | d10 | 6 | 400 |  Two hands
+| Sword, Long | Str+d8 | d8 | 3 | 300 | Basic swords and scimitars
+| Sword, Short | Str+d6 | d6 | 2 | 100 | Includes cavalry sabers
+// | Warhammer | Str+d6 | d6 | 2 | 250 | Spiked, AP 1
+
+6+| *MODERN*
+// | Bangstick | 3d6 | d6 | 2 | 5 | A shotgun shell on a stick used in melee; must be reloaded with a fresh shell (one action)
+| Bayonet | Str+d4 | d4 | 1 | 25 | Str+d6 and Parry +1 attached to rifle, Reach 1, two hands
+| Billy Club/Baton | Str+d4 | d4 | 1 | 10 | Often carried by law enforcement
+| Brass Knuckles | Str+d4 | d4 | 1 | 20 | Do not count as a weapon for Unarmed Defender (SWADE p 109)
+// | Chainsaw | 2d6+4 | d6 | 20 | 200 | Critical Failure hits the user
+| Switchblade | Str+d4 | d4 | 0.5 | 10 | −2 to be Noticed if hidden
+| Survival Knife | Str+d4 | d4 | 1 | 50 | Basic tools in handle add +1 to Survival rolls
+
+|===
+
+=== Archaic Ranged Weapons
+
+Thrown axes and knives, bows, nets, slings, and spears are available in most every era or setting.
+
+.Ranged weapons
+[cols="15%,10%,10%,5%,5%,5%,10%,10%,20% ",options="header"]
+|===
+| Type | Range | Damage | AP | RoF| Min Str | Weight | Cost | Notes
+9+| *MEDIEVAL*
+| Axe, Throwing | 3/6/12 | Str+d6 | — | 1 | d6 | 3 | 100 |
+| Bow | 12/24/48 | 2d6 | — | 1 | d6 | 3 | 250 |
+| Crossbow (Hand Drawn) | 10/20/40 | 2d6 | 2 | 1 | d6 | 5 | 250 |
+Hand-drawn.
+| Crossbow, Heavy | 15/30/60 | 2d8 | 2 | 1 | d6 | 8 | 400 | Requires a windlass to load. Reload 2.
+| Dagger/Knife | 3/6/12 | Str+d4 | — | 1 | d4 | 1 | 25 |
+| Long Bow | 15/30/60 | 2d6 | 1 | 1 | d8 | 3 | 300 |
+| Net (Weighted) | 3/6/12 | — | — | 1 | d4 | 8 | 50 | A successful hit means the target is Entangled (see page 98). 
+The net is Hardness 10 and vulnerable only to cutting attacks.
+| Sling  | 4/8/16 | Str+d4 | — | 1 | d4 | 1 | 10 | Athletics (throwing) is used
+| Spear/Javelin | 3/6/12 | Str+d6 | — | 1 | d6 | 3 | 100 |
+9+| *MODERN*
+| Compound Bow | 12/24/48 | Str+d6 | 1 | 1 | d6 | 3 | 200 |
+| Crossbow | 15/30/60 | 2d6 | 2 | 1 | d6 | 7 | 300 |
+|===
+
+
+=== Pistols
+
+.Pistols
+[cols="15%,10%,10%,5%,7%,8%,10%,10%,7%,18%",options="header"]
+|===
+| Type | Range | Damage | AP | RoF| Shots | Min Str | Weight | Cost | Notes
+10+| *REVOLVERS*
+10+| Revolvers typically have six chambers that must be reloaded one bullet at a time, though separate cylinders called “speed loaders” are also available for more modern firearms for about 10% of the weapon’s cost.
+| Derringer (.41) | 3/6/12 | 2d4 | — | 1 | 2 | d4 | 1 | 100 | −2 to be Noticed if hidden
+| Police Revolver (.38) | 10/20/40 | 2d6 | — | 1 | 6 | d4 | 2 |  150 |
+| Enfield No 2 .38 | 10/20/40  | 2d6 | — | 1 | 6 | d4 | 2 | 150 |  
+| Colt Peacemaker (.45) | 12/24/48 | 2d6+1 | 1 | 1 | 6 | d4 | 4 | 200 |
+| Smith & Wesson (.357) | 12/24/48 | 2d6+1 | 1 | 1 | 6 | d4 | 5 | 250 |
+| Webley MkIV .455 | 12/24/48 | 2d6+1| 1 | 1 | 6 | d4 | 3 | 250 |
+
+
+10+| *SEMI-AUTOMATICS*
+10+| Semi-automatics are fed from a magazine. The standard size magazines are listed below. Additional
+magazines may be purchased for 10% of the weapon’s cost. They weigh about 1 lb each, fully loaded.
+| Colt 1911 (.45) | 12/24/48 | 2d6+1 | 1 | 1 | 7 | d4 | 4 | 200 |
+| Browning Hi-Power 9mm |  12/24/48 | 2d6 | 1 | 1 | 13 | d4 | 2.5 | 250 | 
+| Luger P08 9mm | 12/24/48 | 2d6-1 | 1 | 1 | 8 | d4 | 2 | 275 |  Can be equipped with a 24-round magazine 
+| Luger P08 9mm | 12/24/48 | 2d6-1 | 1 | 1 | 8/32 | d4 | 4  | 300 
+a| Can be equipped with an extra 24-round magazine that provides that makes the Shots value 32.
+Shoulder stock gives Range 20/40/80.
+| Mauser C96 9mm | 12/24/48 | 2d6–1 | 1 | 1 | 10 | d4 | 3 | 300  |
+|===
+// | Desert Eagle (.50) | 15/30/60 | 2d8 | 2 | 1 | 7 | d6 | 8 | 300 |
+// | Glock (9mm) | 12/24/48 | 2d6 | 1 | 1 | 17 | d4 | 3 | 200 |
+// | Ruger (.22) | 10/20/40 | 2d4 | — | 1 | 9 | d4 | 2 | 100 |
+
+
+=== Submachine Guns
+
+Typical magazine sizes are listed with each weapon. 
+Additional magazines are available at 10% of the weapon’s cost and weigh about 1 lb. each, fully loaded.
+
+.Submachine guns
+[cols="15%,10%,10%,5%,7%,8%,10%,10%,7%,18%",options="header"]
+|===
+| Type | Range | Damage | AP | RoF| Shots | Min Str | Weight | Cost | Notes
+// | H&K MP5 (9mm) | 12/24/48 | 2d6 | 1 | 3 | 30 | d6 | 10 | 300 |
+| Tommy Gun (.45) | 12/24/48 | 2d6+1 | 1 | 3 | 20 | d6 | 13 | 350 |
+Thompson submachine guns may also use a 50-round drum. This increases the weight by 2 lbs. and each loaded drum costs $50.
+| M3 "Grease Gun" (.45) | 12/24/48 | 2d6+1 | 1 | 3 | 30 | d6 | 10 | 350 |
+| Owen Mk I (9mm) | 12/24/48 | 2d6 | 1 | 3 | 33| d6 | 11 | 350 | 
+// | Sten Gun | TK@FUP
+// | Schmeisser | TK@FUP
+// | Uzi (9mm) | 12/24/48 | 2d6 | 1 | 3 | 32 | d4 | 9 | 300 |
+
+
+|===
+
+=== Shotguns
+
+Shotguns fire a spread of pellets (called “shot” or “buckshot”) to increase the shooter’s chance of hitting his target. 
+Up close, the blast can be devastating. 
+See Shotguns on SWADE p 105 for details.
+
+.Shotguns
+[cols="15%,10%,10%,5%,7%,8%,10%,10%,7%,18%",options="header"]
+|===
+| Type | Range | Damage | AP | RoF| Shots | Min Str | Weight | Cost | Notes
+| Double-Barrel | 12/24/48 | 1–3d6 | — | 1 | 2 | d6 | 11 | 150 |
+| Pump Action | 12/24/48 | 1–3d6 | — | 1 | 6 | d4 | 8 | 150 |
+| Sawed-Off DB | 5/10/20 | 1–3d6 | — | 1 | 2 | d4 | 6 | 150 |  If wielded one-handed, Min Str is d8
+// | Streetsweeper | 12/24/48 | 1–3d6 | — | 1 | 12 | d6 | 10 | 450 |
+|===
+
+=== Rifles
+
+Rifles can be either bolt-action, lever-action, or fed from a magazine or clip, noted in its description. Additional
+magazines or clips cost 10% of the rifle and weigh 1 lb each.
+
+.Rifles
+[cols="15%,10%,10%,5%,7%,8%,10%,10%,7%,18%",options="header"]
+|===
+| Type | Range | Damage | AP | RoF| Shots | Min Str | Weight | Cost | Notes
+
+10+| *LEVER- AND BOLT ACTION RIFLES*
+
+// | Barrett (.50) | 50/100/200 | 2d10 | 4 | 1 | 10 | d8 | 35 | 750 a|
+// Heavy Weapon, Snapfire. +
+// Barretts use a 10-shot removable magazine that weighs 2 lbs when loaded. 
+// They are almost always fitted with a scope.
+| M1 Garand (.30-06) | 24/48/96 | 2d8 | 2 | 1 | 8 | d6 | 10 | 300 | The standard US infantry rifle in World War II.
+// | Mauser | TK@FUP
+| Lee Enfield MkIV .303 | 24/48/96 | 2d8 | 2 | 1| 10 | d6 | 9 | 300 | Snapfire, Standard issue British Army
+infantry rifle. 
+
+| Hunting Rifle (.308) | 24/48/96 | 2d8 | 2 | 1 | 5 | d6 | 8 | 350 | Snapfire.
+// | Sharps Big 50 (.50) | 30/60/120 | 2d10 | 2 | 1 | 1 | d8 | 11 | 400 | Snapfire.
+// | Spencer Carbine (.52) | 20/40/80 | 2d8 | 2 | 1 | 7 | d4 | 8 | 250 |
+// | Winchester ‘73 (.44-40) | 24/48/96 | 2d8–1 | 2 | 1 | 15 | d6 | 10 | 300 |
+// 10+| *ASSAULT RIFLES*
+// | AK47 (7.62mm) | 24/48/96 | 2d8+1 | 2 | 3 | 30 | d6 | 10 | 450 |
+// | M-16 (5.56mm) | 24/48/96 | 2d8 | 2 | 3 | 20/30 | d6 | 8 | 400 | The A-2 version can also fire a Three-Round Burst (see SWADE p 67).
+// | Steyr AUG (5.56mm) | 24/48/96 | 2d8 | 2 | 3 | 30 | d6 | 8 | 400 | May fire a Three-Round Burst (see SWADE p 67).
+|===
+
+=== Machine guns
+
+Machine guns are heavy, fully automatic weapons built to withstand prolonged fire. Most are fed by belts
+or drums and thus have far more ammo capacity than assault rifles, despite similar calibers and rates of fire.
+
+Weapon Mount:: Most machine-guns require a bipod, tripod, or vehicle mount to fire, which eliminates any
+Strength requirement and the Recoil penalty (see SWADE p 105). Their Minimum Strength is listed as “NA,” or
+“Not Applicable.” If a weapon has a Minimum Strength listed, it may be fired from the hip with the Snapfire
+and Recoil penalties.
+
+Minimum Rate of Fire:: Machine-guns have a minimum Rate of Fire of 2 unless otherwise noted.
+
+Reloading:: Machine guns are Reload 2, which includes changing belts or drums, cocking, etc.
+
+.Machine guns
+[cols="15%,10%,10%,5%,7%,8%,10%,10%,7%,18%",options="header"]
+|===
+| Type | Range | Damage | AP | RoF | Shots | Min Str | Weight | Cost | Notes
+| Browning Automatic Rifle (BAR) (.30-06) | 20/40/60 | 2d8 | 2 | 3 | 20 | d8 | 20 | 300 |
+Rate of Fire 1 to 3. Uses magazines (one action to Reload instead of the usual 2).
+// | Gatling (.45) | 24/48/96 | 2d8 | 2 | 3 | 100 | NA | 170 | 500 |
+// | Minigun (7.62mm) | 30/60/120 | 2d8+1 | 2 | 5 | 4000 | d10 | 85 | 100K |
+// Minimum Rate of Fire 3, requires backpack harness with ammo which weighs an additional; 85 pounds when full (carries 4000 linked rounds).
+| M2 Browning (.50 Cal) | 50/100/200 | 2d10 | 4 | 3 | 200 | NA | 84 | 1,500 | Heavy Weapon
+// | M60 (7.62mm) | 30/60/120 | 2d8+1 | 2 | 3 | 100 | d8 | 33 | 6,000 |
+| MG42 (7.92mm) |  30/60/120 | 2d8+1 | 2 | 4 | 200 | d10 | 26 | 750 |
+// | SAW (5.56mm) | 30/60/120 | 2d8 | 2 | 4 | 200 | d8 | 20 | 4,000 |
+| Bren Mk I (.303) | 24/48/96 | 2d8 | 2 | 3 | 30 | d8 | 22 | 750 | 
+|===
+
+
+== Grenades
+
+Grenades activate when their safety pin is pulled, then detonate a few seconds later.
+They are thrown with the Athletics skill at the Ranges listed below, and cannot make use of Extreme Range (see SWADE p 93).
+
+All grenades are Heavy Weapons and detonate in the listed blast template (see Area Effect Attacks, SWADE p 97).
+
+Grenades may be Evaded (see "Evasion", SWADE p 100).
+
+.Grenades
+[cols="20%,15%,15%,5%,5%,5%,15%,15%,25%",options="header"]
+|===
+| Type | Range | Damage | AP | RoF| Blast | Weight | Cost | Notes
+
+| Mk II (WW2 Pineapple) | 4/8/16 | 3d6 | — | — | MBT | 1 | 40 |
+| Potato Masher (WW2) | 5/10/20 | 3d6–2 | — | — | MBT | 2 | 50 |
+// | Mk67 (Modern) | 5/10/20 | 3d6 | — | — | MBT | 1 | 50 |
+// | Smoke Grenade | 5/10/20 | — | — | — | LBT | 1 | 50 | Creates an area of smoke in a LBT that obscures vision (–4).
+// | Stun Grenade | 5/10/20 | — | — | — | LBT | 1 | 50 | Targets must make a Vigor roll (at –2 with a raise) or be Stunned (see page 106).
+| Molotov Cocktail | 5/8/15 | 1d10 | — | — | SBT | 1 | 1 | A bottle full of gasoline; see "Fire" (SWADE p 127)
+|===
+
+== Vehicular Weapons
+All except the medium machine gun are Heavy Weapons.
+Minimum Rate of Fire: Vehicular weapons with a Rate of Fire 3 or higher have a minimum Rate of Fire of 2.
+
+Heavy Flamethrowers: Vehicular flamethrowers have longer ranges than personal devices.
+The wielder can use the Cone Template or arc a blast the size of a Medium Blast Template up to 18” (36 yards) distant. 
+(Use the center of the template for the Range.) 
+This shot can Deviate (see Area Effect Attacks,page 97).
+
+Tank and AT Guns: May fire either Armor Piercing (AP) or High-Explosive (HE) rounds as the gunner chooses.
+AP rounds do additional damage up close. 
+Increase the weapon’s damage dice by one when fired at half their Short Range or less (so 4d10+2 becomes 5d10+2, for example).
+// Costs: Prices of military-grade weapons varies widely depending on setting, and should be considered baselines the GM can use to set prices in her campaign world.
+
+.Weapons for vehicles
+//[cols="20%,15%,15%,5%,5%,5%,15%,15%,25%",options="header"]
+[cols="20%,20%,20%,20%,10%,10%",options="header"]
+|===
+| TYPE | RANGE | AP ROUNDS | HE ROUNDS | ROF | COST
+| Med. Machine Gun | 30/60/120 | 2d8+1, AP 2 | — | 3 | 750
+| Heavy Machine Gun | 50/100/200 | 2d10, AP 4 | — | 3 | 1,000
+// Heavy Flamethrower Cone or MBT — 3d8 1 1,000
+| 20mm Cannon | 50/100/200 | 2d12, AP 4 | — | 4 | 50K
+| 25mm Cannon | 50/100/200 | 3d8, AP 4 | — | 3 | 75K
+| 30mm Cannon | 50/100/200 | 3d8, AP 6 | — | 3 | 200K
+| 40mm Cannon | 75/150/300 | 4d8, AP 5 | 3d8, AP 2, MBT | 4 | 200K
+| 2 pd AT Gun | 75/150/300 | 4d8, AP 5 | 3d6, AP 2, MBT | 1 | 75K
+| 37mm AT Gun | 50/100/200 | 4d8, AP 3 | 4d6, AP 3, MBT | 1 | 100K
+| 57mm AT Gun | 75/150/300 | 4d8, AP 5 | 3d8, AP 3, MBT | 1 | 150K
+| 75mm Tank Gun | 75/150/300 | 4d10, AP 6 | 3d8, AP 3, MBT | 1 | 250K
+| 76mm Tank Gun | 75/150/300 | 4d10, AP 10 | 3d8, AP 5, MBT | 1 | 300K
+| 88mm Tank Gun | 100/200/400 | 4d10+1, AP 16 | 4d8, AP 8, MBT | 1 | 500K
+| 120mm Tank Gun | 100/200/400 | 5d10, AP 31 | 4d8, AP 17, MBT | 1 | 800K
+| 125mm Tank Gun | 100/200/400 5d10, AP 30 | 4d8, AP 15, MBT | 1 | 1M
+|===
+
+
+
+== Vehicles
+
+////
+[%header]
+|===
+| SIZE | MASS UP TO… |  HT / LGTH UP TO… | SCALE MOD | HANDLING | TOP SPEED (MPH) | TYPICAL TOUGHNESS | CREW | EXAMPLE VEHICLES | NOTES
+| 3 | 2000 lbs | 12′ | — | +1 | 120 | 10 (3) | 1+2 | roadster (e.g., Duesenberg Model J) |
+| 4 | 2 tons | 15′ | +2 | +1 | 65 | 10 (2) | 2+3 | jeep | Four-Wheel Drive. Weapons: Heavy MG (Front Pintle Mount)
+|===
+////
+
+.Land vehicles
+[cols="15%,10%,14%,15%,10%,10%,26%",options="header"]
+|===
+| Vehicle | Size | Handling | Top Speed (MPH) | Tough-ness | Crew | Notes
+
+7+| *Two-Wheeled Vehicles* 
+| bicycle | -1 | +1 | 16 | 4 | 1+1 a| 50% chance a shot hits the rider instead.
+Doubles rider’s Pace and running die result.
+
+| scooter | 0 | +2 | 40 | 7 (2) | 1+1 |
+| motorcycle | 2 | +2 | 120 | 9 (2) | 1+1 |
+
+7+| *Cars and Trucks*
+| early car | 3 | -1 | 40 | 7 | 1 + 3 | Model T
+// | roadster | 3 |  +2 | 120 | 10 (3) | 1+2 | e.g., Duesenberg Model J
+| roadster | 3 |  +2 | 75 | 10 (3) | 1+2 | Wolseley Motors Hornet
+// | jeep with mounted MGs | 4 |  +1 | 65 | 10 (2) | 2+3 | Four-Wheel Drive. Weapons: Heavy MG (Front Pintle Mount)
+// | sedan | 4 | +1 | 90 | 12 (3) | 1+5 |
+| sedan | 4 | +1 | 65 | 9 (1) | 1+5 | Ford 1934 or Mercedes 260D (W138) Saloon
+| sports sedan |  4 | +1 | 75 | 8(1) | 1+4 | Hillman Fourteen Saloon
+| police car |  4 | +0 | 60 | 6(1) | 1+3 | Wolseley Six Wasp Police Car 
+| limousine | 5 | +1 | 65 | 13 (3) | 1+8 |
+| military limousine | 4 | +1 | 99 | 10(2) | 1+5 | Mercedes 770 Grosser
+| pickup truck |  4 | +0 | 50 | 7(1) | 1+1 | 4 extra passengers can sit in the back
+| cargo truck | 6 | +0 | 75 | 14 (2) | 1+7 |
+| troop or cargo transport | 7 | +0 | 50 | 12 (1) | 1+1 | 20 soldiers can sit in the back
+| bus | 7 | +0 | 75 | 15 (2) | 1+50 |
+
+
+
+
+
+7+|*Military Vehicles*
+| jeep | 4 |  +1 | 65 | 10 (2) | 2+3 a| Four-Wheel Drive
+Optional Weapons: Heavy MG (Front Pintle Mount) 
+
+| M5A1 Stuart (Light Tank) | 7 (Large) | 0 | 36 | 21 (7) | 4 | Heavy Armor, Tracked. 
+Weapons: 37mm tank gun (Turret, Stabilizer), Medium MG (Front Fixed), Heavy MG (Pintle Mount on Turret)
+
+| Panzer IV (Medium Tank) | 7 (Large) | −1 | 25 | 26 (10) | 5 | Heavy Armor, Tracked.
+Weapons: 75mm gun (Turret), Medium MG (Front Fixed and in Turret)
+
+| T-34/76 | 7 (Large) | −1 | 35 | 24 (8) | 4 |  Heavy Armor, Sloped Armor (front only), Tracked. Weapons: 76mm tank gun (Turret), Medium MG (Front Fixed and in Turret).
+
+| M4 Sherman (Medium Tank) | 8 (Huge) | -1 | 30 | 24 (8) | 5 a| Heavy Armor, Tracked. 
+Weapons: 75mm tank gun (Turret, Stabilizer), Medium MG (Fixed front), Heavy MG (Pintle Mount on Turret)
+
+| Tiger II (Heavy Tank) | 8 (Huge) | −2 | 25 | 34 (16) | 5 | Heavy Armor, Tracked. Weapons: 88mm tank gun (Turret), Medium MG (Front Fixed and in Turret)
+ 
+
+|===
+
+
+// 1934 Ford - 65 mph
+// 1934 roadster - 75 mph
+
+
+
+.Marine vehicles
+[cols="15%,10%,14%,15%,10%,10%,26%",options="header"]
+|===
+| Vehicle | Size | Handling | Top Speed (MPH) | Tough-ness | Crew | Notes
+| rowboat | 0 | −2 | 5 | 8 (1) | 1+3 |
+| jon boat or air boat | 3 | +1 | 10 | 8 (1) | 1+5 |
+| air boat | 3 | +1 | 15 | 8 (1) | 1+5 |
+For use in shallow conditions.
+| motorboat | 4 | +1 | 30 | 12 (2) | 1+5 |
+| yacht, motorized | 10 | -1 | 25 | 15 (3) | 10+10 a| Machineguns are mounted on swivels fore and aft, but are not displayed except under unusual circumstances.
+Optional weaponry: 2 x M1919 0.30 machinegun (bow and stern)
+| PT Boat | 12 (Gar) | +1 | 40 | 14 (2) | 10 | Heavy Armor. 
+Weapons: 50 cal MG (Front Pintle Mount), Heavy MG (Rear Pintle Mount), 4× torpedo tubes (Fixed Forward).
+|===
+
+.Aircraft
+[cols="15%,10%,14%,15%,10%,10%,26%",options="header"]
+|===
+| Vehicle | Size | Handling | Top Speed (MPH) | Tough-ness | Crew | Notes
+| Experimental airplane | 4 | +0 | 120 | 11 (2) | 1 +3 | 2 x Linked Heavy MG (Fixed Front)
+// Listed as speed 50/200 in DToA. 
+| Messerschmidt BF-109 | 6 (Large) | +1 | 380 | 13 (2) | 1 | 20mm Cannon (Fixed Front), 2× Linked Heavy MG (Fixed Front)
+| P-51 Mustang | 7 (Large) | +1 | 437 | 14 (2) | 1 | 6× Heavy MG (Fixed Front)
+| B-17 Flying Fortress | 10 (Huge) | -2 | 115 | 19 (2) | 10 
+a| Weapons: 2× Linked Heavy MG (Fixed front), 2× Linked Heavy MG (Top Turret), 2× Linked Heavy MG (Ball Turret), Heavy MG (Fixed Left), Heavy MG (Fixed Right), Bombs.
+| Japanese Zero | 6 (Large) |  +1 | 350 |  12 (2) | 1 | 2× Linked Medium MGs (Fixed Front), 2× Linked 20mm Cannons (Fixed Front)
+| Spitfire Mk IIA | 6 (Large) | +1 | 360 | 14 (1) | 1 | 8× Linked Medium MGs (Fixed Front)
+| Caproni CA310p Libeccio | 9 (Huge) | +1 | 225 Mph | 12 (1) | 2+6 | Weapons: 2 linked Medium MGs, fixed front
+| Utility aircraft | 9 (Huge) | +1 | 225 Mph | 12 (1) | 2+6 | Beechcraft Model 18 or other small, twin-engine, propeller-driven transport.
+It can carry a payload of 1200 lbs. (six passengers, or half a ton of gear) up to 1200 miles without refueling.
+| Biplane | 4 | +1 | 125 | 12 (1) | 1  | 
+| Bush plane | 6 | +1 | 100 | 12 (1) | 1+9  | "Noorduyn Norseman"
+A single-wing STOL bush plane; it can be fitted with floats, wheels, or skis. 
+Wood and steel construction. 
+It can fly 900 miles without refueling.
+| Consolidated PBY Catalina Flying Boat | 7 | 0 |  125 |  12 (2)
+ | 2+7 | Can land on water or land; can take off from water with a suitable headwind. It can carry a payload of 2 tons; can stay aloft for 24 hours and travel 2,520 miles without refueling or maintenance. 
+ Military models may mount up to five guns.
+// Noorduyn Norseman
+|===
+
+
+////
+Acc/Top Speed: 10/20; Toughness: 12(3); Crew: 1+5 | Sedan
+Acc/Top Speed: 10/20; Toughness: 9 (2); Crew: 1+3 | Jeep
+Acc/Top Speed: 20/36; Toughness: 8 (2); Crew: 1+1 | Motorcycle
+2 1000 lbs 9′ — +2 100 9 (2) 1+1 motorcycle, ATV
+
+Acc/Top Speed: 4/16; Toughness: 13 (3); Crew: 1+8 | Limo
+Acc/Top Speed: 6/18; Toughness: 7 (2); Crew: 1+1 | Scooter
+Acc/Top Speed: 8/16; Toughness: 14 (2);
+Crew: 1+10 | Cargo truck
+Acc/Top Speed: 5/15; Toughness: 15(2); Crew: 1+50 | Bus
+
+Acc/Top Speed: 3/9; Toughness: 15 (3);
+Crew: 10+10 | Yacht, motorized
+Notes: —
+Machineguns are mounted on swivels fore and aft, but are not displayed except under unusual circumstances.
+Weapons:
+2 x M1919 0.30 machinegun (bow and stern)
+
+Acc/Top Speed: 4/13; Toughness: 12 (2);
+Crew: 1+5 | Motorboat
+Notes: —
+////

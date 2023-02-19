@@ -1,0 +1,133 @@
+
+:roll20-url: https://app.roll20.net/campaigns/details/1673998/savage-top-secret-1983
+
+= Savage Espionage
+
+// _These setting rules are are largely a subset of the rules from Reality Blurs' "Agents of Oblivion"._
+
+== Game setting rules
+
+The year is 1983.
+You are agents working together in a joint mission under the service of The Agency, (NATO nations).
+
+All the mission details are available as handouts inside the Roll20 campaign.
+
+See the {roll20-url}[Roll20 campaign].
+
+
+== Standard Setting Rules
+
+Savage Worlds Adventure Edition has a number of setting rules that are good for running Top Secret espionage game.
+
+// * Fanatics (SWADE p 138)
+* Gritty Damage (SWADE p 139)
+* Multiple Languages (SWADE p 149)
+
+== Special Setting Rules
+
+=== Stunts
+// From Adamant Entertainment's "Thrilling Tales of Adventure"
+
+A stunt action is any action that is performed in a flashier than normal way.
+Any hero who attempts a stunt action deserves a benny.
+
+In game terms, a stunt is an action where the player purposefully makes the action more difficult for the hero.
+A stunt action always requires a trait roll, at a minimum -2 penalty.
+The GM is the final arbiter of the roll penalty of a particular stunt action.
+
+Conventional action::
+Getting on board a helicopter before it takes off from the platform is an action
+
+Stunt action::
+Leaping from a moving vehicle to grab on to the helicopter as the helo is taking off.
+
+=== Surrender
+
+When the heroes surrender at a dramatically fitting place in the story and go along with the demands of the antagonists, each heroes takes a benny.
+
+== Character creation
+
+Characters begin at novice rank with no advances.
+
+In addition to the standard core skills, characters have 12 skill points to spend at novice.
+
+.Agency training gives a novice agent the following skills at a d4: 
+* Fighting
+* Shooting
+* Tradecraft
+* Demolitions
+* Electronics
+
+Some sample tokens are https://drive.google.com/open?id=0B0lb1qfRe-jtQ2dIY3FwQk1QMmc[in Google Drive here].
+
+And there's a https://play.spotify.com/user/achall-us/playlist/1NIH7MURguqFqBgcLJxhlj[playlist].
+
+// It's go time!
+Agents begin with the major hindrance Obligation. 
+This does *not* count towards your normal Hindrance total.
+
+=== Languages
+Besides their native tongue, all agents know half their Smarts die in languages.
+They speak with an obvious accent, betraying their nationality. Social interaction
+skills dependent upon speech are at a -2 when attempted in the speaker's nonnative
+tongue.
+
+=== New skills
+// Skills are from Reality Blurs' _Agents of Oblivion_
+
+Demolitions (Smarts)::
+The ability to identify, set, shape, and defuse explosives. 
+Explosions may be planted in a focused and discrete manner, or "shaped" to cover a greater area.
+
+Forgery (Smarts)::
+The ability to fabricate, adapt, or imitate objects or documents with the intent to deceive. 
+Attempting to make forgeries without the proper tools is done at -2. 
+The tools vary wildly, depending upon the nature of the item in question.
+
+Tradecraft (Smarts)::
+This skill focuses on the application of procedures and protocols, such as dead drops, brief encounters, pickups, load and unload signals, danger and safe signals, and surveillance and counter-surveillance. 
+The tradecraft skill also covers knowledge of other agencies as well as aiding in field requisitions and governs exactly what you can requisition.
+
+////
+### Success with a cost
+If you roll a 1 on your skill die but your wild die is successful, that is still considered a success, but there is a negative effect or compromise (e.g., your weapon becomes entangled in an enemy's armor). 
+The player can describe what the negative effect looks like. This is derived from a Dungeon World mechanic.
+I also attribute the idea of applying this type of effect to Savage Worlds to Eric Lamoureux.
+////
+
+
+=== Removed Skills
+
+* Focus, applies to the Arcane Background (Gifted)
+* Faith, applies to the Arcane Background (Miracles)
+* Language (see the Multiple Languages setting rules in SWADE p 149)
+* Psionics, applies to the Arcane Background (Psionics)
+* Spellcasting, applies to the Arcane Background (Magic)
+* Weird Science, pplies to the Arcane Background (Weird Science)
+
+== Edges
+
+=== Removed Edges
+
+.Background Edges
+* Arcane Background
+* Arcane Resistance and Improved Arcane Resistance
+* Linguist (as per the Multiple Languages setting rules in SWADE p 149)
+
+.Combat Edges
+* Giant Killer
+
+.Power Edges
+* None are available
+
+.Weird Edges
+* Beast Bond
+* Beast Master
+* Champion
+* Chi
+* Scavenger
+
+.Legendary Edges
+* Followers
+* Sidekick
+

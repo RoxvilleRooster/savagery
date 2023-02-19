@@ -1,8 +1,18 @@
 // * Settings
-* xref:two_fisted_pulp_SWADE.adoc[Classic Pulp]
-** xref:pulp_archetypes.adoc[]
-** xref:pulp_character_creation.adoc[]
+* Pulp
+** xref:pulp_intro.adoc[]
+** xref:two_fisted_pulp_SWADE.adoc[Classic Pulp]
+*** xref:pulp_archetypes.adoc[]
+*** xref:pulp_character_creation.adoc[]
+** xref:pulp_stuff.adoc[]
+** xref:pulp_colophon.adoc[]
 * xref:firefly_swade.adoc[Firefly]
 * xref:Savage_Musketeers.adoc[Musketeers]
 * xref:Savage_Three_Rocketeers.adoc[Rocketeers]
 // ** xref:_dtoa_chases.adoc[Pulp Chases]
+// * xref:savage_top_secret.adoc[]
+* Weird Wars Rome
+** xref:wwr_swade_conversion.adoc[]
+// *** xref:wwr_bestiary.adoc[]
+** xref:wwr_campaign.adoc[]
+* xref:savage_espionage.adoc[]
