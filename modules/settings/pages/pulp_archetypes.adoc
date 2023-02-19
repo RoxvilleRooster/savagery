@@ -1,0 +1,221 @@
+= Archetypes for pulp action characters
+
+The archetypes below are suggestions and do not specify dice values.
+
+.Improved edges
+****
+For simplicity's sake, I do not list the _improved_ version of an edge. 
+For example, when I list the Luck edge, I do not list the Great Luck edge. Take the improved version of the edge later, when the character advances.
+****
+
+== Actor
+
+Suggested Skills::
+Athletics, Fighting, Intimidation, Performance, Persuasion, Riding, Taunt
+Suggested Edges::
+Attractive, Charismatic, Connections, Elan, Fame, Rich, Work the Room
+Suggested Hindrances::
+Arrogant, Big Mouth, Habit, Think Skinned, Stubborn
+
+== Archaeologist
+
+Suggested Skills::
+Academics, Athletics, Notice, Repair, Research, Stealth, Survival
+Suggested Edges::
+Investigator, Scholar, Danger Sense, Dodge, Luck
+Suggested Hindrances::
+Code of Honor, Heroic, Bad Luck, Curious, Greedy, Phobia
+
+== Big Game Hunter
+
+Suggested Skills::
+Athletics, Fighting, Notice, Riding, Shooting, Stealth, Survival
+Suggested Edges::
+Alertness, Danger Sense, Dead Shot, Giant Killer, Marksman, No Mercy, Steady Hands, Trademark Weapon, Woodsman.
+Suggested Hindrances::
+Arrogant, Bloodthirsty, Greedy
+
+== Dilettante
+
+Suggested Skills::
+Athletics, Driving, Gambling, Performance, Persuasion, Riding, Shooting, Taunt
+Suggested Edges::
+Aristocrat, Fame, Rich
+Suggested Hindrances::
+All Thumbs, Arrogant, Clueless, Code of Honor, Impulsive, Obligation, Overconfident, Secret, Shamed, Think Skinned, Vengeful
+
+== Explorer
+
+Suggested Skills::
+Academics, Athletics, Healing, Notice, Research, Riding, Science, Survival
+Suggested Edges::
+Brave, Scholar, Strong Willed, Woodsman
+Suggested Hindrances::
+Bad Luck, Code of Honor, Curious, Driven, Stubborn
+////
+==== Fortune hunter
+
+Suggested Skills::
+Research, Academics, Thievery, Notice, Survival
+Suggested Edges::
+Investigator, Scholar
+Suggested Hindrances::
+Bad Luck, Curious, Greedy, Phobia
+////
+== G-Man
+
+Suggested Skills::
+Common Knowledge, Driving, Fighting, Intimidation, Notice, Research, Persuasion, Shooting
+Suggested Edges::
+Alertness, Combat Reflexes, Command, Connections, Dodge, Investigator, Strong Willed
+Suggested Hindrances::
+Code of Honor, Loyal, Mean, Obligation, Overconfident
+
+
+== Jungle Man
+
+Suggested Skills::
+Athletics, Fighting, Healing, Notice, Survival, Stealth
+Suggested Edges::
+Acrobat, Alertness, Beast Bond, Beast Master, Brawny, Danger Sense, Fleet-Footed, Free Runner, Giant Killer, Iron Jaw, Woodsman
+Suggested Hindrances::
+All Thumbs, Clueless, Curious, Heroic, Illiterate, Outsider
+
+== Mad Scientist
+
+Suggested Skills::
+Academics, _Gadgetry_, Research, Repair, Science, Weird Science,
+Suggested Edges::
+Arcane Background (Weird Science), Gadgeteer, McGyver, Mr. Fix It, Rich
+Suggested Hindrances::
+Curious, Delusional, Doubting Thomas, Outsider, Overconfident
+
+////
+==== Man of Mystery
+
+Suggested Skills::
+text
+Suggested Edges::
+text
+Suggested Hindrances::
+text
+////
+
+== Martial Artist
+
+Suggested Skills::
+Athletics, Fighting, Intimidation, Stealth
+Suggested Edges::
+Acrobat, Ambidextrous, Block, Chi, First Strike, Frenzy, Martial Artist
+Suggested Hindrances::
+Driven, Heroic, Loyal, Outsider, Pacifist, Vow
+
+////
+==== Mesmerist
+
+Suggested Skills::
+Intimidation, Notice, Performance, Persuasion, Psionics.
+Suggested Edges::
+Arcane Background (Psionics), Arcane Resistance (Psionics), Danger Sense, Mentalist, Soul Drain, Strong Willed
+Suggested Hindrances::
+Cautious, Pacifist
+////
+
+== Pilot
+
+Suggested Skills::
+Piloting, Repair, Shooting
+Suggested Edges::
+Ace, Dead Shot, Level-Headed, Quick, Steady Hands,
+Suggested Hindrances::
+Arrogant, Code of Honor, Enemy, Outsider, Overconfident
+
+
+== Private Detective
+
+Suggested Skills::
+Research, Stealth, Notice, Persuasion, Performance, Taunt
+Suggested Edges::
+Alertness, Connections, Investigator, Streetwise
+Suggested Hindrances::
+Code of Honor, Curious
+
+== Prizefighter
+
+Suggested Skills::
+Athletics, Fighting, Intimidation
+Suggested Edges::
+Ambidextrous, Block, Brawler, Brawny, Bruiser, Brute, Combat Reflexes, Counterattack, Fame, First Strike, Frenzy, Iron Jaw, Martial Artist, Quick, Strong Willed, Sweep, Two Fisted
+Suggested Hindrances::
+Arrogant, Driven, Heroic, Illiterate, Loyal, Menacing, Overconfident, Ruthless, Ugly
+
+
+== Punk Kid
+
+Suggested Skills::
+Athletics, Notice, Persuasion, Repair, Stealth, Taunt
+Suggested Edges::
+Alertness, Acrobat, Dodge, Extraction, Fleet Footed, Humiliate, Luck, Provoke, Quick, Retort, Scavenger, Strong Willed,
+Suggested Hindrances::
+Big Mouth, Curious, Loyal, Young
+
+
+== Reformed Criminal
+
+Suggested Skills::
+Athletics, Fighting, Gambling, Intimidation, Notice, Persuasion, Shooting, Stealth, Taunt, Thievery
+Suggested Edges::
+Acrobat, Assassin, Calculating, Connections, Dodge, Free Runner, Level Headed, Menacing, Rock and Roll, Streetwise, Thief
+Suggested Hindrances::
+Code of Honor, Enemy, Greedy, Habit, Heroic, Mean, Ruthless, Secret, Shamed, Suspicious, Ugly, Vow, Wanted
+
+== Reporter
+
+Suggested Skills::
+Academics, Athletics, Notice, Persuasion, Research, Stealth, Taunt, Thievery
+Suggested Edges::
+Alertness, Attractive, Calculating, Connections, Investigator, Luck, Streetwise, Strong Willed
+Suggested Hindrances::
+Curious, Doubting Thomas, Driven, Habit, Suspicious
+
+== Rocketeer
+
+Suggested Skills::
+Athletics, Fighting, Intimidation, Piloting, Shooting, Stealth
+Suggested Edges::
+Ace, Combat Reflexes, Dodge, Level Headed, Rock 'n' Roll, Steady Hands
+Suggested Hindrances::
+Code of Honor, Heroic, Loyal, Overconfident
+
+== Soldier of Fortune
+
+Suggested Skills::
+Athletics, Battle, Fighting, Intimidation, Notice, Riding, Shooting, Stealth
+Suggested Edges::
+Enlisted;;
+Combat Reflexes, Dodge, Marksman, Rock and Roll, Soldier, Steady Hands
+Officer;;
+Command, Command Presence, Hold the Line, Inspire, Natural Leader, Tactician
+Suggested Hindrances::
+Greedy, Loyal
+
+== Star Athlete
+
+Suggested Skills::
+Athletics, Fighting, Intimidation, Performance, Riding, Taunt
+Suggested Edges::
+Acrobat, Attractive, Brawny, Brute, Elan, Fame, Fleet Footed, Free Runner, Level Headed, Quick
+Bolster, Common Bond, Provoke, Reliable, Strong Willed
+Suggested Hindrances::
+Arrogant, Driven, Heroic, Ruthless, Thin Skinned, Young
+
+////
+==== Archetype name 1
+
+Suggested Skills::
+text
+Suggested Edges::
+text
+Suggested Hindrances::
+text
+////

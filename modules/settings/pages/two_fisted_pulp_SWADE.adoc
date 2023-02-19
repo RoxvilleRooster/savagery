@@ -1,8 +1,8 @@
 = Classic Two-Fisted Pulp Adventures Using _Savage Worlds Adventure Edition_
 Andy Hall <achall@gmail.com>
 v1.0, 2020-02-15
-:toc: left
-:toclevels: 4
+//:toc: left
+//:toclevels: 4
 :experimental:
 :sectlinks:
 :sectanchors:
@@ -10,7 +10,7 @@ v1.0, 2020-02-15
 ****
 This is an attempt to take the setting rules from several older Savage Worlds products and adapt them to _Savage Worlds Adventure Edition_ (SWADE) games.
 
-This is an effort to make the scenarios of the  _Daring Tales of Adventure_ series more usable to SWADE game masters and players.
+The scenarios of the  _Daring Tales of Adventure_ series are sources of content and inspiration for many of our games.
 
 In addition _Savage Worlds Adventure Edition_ (2018), this document references the following books:
 
@@ -20,21 +20,25 @@ In addition _Savage Worlds Adventure Edition_ (2018), this document references t
 * _Thrilling Tales of Adventure_ (2009, Gareth-Michael Skarka et al., Adamant Entertainment)
 * _Realms of Cthulhu_ (2009, Sean Preston, Reality Blurs)
 * _The Eye of Kilquato: Savage Worlds Adventure Edition_ (2019, Shane Hensley, Pinnacle Entertainment)
+* _Acthung Cthulhu_ (for Savage Worlds)
+* _The-Secret-Files-of-Section-D_ (2023, Allan Wroe, Imaginarium Games)
 
 ****
 
 == Heroes in the "Golden Age" of Pulp
 
-=== Acts and scenes
+////
+ ////=== Acts and scenes
 
 Typically, a Daring Tales of Adventure scenario was divided into 3 or 4 acts; each act usually consists of 3 or 4 scenes.
+////
 
 == Setting Rules
 
 Savage Worlds Adventure Edition has a number of setting rules that are perfect for running a two-fisted pulp game.
 
 * Conviction (SWADE p 136)
-* Creative Combat (SWADE p 137)
+// * Creative Combat (SWADE p 137)
 * Fast Healing (SWADE p 139)
 * Multiple Languages (SWADE p 149)
 // * Wound Cap (SWADE p 141)
@@ -46,7 +50,8 @@ Savage Worlds Adventure Edition has a number of setting rules that are perfect f
 
 .Why not use the Wound Cap setting rule?
 ****
-I thought of adding the Wound Cap setting rule (SWADE p 141) but I figured that, with Fast Healing, Dumb Luck, Heroes Never Die,  <<#injuries_are_temporary>>, and  <<#nonlethal_damage_to_heroes>>, the heroes were wearing enough bubble wrap. There has to be some danger.
+I thought of adding the Wound Cap setting rule (SWADE p 141) but I figured that, with Fast Healing, Dumb Luck, Heroes Never Die,  <<#injuries_are_temporary>>, and  <<#nonlethal_damage_to_heroes>>, the heroes were wearing enough bubble wrap. 
+There has to be _some_ danger to a character's life.
 ****
 
 The following rules and directions further tune the setting for a classic pulp action game.
@@ -55,13 +60,20 @@ The following rules and directions further tune the setting for a classic pulp a
 
 === Bennies
 
-Before the start of every combat, each hero gets a benny, provided that the benny does not exceed the character's amount of bennies at the session's start. A typical wild card hero has 3 bennies at session start, unless the hero as edges or hindrances that affect starting bennies.
+Before the start of every combat, each hero gets a benny, provided that the benny does not exceed the character's amount of bennies at the session's start. 
+A typical wild card hero has 3 bennies at session start, unless the hero as edges or hindrances that affect starting bennies.
+
+IMPORTANT: A player (GM included) can't have more than 6 bennies in your pile in front of you.
 
 ==== Be the Hero
 
-The protagonists are heroes. Play them that way. If a protagonist commits an evil, villainous, or morally ambiguous act, they lose a benny. This benny loss reduces the protagonist's benny maximum until the start of the next session. For example, if the hero typically starts a session with 3 bennies, her benny limit would then be reduced to 2 for the duration of the session.
-[TIP]
-The game master should warn the player about this rule and the consequences of the action before the player's hero commits an ignoble deed.
+The protagonists are heroes so play them that way. 
+If a protagonist commits an evil, villainous, or morally ambiguous act, they lose a benny. 
+
+NOTE: This benny loss reduces the protagonist's benny maximum until the start of the next session. 
+For example, if the hero typically starts a session with 3 bennies, her benny limit would then be reduced to 2 for the duration of the session.
+
+TIP: The game master should warn the player about this rule and the consequences of the action before the player's hero commits an ignoble deed.
 
 ==== Soaking
 
@@ -73,13 +85,19 @@ When a hero soaks all of the damage from an attack, she gets her benny back.
 A stunt action is any action that is performed in a flashier than normal way.
 Any hero who attempts a stunt action deserves a benny.
 
-In game terms, a stunt is an action where the player purposefully makes the action more difficult for the hero. A stunt action always requires a trait roll, at a minimum -2 penalty. The GM is the final arbiter of the roll penalty of a particular stunt action.
+In game terms, a stunt is an action where the player purposefully makes the action more difficult for the hero. 
+A stunt action always requires a trait roll, at a minimum -2 penalty. 
+The GM is the final arbiter of the roll penalty of a particular stunt action.
 
-Conventional action::
+.Conventional action
+****
 Getting on board an airship before it lifts off from the platform is an action
+****
 
-Stunt action::
+.Stunt action
+****
 Leaping from the sidecar of a speeding motorcycle onto an airship at the last second as it lifts off from the platform.
+****
 
 === Surrender
 
@@ -92,7 +110,8 @@ In a pulp game, death is not gory and messy.
 
 === Contacts
 
-Once per adventure, one of the players can invent a Contact, who is a slightly helpful non-player character. A player may invent a Contact for his hero once per rank.
+Once per adventure, one of the players can invent a Contact, who is a slightly helpful non-player character. 
+A player may invent a Contact for his hero once per rank.
 A contact typically serves to provide gear,  information, or clues and leads when parties are struggling. The GM gets the final decision on what the Contact provides the heroes.
 
 ////
@@ -114,7 +133,8 @@ The damage rolls of Extras do not ace.
 [[nonlethal_damage_to_heroes]]
 === Nonlethal Damage to Heroes
 
-All damage taken by heroes is treated as nonlethal. A hero can only die if a villain performs a Finishing Move (SWADE p 101).
+All damage taken by heroes is treated as nonlethal. 
+A hero can only die if a villain performs a Finishing Move (SWADE p 101).
 
 ////
 ==== Fast healing
@@ -125,7 +145,8 @@ Heroes recover 1 wound at the start of an "Act". See <<_acts_and_scenes>>.
 [[injuries_are_temporary]]
 === Injuries are Temporary
 
-Heroes do not suffer a permanent injury. When the wounds from the injury heals, the hero no longer suffers the effect of the injury.
+Heroes do not suffer a permanent injury. 
+When the wounds from the injury heals, the hero no longer suffers the effect of the injury.
 
 === Never-Ending Ammo
 
@@ -151,15 +172,11 @@ The "Recurring villains" setting rules are a bit _too_ much. Do not get too comm
 
 The cops do not turn up on the scene until after the action has ended.
 
-
-
-
 == Creating Heroes
 
 === Motivations
 
-Suggested motivations:
-
+.Suggested motivations:
 * Money
 * Higher purpose (e.g., preserve, protect)
 * Adventure and thrills
@@ -167,243 +184,16 @@ Suggested motivations:
 * Professional rivalry
 * Redemption
 
-
-=== Archetypes
-
-The archetypes below are suggestions and do not specify dice values.
-
-.Improved edges
-****
-For simplicity's sake, I do not list the _improved_ version of an edge. For example, when I list the Luck edge, I do not list the Great Luck edge. Take the improved version of the edge later, when the character advances.
-****
-
-==== Actor
-
-Suggested Skills::
-Athletics, Fighting, Intimidation, Performance, Persuasion, Riding, Taunt
-Suggested Edges::
-Attractive, Charismatic, Connections, Elan, Fame, Rich, Work the Room
-Suggested Hindrances::
-Arrogant, Big Mouth, Habit, Think Skinned, Stubborn
-
-==== Archaeologist
-
-Suggested Skills::
-Academics, Athletics, Notice, Repair, Research, Stealth, Survival
-Suggested Edges::
-Investigator, Scholar, Danger Sense, Dodge, Luck
-Suggested Hindrances::
-Code of Honor, Heroic, Bad Luck, Curious, Greedy, Phobia
-
-==== Big Game Hunter
-
-Suggested Skills::
-Athletics, Fighting, Notice, Riding, Shooting, Stealth, Survival
-Suggested Edges::
-Alertness, Danger Sense, Dead Shot, Giant Killer, Marksman, No Mercy, Steady Hands, Trademark Weapon, Woodsman.
-Suggested Hindrances::
-Arrogant, Bloodthirsty, Greedy
-
-==== Dilettante
-
-Suggested Skills::
-Athletics, Driving, Gambling, Performance, Persuasion, Riding, Shooting, Taunt
-Suggested Edges::
-Aristocrat, Fame, Rich
-Suggested Hindrances::
-All Thumbs, Arrogant, Clueless, Code of Honor, Impulsive, Obligation, Overconfident, Secret, Shamed, Think Skinned, Vengeful
-
-==== Explorer
-
-Suggested Skills::
-Academics, Athletics, Healing, Notice, Research, Riding, Science, Survival
-Suggested Edges::
-Brave, Scholar, Strong Willed, Woodsman
-Suggested Hindrances::
-Bad Luck, Code of Honor, Curious, Driven, Stubborn
-////
-==== Fortune hunter
-
-Suggested Skills::
-Research, Academics, Thievery, Notice, Survival
-Suggested Edges::
-Investigator, Scholar
-Suggested Hindrances::
-Bad Luck, Curious, Greedy, Phobia
-////
-==== G-Man
-
-Suggested Skills::
-Common Knowledge, Driving, Fighting, Intimidation, Notice, Research, Persuasion, Shooting
-Suggested Edges::
-Alertness, Combat Reflexes, Command, Connections, Dodge, Investigator, Strong Willed
-Suggested Hindrances::
-Code of Honor, Loyal, Mean, Obligation, Overconfident
-
-
-==== Jungle Man
-
-Suggested Skills::
-Athletics, Fighting, Healing, Notice, Survival, Stealth
-Suggested Edges::
-Acrobat, Alertness, Beast Bond, Beast Master, Brawny, Danger Sense, Fleet-Footed, Free Runner, Giant Killer, Iron Jaw, Woodsman
-Suggested Hindrances::
-All Thumbs, Clueless, Curious, Heroic, Illiterate, Outsider
-
-
-
-==== Mad Scientist
-
-Suggested Skills::
-Academics, _Gadgetry_, Research, Repair, Science, Weird Science,
-Suggested Edges::
-Arcane Background (Weird Science), Gadgeteer, McGyver, Mr. Fix It, Rich
-Suggested Hindrances::
-Curious, Delusional, Doubting Thomas, Outsider, Overconfident
-
-////
-==== Man of Mystery
-
-Suggested Skills::
-text
-Suggested Edges::
-text
-Suggested Hindrances::
-text
-////
-
-==== Martial Artist
-
-Suggested Skills::
-Athletics, Fighting, Intimidation, Stealth
-Suggested Edges::
-Acrobat, Ambidextrous, Block, Chi, First Strike, Frenzy, Martial Artist
-Suggested Hindrances::
-Driven, Heroic, Loyal, Outsider, Pacifist, Vow
-
-////
-==== Mesmerist
-
-Suggested Skills::
-Intimidation, Notice, Performance, Persuasion, Psionics.
-Suggested Edges::
-Arcane Background (Psionics), Arcane Resistance (Psionics), Danger Sense, Mentalist, Soul Drain, Strong Willed
-Suggested Hindrances::
-Cautious, Pacifist
-////
-
-==== Pilot
-
-Suggested Skills::
-Piloting, Repair, Shooting
-Suggested Edges::
-Ace, Dead Shot, Level-Headed, Quick, Steady Hands,
-Suggested Hindrances::
-Arrogant, Code of Honor, Enemy, Outsider, Overconfident
-
-
-==== Private Detective
-
-Suggested Skills::
-Research, Stealth, Notice, Persuasion, Performance, Taunt
-Suggested Edges::
-Alertness, Connections, Investigator, Streetwise
-Suggested Hindrances::
-Code of Honor, Curious
-
-==== Prizefighter
-
-Suggested Skills::
-Athletics, Fighting, Intimidation
-Suggested Edges::
-Ambidextrous, Block, Brawler, Brawny, Bruiser, Brute, Combat Reflexes, Counterattack, Fame, First Strike, Frenzy, Iron Jaw, Martial Artist, Quick, Strong Willed, Sweep, Two Fisted
-Suggested Hindrances::
-Arrogant, Driven, Heroic, Illiterate, Loyal, Menacing, Overconfident, Ruthless, Ugly
-
-
-==== Punk Kid
-
-Suggested Skills::
-Athletics, Notice, Persuasion, Repair, Stealth, Taunt
-Suggested Edges::
-Alertness, Acrobat, Dodge, Extraction, Fleet Footed, Humiliate, Luck, Provoke, Quick, Retort, Scavenger, Strong Willed,
-Suggested Hindrances::
-Big Mouth, Curious, Loyal, Young
-
-
-==== Reformed Criminal
-
-Suggested Skills::
-Athletics, Fighting, Gambling, Intimidation, Notice, Persuasion, Shooting, Stealth, Taunt, Thievery
-Suggested Edges::
-Acrobat, Assassin, Calculating, Connections, Dodge, Free Runner, Level Headed, Menacing, Rock and Roll, Streetwise, Thief
-Suggested Hindrances::
-Code of Honor, Enemy, Greedy, Habit, Heroic, Mean, Ruthless, Secret, Shamed, Suspicious, Ugly, Vow, Wanted
-
-==== Reporter
-
-Suggested Skills::
-Academics, Athletics, Notice, Persuasion, Research, Stealth, Taunt, Thievery
-Suggested Edges::
-Alertness, Attractive, Calculating, Connections, Investigator, Luck, Streetwise, Strong Willed
-Suggested Hindrances::
-Curious, Doubting Thomas, Driven, Habit, Suspicious
-
-==== Rocketeer
-
-Suggested Skills::
-Athletics, Fighting, Intimidation, Piloting, Shooting, Stealth
-Suggested Edges::
-Ace, Combat Reflexes, Dodge, Level Headed, Rock 'n' Roll, Steady Hands
-Suggested Hindrances::
-Code of Honor, Heroic, Loyal, Overconfident
-
-==== Soldier of Fortune
-
-Suggested Skills::
-Athletics, Battle, Fighting, Intimidation, Notice, Riding, Shooting, Stealth
-Suggested Edges::
-Enlisted;;
-Combat Reflexes, Dodge, Marksman, Rock and Roll, Soldier, Steady Hands
-Officer;;
-Command, Command Presence, Hold the Line, Inspire, Natural Leader, Tactician
-Suggested Hindrances::
-Greedy, Loyal
-
-==== Star Athlete
-
-Suggested Skills::
-Athletics, Fighting, Intimidation, Performance, Riding, Taunt
-Suggested Edges::
-Acrobat, Attractive, Brawny, Brute, Elan, Fame, Fleet Footed, Free Runner, Level Headed, Quick
-Bolster, Common Bond, Provoke, Reliable, Strong Willed
-Suggested Hindrances::
-Arrogant, Driven, Heroic, Ruthless, Thin Skinned, Young
-
-////
-==== Archetype name 1
-
-Suggested Skills::
-text
-Suggested Edges::
-text
-Suggested Hindrances::
-text
-////
-
-
 === Races
 Heroes are humans.
 
 === Skills
 
-==== Changed Skills
-
+.Changed skills
 * Electronics is reskinned as Gadgetry
+* Hacking is reskinned as Cryptography
 
-==== Removed Skills
-
-* Hacking
+.Removed skills
 * Focus, applies to the Arcane Background (Gifted)
 * Faith, applies to the Arcane Background (Miracles)
 * Language (see the Multiple Languages setting rules in SWADE p 149)
@@ -412,8 +202,7 @@ Heroes are humans.
 
 === Edges
 
-==== Changed Edges
-
+.Changed edges
 New Powers (SWADE p 47)::
 //An arcane character may learn two new powers by choosing this Edge (which may be taken multiple times). He may choose from any powers of his Rank or lower normally available to his particular Arcane Background.
 //A character can add a new Trapping on a power she already has instead of gaining a new one. She might add an ice Trapping to her existing fire bolt, for example, so she could switch between ice and fire Trappings freely.

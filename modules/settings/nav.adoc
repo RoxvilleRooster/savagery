@@ -2,4 +2,6 @@
 * xref:Savage_Musketeers.adoc[Musketeers]
 * xref:Savage_Three_Rocketeers.adoc[Rocketeers]
 * xref:two_fisted_pulp_SWADE.adoc[Classic Pulp]
+** xref:pulp_archetypes.adoc[]
+** xref:pulp_character_creation.adoc[]
 ** xref:dtoa_chases.adoc[Pulp Chases]
