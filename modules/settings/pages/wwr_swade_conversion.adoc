@@ -1,6 +1,6 @@
 = Weird Wars Rome Conversion
 Convert the Weird Wars Rome RPG to the Savage Worlds Adventure Edition
-:toc:
+// :toc:
 
 Weird Wars Rome was written for Savage Worlds Deluxe, but it's easy to update for the Savage Worlds Adventure Edition.
 Most of the rules can be used as-is. 
