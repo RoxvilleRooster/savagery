@@ -1,5 +1,5 @@
 // * Settings
-* xref:two_fisted_pulp_SWADE.adoc[]
+* xref:pulp_setting_rules.adoc[]
 ** xref:pulp_intro.adoc[Playing the pulp action game]
 ** xref:pulp_character_creation.adoc[]
 *** xref:pulp_archetypes.adoc[]
