@@ -1,11 +1,10 @@
 // * Settings
-* Pulp
-** xref:pulp_intro.adoc[]
-** xref:two_fisted_pulp_SWADE.adoc[Classic Pulp]
+* xref:two_fisted_pulp_SWADE.adoc[]
+** xref:pulp_intro.adoc[Playing the pulp action game]
+** xref:pulp_character_creation.adoc[]
 *** xref:pulp_archetypes.adoc[]
-*** xref:pulp_character_creation.adoc[]
 ** xref:pulp_stuff.adoc[]
-** xref:pulp_colophon.adoc[]
+** xref:pulp_colophon.adoc[References]
 * xref:firefly_swade.adoc[Firefly]
 * xref:Savage_Musketeers.adoc[Musketeers]
 * xref:Savage_Three_Rocketeers.adoc[Rocketeers]
