@@ -1,4 +1,4 @@
-= Setting Rules for Firefly
+= Savage Firefly
 Andy Hall <achall@gmail.com>
 v1.0, 2019-11-24
 :toc: right
@@ -16,7 +16,7 @@ The following setting rules from SWADE are fitting for a Savage Worlds Firefly c
 
 * Conviction (SWADE 136)
 
-==== Hindrance trappings
+=== Hindrance trappings
 
 Suggested re-skins of existing hindrances include:
 
@@ -25,9 +25,9 @@ Suggested re-skins of existing hindrances include:
 * Trap the Obligation (Minor or Major) hindrance as "Debt" or "In Debt to..."
 
 
-=== Favors, Contacts, and Perks
+// === Favors, Contacts, and Perks
 
-==== Favors
+=== Favors
 [[favors]]
 
 .Where these rules come from
@@ -41,7 +41,7 @@ Only allow the player group to use the _Influence the Story_ rule for a Favor on
 
 After the acquaintance does the favor, he fades into the background unless a player spends a Benny to add the character to his list of _Contacts_. Now that this contact has performed the favor, the contact's Reaction to the hero returns to Neutral.
 
-==== Contacts
+=== Contacts
 
 .Where these rules come from
 ****
@@ -66,7 +66,7 @@ Contacts are Wild Cards, even if they really came into the story as Extras. A pl
 
 A hero uses the Reactions table to represent the status of the relationship between a the hero and his Contact. The initial attitude of the contact depends on how the relationship starts; it is typically Neutral.
 
-===== Maintaining the relationships with a Contact
+==== Maintaining the relationships with a Contact
 
 If the attitude of a Contact falls to Hostile, the contact becomes a foe to the hero and the hero gains the Enemy (Minor) Hindrance.
 
@@ -77,13 +77,13 @@ At the session's start, the GM can ask each player who's hero has a Contact to d
 // TK Left off on page 33 of Wiseguys
 
 
-==== Perks
+=== Perks
 
 A Perk is a service, favor, or item that a Contact offers a hero that goes beyond what a Contact generally provides a hero.
 
 Beware, a perk can come with strings attached.
 
-=== Heists
+== Heists
 
 Firefly is all about the crew attempting to pull heists.
 
@@ -97,7 +97,7 @@ For each step in the heist use a different skill and have a different character 
 
 You can use a Quick Encounter for a heist that is either (a) a minor part of a scenario or (b) when game time is short. Each person engaged in the heist chooses a different skill. A heist is a group  effort; whether it succeeds depends on the members of the team.
 
-==== Planning the heist
+=== Planning the heist
 
 Consider using a _preparation montage_. Drop the characters into the heist and then use these mechanics and allow the players to describe the heist's preparations.
 
@@ -115,15 +115,15 @@ Suggested skills for preparation montages:
 * Research
 * Science
 
-==== Running the heist scene
+=== Running the heist scene
 
 Start the heist's Dramatic Task or Quick Encounter. During the heist, the players can redeem Heist Tokens to _Influence the Story_ as per "Using Bennies in Savage Worlds".
 
 A player can spend a Benny to influence the narrative, making a story, which allows the player character to
 
 [loweralpha]
-a. use a different skill for a step of the Dramatic Task than the GM determined or
-a. call upon help from a Contact or Connections to bypass the challenge.
+. use a different skill for a step of the Dramatic Task than the GM determined or
+. call upon help from a Contact or Connections to bypass the challenge.
 
 
 You can use a flashback to show what happened to influence the story and facilitate the success of the heist.
@@ -136,7 +136,7 @@ Examples of influencing the story include:
 * bypassing a security system
 * finding objects (e.g., uniforms, badges) or covers to blend in
 
-==== Generating a heist
+=== Generating a heist
 
 Heists are a fixture of a Firefly campaign.
 
@@ -158,7 +158,7 @@ For each scene of a heist's dramatic task or quick encounter, the GM can draw a 
 |===========================================================
 
 [[Complications]]
-===== Complications
+==== Complications
 
 If you draw a club, compare the card value against the table below.
 
@@ -182,7 +182,7 @@ If you draw a club, compare the card value against the table below.
 
 
 
-===== Barriers
+==== Barriers
 
 Barriers make a location difficult to access. Barriers are inanimate, unlike guards.
 Examples of barriers include
@@ -202,7 +202,7 @@ Skill use examples:
 * Piloting or Driving (accessing or escaping from a hard to reach location)
 
 
-===== Guards
+==== Guards
 
 Examples of guards include:
 
@@ -223,7 +223,7 @@ Examples of skills used to bypass guards include:
 * *Common Knowledge* or *Research* to know the timing and details of guard shift changes
 * *Stealth* to sneak up on a guard and administer a sedative or a chloroform-like substance
 
-===== Subterfuge
+==== Subterfuge
 
 You need to get around or avoid security measures.
 
