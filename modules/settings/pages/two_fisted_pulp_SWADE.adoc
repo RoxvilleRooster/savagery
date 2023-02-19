@@ -22,6 +22,8 @@ In addition _Savage Worlds Adventure Edition_ (2018), this document references t
 * _The Eye of Kilquato: Savage Worlds Adventure Edition_ (2019, Shane Hensley, Pinnacle Entertainment)
 * _Acthung Cthulhu_ (for Savage Worlds)
 * _The-Secret-Files-of-Section-D_ (2023, Allan Wroe, Imaginarium Games)
+* _Index Card RPG_ (2018, Second Edition, Runehammer)
+
 
 ****
 
@@ -198,7 +200,18 @@ At the fixed event points (called increments) in the chase, stuff happens when t
 If the scene defines 20 increments, lay down 20 chase cards. Use some kind of counter to mark the increments on which fixed events occur.
 
 
+== Action, tension, and combat
 
+Most action scenes in pulp need to be fast-paced and not get bogged down in combat mechanics.
+
+Do not expect standard tactical combats that last beyond 3 or 4 rounds.
+For a standard combat, I'll apply the "timers, threats, and treats" guidance from ICRPG. 
+
+The SWADE quick encounter mechanics will be used regularly.
+
+The dramatic task mechanics will feature prominently.
+
+The chase rules will be used regularly so players need to understand them as they would the combat mechanics.
 
 
 
