@@ -43,7 +43,7 @@ For example, the player might add an electrical trapping to her hero's existing 
 
 .Removed Edges
 * Linguist (as per the Multiple Languages setting rules in SWADE p 149)
-* See <<_arcane_backgrounds>> for other unavailable edges
+* See <<#arcane_bg>> below for other unavailable edges
 // * Arcane Resistance (SWADE p 37) and Improved Arcane Resistance
 // * Giant Killer (SWADE p 42)
 
