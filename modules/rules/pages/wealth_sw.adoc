@@ -6,7 +6,7 @@ v1.0, 2019-11-23
 :sectlinks:
 :sectanchors:
 
-== Wealth
+// == Wealth
 
 By default, each character has d6 Wealth.
 Wealth is not a trait but behaves like one in some respects.
@@ -14,7 +14,7 @@ Players can spend Bennies, roll the Wild Die, and benefit from Support rolls.
 
 Typically a setting's starting funds is $500; some settings start at $1000. The decision on the setting's starting funds relates to the <<table-value-penalty,value penalty table>>.
 
-=== Edges and hindrances
+== Edges and hindrances
 
 * The Poverty hindrance decreases the Wealth die by 1 step.
 * The Rich edge increases the Wealth die by 1 step.
@@ -38,43 +38,43 @@ The GM has the latitude to adjust prices listed in the books for various reasons
 |Value Penalty
 |Cost ($500 Starting Funds)
 |Cost ($1000 Starting Funds)
-| –0
+| -0
 | Up to $250
 | Up to $500
-| –1
+| -1
 | Up to $500
 | Up to $1,000
-| –2
+| -2
 | Up to $1,000
 | Up to $2,000
-| –3
+| -3
 | Up to $2,000
 | Up to $5,000
-| –4
+| -4
 | Up to $5,000
 | Up to $10,000
-| –5
+| -5
 | Up to $10,000
 | Up to $20,000
-| –6
+| -6
 | Up to $20,000
 | Up to $50,000
-| –7
+| -7
 | Up to $50,000
 | Up to $100,000
-| –8
+| -8
 | Up to $100,000
 | Up to $200,000
-| –9
+| -9
 | Up to $200,000
 | Up to $500,000
-| –10
+| -10
 | Up to $500,000
 | Up to $1,000,000
-| –11
+| -11
 | Up to $1,000,000
 | Up to $2,000,000
-| –12
+| -12
 | Up to $2,000,000
 | Up to $5,000,000
 |===
@@ -93,7 +93,7 @@ Raise, Purchase is successful;  Wealth die is not reduced.
 
 === Purchasing limit
 
-You cannot purchase an item that has a penalty greater than your wealth die. For example, if the hero has a d8 Wealth, she cannot try to purchase an item with a penalty of –9 or worse (that is, greater than $200,000 in value).
+You cannot purchase an item that has a penalty greater than your wealth die. For example, if the hero has a d8 Wealth, she cannot try to purchase an item with a penalty of -9 or worse (that is, greater than $200,000 in value).
 [NOTE]
 You cannot use Savings, benefit from Support rolls, and benefit from any other bonuses
 to Wealth rolls to push a hero over the  purchasing limit.
@@ -185,9 +185,9 @@ Observe the consequences of the Wealth  rolls.
 ****
 When you set the stakes, consider the Wealth penalty.
 
-. If the _value penalty_ of the ante is less than or equal to one less than half of the Character's Wealth die (that is, -1 for Wealth of d4, –2 for Wealth of d6, –3 for Wealth of d8, –4 for Wealth of d10, –5 for Wealth of d12), the character gets another step of Wealth on a success or raise.
+. If the _value penalty_ of the ante is less than or equal to one less than half of the Character's Wealth die (that is, -1 for Wealth of d4, -2 for Wealth of d6, -3 for Wealth of d8, -4 for Wealth of d10, -5 for Wealth of d12), the character gets another step of Wealth on a success or raise.
 
-. If the _value penalty_ of the ante is equal to two less than half of the Character's Wealth die (that is, -2 for Wealth of d4, –4 for Wealth of d6, –6 for Wealth of d8, –8 for Wealth of d10, –10 for Wealth of d12), the character increases her winnings by two "steps" of Wealth.
+. If the _value penalty_ of the ante is equal to two less than half of the Character's Wealth die (that is, -2 for Wealth of d4, -4 for Wealth of d6, -6 for Wealth of d8, -8 for Wealth of d10, -10 for Wealth of d12), the character increases her winnings by two "steps" of Wealth.
 ****
 
 === Example of gambling
@@ -197,11 +197,6 @@ In a quiet saloon, our hero, Tex McNutty, is  playing cards four other cowpokes 
 Tex wins back his ante (+1 die step to return his Wealth to d6) and +1 Wealth for raise.
 
 The cowpokes lose their ante. They grumble some. Tex may not want to gloat; one of the cowpokes at the table is a bad sport and likely to call Tex a cheat.
-
-
-
-
-
 
 
 .Lifestyles

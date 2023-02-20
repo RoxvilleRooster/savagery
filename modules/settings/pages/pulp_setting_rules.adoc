@@ -27,6 +27,7 @@ Savage Worlds Adventure Edition has a number of setting rules that are perfect f
 * Fanatics (SWADE p 138)
 * Heroes Never Die (SWADE p 140)
 * High Adventure (SWADE p 140)
+* Wealth (xref:rules:wealth_sw.adoc[])
 // Born a Hero (SWADE p 136)
 
 ////
