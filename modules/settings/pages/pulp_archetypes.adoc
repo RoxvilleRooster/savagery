@@ -2,11 +2,9 @@
 
 The archetypes below are suggestions and do not specify dice values.
 
-.Improved edges
-****
 For simplicity's sake, I do not list the _improved_ version of an edge. 
-For example, when I list the Luck edge, I do not list the Great Luck edge. Take the improved version of the edge later, when the character advances.
-****
+For example, when I list the Luck edge, I do not list the Great Luck edge. 
+Take the improved version of the edge later, when the character advances.
 
 == Actor
 
