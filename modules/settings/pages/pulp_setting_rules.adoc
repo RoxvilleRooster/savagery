@@ -19,25 +19,25 @@ Typically, a Daring Tales of Adventure scenario was divided into 3 or 4 acts; ea
 Savage Worlds Adventure Edition has a number of setting rules that are perfect for running a two-fisted pulp game.
 
 * Conviction (SWADE p 136)
-// * Creative Combat (SWADE p 137)
+* Creative Combat (SWADE p 137)
 * Fast Healing (SWADE p 139)
 * Multiple Languages (SWADE p 149)
-// * Wound Cap (SWADE p 141)
+* Wound Cap (SWADE p 141)
 * Dumb Luck (SWADE p 138)
 * Fanatics (SWADE p 138)
 * Heroes Never Die (SWADE p 140)
 * High Adventure (SWADE p 140)
 // Born a Hero (SWADE p 136)
 
+////
 .Why not use the Wound Cap setting rule?
 ****
 I thought of adding the Wound Cap setting rule (SWADE p 141) but I figured that, with Fast Healing, Dumb Luck, Heroes Never Die,  <<#injuries_are_temporary>>, and  <<#nonlethal_damage_to_heroes>>, the heroes were wearing enough bubble wrap. 
 There has to be _some_ danger to a character's life.
 ****
+////
 
 The following rules and directions further tune the setting for a classic pulp action game.
-
-
 
 === Bennies
 
@@ -57,9 +57,11 @@ For example, if the hero typically starts a session with 3 bennies, her benny li
 
 TIP: The game master should warn the player about this rule and the consequences of the action before the player's hero commits an ignoble deed.
 
+////
 ==== Soaking
 
 When a hero soaks all of the damage from an attack, they get the benny back.
+////
 
 ==== Stunts
 // From Adamant Entertainment's "Thrilling Tales of Adventure"
