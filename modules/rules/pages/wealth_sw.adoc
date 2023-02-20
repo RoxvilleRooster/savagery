@@ -1,11 +1,12 @@
 = Wealth mechanics
 Andy Hall <achall@gmail.com>
 v1.0, 2019-11-23
-:toc: right
+////
 :experimental:
 :sectlinks:
 :sectanchors:
-
+:toc: right
+////
 // == Wealth
 
 By default, each character has d6 Wealth.
