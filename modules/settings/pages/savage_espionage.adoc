@@ -43,7 +43,8 @@ Leaping from a moving vehicle to grab on to the helicopter as the helo is taking
 
 === Surrender
 
-When the heroes surrender at a dramatically fitting place in the story and go along with the demands of the antagonists, each heroes takes a benny.
+When the heroes surrender at a dramatically fitting place in the story and go along with the demands of the antagonists, each player takes a benny.
+The GM may need to signal that we're using the "surrender" rule at this point.
 
 == Character creation
 
