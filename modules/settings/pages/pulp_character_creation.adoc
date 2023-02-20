@@ -1,5 +1,9 @@
 = Create your pulp hero
 
+When planning your character, make someone who would be up to thwart evil across the globe.
+Of course, it is interesting if the character has some reluctance to putting herself in peril (e.g., family at home, a movie to star in, experiments to complete), but a party full of reluctant heroes who all need to be coaxed into action before an adventure creates friction in our story that we want to minimize.
+
+
 == Motivations
 
 .Suggested motivations:
@@ -12,6 +16,10 @@
 
 == Races
 Heroes are humans.
+
+== Initial rank and advances
+
+The characters begin with 2 advances. 
 
 == Skills
 
