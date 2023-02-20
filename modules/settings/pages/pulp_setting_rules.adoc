@@ -1,11 +1,11 @@
 = Classic two-fisted pulp adventures
 Andy Hall <achall@gmail.com>
 v1.0, 2020-02-15
+:experimental:
 //:toc: left
 //:toclevels: 4
-:experimental:
-:sectlinks:
-:sectanchors:
+// :sectlinks:
+// :sectanchors:
 
 
 ////
@@ -44,8 +44,8 @@ The following rules and directions further tune the setting for a classic pulp a
 Before the start of every combat, each hero gets a benny, provided that the benny does not exceed the character's amount of bennies at the session's start. 
 A typical wild card hero has 3 bennies at session start, unless the hero as edges or hindrances that affect starting bennies.
 
-IMPORTANT: As a player (GM included!), you can't have more than 6 bennies in your stack.
-Spend bennies your bennies and trust that that the bennies will flow back to you.
+IMPORTANT: As a player (GM included!), if you have 6 or more bennies in your stack, the GM will not award you more for role-playing, etc.
+Spend bennies your bennies, have fun with them, and trust that that the bennies will flow back to you.
 
 ==== Be the Hero
 
@@ -59,7 +59,7 @@ TIP: The game master should warn the player about this rule and the consequences
 
 ==== Soaking
 
-When a hero soaks all of the damage from an attack, she gets her benny back.
+When a hero soaks all of the damage from an attack, they get the benny back.
 
 ==== Stunts
 // From Adamant Entertainment's "Thrilling Tales of Adventure"
@@ -85,9 +85,20 @@ Leaping from the sidecar of a speeding motorcycle onto an airship at the last se
 
 When the heroes surrender at a dramatically fitting place in the story and go along with the demands of the antagonists, each heroes takes a benny.
 
-== Setting the Classic Pulp Tone
+== Setting the tone
 
-=== Cinematic Death
+// == Action, tension, and combat
+Most action scenes in pulp need to be fast-paced and not get bogged down in combat mechanics.
+
+Do not expect standard tactical combats that last beyond 3 or 4 rounds.
+For a standard combat, I'll apply the "timers, threats, and treats" guidance from ICRPG.
+
+The SWADE quick encounter mechanics will be used regularly.
+The dramatic task mechanics will feature prominently.
+The chase rules will be used regularly so players are encouraged to have some familiarity with them as they would the combat mechanics.
+
+
+=== Cinematic death
 In a pulp game, death is not gory and messy.
 
 === Contacts
@@ -111,12 +122,13 @@ An NPC henchman has three wounds like a wild card but, in all other respects, th
 The damage rolls of Extras do not ace.
 ////
 
-
+////
 [[nonlethal_damage_to_heroes]]
-=== Nonlethal Damage to Heroes
+=== Nonlethal damage to heroes
 
 All damage taken by heroes is treated as nonlethal. 
 A hero can only die if a villain performs a Finishing Move (SWADE p 101).
+////
 
 ////
 ==== Fast healing
@@ -125,20 +137,21 @@ Heroes recover 1 wound at the start of an "Act". See <<_acts_and_scenes>>.
 ////
 
 [[injuries_are_temporary]]
-=== Injuries are Temporary
+=== Injuries are temporary
 
 Heroes do not suffer a permanent injury. 
 When the wounds from the injury heals, the hero no longer suffers the effect of the injury.
 
-=== Never-Ending Ammo
+=== Never-ending ammo
 
 At the end of the scene, heroes recover all spent ammunition.
 // At the end of the scene, heroes recover all spent Power Points.
 
-=== Pulp Fisted
+////
+=== Pulp fisted
 
 Heroes never suffer the Unarmed Defender penalty (SWADE p 109).
-
+////
 ////
 === Recurring villains
 
@@ -154,8 +167,7 @@ The "Recurring villains" setting rules are a bit _too_ much. Do not get too comm
 
 The cops do not turn up on the scene until after the action has ended.
 
-
-
+////
 == Chases
 
 There are at least three chases per _Darting Tales of Adventure_ scenario; the _Daring Tales_ chases used different rules from those specified in the _Savage Worlds Deluxe Explorers' Edition_ rules and they are also markedly different from the
@@ -178,24 +190,7 @@ In some _Daring Tales of Adventure_ chase scenes, the obstacles and events of a 
 
 At the fixed event points (called increments) in the chase, stuff happens when the heroes reach that increment, no matter if they pass that stage or not.
 If the scene defines 20 increments, lay down 20 chase cards. Use some kind of counter to mark the increments on which fixed events occur.
-
-
-== Action, tension, and combat
-
-Most action scenes in pulp need to be fast-paced and not get bogged down in combat mechanics.
-
-Do not expect standard tactical combats that last beyond 3 or 4 rounds.
-For a standard combat, I'll apply the "timers, threats, and treats" guidance from ICRPG. 
-
-The SWADE quick encounter mechanics will be used regularly.
-
-The dramatic task mechanics will feature prominently.
-
-The chase rules will be used regularly so players need to understand them as they would the combat mechanics.
-
-
-
-
+////
 ////
 === Success with a cost
 
