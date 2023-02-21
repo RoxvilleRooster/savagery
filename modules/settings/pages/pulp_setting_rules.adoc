@@ -21,7 +21,8 @@ Savage Worlds Adventure Edition has a number of setting rules that are perfect f
 * Conviction (SWADE p 136)
 * Creative Combat (SWADE p 137)
 * Fast Healing (SWADE p 139)
-* Multiple Languages (SWADE p 149)
+* More Skill Points (SWADE p 140)
+* Multiple Languages (SWADE p 140)
 * Wound Cap (SWADE p 141)
 * Dumb Luck (SWADE p 138)
 * Fanatics (SWADE p 138)
@@ -145,6 +146,8 @@ Heroes recover 1 wound at the start of an "Act". See <<_acts_and_scenes>>.
 
 Heroes do not suffer a permanent injury. 
 When the wounds from the injury heals, the hero no longer suffers the effect of the injury.
+
+NOTE: A character may spend a Benny at any time to make a Natural Healing roll.
 
 === Never-ending ammo
 
