@@ -3,12 +3,13 @@
 When planning your character, make someone who would be up to thwart evil across the globe.
 Of course, it is interesting if the character has some reluctance to putting herself in peril (e.g., family at home, a movie to star in, experiments to complete), but a party full of reluctant heroes who all need to be coaxed into action before an adventure creates friction in our story that we want to minimize.
 
+TIP: You can use the setting in Savaged.us at https://savaged.us/s/fxwm2vka to create a character.
 
 == Motivations
 
 .Suggested motivations:
 * Money
-* Higher purpose (e.g., preserve, protect)
+* Higher purpose (e.g., preserve, protect, redeem)
 * Adventure and thrills
 * Reputation, glory, and fame
 * Professional rivalry
@@ -24,7 +25,7 @@ The characters begin with 2 advances.
 == Skills
 
 Pulp heroes are more capable than most.
-At character creation, they start with 15 skill points.
+At character creation, they start with 15 skill points as per the "More skill points" setting rule.
 
 .Changed skills
 // * Electronics is reskinned as Gadgetry
@@ -44,6 +45,7 @@ It assumes some knowledge of codes and code breaking (e.g., Morse code) and math
 New Powers (SWADE p 47)::
 //An arcane character may learn two new powers by choosing this Edge (which may be taken multiple times). He may choose from any powers of his Rank or lower normally available to his particular Arcane Background.
 //A character can add a new Trapping on a power she already has instead of gaining a new one. She might add an ice Trapping to her existing fire bolt, for example, so she could switch between ice and fire Trappings freely.
+Renamed as "New Power and New Trapping" + 
 The weird scientist adds *one* new power by choosing this Edge (which may be taken multiple times) _and_ one new power trapping.
 For the new power, the hero may choose from any powers of her Rank or lower that are normally available to Arcane Background (Weird Science).
 For the new trapping, the hero adds an effect to an existing power.
