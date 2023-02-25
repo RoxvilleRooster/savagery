@@ -3,7 +3,20 @@
 When planning your character, make someone who would be up to thwart evil across the globe.
 Of course, it is interesting if the character has some reluctance to putting herself in peril (e.g., family at home, a movie to star in, experiments to complete), but a party full of reluctant heroes who all need to be coaxed into action before an adventure creates friction in our story that we want to minimize.
 
-TIP: You can use the setting in Savaged.us at https://savaged.us/s/fxwm2vka to create a character.
+TIP: You can use the setting in Savaged.us at https://savaged.us/s/fxwm2vka and click *User Setting* to create a character.
+To use savaged.us, you need an account and you can create at leasts a few characters without having to pay any money.
+
+.Pregenerated characters
+****
+The Daring Tales of Adventure scenarios were built with the following characters in mind
+
+* Brent Hardcastle https://savaged.us/s/jm1l6ir4 - the pilot and leading man
+* Doc Davenport https://savaged.us/s/8hlufgp9 - the mad scientist
+* Amelia Valentine https://savaged.us/s/fi6gi49h - the skilled leading lady
+* Jimmy Patterson https://savaged.us/s/nvqwxiou - the precocious kid
+
+There is no reason why you cannot take one of these characters and adapt them to fit your play interests.
+****
 
 == Motivations
 
@@ -101,3 +114,7 @@ Cocky is like a minor version of the Overconfident (major) hindrance (SWADE p 26
 
 Fly (SWADE p 162)::
 For heroes with the Arcane Background (Weird Science) edge, Fly is available at Novice rank.
+
+== Starting resources
+
+$500 as per SWADE.
