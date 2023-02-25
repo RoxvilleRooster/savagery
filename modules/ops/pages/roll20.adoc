@@ -1,0 +1,64 @@
+= Using Roll20 as the virtual tabletop platform
+:imagesdir: ../images/
+
+== Bennies
+We use a deck of Tokens for these. 
+This deck may vary depending on the genre of the game.
+
+To access your stack of bennies, click the benny token above your name at the bottom of the screen (in a semi-transparent box). 
+// <!-- If you have multiple decks in your hand (e.g., bennies *and* adventure cards), click the By Deck filter button at the top right hand corner to sort decks. -->
+To spend a benny, click the token and drag it to the tabletop. 
+If you spend a benny by mistake, right-click it and select **Take Card** to put it back in your hand.
+To close the view of your bennies, click the benny token above your name at the bottom of the screen.
+
+== Initiative
+We deal cards for the turn order. 
+If you have an edge of other modifier that effects cards, make sure it is known to the GM. 
+If the GM forgets, remind him.
+
+== Status conditions
+
+The following token overlays are used to indicate status/conditions in combat. 
+Of course, other tokens may also be used as needed.
+
+.Status token overlays
+|===
+| Condition | Stats indicator overlay | Notes 
+
+| Aiming | image:target.PNG[Aim] |   
+| Bound | image:net.PNG[Bound] | 
+| Cover | image:tower.PNG[Cover] |  
+light cover::
+set overlay number to 2 or leave unset
+medium cover:: 
+set overlay number to 4
+heavy cover:: 
+set overlay number to 6
+full cover:: 
+set overlay number to 8 
+| Distracted | image:screaming_brain.PNG[Distracted] |   
+| Dead | image:red_x.PNG[Dead] | Or just remove the token (a/k/a "off the table")  
+| Defend | image:shield.PNG[Defend] | 
+// <!-- For *Full Defense*, set overlay number to 2 --> 
+| Entangled | image:entangle.png[Entangled]| 
+| Hold | image:time.PNG[Hold] | Character is holding his action 
+| Mind Affected | image:sanity.png[Sanity damaged] | Affected by fear, insanity, confusion, or charm
+| Shaken | image:melty_face.PNG[Shaken] | 
+// For *Unconscious* or *Incapacitated*, set overlay number to 2 or remove the token from play 
+| Stealth | image:ninja.PNG[Stealth] | Indicates that a character is *successfully* using Stealth to avoid detection 
+| Stunned | image:stunned.png[Stunned] | 
+| Vulnerable | image:arrows_in_back.PNG[Vulnerable] |   
+|===
+
+
+== Changes to your Roll20 settings
+
+. Click **My Settings** (the gear icon)  in the top right corner of the Roll20 interface.
+. Change the **Display Name** to your character's main name. Click **Save Name**.
+. Ensure the following boxes are checked: 
+	* **Use advanced keyboard shortcuts**
+	* **Enabled background chat beep**
+	* **Enable advanced dice (dice icons, drag and drop, etc.)**
+	* **Enable chat avatars**
+. Set **Player video/avatar size:** to `Names Only`.
+. Set **Chat Tech** to `None (no video/audio)`.
