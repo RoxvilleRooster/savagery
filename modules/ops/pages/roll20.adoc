@@ -28,7 +28,7 @@ Of course, other tokens may also be used as needed.
 
 | Aiming | image:target.PNG[Aim] |   
 | Bound | image:net.PNG[Bound] | 
-| Cover | image:tower.PNG[Cover] |  
+| Cover | image:tower.PNG[Cover] a|  
 light cover::
 set overlay number to 2 or leave unset
 medium cover:: 
