@@ -254,9 +254,10 @@ magazines or clips cost 10% of the rifle and weigh 1 lb each.
 // They are almost always fitted with a scope.
 | M1 Garand (.30-06) | 24/48/96 | 2d8 | 2 | 1 | 8 | d6 | 10 | 300 | The standard US infantry rifle in World War II.
 // | Mauser | TK@FUP
-| Lee Enfield MkIV .303 | 24/48/96 | 2d8 | 2 | 1| 10 | d6 | 9 | 300 | Snapfire, Standard issue British Army
+| Lee Enfield MkIV .303 | 24/48/96 | 2d8 | 2 | 1| 10 | d6 | 9 | 300 | Standard issue British Army
 infantry rifle. 
-
+// Snapfire
+| Mauser KAR 98k 7.92mm  | 24/48/96 | 2d8 | 2 | 1| 8.25 | d6 | 5 | 350 | Standard issue German Army
 | Hunting Rifle (.308) | 24/48/96 | 2d8 | 2 | 1 | 5 | d6 | 8 | 350 | Snapfire.
 // | Sharps Big 50 (.50) | 30/60/120 | 2d10 | 2 | 1 | 1 | d8 | 11 | 400 | Snapfire.
 // | Spencer Carbine (.52) | 20/40/80 | 2d8 | 2 | 1 | 7 | d4 | 8 | 250 |
