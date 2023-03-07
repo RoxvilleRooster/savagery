@@ -27,6 +27,7 @@ A {dtoa} scenario typically runs for 3-4 sessions of 2.5-3 hours.
 
 // == When we're playing Savage Worlds
 
+[#expectations]
 .Expectations
 * We want to follow the "Fast, Furious, and Fun" ethos.
 Do your part to keep the pace of the game relatively brisk.
@@ -55,3 +56,53 @@ As a GM and player, I have these goals:
 * To become a better GM; to develop as player
 * To encourage and help other players and GMs
 ////
+
+[#session_zero]
+== Session zero
+
+.Objectives of session zero:
+* Introductions and meet-up
+* Discuss expectations of the game
+* Determine character concepts and roles in the party
+** Identify character hindrances and interesting aspects
+** Determine relationships/bonds between characters 
+
+
+=== Introductions
+
+Basics:: Name, Location, TTRPG Experience, and anything else you want to share
+What things about Savage Worlds (and/or RPGs in general) do you enjoy?:: Combat, Puzzles, Roleplay, etc
+What is one strength you bring to the group?:: Maybe it's your experience, your consistency, your voice acting, your creativity, your keen grasp of the rules, or just being all around fun to play with. 
+ 
+=== Scheduling and the gaming group
+
+Time and Date of Games:: Games will happen on Wednesday evenings at 8 pm EST. 
+I'd like to aim for three sessions every 4-5 weeks. 
+Attendance:: As long as we have 3 players, we will run a session. If we ever have fewer than 3, we'll reschedule.
+Session Length:: A session will last about 2.5 hours (so 10:30 PM EST is the typical end). 
+
+=== Communications Tools and Table Expectations
+Safety Tools:: I've never used them but that does not mean we should not. This game is supposed to be run as a PG-13 movie. I want to be cognizant of ethnic and sexist stereotypes. 
+Open Door:: Feel free to reach out to me to discuss points about the game, etc.
+Off Limits Topics:: Transphobia, Homophobia, Graphic violence directed towards children, Graphic depictions of torture
+
+=== GM style
+
+Look up the rules later:: 
+If there's a question about rules, I'll probably make a call (typically in favor of the players) and then look up the rule later. 
+If I make a bad call, we'll figure out how to make it right. 
+I know we have some expert Savages in the crew who know the rules well and I may ask for help with a quick rule look-up. 
+Encumbrance rules? No thanks:: Just be reasonable about what your hero is carrying. 
+Golden Hour:: I'm indifferent to the golden hour rule and I will forget it. 
+If you really think it should be applied, remind me and we can apply it. 
+Money and Resources:: I'm pretty hand-wavy on this stuff. 
+I hope that's OK.
+Tone:: I'm usually shooting for 60% serious and 40% silly/fun. 
+
+=== Our Table
+
+Character Death:: It is hard to kill a player in a Savage Worlds pulp action game but it might happen. 
+If you want your character to die (e.g., a heroic death), let's discuss that subject in advance and see how this might be meaningful to the overall story.
+PVP:: I'm inclined to avoid PVP but it can also add spice to a story. If there is PVP and mechanics need to be engaged, expect that we'll adapt the social conflict mechanics (or possibly use the quick encounter mechanics).
+Dice:: We're going to roll dice in Roll20. All of my dice rolls will be in the open.  
+Shared Background and Character Bonds:: I am looking to adapt something (e.g., the bonds mechanic from PbtA) but I am open to ideas.
