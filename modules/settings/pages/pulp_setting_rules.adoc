@@ -47,12 +47,12 @@ Before the start of every combat, each hero gets a benny, provided that the benn
 A typical wild card hero has 3 bennies at session start, unless the hero as edges or hindrances that affect starting bennies.
 
 IMPORTANT: As a player (GM included!), if you have 6 or more bennies in your stack, the GM will not award you more for role-playing, etc.
-Spend bennies your bennies, have fun with them, and trust that that the bennies will flow back to you.
+Spend your bennies, have fun with them, and trust that that the bennies will flow back to you.
 
 ==== Be the Hero
 
 The protagonists are heroes so play them that way. 
-If a protagonist commits an evil, villainous, or morally ambiguous act, they lose a benny. 
+If your protagonist commits an evil, villainous, or morally ambiguous act, expect to lose a benny. 
 
 NOTE: This benny loss reduces the protagonist's benny maximum until the start of the next session. 
 For example, if the hero typically starts a session with 3 bennies, her benny limit would then be reduced to 2 for the duration of the session.
@@ -104,7 +104,7 @@ The chase rules will be used regularly so players are encouraged to have some fa
 
 
 === Cinematic death
-In a pulp game, death is not gory and messy.
+In a pulp game death is not gory and messy.
 
 === Contacts
 
