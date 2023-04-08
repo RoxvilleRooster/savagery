@@ -370,6 +370,7 @@ Increase the weapon’s damage dice by one when fired at half their Short Range 
 |===
 ////
 
+[#tbl_land_vehicles]
 .Land vehicles
 [cols="15%,10%,14%,15%,10%,10%,26%",options="header"]
 |===
@@ -401,7 +402,6 @@ Doubles rider’s Pace and running die result.
 
 
 
-
 7+|*Military Vehicles*
 | jeep | 4 |  +1 | 65 | 10 (2) | 2+3 a| Four-Wheel Drive
 Optional Weapons: Heavy MG (Front Pintle Mount) 
@@ -427,7 +427,7 @@ Weapons: 75mm tank gun (Turret, Stabilizer), Medium MG (Fixed front), Heavy MG (
 // 1934 roadster - 75 mph
 
 
-
+[#marine_vehicles]
 .Marine vehicles
 [cols="15%,10%,14%,15%,10%,10%,26%",options="header"]
 |===
@@ -443,6 +443,7 @@ Optional weaponry: 2 x M1919 0.30 machinegun (bow and stern)
 Weapons: 50 cal MG (Front Pintle Mount), Heavy MG (Rear Pintle Mount), 4× torpedo tubes (Fixed Forward).
 |===
 
+[#tbl_aircraft]
 .Aircraft
 [cols="15%,10%,14%,15%,10%,10%,26%",options="header"]
 |===
