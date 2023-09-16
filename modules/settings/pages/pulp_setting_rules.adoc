@@ -1,6 +1,6 @@
 = Classic two-fisted pulp adventures
 Andy Hall <achall@gmail.com>
-v1.0, 2020-02-15
+v1.0, 2023-09-16
 :experimental:
 //:toc: left
 //:toclevels: 4
@@ -46,7 +46,7 @@ The following rules and directions further tune the setting for a classic pulp a
 === Bennies
 
 Before the start of every standard combat encounter or standard chase encounter (i.e., not before a _quick encounter_), each hero gets a benny, provided that the benny does not exceed the character's amount of bennies at the session's start. 
-A typical wild card hero has 3 bennies at session start, unless the hero as edges or hindrances that affect starting bennies.
+A typical wild card hero has 3 bennies at session start, unless the hero has edges or hindrances that affect his starting bennies.
 
 IMPORTANT: As a player (GM included!), if you have 6 or more bennies in your stack, the GM will not award you more for role-playing, etc.
 Spend your bennies, have fun with them, and trust that that the bennies will flow back to you.
