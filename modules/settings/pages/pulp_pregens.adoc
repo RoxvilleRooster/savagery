@@ -1,9 +1,12 @@
-= Pregenerated characters for the pulp action game
+= Pregens for the pulp action game
 
-All of the pregens are set up with their initial 2 advances.
+All of the pregenerated characters (aka pregens) here are set up with their initial 2 advances.
+
+The characters are created using the custom savaged.us setting https://svgd.us/fxwm2vka[Golden Age Two-Fisted Pulp Adventures].
 
 * <<#detective>>
 * <<#gun_fighter>>
+* <<#kid>>
 * <<#pilot>>
 * <<#spy>>
 
@@ -20,6 +23,13 @@ include::../partials/pregen_detective_dick.txt[]
 
 ----
 include::../partials/pregen_gunfighter_smith.txt[]
+----
+
+[[kid]]
+== The Kid
+
+----
+include::../partials/pregen_kid_jimmy.txt[]
 ----
 
 [[pilot]]

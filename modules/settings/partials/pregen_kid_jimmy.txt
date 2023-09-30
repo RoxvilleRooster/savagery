@@ -1,0 +1,24 @@
+Jimmy Masterson
+Novice Male, The precocious kid with a trick up his sleeve
+
+
+Attributes: Agility d8, Smarts d6, Spirit d6, Strength d6, Vigor d6
+Skills: Academics d4, Athletics d8, Common Knowledge d4, Driving d4, Fighting d4, Hacking d4, Language (American) d6, Language (Egyptian Hieroglyphics) d6, Language (Mezoamerican Writing) d6, Notice d6, Persuasion d4, Shooting d6, Stealth d6, Survival d4, Taunt d6
+Pace: 8; Running Die: d8; Parry: 4; Toughness: 5Wealth Die: d6
+Hindrances: Big Mouth, Impulsive, Young (minor)
+Edges: Extraction, Fleet-Footed, Quick
+Weapons: Unarmed (Range Melee, Damage Str)
+Gear: Collection of baseball cards, Small bag of marbles, Small camera with flash, Spare roll of film
+Languages: Mezoamerican Writing (d6), Egyptian Hieroglyphics (d6), American (d6)
+
+Special Abilities
+Languages Known: Mezoamerican Writing (d6), Egyptian Hieroglyphics (d6), American (d6)
+
+Starting Bennies: 4
+Advances
+Novice Advances
+Edge: ExtractionRaise Attribute: Spirit
+------------------
+
+Current Load: 0 (41)
+Books In Use: Savage Worlds: Adventure EditionSetting Rules: Multiple LanguagesSetting Modlines: +2 advance # Validity: Character appears valid and optimal
