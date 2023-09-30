@@ -1,0 +1,24 @@
+Richard de Jager
+Novice Male, Big Game Hunter
+
+
+Attributes: Agility d10, Smarts d8, Spirit d6, Strength d6, Vigor d6
+Skills: Athletics d8, Common Knowledge d6, Fighting d8, Language (Linguist #1) d6, Language (Linguist #2) d6, Language (Linguist #3) d6, Language (Linguist #4) d6, Notice d8, Persuasion d4, Riding d4, Shooting d10, Stealth d6, Survival d8+2
+Pace: 6; Parry: 6; Toughness: 5Wealth Die: d6
+Hindrances: Cocky (setting), Driven (minor, He will be the most famous hunter), Quirk (Incessantly tells self-glorifying stories of his hunting exploits ), Ruthless (minor)
+Edges: Woodsman
+Weapons: Unarmed (Range Melee, Damage Str), Bowie knife (Range 3/6/12, Damage Str+d4+1), Hunting Rifle (.308) (Range 24/48/96, Damage 2d8, ROF 1, AP 2)
+Gear: Binoculars, 8x
+Languages: Linguist #4 (d6), Linguist #3 (d6), Linguist #2 (d6), Linguist #1 (d6)
+
+Special Abilities
+Languages Known: Linguist #4 (d6), Linguist #3 (d6), Linguist #2 (d6), Linguist #1 (d6)
+
+
+Advances
+Novice Advances
+Raise Attribute: AgilityRaise Skills: Shooting/Athletics
+------------------
+
+Current Load: 14 (41)
+Books In Use: Savage Worlds: Adventure EditionSetting Rules: Multiple LanguagesSetting Modlines: +2 advance # Validity: Character appears valid and optimal

@@ -26,6 +26,13 @@ include::../partials/pregen_detective_dick.txt[]
 include::../partials/pregen_gunfighter_smith.txt[]
 ----
 
+[[hunter]]
+== The Hunter
+
+----
+include::../partials/pregen_hunter_jager.txt[]
+----
+
 [[kid]]
 == The Kid
 
