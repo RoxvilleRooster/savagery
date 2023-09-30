@@ -1,0 +1,24 @@
+David Lassiter
+Novice Male, Reformed Thief
+
+
+Attributes: Agility d12, Smarts d6, Spirit d6, Strength d6, Vigor d6
+Skills: Athletics d10, Common Knowledge d6, Fighting d4, Language (Linguist #1) d6, Language (Linguist #2) d6, Language (Linguist #3) d6, Notice d6, Persuasion d4, Research d4, Shooting d4, Stealth d12, Thievery d12+1
+Pace: 6; Parry: 4; Toughness: 5Wealth Die: d6
+Hindrances: Cautious, Greedy (minor), Secret (minor, He's stolen things for the wrong side and regrets it), Wanted (minor, He has a criminal past and the law is still out to get him)
+Edges: Thief
+Weapons: Unarmed (Range Melee, Damage Str), Billy Club/Baton (Range Melee, Damage Str+d4), Brass Knuckles (Range Melee, Damage Str+d4), Browning Hi–Power 9mm (Range 12/24/48, Damage 2d6, ROF 1, AP 1)
+Gear: Belt, Business suit, basic, Climbing gear, Fedora, Grapnel, Rappelling harness, Trenchcoat
+Languages: Linguist #3 (d6), Linguist #2 (d6), Linguist #1 (d6)
+
+Special Abilities
+Languages Known: Linguist #3 (d6), Linguist #2 (d6), Linguist #1 (d6)
+
+
+Advances
+Novice Advances
+Raise Attribute: AgilityRaise Skills: Thievery/Stealth
+------------------
+
+Current Load: 19.5 (41)
+Books In Use: Savage Worlds: Adventure EditionSetting Rules: Multiple LanguagesSetting Modlines: +2 advance # Validity: Character appears valid and optimal

@@ -12,6 +12,13 @@ The characters are created using the custom savaged.us setting https://svgd.us/f
 include::../partials/pregen_actor_kirk.txt[]
 ----
 
+[[burglar]]
+== The Burglar
+
+----
+include::../partials/pregen_burglar_lassiter.txt[]
+----
+
 [[detective]]
 == The Detective
 
