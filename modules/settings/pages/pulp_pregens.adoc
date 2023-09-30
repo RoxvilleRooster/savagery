@@ -40,11 +40,18 @@ include::../partials/pregen_kid_jimmy.txt[]
 include::../partials/pregen_pilot_billy.txt[]
 ----
 
+[[reporter]]
+== The Reporter
+
+----
+include::../partials/pregen_reporter_ulysses.txt[]
+----
+
 [[scientist]]
 == The Scientist
 
 ----
-include::../partials/pregent_scientist_mannix.txt[]
+include::../partials/pregen_scientist_mannix.txt[]
 ----
 
 [[spy]]
