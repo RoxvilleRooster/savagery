@@ -1,0 +1,24 @@
+Lazlo Kwariani
+Novice, The Strongman
+
+
+Attributes: Agility d6, Smarts d4, Spirit d6, Strength d10, Vigor d8
+Skills: Athletics d10, Boating d4, Common Knowledge d4, Driving d4, Fighting d6, Gambling d4, Intimidation d6, Language (Linguist #1) d6, Language (Linguist #2) d6, Notice d4, Performance d6, Persuasion d4, Shooting d6, Stealth d4, Survival d4
+Pace: 6; Parry: 5; Toughness: 8; Size: Normal (1)Wealth Die: d6
+Hindrances: All Thumbs, Habit (minor, Needs his grapefruit daily), Loyal, Outsider (minor, From parts unknown!)
+Edges: Brawler, Brawny, Brute
+Armor: Thick coat, Leather Jacket (Armor 1)
+Weapons: Unarmed (Range Melee, Damage Str+d4), Bowie knife (Range 3/6/12, Damage Str+d4+1), Club, Heavy (Range Melee, Damage Str+d6), Pump Action Shotgun (Range 12/24/48, Damage 1-3d6, ROF 1)
+Languages: Linguist #2 (d6), Linguist #1 (d6)
+
+Special Abilities
+Languages Known: Linguist #2 (d6), Linguist #1 (d6)
+
+
+Advances
+Novice Advances
+Edge: BrawnyEdge: Brawler
+------------------
+
+Current Load: 20 (101)
+Books In Use: Savage Worlds: Adventure EditionSetting Rules: Multiple LanguagesSetting Modlines: +2 advance # Validity: Character appears valid and optimal

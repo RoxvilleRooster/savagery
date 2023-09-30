@@ -46,3 +46,10 @@ include::../partials/pregent_scientist_mannix.txt[]
 ----
 include::../partials/pregen_spy_opehalia.txt[]
 ----
+
+[[strongman]]
+== The Strongman
+
+----
+include::../partials/pregen_strongman_lazlo.txt[]
+----
