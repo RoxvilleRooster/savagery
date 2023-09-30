@@ -39,6 +39,13 @@ include::../partials/pregen_kid_jimmy.txt[]
 include::../partials/pregen_pilot_billy.txt[]
 ----
 
+[[scientist]]
+== The Scientist
+
+----
+include::../partials/pregent_scientist_mannix.txt[]
+----
+
 [[spy]]
 == The Spy
 

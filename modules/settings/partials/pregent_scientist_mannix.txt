@@ -1,0 +1,25 @@
+Dr. Herschel Mannix
+Novice Male
+
+
+Attributes: Agility d6-1, Smarts d12, Spirit d6, Strength d4-1, Vigor d6-1
+Skills: Academics d6, Athletics d4, Common Knowledge d6, Electronics d4, Hacking d4, Language (English) d6, Language (French) d6, Language (German) d6, Language (Italian) d6, Language (Linguist #5) d6, Notice d6, Persuasion d4, Repair d8, Research d8, Science d10+2, Stealth d4, Weird Science d10
+Pace: 5; Parry: 2; Toughness: 5Wealth Die: d6
+Hindrances: Anemic, Elderly, Habit (minor, mutters to himself)
+Edges: Arcane Background (Weird Science), New Power and Trapping (Pulp) (custom), Scholar
+Weapons: Unarmed (Range Melee, Damage Str), Billy Club/Baton (Range Melee, Damage Str+d4)
+Gear: Belt, Coat, basic, Coveralls, Flashlight, 5" beam, Wristwatch
+Languages: Linguist #5 (d6), Italian (d6), German (d6), French (d6), English (d6)
+Arcane Background: Weird Science (SWADE)Power Points: 15Powers: Gecko-pad gloves (Wall Walker; Savage Worlds: Adventure Edition p169-170), Wrist blaster (Bolt; Savage Worlds: Adventure Edition p156; Limitations: Self (limited); Skill Bonus: +1)
+Special Abilities
+Weird Science: Power Points: 15; Powers: Gecko-pad gloves (Wall Walker; Savage Worlds: Adventure Edition p169-170), Wrist blaster (Bolt; Savage Worlds: Adventure Edition p156; Limitations: Self (limited); Skill Bonus: +1)
+Languages Known: Linguist #5 (d6), Italian (d6), German (d6), French (d6), English (d6)
+
+
+Advances
+Novice Advances
+Raise Attribute: SmartsEdge: Scholar
+------------------
+
+Current Load: 4 (21)
+Books In Use: Savage Worlds: Adventure EditionSetting Rules: Multiple LanguagesSetting Modlines: +2 advance # Validity: Character appears valid and optimal
