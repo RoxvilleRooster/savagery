@@ -5,6 +5,13 @@ All of the pregenerated characters (aka pregens) here are set up with their init
 
 The characters are created using the custom savaged.us setting https://svgd.us/fxwm2vka[Golden Age Two-Fisted Pulp Adventures].
 
+[[actor]]
+== The Actor
+
+----
+include::../partials/pregen_actor_kirk.txt[]
+----
+
 [[detective]]
 == The Detective
 

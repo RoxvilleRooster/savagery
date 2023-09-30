@@ -1,0 +1,24 @@
+Kirk Shatner
+Novice, The Actor
+
+
+Attributes: Agility d6, Smarts d6, Spirit d8, Strength d6, Vigor d6
+Skills: Athletics d6, Common Knowledge d6, Fighting d6, Intimidation d4, Language (Linguist #1) d6, Language (Linguist #2) d6, Language (Linguist #3) d6, Notice d6, Performance d8+2, Persuasion d6+2, Riding d4, Shooting d4, Stealth d4, Taunt d6, Thievery d4
+Pace: 6; Parry: 5; Toughness: 5Wealth Die: d6+1
+Hindrances: Doubting Thomas, Overconfident, Thin Skinned (minor)
+Edges: Attractive, Charismatic, Fame, Very Attractive
+Weapons: Unarmed (Range Melee, Damage Str), Rapier (Range Melee, Damage Str+d4, +1 Parry)
+Gear: Clothing, Casual, Clothing, Formal, Fedora, Lighter, Trenchcoat
+Languages: Linguist #3 (d6), Linguist #2 (d6), Linguist #1 (d6)
+
+Special Abilities
+Languages Known: Linguist #3 (d6), Linguist #2 (d6), Linguist #1 (d6)
+
+
+Advances
+Novice Advances
+Edge: CharismaticEdge: Fame
+------------------
+
+Current Load: 7 (41)
+Books In Use: Savage Worlds: Adventure EditionSetting Rules: Multiple LanguagesSetting Modlines: +2 advance # Validity: Character appears valid and optimal
