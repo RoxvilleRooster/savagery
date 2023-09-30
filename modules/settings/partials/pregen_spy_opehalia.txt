@@ -1,0 +1,23 @@
+Ophelia Sinclair
+Novice Female, The Spy
+
+
+Attributes: Agility d10, Smarts d8, Spirit d6, Strength d6, Vigor d6
+Skills: Athletics d8, Common Knowledge d6, Driving d10, Fighting d6, Language (Linguist #1) d6, Language (Linguist #2) d6, Language (Linguist #3) d6, Language (Linguist #4) d6, Notice d6, Persuasion d6, Riding d4, Shooting d6, Stealth d6, Thievery d6
+Pace: 6; Parry: 5; Toughness: 5Wealth Die: d6
+Hindrances: Driven (minor, Thwart Nazis and serve Britain's interests), Loyal, Secret (minor, Secret agent), Thin Skinned (minor)
+Edges: Ace
+Weapons: Unarmed (Range Melee, Damage Str), Billy Club/Baton (Range Melee, Damage Str+d4), Dagger/Knife (Range Melee, Damage Str+d4), Webley Mk IV .455" (Range 12/24/48, Damage 2d6+1, ROF 1, AP 1)
+Languages: Linguist #4 (d6), Linguist #3 (d6), Linguist #2 (d6), Linguist #1 (d6)
+
+Special Abilities
+Languages Known: Linguist #4 (d6), Linguist #3 (d6), Linguist #2 (d6), Linguist #1 (d6)
+
+
+Advances
+Novice Advances
+Raise Attribute: AgilityRaise Skills: Driving/Persuasion
+------------------
+
+Current Load: 5 (41)
+Books In Use: Savage Worlds: Adventure EditionSetting Rules: Multiple LanguagesSetting Modlines: +2 advance # Validity: Character appears valid and optimal

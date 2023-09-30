@@ -2,6 +2,7 @@
 * xref:pulp_setting_rules.adoc[]
 ** xref:pulp_intro.adoc[Playing the pulp action game]
 ** xref:pulp_character_creation.adoc[]
+*** xref:pulp_pregens.adoc[]
 *** xref:pulp_archetypes.adoc[]
 ** xref:pulp_stuff.adoc[]
 ** xref:pulp_colophon.adoc[References]

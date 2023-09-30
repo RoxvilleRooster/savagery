@@ -1,0 +1,25 @@
+
+John Smith
+Novice, Gun Fighter
+
+
+Attributes: Agility d10, Smarts d6, Spirit d6, Strength d6, Vigor d6
+Skills: Athletics d8, Common Knowledge d6, Driving d4, Fighting d6, Intimidation d6, Language (Linguist #1) d6, Language (Linguist #2) d6, Language (Linguist #3) d6, Notice d6, Persuasion d4, Repair d4, Shooting d10, Stealth d4, Thievery d4
+Pace: 6; Parry: 5; Toughness: 5Wealth Die: d6
+Hindrances: Code of Honor, Death Wish, Ruthless (minor)
+Edges: Ambidextrous, Quick, Two-Gun Kid
+Weapons: Unarmed (Range Melee, Damage Str), 2x Colt 1911s (.45) (Range 12/24/48, Damage 2d6+1, ROF 1, AP 1)
+Gear: Belt, Bullet, Medium , Business suit, basic, Coat, basic, Fedora, 2x Holster, Lighter
+Languages: Linguist #3 (d6), Linguist #2 (d6), Linguist #1 (d6)
+
+Special Abilities
+Languages Known: Linguist #3 (d6), Linguist #2 (d6), Linguist #1 (d6)
+
+
+Advances
+Novice Advances
+Edge: QuickEdge: Two-Gun Kid
+------------------
+
+Current Load: 10.04 (41)
+Books In Use: Savage Worlds: Adventure EditionSetting Rules: Multiple LanguagesSetting Modlines: +2 advance # Validity: Character appears valid and optimal

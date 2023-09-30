@@ -1,0 +1,37 @@
+= Pregenerated characters for the pulp action game
+
+All of the pregens are set up with their initial 2 advances.
+
+* <<#detective>>
+* <<#gun_fighter>>
+* <<#pilot>>
+* <<#spy>>
+
+
+[[detective]]
+== The Detective
+
+----
+include::../partials/pregen_detective_dick.txt[]
+----
+
+[[gun_fighter]]
+== The Gun Fighter
+
+----
+include::../partials/pregen_gunfighter_smith.txt[]
+----
+
+[[pilot]]
+== The Pilot
+
+----
+include::../partials/pregen_pilot_billy.txt[]
+----
+
+[[spy]]
+== The Spy
+
+----
+include::../partials/pregen_spy_opehalia.txt[]
+----
