@@ -172,7 +172,7 @@ Code of Honor, Enemy, Greedy, Habit, Heroic, Mean, Ruthless, Secret, Shamed, Sus
 Suggested Skills::
 Academics, Athletics, Notice, Persuasion, Research, Stealth, Taunt, Thievery
 Suggested Edges::
-Alertness, Attractive, Calculating, Connections, Investigator, Luck, Streetwise, Strong Willed
+Alertness, Attractive, Calculating, Charismatic, Connections, Investigator, Luck, Streetwise, Strong Willed
 Suggested Hindrances::
 Curious, Doubting Thomas, Driven, Habit, Suspicious
 
