@@ -1,0 +1,31 @@
+= Organizations
+
+:toc:
+
+The following are the know organizations in the pulp action campaign.
+Other organizations are at work.
+
+== Bureau 5
+
+// The "Other Bureau"
+
+This covert organization was created as a response to Nazi Germany's Ahnenerbe.
+Bureau 5 is tasked with keeping artifacts away from Ahnenerbe agents and into safekeeping.
+
+Bureau 5 has agents who operate internationally.
+Bureau 5 also recruits individuals from across the globe.
+In some cases, Bureau 5 will "attach" an agent from a foreign nation to the organization.
+
+.Leadership:
+* Maj. General Uriah Lawson, US Marine Corps
+* Lt. Colonel Jebediah "Jeb" Courage, US Army (retired)
+
+.Known bases of operations
+* Centralia, OK, USA
+* Hong Kong
+* Valparaiso, Chile
+* San Diego, CA, USA
+
+== Ahnenerbe 
+
+https://en.wikipedia.org/wiki/Ahnenerbe

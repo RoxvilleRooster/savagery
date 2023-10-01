@@ -4,6 +4,7 @@
 ** xref:pulp_character_creation.adoc[]
 *** xref:pulp_pregens.adoc[]
 *** xref:pulp_archetypes.adoc[]
+** xref:pulp_organizations.adoc[]
 ** xref:pulp_stuff.adoc[]
 ** xref:pulp_colophon.adoc[References]
 * xref:firefly_swade.adoc[Firefly]
