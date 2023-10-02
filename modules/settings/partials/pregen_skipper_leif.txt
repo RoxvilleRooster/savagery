@@ -1,0 +1,23 @@
+Leif Lindstrom
+Novice, Skipper
+
+
+Attributes: Agility d8, Smarts d8, Spirit d6, Strength d6, Vigor d8
+Skills: Athletics d6, Boating d8, Common Knowledge d6, Electronics d4, Fighting d6, Intimidation d6, Language (Linguist #1) d6, Language (Linguist #2) d6, Language (Linguist #3) d6, Notice d4, Persuasion d6, Repair d6, Shooting d4, Stealth d4, Survival d8
+Pace: 6; Parry: 5; Toughness: 6Wealth Die: d6
+Hindrances: Death Wish, Loyal, Phobia (minor, aerophobia), Vengeful (minor)
+Edges: Ace
+Weapons: Unarmed (Range Melee, Damage Str)
+Languages: Linguist #3 (d6), Linguist #2 (d6), Linguist #1 (d6)
+
+Special Abilities
+Languages Known: Linguist #3 (d6), Linguist #2 (d6), Linguist #1 (d6)
+
+
+Advances
+Novice Advances
+Raise Attribute: SmartsRaise Skills: Survival/Boating
+------------------
+
+Current Load: 0 (41)
+Books In Use: Savage Worlds: Adventure EditionSetting Rules: Multiple LanguagesSetting Modlines: +2 advance # Validity: Character appears valid and optimal

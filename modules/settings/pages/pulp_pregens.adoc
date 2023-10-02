@@ -68,6 +68,13 @@ include::../partials/pregen_reporter_ulysses.txt[]
 include::../partials/pregen_scientist_mannix.txt[]
 ----
 
+[[skipper]]
+== The Skipper
+
+----
+include::../partials/pregen_skipper_leif.txt[]
+----
+
 [[spy]]
 == The Spy
 
