@@ -8,8 +8,8 @@ Those that require a little more work are detailed below. +
 Where core rules differ, the Game Master can use whichever version she prefers. Both versions will work just fine in your
 game, though those presented in SWADE are a bit more structured and streamlined.
 
-NOTE: This is a living document.  
-If you see something we missed, please tell us on the Pinnacle forums!
+// NOTE: This is a living document.  
+// If you see something we missed, please tell us on the Pinnacle forums!
 
 
 == General Notes
