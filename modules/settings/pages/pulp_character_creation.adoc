@@ -118,3 +118,40 @@ For heroes with the Arcane Background (Weird Science) edge, Fly is available at 
 == Starting resources
 
 $500 as per SWADE.
+
+[#advance_xp]
+== Advancement and experience points
+
+NOTE: The following rules on experience points and advances originate from _Savage Worlds Deluxe Explorer's Edition_ (p 42).
+If a rule is not adjusted here, assume that we are using the SWADE rules on "Advancement" (p 54).
+
+Most VTT sessions we play are 2.5 h long or less.
+
+A character will typically receive 1-2 experience points per session.
+All characters are awarded the same number of experience points.
+
+Every 5 experience points that a character accumulates 
+grants 1 Advance.
+
+If a player is absent from a session, his character does not receive experience points.
+
+=== Ranks
+As a character gains more Experience Points, he goes up in “Rank.” 
+
+This is a rough measure of how powerful the hero is. As characters progress in experience, new Ranks allow access to more powerful Edges.
+
+.Rank Table
+[%autowidth]
+|===
+| Experience Points | Rank
+
+| 0-19 | Novice
+| 20-39 | Seasoned
+| 40-59 | Veteran
+| 60-79 | Heroic
+| 80+ | Legendary
+|===
+
+Once a hero reaches Legendary status, the rules for Advances change a bit. 
+The character now Advances every time he accumulates 10 Experience Points instead of 5, but a world of new Edges opens up to him as well. 
+
