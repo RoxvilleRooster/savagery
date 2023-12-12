@@ -205,3 +205,61 @@ If the scene defines 20 increments, lay down 20 chase cards. Use some kind of co
 
 If you roll a 1 on your skill die but your wild die is successful, the result is still considered a success, but there is a negative effect or compromise (e.g., your weapon becomes entangled in an enemy's armor). The player can describe what the negative effect looks like.
 ////
+
+=== Cliffhangers
+
+The cliffhanger is a staple of a pulp-action story.
+
+.Examples of a cliffhanger
+* being captured
+* losing a piece of vital equipment
+* getting to the mission objective too late
+* a key NPC is abducted by the villains
+
+Sometimes in a pulp-action story, the villains get the upper hand and the heroes suffer a setback, which they then need to overcome.
+A cliffhanger is an opportunity for a player to develop her character's story and take narrative control.
+The good news is that, at the end of the cliffhanger, the character come out ahead.
+
+The Quick Encounter rules are used to resolve a cliffhanger.
+
+. The GM sets up a seemingly hopeless scenario and declares a cliffhanger. 
+. (GM's discretion) One character can escape the initial predicament with their gear.
+It is assumed that this character returns to help their teammates escape. 
+. The GM tells the players the grim news of their desperate situation. 
++
+NOTE: A character action cannot affect the initial predicament.
++ 
+.Cliffhanger predicaments
+====
+
+.The heroes are... 
+* captured, placed in a death trap, and left to die
+* overcome by hazardous conditions, stranded, and left for dead 
+* trapped on a runaway vehicle that they cannot control and facing certain death
+* The GM will find more ways...
+
+====
+. In a series of flashbacks (Quick Encounter trait rolls), each player narrates his hero's action during the cliffhanger scene.
+The results and rewards can differ depending upon the situation, the roll, and player narrative. 
+If a hero fails her trait roll, she might suffer harm (e.g., fatigue, wounds) or suffer a penalty to a subsequent action.
+. The GM rules on the consequence of the setback.
+. The GM rewards the heroes.
+
+.Setbacks caused by a cliffhanger situation might include
+* Lost time
+* Artifact lost
+* Information is disclosed
+* NPC is abducted (or worse)
+
+.Rewards for overcoming a cliffhanger might include
+* A benny or, in some circumstances, the replenishment of starting bennies
+* A conviction token
+* A new item
+* New information
+◦ Draw an Adventure Card and gain an additional Adventure Card Play.
+
+.Facts about cliffhanger scenes
+* Wild card (heroes and villains) cannot die
+* The villains never tend to  stick around
+* The big villain will likely monologue before he exits
+* The cliffhanger scene takes a plot appropriate amount of time to resolve
