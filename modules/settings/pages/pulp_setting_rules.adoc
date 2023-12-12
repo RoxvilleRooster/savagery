@@ -262,4 +262,4 @@ If a hero fails her trait roll, she might suffer harm (e.g., fatigue, wounds) or
 * Wild card (heroes and villains) cannot die
 * The villains never tend to  stick around
 * The big villain will likely monologue before he exits
-* The cliffhanger scene takes a plot appropriate amount of time to resolve
+* The cliffhanger scene takes a plot-appropriate amount of time to resolve
