@@ -1,0 +1,27 @@
+= Pulp adventure scenario resources
+
+* https://vanishingtower.blogspot.com/2018/11/brp-pulp-adventure-generator.html[BRP Pulp Adventure Generator]
+* https://www.godwars2.org/SavageWorlds/rag.html[Random Adventure Generator By OFTHEHILLPEOPLE]
+
+* Chapter 9 "Encounters" (p93) in _Deadlands: the Weird West_
+* "Adventure Generator" (p10) in the _Rippers Resurrected Game Master's Handbook_
+* "Adventure Generator" (p102) in _The Day After Ragnarok_
+* "Adventure Generator" (p135) in _The Savage World of Solomon Kane_
+* "Mission Generator" (p140) in _The Secret Files of Section D_
+* "Case Generator" (p74) in _Deadlands Noir_
+
+
+
+
+.Components of the scenario from _The Day After Ragnarok_'s adventure generator
+. Hook
+. Location
+. Goal of heroes
+. Villain
+.. Goal of villain
+.. Henchmen of villain
+.. Victim of villain
+. Guest star
+.. Goal of guest star
+. Obstacle
+. Twist
