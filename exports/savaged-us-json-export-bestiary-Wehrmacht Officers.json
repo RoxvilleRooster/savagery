@@ -101,23 +101,12 @@
     },
     {
       "id": 0,
-      "name": "Rank (Officer) Equipment: Officers are equipped as infantry or armor crews. Staff officers usually only carry a sidearm",
+      "name": "Rank (Officer) Equipment: Officers are equipped as infantry or armor crews. Staff officers usually only carry a sidearm unless they are on the frontlines.",
       "customDescription": "",
       "description": "",
       "note": "",
       "takenFrom": "",
       "bookID": 116,
-      "isHidden": false,
-      "descriptionHTML": ""
-    },
-    {
-      "id": 0,
-      "name": "unless they are on the frontlines.",
-      "customDescription": "",
-      "description": "",
-      "note": "",
-      "takenFrom": "",
-      "bookID": 9,
       "isHidden": false,
       "descriptionHTML": ""
     }
@@ -150,7 +139,7 @@
   "loadLimit": 0,
   "loadLimitBase": 0,
   "loadLimitModifier": 0,
-  "name": "Wehrmacht Officers",
+  "name": "Wehrmacht Officer",
   "paceBase": 6,
   "paceMod": 0,
   "paceTotal": 6,
@@ -160,7 +149,7 @@
   "parryTotal": 5,
   "parryHR": "5",
   "professionOrTitle": "",
-  "race": "Wehrmacht Officers",
+  "race": "Wehrmacht Officer",
   "rank": 0,
   "rankName": "Bestiary",
   "runningDie": "d6",
@@ -170,6 +159,16 @@
   "size": 0,
   "sizeLabel": "0 (Normal)",
   "skills": [
+    {
+      "name": "Athletics",
+      "value": "d6",
+      "dieValue": 6,
+      "attribute": "",
+      "mod": 0,
+      "specializations": [],
+      "isCore": false,
+      "bookID": 9
+    },    
     {
       "name": "Fighting",
       "value": "d6",
@@ -191,6 +190,16 @@
       "bookID": 9
     },
     {
+      "name": "Notice",
+      "value": "d6",
+      "dieValue": 6,
+      "attribute": "",
+      "mod": 0,
+      "specializations": [],
+      "isCore": false,
+      "bookID": 9
+    },    
+    {
       "name": "Persuasion",
       "value": "d6",
       "dieValue": 6,
@@ -211,7 +220,7 @@
       "bookID": 9
     }
   ],
-  "swade": false,
+  "swade": true,
   "toughnessBase": 5,
   "toughnessMod": 0,
   "toughnessTotal": 5,
