@@ -40,7 +40,7 @@ heavy cover::
 set overlay number to 6
 full cover:: 
 set overlay number to 8 
-| Distracted | image:status_distracted.PNG[Distracted] |   
+| Distracted | image:status_distracted.png[Distracted] |   
 
 | Defend | image:status_defending.png[Defend] | 
 // <!-- For *Full Defense*, set overlay number to 2 --> 
