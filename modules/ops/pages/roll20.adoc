@@ -49,15 +49,15 @@ a| Set the overlay value to 2 to indicate the _Bound_ condition
 | Hold | image:time.PNG[Hold,25,25] | Character is holding his action 
 | Incapacitated | image:red_x.PNG[Dead,25,25] | Or just remove the token (a/k/a "off the table")  
 // | Mind Affected | image:sanity.png[Sanity damaged] | Affected by fear, insanity, confusion, or charm
-| Prone | image:prone.PNG[prone,25,25] | 
+| Prone | image:status_prone.png[prone,25,25] | 
 | Shaken 
 | image:status_shaken.png[shaken,25,25]
 // Yellow dot overlay 
 | 
 To indicate the stunned condition, set the overlay number to 2
 // For *Unconscious* or *Incapacitated*, set overlay number to 2 or remove the token from play 
-| Stealth | image:ninja.PNG[Stealth,25,25] | Indicates that a character is *successfully* using Stealth to avoid detection 
-| Stunned | | See Shaken 
+// | Stealth | image:ninja.PNG[Stealth,25,25] | Indicates that a character is *successfully* using Stealth to avoid detection 
+3+| Stunned (see _Shaken_)
 | Vulnerable | image:status_vulnerable.png[Vulnerable,25,25] |   
 |===
 
