@@ -45,8 +45,7 @@ set overlay number to 8
 | Defend | image:status_defending.png[Defend] | 
 // <!-- For *Full Defense*, set overlay number to 2 --> 
 | Entangled | image:status_entangled.png[Entangled]
-a| 
-NOTE: Set the overlay value to 2 to indicate the _Bound_ condition
+a| Set the overlay value to 2 to indicate the _Bound_ condition
 | Hold | image:time.PNG[Hold] | Character is holding his action 
 | Incapacitated | image:red_x.PNG[Dead] | Or just remove the token (a/k/a "off the table")  
 // | Mind Affected | image:sanity.png[Sanity damaged] | Affected by fear, insanity, confusion, or charm
