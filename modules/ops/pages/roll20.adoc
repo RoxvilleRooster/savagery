@@ -26,12 +26,12 @@ Of course, other tokens may also be used as needed.
 |===
 | Condition | Overlay | Notes 
 
-| Aiming | image:status_aiming.png[Aim] |   
+| Aiming | image:status_aiming.png[Aim,25,25] |   
 3+| Bound (see _Entangled_)
 
-| Bennies for wild card NPC | image:benny-chip-front.png[Wild Card Benny] | Overlay number indicates how many bennies the NPC has
+| Bennies for wild card NPC | image:benny-chip-front.png[Wild Card Benny,25,25] | Overlay number indicates how many bennies the NPC has
 
-| Cover | image:status_cover.png[Cover] a|  
+| Cover | image:status_cover.png[Cover,25,25] a|  
 light cover::
 set overlay number to 2 or leave unset
 medium cover:: 
@@ -40,25 +40,25 @@ heavy cover::
 set overlay number to 6
 full cover:: 
 set overlay number to 8 
-| Distracted | image:status_distracted.png[Distracted] |   
+| Distracted | image:status_distracted.png[Distracted,25,25] |   
 
-| Defend | image:status_defending.png[Defend] | 
+| Defend | image:status_defending.png[Defend,25,25] | 
 // <!-- For *Full Defense*, set overlay number to 2 --> 
-| Entangled | image:status_entangled.png[Entangled]
+| Entangled | image:status_entangled.png[Entangled,25,25]
 a| Set the overlay value to 2 to indicate the _Bound_ condition
-| Hold | image:time.PNG[Hold] | Character is holding his action 
-| Incapacitated | image:red_x.PNG[Dead] | Or just remove the token (a/k/a "off the table")  
+| Hold | image:time.PNG[Hold,25,25] | Character is holding his action 
+| Incapacitated | image:red_x.PNG[Dead,25,25] | Or just remove the token (a/k/a "off the table")  
 // | Mind Affected | image:sanity.png[Sanity damaged] | Affected by fear, insanity, confusion, or charm
-| Prone | image:prone.PNG[prone] | 
+| Prone | image:prone.PNG[prone,25,25] | 
 | Shaken 
-| image:status_shaken.png[shaken]
+| image:status_shaken.png[shaken,25,25]
 // Yellow dot overlay 
 | 
 To indicate the stunned condition, set the overlay number to 2
 // For *Unconscious* or *Incapacitated*, set overlay number to 2 or remove the token from play 
-| Stealth | image:ninja.PNG[Stealth] | Indicates that a character is *successfully* using Stealth to avoid detection 
-// | Stunned | image:stunned.png[Stunned] | 
-| Vulnerable | image:status_vulnerable.png[Vulnerable] |   
+| Stealth | image:ninja.PNG[Stealth,25,25] | Indicates that a character is *successfully* using Stealth to avoid detection 
+| Stunned | | See Shaken 
+| Vulnerable | image:status_vulnerable.png[Vulnerable,25,25] |   
 |===
 
 
