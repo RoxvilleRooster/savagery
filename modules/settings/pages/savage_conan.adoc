@@ -1,0 +1,67 @@
+= Savage Conan
+
+== Setting rules
+
+Born A Hero::
+Heroes may ignore the Rank qualifications for Edges during character creation. 
+They must still meet any other Requirements as usual. 
+The usual rules for Rank Requirements apply afterward.
+
+Conviction::
+Conviction can be spent to add a d6 to all a character's Trait and damage totals until the beginning of her next turn. 
+This die can Ace, and its result is added to the final total.
+Conviction tokens aren't Bennies and can't be used as such. 
+They are kept between sessions, however.
+A character may maintain Conviction from round to round by spending a Benny (at the start of his turn, before it runs out). 
+Once Conviction lapses, however, the effect ends.
+
+
+Creative Combat::
+Tests make a game even more exciting and memorable. 
+Creative Combat enhances a pulp-style game with additional benefits for those who Test with a raise.
+A successful Test (page 108) works as usual, but if a Wild Card character succeeds with a raise while in combat, her foe is not automatically Shaken—she rolls on the Creative Combat table instead.
+
+DESPERATE ATTACK::
+Desperate attacks are frantic efforts to hit a target at the expense of damage. 
+The attacker adds +2 or +4 to any Fighting roll and subtracts a like amount from damage if he hits. 
+This can be determined per attack (before rolling), and can't be combined with Wild Attack.
+
+Dumb Luck::
+Dumb Luck allows a player to spend a Benny even after a Critical Failure. 
+The failure still happens in some way, but the character can spend one Benny (and only one) for one more roll. 
+The hero still drops her weapon, flubs her Taunt, or otherwise “fails" the attempt—but if the reroll from the Benny is actually successful, it somehow still results in whatever success the new roll provides.
+
+Fanatics::
+Use this rule in pulp-style games where henchmen are numerous and villains are larger than life.
+When a Wild Card enemy character is hit by a successful attack and the GM thinks it's appropriate, one of his henchmen, goons, or other allies jumps in front of his master and takes the attack instead.
+
+High Adventure::
+Characters can spend a Benny to gain the one-time use of a Combat Edge. 
+They have to meet the Rank and any Edge requirements as usual but can ignore Trait requirements.
+
+More Skill Points::
+Thanks to technology and improved education, characters in modern and futuristic settings have 15 skill points at character creation rather than 12. 
+This helps them take Driving, Electronics, and other skills common in the modern world.
+
+Multiple Languages::
+Some settings feature characters and cultures who typically speak many different languages.
+If this Setting Rule is in play, all characters have the Linguist Edge for free (page 40), and ignore its usual Requirements.
+A character who actually takes the Linguist Edge knows a number of languages equal to her Smarts (instead of half her Smarts).
+
+Stream template::
+Any power or other effect that uses a Cone Template may use the Stream Template instead. This is a straight line 1" (2 yards)
+wide and 12" (24 yards) long. 
+This is a straight line 1" (2 yards) wide and 12" (24 yards) long. 
+A basic success means those beneath the template are hit. Failure means the attack didn't occur for some reason—the creature failed to belch up noxious gas, the flamethrower malfunctioned, etc.
+
+Unarmored Hero::
+In these settings, if a Wild Card chooses not to wear any armor (ignoring shields), he adds +2 bonus to his Soak rolls!
+
+Wound Cap::
+Use this Setting Rule when you want combat to remain dangerous but reduce the chances of characters (and villains!) dying from a single lucky blow. 
+It can still happen, but it is far more rare.
+Characters can never suffer more than four Wounds in a single hit and therefore never have to Soak more than four wounds either.
+Large Creatures::: The Wound Cap applies even to creatures with more than three Wounds (due to their Scale or the Resilient/
+Very Resilient Special Ability, both explained in Chapter Six). 
+A Huge creature that can take five Wounds, for example, can't take more than four from a single attack, so it can't normally be killed with a single attack.
+The GM can always overrule this in specific and obvious situations, of course, such as massive blasts, falling from towering cliffs or mountains, etc.
