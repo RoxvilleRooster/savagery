@@ -17,3 +17,4 @@
 // *** xref:wwr_bestiary.adoc[]
 ** xref:wwr_campaign.adoc[]
 * xref:savage_espionage.adoc[]
+* xref:savage_conan.adoc[]
