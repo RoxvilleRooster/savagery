@@ -21,7 +21,7 @@ Tests make a game even more exciting and memorable.
 Creative Combat enhances a pulp-style game with additional benefits for those who Test with a raise.
 A successful Test (page 108) works as usual, but if a Wild Card character succeeds with a raise while in combat, her foe is not automatically Shaken—she rolls on the Creative Combat table instead.
 
-DESPERATE ATTACK::
+Desperate Attack::
 Desperate attacks are frantic efforts to hit a target at the expense of damage. 
 The attacker adds +2 or +4 to any Fighting roll and subtracts a like amount from damage if he hits. 
 This can be determined per attack (before rolling), and can't be combined with Wild Attack.
