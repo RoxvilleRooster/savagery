@@ -1,5 +1,5 @@
 
-= Armor
+== Armor
 ////
 Armor is written in parentheses next to a character’s Toughness, like this: 11 (2). 
 This means 2 points of the character’s 11 Toughness comes from Armor. 
@@ -56,6 +56,7 @@ Plate Mail Armor
 
 == Shields
 
+[%autowidth]
 |===
 | TYPE | PARRY | COVER | MIN STR. | WEIGHT | COST
 
