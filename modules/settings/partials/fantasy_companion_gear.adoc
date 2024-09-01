@@ -122,3 +122,55 @@ Plate Mail Armor
 | Warhammer | Str+d6 | d6 | 5 | 12 | AP 1
 | Whip | Str+d4 | d4 | 2 | 5 | Parry –1, Reach 2, With a raise on the attack roll the victim may be Entangled instead of rolling bonus damage.
 |===
+
+== Ammunition
+All ammunition costs include a pouch or quiver to hold the ammunition.
+
+[%autowidth]
+|===
+| TYPE | COST | WEIGHT | NOTES
+| Arrows | 1/20 arrows | 3 lbs/20 arrows | For all types of bows
+| Bolts | 1/10 bolts | 1 lb/10 bolts | For all types of crossbows
+| Darts | 1/20 darts | — | For use with blowgun only
+| Flammable Arrows/Bolts | 1 per arrow/bolt | 3 lbs/20 arrows | Half normal Range, +1d6 damage, may ignite flammable items.
+| Shot (w/powder) | 1/10 shots | 0.5 lbs/10 | For black powder weapons
+| Sling Stones | 1/50 stones | 1 lbs/20 stones | Polished stones for slings
+|===
+
+== Ranged Weapons
+
+[%autowidth]
+|===
+| TYPE | RANGE | DAMAGE | AP | ROF | MIN STR. | WEIGHT | COST
+| Axe, Hand | 3/6/12 | Str+d6 | — | 1 | d6 | 3 | 6
+.2+| Bolas | 3/6/12 | Str+d4 | — | 1 | d4 | 2 | 5
+7+| Notes: A target hit with a raise is Entangled. Bolas are Hardness 8.
+| Blowgun | 3/6/12 | d4−2 | — | 1 | d4 | 1 | 2
+| Bow, Short | 12/24/48 | 2d6 | — | 1 | d6 | 2 | 30
+| Bow, Long | 15/30/60 | 2d6 | 1 | 1 | d8 | 3 | 75
+| Bow, Composite | 12/24/48 | Str+d6 | 1 | 1 | d6 | 3 | 100
+| Chakram | 4/8/16 | Str+d4 | — | 1 | d4 | 1 | 1
+.2+| Crossbow, Hand | 5/10/20 | 2d4 | — | 1 | d4 | 2 | 20
+7+|Notes: Reload 1. A one-handed, pistol-like crossbow.
+.2+| Crossbow, Hand Repeating | 5/10/20 | 2d4 | — | 2 | d4 | 3 | 160
+7+| Notes: Reload 1 for a case of 5 bolts, or 1 for a single bolt. 
+Incurs Recoil penalty.
+.2+| Crossbow, Light | 10/20/40 | 2d6 | 2 | 1 | d6 | 5 | 35
+7+| Notes: Reload 1. Hand-drawn.
+.2+| Crossbow, Light Repeating | 10/20/40 | 2d6 | 2 | 1 | d6 | 8 | 250
+7+| Notes: Reload 1 for a case of 5 bolts, or 1 for a single bolt. 
+Incurs Recoil penalty.
+.2+| Crossbow, Heavy | 15/30/60 | 2d8 | 2 | 1 | d6 | 8 | 50
+7+| Notes: Requires a windlass to load. Reload 2.
+.2+| Crossbow, Heavy Repeating | 15/30/60 | 2d8 | 2 | 1 | d8 | 12 | 400
+7+| Notes: Reload 2 for a “quick load” case of 5 bolts; or Reload 2 for a single bolt.
+| Dagger/Knife | 3/6/12 | Str+d4 | — | 1 | d4 | 1 | 2
+.2+| Net (Weighted) | 3/6/12 | — | — | 1 | d4 | 8 | 20
+7+| Notes: A successful hit means the target is Entangled. 
+The net is Hardness 10 and only vulnerable to cutting attacks..
+| Short Spear/Javelin | 4/8/16 | Str+d6 | — | 1 | d6 | 3 | 1
+| Shuriken | 3/6/12 | Str+d4 | — | 1 | d4 | — | 1
+| Sling (Athletics (throwing)) | 4/8/16 | Str+d4 | — | 1 | d4 | 1 | —
+| Spear | 3/6/12 | Str+d6 | — | 1 | d6 | 6 | 2
+| Trident | 3/6/12 | Str+d6 | — | 1 | d6 | 4 | 15
+|===
