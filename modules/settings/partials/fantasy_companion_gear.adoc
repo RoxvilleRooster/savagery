@@ -1,4 +1,4 @@
-
+// tag::armor[]
 == Armor
 ////
 Armor is written in parentheses next to a character’s Toughness, like this: 11 (2). 
@@ -7,7 +7,6 @@ An Armor Piercing attack can bypass those 2 points but not the other 9.
 Note that greaves (leg guards) and vambraces (arm guards) are listed as pairs. 
 Halve the weight and cost if a character wears only half the set (Minimum Strength doesn’t change).
 ////
-
 [%autowidth]
 |===
 | ITEM | ARMOR | MIN STR. | WEIGHT | COST
@@ -52,8 +51,9 @@ Plate Mail Armor
 
 
 |===
+// end::armor[]
 
-
+// tag::shields[]
 == Shields
 
 [%autowidth]
@@ -71,6 +71,7 @@ Plate Mail Armor
 5+| Notes: +1 damage when attacking with the shield.
 
 |===
+// end::shields[]
 
 == Barding
 The items below are based on Size 2 creatures. 
@@ -87,6 +88,7 @@ For other sizes, increase/decrease the weight and cost by 10% per Size differenc
 |===
 
 
+// tag::melee[]
 == Melee Weapons
 
 [%autowidth]
@@ -136,7 +138,10 @@ For other sizes, increase/decrease the weight and cost by 10% per Size differenc
 | Warhammer | Str+d6 | d6 | 5 | 12 | AP 1
 | Whip | Str+d4 | d4 | 2 | 5 | Parry –1, Reach 2, With a raise on the attack roll the victim may be Entangled instead of rolling bonus damage.
 |===
+// end::melee[]
 
+
+// tag::ammo[]
 == Ammunition
 All ammunition costs include a pouch or quiver to hold the ammunition.
 
@@ -150,7 +155,9 @@ All ammunition costs include a pouch or quiver to hold the ammunition.
 | Shot (w/powder) | 1/10 shots | 0.5 lbs/10 | For black powder weapons
 | Sling Stones | 1/50 stones | 1 lbs/20 stones | Polished stones for slings
 |===
+// end::ammo[]
 
+// tag::ranged[]
 == Ranged Weapons
 
 [%autowidth]
@@ -188,7 +195,7 @@ The net is Hardness 10 and only vulnerable to cutting attacks..
 | Spear | 3/6/12 | Str+d6 | — | 1 | d6 | 6 | 2
 | Trident | 3/6/12 | Str+d6 | — | 1 | d6 | 4 | 15
 |===
-
+// end::ranged[]
 
 == Black Powder Weapons
 Black powder weapons are only available in settings where gunpowder exists and is commonly available. 
