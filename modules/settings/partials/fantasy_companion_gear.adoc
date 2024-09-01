@@ -14,10 +14,10 @@ Halve the weight and cost if a character wears only half the set (Minimum Streng
 
 5+| ARMOR EXTRAS
 
-| Armor Spikes | — | — | 10 | 50 
-5+| Notes: May be added to any armor, causing +1 damage when Crushing while Grappling.
-| Gauntlet, locked | — | — | 5 | 8 
-5+| Notes: +1 to Strength roll against Disarm; requires an action to fasten/release.
+.2+| Armor Spikes | — | — | 10 | 50 
+4+| Notes: May be added to any armor, causing +1 damage when Crushing while Grappling.
+.2+| Gauntlet, locked | — | — | 5 | 8 
+4+| Notes: +1 to Strength roll against Disarm; requires an action to fasten/release.
 
 5+| CLOTH / LIGHT LEATHER + 
 Characters with the Armor Interference Hindrance (page 28) may wear cloth or light leather armor without penalty.
@@ -50,5 +50,23 @@ Plate Mail Armor
 | Heavy Helm (head) | +4 | d10 | 4 | 250
 | Heavy Helm, Enclosed (head) | +4 | d10 | 8 | 300
 
+
+|===
+
+
+== Shields
+
+|===
+| TYPE | PARRY | COVER | MIN STR. | WEIGHT | COST
+
+| Small (Bucklers, Targs) | +1 | — | d6 | 4 | 5
+| Medium (Typical round or kite shield) | +2 | −2 | d8 | 8 | 9
+.2+| Large (Tower shields, pavises) | +2 | −4 | d10 | 12 | 20 
+5+| Notes: −1 Pace when carried or wielded
+6+| EXTRAS
+.2+| Interlocking | | | — | — | 10
+5+| Notes: Adjacent characters with interlocking shields may combine their cover bonus against ranged attacks, to a maximum of –6.
+.2+| Shield spikes | | | — | 5 | 20
+5+| Notes: +1 damage when attacking with the shield.
 
 |===
