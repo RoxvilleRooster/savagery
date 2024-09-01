@@ -70,4 +70,4 @@ The GM can always overrule this in specific and obvious situations, of course, s
 
 == Gear
 
-include::../partials/fantasy_companion_gear.adoc[leveloffset=+2]
+include::../partials/fantasy_companion_gear.adoc[leveloffset=+1]
