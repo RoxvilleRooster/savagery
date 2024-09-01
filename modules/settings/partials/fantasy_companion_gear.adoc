@@ -71,3 +71,54 @@ Plate Mail Armor
 5+| Notes: +1 damage when attacking with the shield.
 
 |===
+
+
+== Melee Weapons
+
+[%autowidth]
+|===
+| TYPE | DAMAGE | MIN STR. | WEIGHT | COST | NOTES
+
+| Axe, Hand | Str+d6 | d6 | 3 | 6 | —
+| Axe, Battle | Str+d8 | d8 | 6 | 10 | —
+| Axe, Great | Str+d10 | d10 | 12 | 20 | AP 3, Parry –1, Two Hands
+| Chakram | Str+d4 | d4 | 1 | 1 | Parry +1
+| Club, Light | Str+d4 | d4 | 2 | 1 | —
+| Club, Heavy | Str+d6 | d6 | 5 | 2 | —
+| Cutlass | Str+d6 | d4 | 4 | 15 | —
+| Dagger/Knife | Str+d4 | d4 | 1 | 2 | —
+| Flail | Str+d6 | d6 | 5 | 8 | Ignores shield bonus
+| Flail, Heavy | Str+d8 | d8 | 10 | 15 | Ignores shield bonus, Two Hands
+| Falchion | Str+d8 | d8 | 8 | 75 | AP 1, may be used Two Hands (if so, it causes +1 damage)
+| Glaive | Str+d8 | d8 | 10 | 8 | Reach 1, Two Hands
+| Guisarme | Str+d6 | d6 | 12 | 9 | AP 1, Reach 1, Two Hands
+| Halberd | Str+d8 | d8 | 12 | 10 | AP 1, Reach 1, Two Hands
+| Katana | Str+d6+1 | d6 | 3 | 50 | Two Hands
+| Lance | Str+d8 | d8 | 10 | 10 | AP 2 when charging, Reach 2, only usable in mounted combat
+| Mace, Light | Str+d6 | d6 | 4 | 5 | —
+| Mace, Heavy | Str+d8 | d8 | 8 | 12 | AP 1
+| Mancatcher | Str+d4 | d6 | 10 | 15 | Reach 2, two hands, no bonus damage on a raise but the victim is Bound
+| Meteor Hammer | Str+d6 | d6 | 5 | 12 | Reach 2, ignore shield bonus, two hands
+| Morningstar | Str+d6 | d6 | 6 | 8 | —
+| Maul | Str+d10 | d10 | 10 | 12 | AP 2, Two Hands, +2 damage to break objects.
+| Pike | Str+d8 | d8 | 18 | 20 | AP 1 when set, Reach 2, Two Hands
+| Rapier | Str+d4 | d4 | 2 | 20 | Parry +1
+| Ranseur | Str+d6 | d6 | 12 | 10 | AP 1, Reach 1
+| Sap | Str+d4 | d4 | 1 | 2 | Nonlethal damage
+| Scimitar | Str+d6 | d6 | 4 | 15 | —
+| Scythe | Str+d6 | d6 | 10 | 18 | Two Hands
+| Sickle | Str+d4 | d4 | 2 | 3 | —
+| Spear, Short | Str+d6 | d6 | 3 | 1 | One-handed
+| Spear |  Str+d6 | d6 | 6 | 2 | Reach 1. Parry +1 if used with Two Hands
+| Spiked Chain | Str+d6 | d6 | 6 | 8 | AP 1, ignores shield bonus, Two Hands
+| Spiked Gauntlet | Str+d4 | d6 | 1 | 5 | +1 to Strength roll vs. Disarm
+| Staff/Quarterstaff | Str+d4 | d4 | 4 | — | Parry +1, Reach 1, Two Hands 
+| Sword, Bastard | Str+d8 | d8 | 6 | 35 | AP 1, may be used Two Hands (if so, it causes +1 damage)
+| Sword, Great | Str+d10 | d10 | 8 | 50 | AP 2, Two Hands
+| Sword, Hook | Str+d6 | d6 | 3 | 20 | +1 to Disarm
+| Sword, Long | Str+d8 | d8 | 4 | 15 | —
+| Sword, Short | Str+d6 | d6 | 2 | 10 | —
+| Trident | Str+d6 | d6 | 4 | 15 | Reach 1
+| Warhammer | Str+d6 | d6 | 5 | 12 | AP 1
+| Whip | Str+d4 | d4 | 2 | 5 | Parry –1, Reach 2, With a raise on the attack roll the victim may be Entangled instead of rolling bonus damage.
+|===
