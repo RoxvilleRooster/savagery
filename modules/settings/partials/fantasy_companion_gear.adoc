@@ -72,6 +72,20 @@ Plate Mail Armor
 
 |===
 
+== Barding
+The items below are based on Size 2 creatures. 
+For other sizes, increase/decrease the weight and cost by 10% per Size difference.
+
+[%autowidth]
+|===
+| ITEM | ARMOR | MIN STR. | WEIGHT | COST
+| Padded/Cloth | +1 | d6 | 30 | 100
+| Leather | +2 | d8 | 50 | 300
+| Chain or Scale | +3 | d10 | 110 | 500
+| Bronze | +3 | d10 | 120 | 1,500
+| Plate | +4 | d12 | 130 | 5,000
+|===
+
 
 == Melee Weapons
 
@@ -173,4 +187,18 @@ The net is Hardness 10 and only vulnerable to cutting attacks..
 | Sling (Athletics (throwing)) | 4/8/16 | Str+d4 | — | 1 | d4 | 1 | —
 | Spear | 3/6/12 | Str+d6 | — | 1 | d6 | 6 | 2
 | Trident | 3/6/12 | Str+d6 | — | 1 | d6 | 4 | 15
+|===
+
+
+== Black Powder Weapons
+Black powder weapons are only available in settings where gunpowder exists and is commonly available. 
+They are all Reload 2, so many black powder users preload several flintlocks and simply drop them after firing.
+
+|===
+| TYPE | RANGE | DAMAGE | AP | ROF | MIN STR. | WEIGHT | COST
+
+.2+| Blunderbuss | 10/20/40 | 1-3d6 | — | 1 | d6 | 12 | 300
+7+| Notes: Treat as shotgun (see Savage Worlds).
+| Flintlock Pistol | 5/10/20 | 2d6+1 | — | 1 | d4 | 3 | 150
+| Musket | 10/20/40 | 2d8 | — | 1 | d6 | 15 | 300
 |===
