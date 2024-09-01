@@ -1,0 +1,54 @@
+
+= Armor
+////
+Armor is written in parentheses next to a character’s Toughness, like this: 11 (2). 
+This means 2 points of the character’s 11 Toughness comes from Armor. 
+An Armor Piercing attack can bypass those 2 points but not the other 9.
+Note that greaves (leg guards) and vambraces (arm guards) are listed as pairs. 
+Halve the weight and cost if a character wears only half the set (Minimum Strength doesn’t change).
+////
+
+[%autowidth]
+|===
+| ITEM | ARMOR | MIN STR. | WEIGHT | COST
+
+5+| ARMOR EXTRAS
+
+| Armor Spikes | — | — | 10 | 50 
+5+| Notes: May be added to any armor, causing +1 damage when Crushing while Grappling.
+| Gauntlet, locked | — | — | 5 | 8 
+5+| Notes: +1 to Strength roll against Disarm; requires an action to fasten/release.
+
+5+| CLOTH / LIGHT LEATHER + 
+Characters with the Armor Interference Hindrance (page 28) may wear cloth or light leather armor without penalty.
+
+| Cloak with hood (torso, head) | +1 | d4 | 5  | 5
+| Leggings | +1 | d4 | 5 | 5
+| Tunic (torso, arms) | +1 | d4 | 5 | 10
+| Robe with hooded Cloak (torso, arms, head) | +1 | d4 | 8 | 10
+5+| LIGHT + 
+Studded Leather Armor and Natural Armor (thick hide, wood, bone, bark, etc.).
+| Leather Tunic or Jacket (torso, arms) | +2 | d6 | 11 | 20
+| Leather Leggings (legs) | +2 | d6 | 8 | 20
+| Leather or Natural Cap (head) | +2 | d6 | 1 | 10
+| Natural Shirt (torso, arms) | +2 | d6 | 10 | 20
+| Natural Leggings (legs) | +2 | d6 | 7 | 20
+5+| MEDIUM + 
+Chain Mail, Ring Mail, Scale Mail, Splint Mail, and Bronze Armor
+| Chain Shirt (torso, arms) | +3 | d8 | 22 | 100
+| Chain Leggings (legs) | +3 | d8 | 10 | 100
+| Chain Hood or Pot Helm (head) | +3 | d8 | 3 | 50
+| Bronze Corselet (torso) | +3 | d8 | 13 | 200
+| Bronze Greaves (legs) | +3 | d8 | 6 | 200
+| Bronze Vambraces (arms) | +3 | d8 | 5 | 100
+| Bronze Helmet (head) | +3 | d8 | 6 | 120
+5+| HEAVY + 
+Plate Mail Armor
+| Breastplate (torso) | +4 | d10 | 30 | 500
+| Greaves (legs) | +4 | d10 | 10 | 500
+| Vambraces or Gauntlets (arms) | +4 | d10 | 10 | 250
+| Heavy Helm (head) | +4 | d10 | 4 | 250
+| Heavy Helm, Enclosed (head) | +4 | d10 | 8 | 300
+
+
+|===
