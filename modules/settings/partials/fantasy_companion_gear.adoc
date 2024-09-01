@@ -80,6 +80,7 @@ For other sizes, increase/decrease the weight and cost by 10% per Size differenc
 [%autowidth]
 |===
 | ITEM | ARMOR | MIN STR. | WEIGHT | COST
+
 | Padded/Cloth | +1 | d6 | 30 | 100
 | Leather | +2 | d8 | 50 | 300
 | Chain or Scale | +3 | d10 | 110 | 500
@@ -148,6 +149,7 @@ All ammunition costs include a pouch or quiver to hold the ammunition.
 [%autowidth]
 |===
 | TYPE | COST | WEIGHT | NOTES
+
 | Arrows | 1/20 arrows | 3 lbs/20 arrows | For all types of bows
 | Bolts | 1/10 bolts | 1 lb/10 bolts | For all types of crossbows
 | Darts | 1/20 darts | — | For use with blowgun only
@@ -163,6 +165,7 @@ All ammunition costs include a pouch or quiver to hold the ammunition.
 [%autowidth]
 |===
 | TYPE | RANGE | DAMAGE | AP | ROF | MIN STR. | WEIGHT | COST
+
 | Axe, Hand | 3/6/12 | Str+d6 | — | 1 | d6 | 3 | 6
 .2+| Bolas | 3/6/12 | Str+d4 | — | 1 | d4 | 2 | 5
 7+| Notes: A target hit with a raise is Entangled. Bolas are Hardness 8.
