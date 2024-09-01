@@ -1,4 +1,5 @@
 = Savage Conan
+:toc:
 
 == Setting rules
 
@@ -65,3 +66,8 @@ Large Creatures::: The Wound Cap applies even to creatures with more than three 
 Very Resilient Special Ability, both explained in Chapter Six). 
 A Huge creature that can take five Wounds, for example, can't take more than four from a single attack, so it can't normally be killed with a single attack.
 The GM can always overrule this in specific and obvious situations, of course, such as massive blasts, falling from towering cliffs or mountains, etc.
+
+
+== Gear
+
+include::../partials/fantasy_companion_gear.adoc[leveloffset=+2]
