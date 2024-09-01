@@ -70,4 +70,12 @@ The GM can always overrule this in specific and obvious situations, of course, s
 
 == Gear
 
-include::../partials/fantasy_companion_gear.adoc[leveloffset=+1]
+include::../partials/fantasy_companion_gear.adoc[tag=armor,leveloffset=+1]
+
+include::../partials/fantasy_companion_gear.adoc[tag=shields,leveloffset=+1]
+
+include::../partials/fantasy_companion_gear.adoc[tag=melee,leveloffset=+1]
+
+include::../partials/fantasy_companion_gear.adoc[tag=ranged,leveloffset=+1]
+
+include::../partials/fantasy_companion_gear.adoc[tag=ammo,leveloffset=+1]
