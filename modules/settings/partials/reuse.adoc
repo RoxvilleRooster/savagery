@@ -1,0 +1,5 @@
+// tag::pirating-sucks[]
+Pirating RPG content is not cool. 
+Most folks making tabletop RPG products struggle to make a buck. 
+Buy tabletop RPG books from your Friendly Local Area Gaming Store or from online vendors like xref:https://www.drivethrurpg.com/[DriveThruRPG].
+// end::pirating-sucks[]
