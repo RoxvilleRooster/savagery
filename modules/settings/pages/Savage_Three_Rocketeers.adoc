@@ -1,6 +1,4 @@
 = Savage Three Rocketeers
-Andy Hall <achall@gmail.com>
-v1.0, 2020-04-04
 // :toc: left
 // :toclevels: 4
 :experimental:
@@ -11,9 +9,12 @@ v1.0, 2020-04-04
 ****
 This is an adaptation of the "Rocket Rangers" supplement for the _Daring Tales of Adventure_ series for Savage Worlds (Triple Ace Games). Paul "Wiggy" Wade-Williams is brilliant.
 
-The idea hear is that these rules could be bolted on to the "Savage Musketeers" setting to create a "Savage Three Rocketeers" game, which would be based on "The Three Rocketeers - A World of Adventure for Fate Core" (Evil Hat) by PK Sullivan.
+The idea here is that these rules could be bolted on to the "Savage Musketeers" setting to create a "Savage Three Rocketeers" game, which would be based on "The Three Rocketeers - A World of Adventure for Fate Core" (Evil Hat) by PK Sullivan.
 
-TIP: Pirating RPG content is just plain douchey. Most folks making tabletop RPG products struggle to make a buck. Buy tabletop RPG books from your Friendly Local Area Gaming Store or fron online vendors like xref:https://www.drivethrurpg.com/[DriveThruRPG].
+[TIP]
+====
+include::../partials/reuse.adoc[tag=pirating-sucks]
+====
 
 ****
 
