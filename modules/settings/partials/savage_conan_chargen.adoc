@@ -1,0 +1,328 @@
+= Create your Conan hero
+
+== Introduction
+I ran into Savage Worlds back in 2011 at a now-defunct convention in Washington DC.  It was love at first light.  I loved the fast, furious, and fun nature of the game’s rules and play style; and have stuck with the system ever since.  I discovered that someone named Stephen Rennick had written an adaptation of the Conan world for Savage Worlds around 2012 and I ran a few one-shots with his ruleset.  I kept the book around and this is my attempt to update it to the latest version of Savage Worlds (Savage Worlds Adventure Edition).
+
+== Rules Notes
+
+=== Ancestries Available*
+
+*All ancestries are human and get to keep the starting free edge
+Aesir (Asgard): Golden-haired, blue-eyed, bearded barbarians clad in chain hauberks wielding axes and wooden shields.  Start with d8 in vigor, +1 to intimidation rolls
+
+Afghuli::
+Tall and powerful, with broad shoulders, curly hair and long beards, their brown skin wrinkled by harsh wind and sun.  Start with d8 in agility, +1 to athletics rolls
+Aquilonian (includes Poitainian)::
+ A tawny-haired, gray-eyed, fair-skinned tribe of people. Start with d6 in spirit and strength, +1 to persuasion rolls
+Argossean:: 
+These olive-skinned people have thick, curly, dark hair and short, stocky bodies. Start with a d6 in agility and spirit, +1 to notice rolls
+Brythunian:: 
+Stocky people in the cities and taller in the forests, with fair skin and blond hair. Start with d6 in agility and spirit, +1 to survival rolls
+Cimmerian:: 
+Dark-haired, bronze-skinned barbarians, bare-chested with steel shields and battle-axes. Start with d6 in agility and vigor, +1 to survival rolls
+Corinthian:: 
+A mix of light and olive-skinned people, due to intermixing with the Zamorans, with a stout build and tawny hair. Start with d6 in spirit and vigor, +1 to persuasion rolls
+Hyperborean::
+Tall, unnaturally thin, fair-skinned folk with light brown-blonde hair and blue-green eyes. Start with d6 in smarts and vigor, +1 to intimidation rolls
+Hyrkanian:: 
+Stocky horsemen with hooked noses, black hair and eyes, and deeply tanned skin; riders wear steel and silk and gold.  Start with d8 in agility, +1 to riding rolls.
+Iranistani:: 
+Short, stout, broad-shouldered people with light brown skin, blue or brown eyes, and steely-blue hair (much like the Shemites, to whom they are distantly related).  Start with d6 in strength and spirit, +1 to intimidation rolls
+Khitan:: 
+Black-haired and yellow-skinned with slanted dark eyes, dressed in silk robes and oriental armor.  Start with d6 in agility and smarts, +1 to notice rolls.
+Kothian:: 
+Dark-haired, bronze-skinned folk with light to dark brown eyes. Start with d8 in vigor, +1 to athletics rolls.
+Kushite (Kush, Keshan, Darfar, Punt, the Black Kingdoms):: 
+Light brown to deep black skin and savage eyes. Start with d6 in strength and agility, +1 to stealth  rolls.
+Nemedian:: 
+Tall, fair-skinned people with blue or grey eyes and light or blonde hair. Start with d6 in smarts and spirit, +1 to common knowledge rolls.
+Ophiran:: 
+Tan skinned people, with fair to dark hair and lean bodies. Start with d6 in smarts and spirit, +1 to persuasion rolls.
+Pictish: Short, stocky, dark skinned people with wild black hair confined by copper bands, decorated with feathers.  Start with d6 in agility and vigor, +1 to survival rolls.
+Shemitish:: 
+Generally of medium height, though sometimes, when mixed with Stygian blood, gigantic, broadly and strongly built, with hook noses, dark eyes, and blue-black hair.  Start with d6 in vigor and spirit, +1 to persuasion rolls.
+Stygian:: 
+The ruling class is tall, hawk-faced, bronze-skinned with dark hair and black eyes; the lower classes are a down-trodden, mongrel horde: a mixture of Kushite, Stygian, Shemitish, even Hyborian bloods.  Start with d8 in smarts, +1 to occult rolls.
+Turanian:: 
+Turbaned men with hooked noses; veiled women with black hair. Start with d6 in agility and smarts, +1 to persuasion rolls.
+Vanir:: 
+Red-haired ravagers and raiders in longships, with ring mail, horsehide shields, spears and swords. Start with d6 in strength and vigor, +1 to athletics rolls.
+Vendhyan:: 
+Black-haired, light brown skin; shaven-headed priests, turbaned warriors. Start with d6 in smarts and spirit, +1 to notice rolls.
+Zamoran:: 
+Deeply tanned with dark eyes, wearing loose-fitting robes. Start with d6 in agility and smarts, +1 to stealth rolls.
+Zingaran:: 
+Tanned, curly-haired sailors and princelings, an admixture of Zingg Valley folk (possibly of Shemite origin), invading Picts, and Hyborian tribes. Start with d6 agility and spirit, +1 to notice rolls.
+
+=== Languages Available
+
+All characters start with multiple languages.  If the language is in the root family, they get a +1 to the skill roll speak, read, or understand it.
+
+Hyborian:: 
+Aquilonian, Argossean, Border Kingdoms Argot, Corinthian, Nemedian, 
+Ophiran, Kothic
+Khari:: 
+Hyperborean, Stygian, Ancient Stygian, Acheronian
+Atlantean:: 
+Cimmerian, Nordheimer, Pictish, Border Kingdoms Argot, Atlantean
+Shemitish:: 
+Shemitish, Khoran, Khorajan, Zamoran
+Vilayet:: 
+Ghulistani, Iranistani
+Hyrkanian:: 
+Hyrkanian, Turanian
+Black Kingdoms:: 
+Amazonian, Darfari, Keshani, Kushite, Puntian, Zembabwan
+Vendhyan:: 
+Kosalan, Meruvian, Vendhyan
+
+Language isolates:: 
+Brythunian, Khitan, Zingaran, Kambujan, Lemurian
+
+Ancient/Arcane tongues:: 
+Ancient Stygian, Acheronian, Atlantean, Lemurian, Valusian
+
+
+== A Quick History Lesson
+Before mankind, the empires of the serpent people spanned the jungles of the Thurian continent.  It was a cruel world of dinosaurs, demons and sorcery, where pre-humans and other sentient races served as slaves to their reptilian masters. It passed (as all things do), giving rise to the first great human empire, the Khari, said to be as cruel as the serpent men before them. Others followed, spreading out across the Thurian continent: the empires and city-states of Atlantis, Lemuria, Kamelia, Valusia, Verulia, Grondar, Thule and Commoria. 
+
+Then, 4,000 years before the time of Conan, came the Cataclysm. Seismic upheavals sank Atlantis beneath the Western Ocean. The Lemurian Isles also disappeared beneath the waters. The Lemurians fled to the Thurian continent, only to be enslaved by the Khari. That evil empire survived the Cataclysm unscathed. For 1,500 years, the Lemurians toiled for the Khari in brutish slavery. Approximately 2,500 years before the present day, the Lemurians (the modern-day Hyrkanians) rose up and destroyed the Khari. The survivors fled west, founding the kingdom of Stygia. As a matter of fact, the scattered Khari founded three nations whose names still frighten children: Stygia, Hyperborea, and long-dead Acheron. For another 1,500 years, the Khari kingdoms ruled supreme. 
+
+But, like the Romans millennia later, simple barbarians ended their rule. The Hybori tribes, forced out of the north by fierce competition with other tribes in the region, came south as a howling horde. Within a generation, they had wiped out Acheron, reduced Hyperborea to but a shadow of its former glory, and pushed Stygia deep into the south. For 1,500 years, the Hyborians have ruled the West.
+
+== Nations of the Thurian Continent
+
+=== Aquilonia
+
+Symbol of might in the Hyborian Age, Aquilonia with her legendary armies of Bossonian archers, Gunderland pikemen and Poitanian knights, rules indisputably as the supreme military power of the Western world. More than any other kingdom, however, Aquilonia lies surrounded by grim and unrelenting enemies.
+
+=== Argos
+The major sea power of the Hyborian Age, proud Argos sweeps the western sea from Vanaheim to the Black Kingdoms. Wealthy beyond its size, Argos seldom lacks funds either to war or to weave far reaching webs of intrigue as the situation dictates. Natural enemy of Zingara.
+
+=== Asgard
+Blonde reavers of the icy north, the mailed warriors of the Aesir are held in check only by their equally ferocious kin the Vanir to the west, the grim Cimmerians southward, and by arcane Hyperborea to the east. Loosely organized, the clans await their forging to a cause, or a great captain of men, to spur them over the ice towards bright and bloody conquest!
+
+=== Black Kingdoms
+The peoples of the Black Kingdoms are savages, who live in loosely organized tribes in crude villages hidden away in the jungles of the south. They are dotted with huge pre-Cataclysmic cities. Some are abandoned, empty ruins buried in impenetrable jungle; others retain small remnants of their original populations, sometimes horribly changed over the millennia; yet others are occupied by small groups of modern people who fled from the "civilized" lands and took refuge in the ancient citadels.
+
+=== Border Kingdoms
+Serving as a buffer state between Aquilonian, Nemedia and Brythunia and the more savage people of the north, the Border Kingdom was probably the last Hyborian nation to be founded. The country also served as a trade route for merchants trying to avoid the strict taxes of Nemedia. A sad wilderness with deserted, disconsolate marshlands.
+
+=== Brythunia
+The land of plains and horse, the Brythunians have become a culture of hunters and farmers, ranging their wide, flat lands ahorse and unfettered. The Brythunian army carries forward this heritage with a large contingent of disciplined cavalry regiments. Still, Bruthunia is split and scattered into small, widely dispersed fiefdoms.
+
+=== Cimmeria
+Grim. Moody. Grey-skied. The land of Crom amid hills and mountains. A warrior race, the Cimmerians are descendants of ancient Atlantis and only slowly coming again into the ways of civilization after contact with the Hyborian kingdoms. In battle the Cimmerians are unmatched in the darkly wooded hills of their homeland and few are the invading Aquilonian, Pictish, or Nordheim warriors who return from that grey land. A legacy of hatred runs strong amongst Cimmerians for their long time enemies, the Picts.
+
+=== Corinthia
+Secure behind high mountain passes lie the city states of Corinthia. Notable for their highly disciplined battle phalanxes and fearsome weaponry, including halberd and pike. However, the fractured city-states all pay tribute to mighty Koth.
+
+=== Darfar
+The sharply-filed teeth of the Darfar savages haunt the dreams of even the boldest warriors who have faced them in screaming battle. Actually composed of a mix of various tribes, the Ghanata slave lords and the masked Tibu tribes foremost amongst them. Darfar gains its name from the scattered cannibalistic grassland tribes which most often provide the drive and leadership for empire. They worship the evil vampire-bat god, Yog; black-stained are his altars.
+
+=== Ghulistan
+The fierce hillmen of Ghulistan are organized into loose clans. Life is cheap in the rugged hills north of Iranistan. Many bandits, and worse things, make their homes here.
+
+=== Hyperborea
+Cold and heartless, Hyperborea is ruled by grim, gaunt, albino nobles and by the powerfully sorcerous witch-women. Safe within their high stone keeps on the snowy Hyperborean plain, the Hyperboreans wield power far beyond their meager resources and small army. Fortress of arcane power in the north, Hyperborea is a spiteful foe to Aquilonia and quite possibly the most dangerous kingdom of the Hyborian Age.
+
+=== Hyrkania
+Savage horse tribes of the interior steppes, uncivilized in all but the arts of war at which they excel, the Hyrkanians move upon a shifting sea of unrest as turbulent as the fiery ponies upon which they ride. The Hyrkanian tribes war constantly amongst themselves, but when united under a great chief, they destroy armies as swiftly as their horse-archers can race across the endless flatlands which encompass them. Trained from childhood in horse and bow, the Hyrkanian cavalry has been called with good reason the finest horse-archers in the world.
+
+=== Iranistan
+The golden land south of the Ilbars mountains is widely, albeit sparsely inhabited. Ancient and rich, Iranistan uses the Afghuli and the Ilbars hillmen as border defenses to turn back the swift horse-archers of their long standing foes in Turan and Hyrkania.
+
+=== Kambuja
+Ruled by the god-king of the Scarlet Circle, deep in the jungle-girdled city of Angkhor crouches the hungry kingdom of Kambuja. The Kambujans are forever locked in war with neighbouring Khitai, whose great wizards, the dragon-sons, also contest on an arcane level. The Kambujan host fields huge war elephants, relied upon to smash the formations of Khitai in battle.
+
+=== Keshan
+A kingdom of barbaric splendor, the Keshans are well led by nobles and religious leaders who claim descent from the great people of Alkmeenon. Keshan also has a well drilled army patterned after the Stygian military organization. While Stygian troops often raid into northern Keshan, Punt is Keshan’s long standing and hereditary enemy.
+
+=== Khauran
+Rich in fertile meadowlands and at the center of trade in the Hyborian world, Khauran is a petty kingdom of abundant wealth. Khauran is well ruled by nobles of Kothic descent. The Khauranian nobles disdain the use of horse but hire mercenary cavalry troops as needed. Khauran is vassal to Koth.
+
+=== Khitai
+An ancient empire, stronghold of the world’s greatest wizards and masters of the eastern world, Khitai has a powerful army and a sound leadership based in Paikang, Shu-Chen and Ruo-Chen. Khitai is forever at war with Kambuja to the south, whose god-kings vie with them for supremacy in the arcane mysteries of the Scarlet Circle.
+
+=== Khoraja
+Blessed with excellent leadership, a highly diverse and well trained army, a fertile land, and a location central to the rich southern and eastern trade routes, Khoraja is powerful beyond its tiny size. Khoraja is vassal to Koth.
+
+=== Kosala
+The Kosalans are an ancient race, decadent but not grown soft. They are devoted to the worship of the god Yajur and their armies are an arm of their religious organization. The Kosalans are aided by ancient magics and a fanatical if untrained populace ever willing to fight and die in battle. Kosala from of old is tied with Vendhya through intermarriage and treaty and can expect no invasions from that quarter.
+
+=== Koth
+Once the mainland of the forgotten empire of Acheron, Koth is now ruled by the mad Emperor Strabonus. While Khauran and Khoraja are historical vassals of Koth, Strabonus has also forced Ophir and Corinthia to pay tribute. It is whispered that the Emperor dabbles in forbidden magicks to fulfill his ambition: to restore the fallen empire of Acheron.
+
+=== Kusan
+The westernmost Khitan kingdom, culturally advanced Kusan relies upon her excellent ambassadors and diplomats (easily the most adept politicians of the age) at least as much as upon her armies.
+
+=== Kush
+The semi-civilized Black Kingdom of most common knowledge among people of the Hyborian nations is Kush. Proud Kush is seldom raided, the Stygians usually preferring to take their slaves from weaker Darfar or Keshan.
+
+=== Lemuria
+Little is known of this mystic land far to the east, save its warriors would rather fall on their swords than face dishonour and their women do not speak.
+
+=== Meru
+Meru is an isolated land in the heart of the Himelian Mountains, its origins known only through legend. The people are ruled by red-robed, slant-eyed priests of the demon-king Yama.
+
+=== Mu
+Home to the remnants of an Atlantean-era empire, little is known of this mysterious continent to the southeast of Hyboria.
+
+=== Nemedia
+Nemedia, the central pillar of Hyborian culture and civilization, stands ever in defiance to their habitual foes, mighty Aquilonia. The gleaming Nemedian knights are rightly proud for their army which is as diverse as it is deadly.
+
+=== Ophir
+A Kingdom of great beauty with gilded knights and high towered cities, Ophir is protected by natural boundaries of mountain and river on all sides but to the south, which the Ophirians have well fortified. But the kingdom lacks the will to fight dominant Koth and has been forced to pay tribute to its mad Emperor.
+
+=== Pathenia
+A frigid region north of Hyrkania, where the dreaded man-apes live. Home to the mountain stronghold of the priests of Erlik.
+
+=== The Pictish Wilderness (Pictland)
+Savage, warlike, brutish, persistently resistant to civilizing influences, the Picts inhabit the primal forest of the Pictish Wilderness. The tribes are constantly warring amongst themselves.
+
+=== Punt
+The barbaric splendor of the kingdom which is Punt is based upon the bright yellow gold washed down off the central hills. Hereditary enemies of Keshan, Punt also mistrusts the growing power of Zembabwei. If these two foes can be kept at bay, and if a trade route can be established to the gold-hungry markets of the Hyborian world, then Punt may well emerge as supreme among the
+
+=== Shem
+The city states of Shem lie between the mad ambitions of Koth and the malignant arcane power of Stygia. The western Shemish states form a loose knit nation with Asgalun dominating its politics. The eastern Shemish states stand in alliance with each other and also with western Shem, creating a friendly eastern border. The Shemish Asshuri and the famous Shemish archers make Shem’s armies very strong. Through mercenary service in over a dozen kingdoms of the western world, the Shemish generals have learned well the art of war.
+
+=== Stygia
+Slumbering in her desert retreats, protected behind the mighty and brooding Styx river, lies Stygia. The ancient culture of Stygia is in decline, revolving in malignance about itself, but it is also the source of a great and evil sorcerous knowledge which may yet gain mastery over the Western world.
+
+=== Turan
+Gleaming mailed and silken-clad riders, masters of the Vilayet Sea, Turan revels in sweeping the barely contested wastelands to the west and south. Turan, however, must bear the plague of a thousand frustrations arising from the seemingly indomitable and ever resurgent Kossaks, Zuagirs, and Vilayet pirates. Perpetually battling raiders and quelling revolts from a hundred pinpricking sources, the rulers of Turan pass their reign in unceasing watchfulness. Turan is a natural enemy to Iranistan and Vendhya, but stands in loose alliance with Hyrkania.
+
+=== Uttara Kuru
+Dismissed as a myth in most regions of the world, Uttara Kuru is a land of ancient magics, misty mountains, dense coastal forest, and the strange, haunting architecture of the city of Uttara Kuru. The people of this kingdom are fanatically loyal in defense of their homeland. Ancient enemy of great Vendhya.
+
+=== Vanaheim
+The red-haired Vanir are isolated in the northwest and their mailed swordsmen therefore vent their warlike natures on their Asgardian kin to the east, the savage Picts to the south, or less often upon grim Cimmeria to the southeast. Many a hero of the Hyborian Age was of the Vanir and warriors of Vanaheim are known to be utterly fearless in combat.
+
+=== Vendhya
+Vendhya is an ancient and proud kingdom, ruled by the Kashatriyan warrior caste and has mystics adept with their own peculiar range of magicks. Vendhya is pent up in the north by the savage and virtually unconquerable Ghulistan tribesmen. To the west lies Kosala, made unassailable by the well forged intermarriages between the two kingdoms. To the east broods Uttara Kuru whose silver-tongued diplomats and arrogant wizards have long held the weight of Vendhya at bay. As the huge Vendhyan host continues to swell in size, like a bubble it must burst forth into empire and the day of Vendhyan glory.
+
+=== Zamora
+Zamora is a land of spider-haunted towers and master thieves. The Zamoran army is adequate, but it is their spies and long-lived wizards upon which Zamora relies. What king not departed from his sanity will risk the intrigues of Zamora, or worse yet, her assassins? Zamora may indeed follow a shadowy path to world mastery with the aid of spells long forgotten and knives which strike swiftly in the dark.
+
+=== Zembabwei
+A growing power in the southlands, vital Zembabwei is well led and armed. The Zembabwei command great flying reptiles found only in Zembabwei heartland. These soaring winged mounts strike terror into the hearts of all who behold them.
+
+=== Zingara
+The most powerful sea raiders next to their Argossean rivals, the Zingarans are active supporters of the Zingaran buccaneers (pirates by any other name). Zingara is a proud and rich land, though often torn by civil strife and bitter feuds between powerful members of its nobility.
+
+== Deities of the Hyborian Age
+
+Adonis:: A Shemite God, Ishtar’s lover. He is associated with shepherds, the growth of plants, seasons and changes. Depictions portrayal him as a handsome, bearded
+man. Some legends say he was a human once and Ishtar gave him divine rank.
+(Source: Dumuzid, husband of Inanna/Ishtar in real mythology.)
+Ajujo:: 
+Also called “The Dark One.” He is a god of southern Stygia and the Black Coast.
+Anu:: the god of the sky and universe is worshiped in Shem, Zamora, Ophir and
+Corinthia. His biggest temple is found in Eruk. In theory, he is the main Shemite god, and the other gods of the pantheon are his offsprings but Ishtar is far more popular. (Source: Anu was a Mesopotamian god of the sky.)
+Ashtoreth:: A Shemite goddess of war, fertility and sexuality. She’s associated with the planet Venus. Some say she is the handmaiden of Ishtar. She is often depicted naked. Her symbol is a pentagram or star in a circle, favorite animals are the lion, horse, sphinx and dove. (Source: Ashtoreth in real mythology.)
+Asura:: The god or goddess worshiped in Vendhya. In the northern lands, the religion is persecuted, the temples are hidden and the rituals kept secret. It’s a common belief in the west the followers are human sacrificers to a goat-man. People also say the cult is a survival of the ancient demon worship. Believers exercise to seek below the aspects of illusion.  They are particularly hated by the followers of Mitra. The dead followers of Asura are carried on specially-painted pilgrim ships to someplace far to the south. The fear of black magic means people leave these ships alone.
+Atali:: 
+A daughter of the god Ymir, she mocked those dying on battlefields of the north, luring them to be slain by her brothers as sacrifices to their father.
+Bel:: 
+The masked god of thieves. Bel is a Shemite god originally, but legends say
+his cult was exiled from Shem after the god’s nefarious actions. Currently, Bel’s worship is concentrated in Zamora but thieves anywhere may worship him.  None has ever seen the face of Bel, as befits a god of thieves, the several idols and amulets depict him variously as a stocky dwarf with a grinning face, a six-armed elephant-man, and a lithe, pantherish human wearing a black mask. Bel can only be appeased by a sacrifice of
+stolen goods.
+Bori:: 
+The god of Hyperborea. Gundermen worshiped him before their conversion to Mitra.  Once he was the great chief of the Hybori who became their god thereafter.
+Crom:: The main god of the Cimmerians is harsh and unhelpful. 
+He lives in a great mountain, and breaths spirit into men at birth. He cares nothing for his followers, and being known to send doom and death to any who call on him. Crom doesn’t have priests. 
+His afterlife is a land of ice, cloud and mist. Crom is the most popular Cimmerian god, although warriors of that grim land have been heard to call on others such as Babd, Macha, Mannigan, Morrigan, and Nemain.
+Dagon:: A god worshipped by the Zembabwans.  He is a fertility god of fishermen and
+farmers and blesses the weapons of the soldiers. (Source: Dagon, Mesopotamian
+god.)
+Derketo:: 
+Goddess of Shem, Kush, Zembabwe and Stygia where she’s called whore of
+Set. Derketo is the goddess of fertility and lust, and her worship revolves around deviant orgies. Worshipers shout and dance wildly to the music of flutes, whirling around with necks bent so that their long hair flows out. In their ecstatic frenzy, they would bite their own flesh and cut their arms with knives until they bled. They prefer wearing vivid clothes.  In Kush, she is worshiped as “Queen of the Dead” and they call her Derketa.
+Worshipers don’t eat fish. She has only priestesses. (Source of details: Atargatis
+in mythology.)
+Erlik:: 
+A Turanian and Hyrkanian god, Erlik has a solid human body and a monster face, which resembles a pig head. He looks old and has long, curly black hair, a large mustache reaching his ears, and a long beard reaching his knees. His sword is of
+black iron and rides a black bull or a black horse. His totem poles often depict a bear. Erlik is the god of evil, darkness, diseases and conflicts. He lives in the underworld with his nine sons and nine daughters. Worshipers sacrifice mostly animals, human sacrifices are reserved for special occasions. During the ritual, they drink from the blood of victims.
+(Source of details: Erlik in mythology)
+Four Brothers of the Night:: 
+Some kind of wood spirits of Pictland. 
+Gullah / Jullah:: 
+The gorilla god of the Picts who call him Gullah. He is also called “the Hairy One who lives on the moon.”  He is worshiped in the Black Kingdoms on the name Jullah. 
+Gwahlur:: 
+Portrayed as an obscene and repulsive god squatting like a toad on his altar.
+He is known as the king of darkness.
+Hanuman:: 
+An ape-god who may have been a god of the people of Grondar. His temples have a black altar holding his image, where he receives human sacrifices. His statue sits cross-legged as men sit with hands upon his lap, palms upward, with taloned fingers. Similarly like a yogi. Worshiped in Zamboula in Shem, Vendhya and Afghulistan.
+Ibis:: Ibis is a lesser Stygian god, an opponent of Set. The priests of Ibis were driven from Stygia ages ago by the snake-worshipers of Set. Ibis is a god of knowledge, learning and magic. Priests of Ibis are scholars, sages, doctors and diviners. Ibis is not generous with his knowledge, but neither is he covetous of it. For those who work long and hard at research and science, he is a faithful source of information. It is said that Ibis maintains a set of three great books in which all knowledge is recorded. These books are locked away at the heart of a great crypt. Ibis has fought Set since the first dawn of the Earth. Most of his followers are in Nemedia and a few others elsewhere. Ibis worshipers often try to with the attention of clever young people who seek knowledge but don’t want or cannot be priests of Mitra.
+Ishtar:: The “Earth-Mother”, the most influential Shemite goddess. The ivory-bosomed goddess is worshiped in rich temples and at lavish shrines with rituals of blood sacrifice and orgiastic frenzy performed before sensuously carved idols of ivory. The voluptuous temple prostitutes which are found in Ishtar's temples are well known even outside the lands where the goddess is worshiped. Ishtar has female and feminine or homosexual male priests. Their ceremonies include the blood sacrifice of animals. Alongside love and sex, she’s associated with divine justice and sometimes with war. Ishtar is worshiped in Shem, Ophir, Koth, Khoraja, Khauran, Argos and Zamora, and has small cults elsewhere, including in Punt. Her main temple is in Eruk. Her symbol is an eight-pointed star and she prefers the blue color. (Source of details: Ishtar in mythology.)
+Jhebbal Sag:: 
+Ancient god of darkness and primordial fear to whom once both men and
+beasts bowed and whose children still lurk in the dark corners of the world. The god’s altars and sacred groves are in the wild and visited by not only people but animals as well. The beastmaster is worshiped in the Black Kingdoms, as well as among the tribes of the Picts. The age-old Beast Lord sometimes still visits and takes his pleasure among the females of the animal kingdom. Sometimes he mates with a pantheress, doe, or a woman. And from these matings come a steady supply of exceptional creatures who are brothers in spirit as well as blood. All of Jhebbal Sag’s priests are his children or descendants. He is the lord of lesser animal gods like Gullah or Jhil.
+Jhil:: the nighted god of ravens. Worshiped by the Picts and in the Black Kingdoms.
+Mitra:: 
+A benevolent god who demands much of his worshipers. Worshiped widely in the Hyborian countries like Aquilonia, Argos, Brythunia, Corinthia, Khauran, Nemedia, Ophir. According to Mitraic belief, each person is called to a virtuous life, and expected to follow the tenets of the faith of Mitra, including truthfulness, honor, and trustworthiness. Telling a lie or betraying a friend are mortal sins. His priests must live a modest life. Mitra would have folks stand upright before him—not crawling on their bellies like worms. Mitra forbids human and animal sacrifices. The symbol of the god is the phoenix which has public and secret forms known only by the priesthood. Temples are simple but still sublime with their elegant forms and limited decorations. The priests wage war on their most ancient foe, the serpent god Set. 
+Pteor:: 
+the monstrous and obscene god of the Pelishti, with his exaggerated attributes
+reflecting the grossness of his cult.  Sculptures are often wrought in brass. Worshipers are typically from Western Shem. He has a temple in Asgalun but the main temple must be in Pelishtim.
+Set:: 
+God of Stygia and the Black Kingdoms (where he is known as Damballah), Old Father Set the Serpent controls the faithful through fear and manipulation. His clean-shaven and bald-headed priests deny themselves all material pleasures in return for power. The mortal enemy of Mitra priests use blue flames during ceremonies.  (For inspiration search Apep, his enemy in real mythology.)
+Tarim:: A Turanian and Hyrkanian god of iron, blacksmithing, fire, and knower of secrets.
+He is the son of Erlik. Tarim's body is of iron and has one eye. When Hyrkanians take an oath they do it by swinging their sabers (iron) and call Tarim as their witness. (Source of details: Temir Khan in mythology)
+Yajur:: 
+God of Kosala and definitely of the city Yota-pong. His cult can found in Vendhya, too. Human sacrifices executed by naked hand by twisting heads. Yajur loves the blood of the victims so waste isn’t appropriate. Therefore priests of Yajur must be very strong (d8+) and with the brawler/bruiser edges to perform sacrifices.
+Ymir:: 
+The Frost Giant and the Lord of Storm and War. A huge man with snow-white skin and flaming red beard, clad in frost rimed mail, a horned helm and wielding a huge ax. God of Nordheimr, the Vanirs and Aesirs. His castle, the Valhalla is said to be located in the far north of Vanaheim. 
+Yog:: 
+The Lord of Empty Abodes. Worshipers light fire in his honor – fire that devours human victims. They must consume human flesh often or they are considered unclean. Worshiped primarily in Darfar.  His altars also appear in many parts of the Black Kingdoms.
+Yun:: 
+god in Khitai. The priests shave their Heads. 
+Zath:: 
+The best known of the Zamoran deities, the spider god of Yezud city is said to walk the earth. It is rumored many giant spiders live in tunnels beneath the temple of Zath in Yezud.
+
+== Hindrances Allowed
+
+Ideally, I’d like every PC to have a unique set of edges and hindrances but I’m willing to allow for duplicates if justified storywise.
+
+== Skills Allowed
+
+All, including Alchemy, except for Electronics, Hacking, Piloting, Psionics, Science, and Weird Science
+
+Academics covers History and Religion checks
+
+== Edges Allowed
+
+All from the Savage Worlds Adventure Edition Companion and SWADE Fantasy Companion except for those disallowed. 
+
+=== Edges Disallowed or Restricted
+
+Rich, Filthy Rich, Double Tap, Rapid Fire, Improved Rapid Fire, Rock and Roll, Two Gun Kid, Arcane Background (Weird Science), Gadgeteer, Arcane Background (Psionics), Arcane Background (Magic), Arcane Background (Miracles), Mentalist, Ace, McGyver, Artificer, from the SWADE core rulebook are all disallowed.
+
+Fey Blood, Favored Enemy, Wing Gust, Stonecunning, Rapid Change, 
+Arcane Background (Diabolist), Arcane Background (Necromancer), Arcane Background (Summoner), Arcane Background (Warlock/Witch), Blood Magic, Familiar, and Silent Cast are only available for NPCs.
+
+Arcane Background (Tinkerer) and related edges from the SWADE fantasy companion is disallowed.
+
+Aristocrat is not available to Cimmerian, Pictish, Aesir, Vanir, and Afghuli characters.
+
+Berserk is restricted to Cimmerian, Aesir, Vanir, Pictish, Shemitish, Iranistani,, Kushite/Black Kingdoms, Afghuli, and Hyperborean characters.
+
+Knight is restricted to Aquilonian, Corinthian, Ophir, Nemedian, and Kothian characters.
+
+Martial Artist and Martial Warrior are restricted to Khitan or Vendhyan characters.
+
+=== Arcane Backgrounds Available
+Bard, Cleric, Druid, Elementalist, Illusionist, Shaman, Sorcerer, Wizard
+
+=== Powers Disallowed or Restricted
+Bolt, Blast, Burrow, Curse, Healing, Plane Shift, Resurrection, Summon Monster, Summon Undead, and Zombie, is restricted for NPCs only (unless through Wish)
+
+
+
+
+
+
+
+
+
+
+
