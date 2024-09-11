@@ -212,7 +212,7 @@ Additional magazines are available at 10% of the weapon’s cost and weigh about
 Thompson submachine guns may also use a 50-round drum. This increases the weight by 2 lbs. and each loaded drum costs $50.
 // | M3 "Grease Gun" (.45) | 12/24/48 | 2d6+1 | 1 | 3 | 30 | d6 | 10 | 350 |
 // | Owen Mk I (9mm) | 12/24/48 | 2d6 | 1 | 3 | 33| d6 | 11 | 350 | 
-// | Steyr MP34 9x25mm Mauser | 14/28/56 | 2d6+2 | 1 | 3 | 32 | d6 | 10 | Produced until 1940
+| Steyr MP34 9x25mm Mauser | 14/28/56 | 2d6+2 | 1 | 3 | 32 | d6 | 10 | N/A | Produced until 1940
 // | Sten Gun | TK@FUP
 // | Schmeisser | TK@FUP
 // | Uzi (9mm) | 12/24/48 | 2d6 | 1 | 3 | 32 | d4 | 9 | 300 |
