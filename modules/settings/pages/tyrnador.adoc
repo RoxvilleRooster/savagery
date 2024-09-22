@@ -1,0 +1,10 @@
+:tvf: Tyrnador: Fate of Ventar
+= {tvf}
+
+If you want to know more about this setting, download the free https://www.drivethrurpg.com/en/product/265837/tyrnador-jumpstart[Tyrandor Jumpstart] from DriuveThruRPG.
+
+All the rules a player needs are in the https://www.drivethrurpg.com/en/product/296245/tyrnador-player-guide[Tyrnador Player Guide].
+{tvf} was initially released in 2019, before the SWADE Fantasy Companion was released.
+You do not need the SWADE Fantasy Companion.
+
+If you are a wild card member of https://savaged.us/[savaged.us], the {tvf} setting is available for character creation.
