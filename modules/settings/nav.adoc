@@ -19,3 +19,4 @@
 * xref:savage_espionage.adoc[]
 * xref:savage_conan.adoc[]
 * xref:tyrnador.adoc[]
+* xref:karthador.adoc[]
