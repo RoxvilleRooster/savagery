@@ -1,0 +1,69 @@
+= Weaponry
+
+== Force ray blasters
+
+* A force ray shoots out of the weapon in a concentrated beam, which is used to punch a hole through a foe's physical defenses
+* Blasters have a number of "shots" but they do not have conventional ammunition; they are powered by an energy crystal
+* A "shot" is expended when the shooter rolls a raise on their damage roll (i.e., when they score a wound)
++ 
+[NOTE]
+====
+If the damage roll causes one or more wounds to a target and the target soaks the wounds, the shooter expends a shot.
+====
+
+They are all Reload 4, so many black powder users preload several flintlocks and simply drop them after firing.
+
+|===
+| TYPE | RANGE | DAMAGE | AP | ROF | SHOTS| MIN STR. | WEIGHT | COST
+
+| Double-Shot Ray Beamer
+| 8/16/32
+| 2d8
+| 1
+| 1
+| 4
+| d6
+| 4 
+| 500
+
+.2+| Pocket Ray Blaster
+| 8/16/32
+| 2d8
+| 2
+| 1
+| 1
+| d6
+| 2 
+| 300
+
+8+a| 
+* Small and easy to conceal (-2 to Notice checks)
+
+
+.2+| Flex Beamer
+| 15/30/60
+| See notes
+| 1
+| 0
+| 6
+| d6
+| 8 
+| 600
+
+8+a| 
+* Fires an adjustable-width force ray beam
+** Narrow beam: 6d4 damage, -2 Shooting
+** Medium-width beam: 4d4 damage
+** Wide beam: 2d4 damage, +2 hit 
+
+|===
+
+////
+.2+| Blunderbuss | 10/20/40 | 1-3d6 | — | 1 | d6 | 12 | 300
+7+| Notes: Treat as shotgun (see Savage Worlds).
+| Flintlock Pistol | 5/10/20 | 2d6+1 | — | 1 | d4 | 3 | 150
+| Musket | 10/20/40 | 2d8 | — | 1 | d6 | 15 | 300
+////
+
+== Projectile weapons
+
