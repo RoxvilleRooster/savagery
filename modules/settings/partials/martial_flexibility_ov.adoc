@@ -1,0 +1,34 @@
+= Edges eligible for OV's martial flexibility
+
+.SWADE core combat edges
+* Block (40)
+* Brawler (41)
+* Combat Reflexes
+* Counterattack
+* Dodge
+* Extraction
+* Feint (42)
+* First Strike
+* Free Runner 
+* Frenzy
+* Improvisational Fighter
+* Iron Jaw
+* Killer Instinct (43)
+* Martial Artist
+* Mighty Blow
+* Nerves of Steel
+* No Mercy
+* Steady Hands (44)
+* Sweep
+* Trademark weapon
+* Two-Fisted
+
+.SWADE fantasy companion combat edges
+* Charge (FC 33)
+* Close Fighting
+* Defender
+* Dirty Fighter
+* Formation Fighter (FC 34)
+* Savagery
+* Sunder (FC 35)
+
