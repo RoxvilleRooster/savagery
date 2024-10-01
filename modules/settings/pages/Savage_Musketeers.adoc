@@ -57,7 +57,9 @@ The musketeers accept female applicants.
 
 == Ranks
 
-This is not a game about military rank. Officers and sergeants respect the opinions of all musketeers. There are no special edges for rank.
+This is not a game about military rank. 
+Officers and sergeants respect the opinions of all musketeers. 
+There are no special edges for rank.
 
 == Lackeys
 
@@ -65,9 +67,12 @@ All musketeers begin with a lackey, a loyal and trusted (or maybe not) companion
 // Lackeys may be male or female, though not every profession is open to both sexes. 
 Lackeys are there to serve, not fight.
 
-You create a lackey as a regular character, except they are Extras, receive four attribute points, and eight skill points (plus the five default skills). No lackey may ever have Fighting or Shooting higher than d6. They are a great way of ensuring the party has access to a wide range of skills, and also for providing Cooperative bonuses where appropriate.
+You create a lackey as a regular character, except they are Extras, receive four attribute points, and eight skill points (plus the five default skills). No lackey may ever have Fighting or Shooting higher than d6. 
+They are a great way of ensuring the party has access to a wide range of skills, and also for providing Cooperative bonuses where appropriate.
 
-A player should not create his own lackey. Another player character builds the lackey and plays him during the game. This allows for the Musketeer to interact with his servant in play without the player talking to himself.
+A player should not create his own lackey. 
+Another player character builds the lackey and plays him during the game. 
+This allows for the Musketeer to interact with his servant in play without the player talking to himself.
 
 Whether the Musketeer has any say in the character generation is up to the individual players—some may ask for a servant with a specific skill set, while others may be happy to take pot luck.
 
