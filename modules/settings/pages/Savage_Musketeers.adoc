@@ -8,7 +8,7 @@
 See the shared Musketeers setting at link:https://savaged.us/s/57iudowe[savaged.us].
 
 ****
-This is a historical setting that is based  in France of the early 17th century.
+This is a historical setting that is based in France of the early 17th century.
 
 Much is borrowed from _All For One: Regime Diabolique_ (Triple Ace Games). 
 Paul "Wiggy" Wade-Williams is brilliant.
@@ -49,15 +49,21 @@ All character's begin as a member of the King's or Queen's Musketeers but each m
 * The Survivor
 * The Swordsman
 
+////
 == Female musketeers
+
 The musketeers accept female applicants.
+////
 
 == Ranks
+
 This is not a game about military rank. Officers and sergeants respect the opinions of all musketeers. There are no special edges for rank.
 
 == Lackeys
 
-All Musketeers begin with a lackey, a loyal and trusted (or maybe not) companion to their master. Lackeys may be male or female, though not every profession is open to both sexes. Lackeys are there to serve, not fight.
+All musketeers begin with a lackey, a loyal and trusted (or maybe not) companion to their master. 
+// Lackeys may be male or female, though not every profession is open to both sexes. 
+Lackeys are there to serve, not fight.
 
 You create a lackey as a regular character, except they are Extras, receive four attribute points, and eight skill points (plus the five default skills). No lackey may ever have Fighting or Shooting higher than d6. They are a great way of ensuring the party has access to a wide range of skills, and also for providing Cooperative bonuses where appropriate.
 
