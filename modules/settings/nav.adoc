@@ -8,7 +8,7 @@
 *** xref:pulp_stuff.adoc[]
 *** xref:pulp_colophon.adoc[References]
 ** xref:firefly_swade.adoc[Firefly]
-** xref:Savage_Musketeers.adoc[Musketeers]
+** xref:Savage_Musketeers.adoc[]
 ** xref:Savage_Three_Rocketeers.adoc[Rocketeers]
 // ** xref:_dtoa_chases.adoc[Pulp Chases]
 // * xref:savage_top_secret.adoc[]
