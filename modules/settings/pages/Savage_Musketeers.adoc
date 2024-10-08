@@ -55,13 +55,15 @@ All character's begin as a member of the King's or Queen's Musketeers but each m
 The musketeers accept female applicants.
 ////
 
-== Ranks
+== Setting rules
+
+=== Ranks
 
 This is not a game about military rank. 
 Officers and sergeants respect the opinions of all musketeers. 
 There are no special edges for rank.
 
-== Lackeys
+=== Lackeys
 
 All musketeers begin with a lackey, a loyal and trusted (or maybe not) companion to their master. 
 // Lackeys may be male or female, though not every profession is open to both sexes. 
@@ -85,7 +87,7 @@ The lackey's basic salary (typically a small sum) is assumed covered by whatever
 Any bonus rewards must come from the Musketeer's pocket. 
 Typically, a lackey begins with the basic tools needed for his profession, a dagger, and appropriate clothing, though the lackey's background may alter this.
 
-== Social duels
+=== Social duels
 
 A social duel is an exchange of jests, barbed comments, overt or sly insults, witty slander, and backhanded compliments.
 The social duel rules are intended for use in social occasions, such as balls and dances; they are not used in standard combat.
@@ -103,7 +105,7 @@ NOTE: Not every NPC has Taunt.
 For the purpose of social dueling only, every NPC should be considered to have Taunt d4 unless he has a higher die listed—even the crudest peasant knows how to deliver a witty double entendre, throw an insult, or just deliver a defamatory statement in social situations.
 
 [[results]]
-=== Social dueling results
+==== Social dueling results
 This replaces the Social Conflict Results table in the SWADE core rules.
 Losers of a social duel suffer from a loss of esteem and respect.
 The penalties are removed at the rate of one point per week.
@@ -123,3 +125,106 @@ He may, if he so chooses, instigate social duels, though.
 |===
 
 How else might a character repair his reputation? You can count the ways!
+
+=== Hindrances
+
+
+=== Edges
+
+All from the Savage Worlds Adventure Edition Companion and SWADE Fantasy Companion except for those disallowed.
+
+.New edges
+Archer::
+If you take this edge, you can negate the Shooting penalty that applies to bows.
+
+==== Edges disallowed or restricted
+
+.Edges excluded from SWADE Core
+* Arcane Resistance and Improved Arcane Resistance
+* Giant Killer
+* Martial Artist and Martial Warrior
+* Rock and Roll!
+* Artificer
+* Channeling
+* Concentration
+* Extra Effort
+* Gadgeteer
+* Holy/Unholy Warrior
+* Mentalist
+* New Powers
+* Power Points
+* Power Surge
+* Rapid Recharge and Improved Rapid Recharge
+* Soul Drain
+* Wizard
+* Ace
+* McGyver
+* Champion
+* Chi
+* Scavenger
+
+
+.Edges excluded from Fantasy Companion
+* Arcane Resistance and Improved Arcane Resistance
+* Chosen
+* Fey Blood
+* Favored Enemy
+* Favored Terrain
+* Heirloom
+* Defender
+* Double Shot and Improved Double Shot
+* Shield Wall
+* Martial Flexibility
+* Missile Deflection
+* Roar
+* Scorch
+* Wing Gust
+* Artificer and Master Artificer
+* Battle Magic
+* Blood Magic
+* Epic Mastery
+* Familiar
+* Favored Power
+* Mystic Powers
+* Silent Caster
+* Transfer
+* Knight
+* Mount
+* Poisoner
+* Scout
+* Stonecunning
+* Trap Sense
+* Treasure Hunter
+* Troubadour
+* Aura of Courage
+* Beast Talker
+* Rapid Change
+* Home Ground
+* Relic
+* Unstoppable
+* Warband
+
+
+
+
+
+=== Skills
+
+
+==== Skills disallowed or restricted
+
+.Disallowed skills
+* Alchemy 
+* Electronics
+* Faith
+* Focus
+* Hacking
+* Piloting 
+* Psionics
+// * Science
+* Spellcasting
+* Weird Science
+
+
+Shooting::
+If you are using a bow (not a crossbow), you roll twice skill dice and take the lowest value of the two.
