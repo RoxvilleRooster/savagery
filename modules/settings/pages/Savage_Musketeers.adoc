@@ -211,7 +211,7 @@ If you take this edge, you can negate the Shooting penalty that applies to bows.
 === Skills
 
 
-==== Skills disallowed or restricted
+==== Skills disallowed
 
 .Disallowed skills
 * Alchemy 
@@ -226,5 +226,9 @@ If you take this edge, you can negate the Shooting penalty that applies to bows.
 * Weird Science
 
 
+==== Skills modified
+
 Shooting::
 If you are using a bow (not a crossbow), you roll twice skill dice and take the lowest value of the two.
+This reflects the relative difficulty of using a bow compared to th relative ease of shooting a firearm or a crossbow.
+This limitation also supports the trope that most characters will use firearms over bows. 
