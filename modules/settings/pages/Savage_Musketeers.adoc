@@ -232,3 +232,8 @@ Shooting::
 If you are using a bow (not a crossbow), you roll twice skill dice and take the lowest value of the two.
 This reflects the relative difficulty of using a bow compared to th relative ease of shooting a firearm or a crossbow.
 This limitation also supports the trope that most characters will use firearms over bows. 
+
+
+== Equipment
+
+include::../partials/equipment_musketeers.adoc[leveloffset=+1]

@@ -22,8 +22,6 @@
 | Sickle | Str+d4 | d4 | 2 | 3 | —
 | Spear, Short | Str+d6 | d6 | 3 | 1 | One-handed
 | Spear |  Str+d6 | d6 | 6 | 2 | Reach 1. Parry +1 if used with Two Hands
-| Spiked Chain | Str+d6 | d6 | 6 | 8 | AP 1, ignores shield bonus, Two Hands
-| Spiked Gauntlet | Str+d4 | d6 | 1 | 5 | +1 to Strength roll vs. Disarm
 | Staff/Quarterstaff | Str+d4 | d4 | 4 | — | Parry +1, Reach 1, Two Hands 
 | Sword, Long | Str+d8 | d8 | 4 | 15 | —
 | Sword, Short | Str+d6 | d6 | 2 | 10 | —
