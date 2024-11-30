@@ -81,6 +81,26 @@ Training packages are described in _{tt}_.
 * Surgeon ({tp}: Assassin)
 * Tech Wiz ({tp}: Technical Specialist)
 
+.Training packages
+* Assassin (Aka Hitter Or Wetwork Specialist)
+* Boomer (Aka Eod Specialist Or Saboteur)
+* Brute (Aka Brawler, Muscle, Or A Thug)
+* Burglar (Aka Black Bagger Or Box Man)
+* Case Worker (Aka Asset Handler)
+* Driver (Aka Transporter Or Wheel Man)
+* Face (Aka Con Man, Grifter Or Social Engineer)
+* Financier (Aka Bag Man)
+* First Responder 
+* Forensic Specialist (Aka Cleaner)
+* Forger (Aka Cobbler)
+* Hacker
+* Investigator (Aka Detective Or Private Eye)
+* Overwatch (Aka Eyeball Or A Watcher)
+* Soldier
+* Smuggler (Aka Mule)
+* Snoop (Aka Analyst Or Journalist)
+* Technical Specialist (Aka Electronics Specialist Or A Wire Rat)
+
 Characters begin at novice rank with no advances.
 
 Race:: Everyone is human.
@@ -155,25 +175,7 @@ If the agent is going to try to deceive, bluff, or disguise herself, they can us
 // And there's a https://play.spotify.com/user/achall-us/playlist/1NIH7MURguqFqBgcLJxhlj[playlist].
 
 
-.Training packages
-* Assassin (Aka Hitter Or Wetwork Specialist)
-* Boomer (Aka Eod Specialist Or Saboteur)
-* Brute (Aka Brawler, Muscle, Or A Thug)
-* Burglar (Aka Black Bagger Or Box Man)
-* Case Worker (Aka Asset Handler)
-* Driver (Aka Transporter Or Wheel Man)
-* Face (Aka Con Man, Grifter Or Social Engineer)
-* Financier (Aka Bag Man)
-* First Responder 
-* Forensic Specialist (Aka Cleaner)
-* Forger (Aka Cobbler)
-* Hacker
-* Investigator (Aka Detective Or Private Eye)
-* Overwatch (Aka Eyeball Or A Watcher)
-* Soldier
-* Smuggler (Aka Mule)
-* Snoop (Aka Analyst Or Journalist)
-* Technical Specialist (Aka Electronics Specialist Or A Wire Rat)
+
 
 
 === Hindrances
