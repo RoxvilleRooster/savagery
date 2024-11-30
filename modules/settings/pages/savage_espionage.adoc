@@ -3,8 +3,6 @@
 :tp: Training Package
 :tt: Tuxedos and Trenchcoats
 :sfsd: Secret Files of Section D
-:toc: 
-:toclevels: 5
 
 // _These setting rules are are largely a subset of the rules from Reality Blurs' "Agents of Oblivion"._
 
@@ -213,68 +211,91 @@ Relevant new edges have been added.
 Unless state otherwise, all edges are from _{tt}_.
 Out of respect to the authors of _{tt}_ and _{sfsd}_, I am not stating more about the edges here.
 
-==== Background Edges
+|===
+| Edge | Requirements | Description
 
-===== Acute Sense
-Requirements: Novice
+3+| _Background Edges_
 
-===== Calm And Collected
-Requirements: Novice
+| Acute Sense 
+| Novice
+| 
 
-===== Natural Actor
-Requirements: Seasoned, Shakespearean Spirit
+| Calm And Collected
+| Novice
+| 
 
-===== Shakespearean Spirit
-Requirements: Novice
+| Natural Actor
+| Seasoned, Shakespearean Spirit
+| 
 
-==== Leadership Edges
+| Shakespearean Spirit
+| Novice
+| 
 
-===== Voice From Beyond
-Requirements: Novice, Command
+3+| _Leadership Edges_
 
-==== Professional Edges
+| Voice From Beyond
+| Novice, Command
+| 
 
-===== Combat Medic
-Requirements: Novice, Smarts D6+, Healing D6+
+3+| _Professional Edges_
 
-===== Computer Jock
-Requirements: Novice, Smarts D6+, Hacking D8+
 
-===== Deep Cover
-Requirements: Seasoned, Undercover Work,
-Performance D8+
+| Combat Medic
+| Novice, Smarts D6+, Healing D6+
+| 
 
-====== Legendary Cover
-Requirements: Veteran, Deep Cover, Performance
-D10+
+| Computer Jock
+| Novice, Smarts D6+, Hacking D8+
+| 
 
-===== Demolitions (see _{sfsd}_ p25)
-REQUIREMENTS: Seasoned, Repair d6
+| Deep Cover
+| Seasoned, Undercover Work, Performance D8+
+| 
 
-===== It's The Little Things
-Requirements: Novice, Smarts D6+, Notice D6+
+| Legendary Cover
+| Veteran, Deep Cover, Performance D10+
+| 
 
-===== Ghost
-Requirements: Novice, Agility D6+, Stealth D6+
+| Demolitions (see _{sfsd}_ p25)
+| Seasoned, Repair d6
+| 
 
-===== Tactical Driving
-Requirements: Novice, Agility D6+, Driving D6+
+| It's The Little Things
+| Novice, Smarts D6+, Notice D6+
+| 
 
-====== Improved Tactical Driving
-Requirements: Seasoned, Tactical Driving, Agility D8+, Boating Or Piloting D6+
+| Ghost
+| Novice, Agility D6+, Stealth D6+
+| 
 
-===== Tradecraft
-Requirements: Novice, Smarts D6+
+| Tactical Driving
+| Novice, Agility D6+, Driving D6+
+| 
 
-====== Improved Tradecraft
-Requirements: Seasoned, Level Headed, Tradecraft,
-Agility D6+, Smarts D8+
+| Improved Tactical Driving
+| Seasoned, Tactical Driving, Agility D8+, Boating Or Piloting D6+
+| 
 
-===== Undercover Work
-Requirements: Novice, Smarts D6+, Performance D6+
+| Tradecraft
+| Novice, Smarts D6+
+| 
 
-===== Up And At 'Em
-Requirements: Seasoned, Combat Medic
+| Improved Tradecraft
+| Seasoned, Level Headed, Tradecraft, Agility D6+, Smarts D8+
+| 
+
+| Undercover Work
+| Novice, Smarts D6+, Performance D6+
+| 
+
+| Up And At 'Em
+| Seasoned, Combat Medic
+| 
+
+|===
+
+
 
 == Gear
 
