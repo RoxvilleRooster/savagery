@@ -82,24 +82,24 @@ Training packages are described in _{tt}_.
 * Tech Wiz ({tp}: Technical Specialist)
 
 .Training packages
-* Assassin (Aka Hitter Or Wetwork Specialist)
-* Boomer (Aka Eod Specialist Or Saboteur)
-* Brute (Aka Brawler, Muscle, Or A Thug)
-* Burglar (Aka Black Bagger Or Box Man)
-* Case Worker (Aka Asset Handler)
-* Driver (Aka Transporter Or Wheel Man)
-* Face (Aka Con Man, Grifter Or Social Engineer)
-* Financier (Aka Bag Man)
+* Assassin (aka Hitter Or Wetwork Specialist)
+* Boomer (aka Eod Specialist Or Saboteur)
+* Brute (aka Brawler, Muscle, Or A Thug)
+* Burglar (aka Black Bagger Or Box Man)
+* Case Worker (aka Asset Handler)
+* Driver (aka Transporter Or Wheel Man)
+* Face (aka Con Man, Grifter Or Social Engineer)
+* Financier (aka Bag Man)
 * First Responder 
-* Forensic Specialist (Aka Cleaner)
-* Forger (Aka Cobbler)
+* Forensic Specialist (aka Cleaner)
+* Forger (aka Cobbler)
 * Hacker
-* Investigator (Aka Detective Or Private Eye)
-* Overwatch (Aka Eyeball Or A Watcher)
+* Investigator (aka Detective Or Private Eye)
+* Overwatch (aka Eyeball Or A Watcher)
 * Soldier
-* Smuggler (Aka Mule)
-* Snoop (Aka Analyst Or Journalist)
-* Technical Specialist (Aka Electronics Specialist Or A Wire Rat)
+* Smuggler (aka Mule)
+* Snoop (aka Analyst Or Journalist)
+* Technical Specialist (aka Electronics Specialist Or A Wire Rat)
 
 Characters begin at novice rank with no advances.
 
