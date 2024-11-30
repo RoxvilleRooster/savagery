@@ -3,3 +3,23 @@ Pirating RPG content is not cool.
 Most folks making tabletop RPG products struggle to make a buck. 
 Buy tabletop RPG books from your Friendly Local Area Gaming Store or from online vendors like xref:https://www.drivethrurpg.com/[DriveThruRPG].
 // end::pirating-sucks[]
+
+// tag::rule-stunts[]
+A stunt action is any action that is performed in a flashier than normal way.
+Any hero who attempts a stunt action deserves a benny.
+
+In game terms, a stunt is an action where the player purposefully makes the action more difficult for the hero.
+A stunt action always requires a trait roll, at a minimum -2 penalty.
+The GM is the final arbiter of the roll penalty of a particular stunt action.
+
+Conventional action::
+Getting on board a helicopter before it takes off from the platform is an action
+
+Stunt action::
+Leaping from a moving vehicle to grab on to the helicopter as the helo is taking off.
+// end::rule-stunts[]
+
+// tag::rule-surrender[]
+When the heroes surrender at a dramatically fitting place in the story and go along with the demands of the antagonists, each player takes a benny.
+The GM may need to signal that we're using the "surrender" rule at this point.
+// end::rule-surrender[]

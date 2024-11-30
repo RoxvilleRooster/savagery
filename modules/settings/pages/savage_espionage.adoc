@@ -1,112 +1,192 @@
-
-:roll20-url: https://app.roll20.net/campaigns/details/1673998/savage-top-secret-1983
-
-= Savage Espionage
+= Savaged Top Secret
+:url-roll20-campaign: https://app.roll20.net/campaigns/details/1673998/savage-top-secret-1983
+:tp: Training Package
+:tt: Tuxedos and Trenchcoats
+:sfsd: Secret Files of Section D
+:toc: 
+:toclevels: 5
 
 // _These setting rules are are largely a subset of the rules from Reality Blurs' "Agents of Oblivion"._
 
-== Game setting rules
+In its time in the early 1980s, Merle M. Rasmussen's original https://en.wikipedia.org/wiki/Top_Secret_(role-playing_game)[_Top Secret_,window=_blank] game was great in so many ways.
+Let's keep playing in the world of Top Secret using Savage Worlds for the rule system.
+
+My "Savaged Top Secret" home game setting leverages Thomas Clegg's _Tuxedos and Trenchcoats: A Spy Thriller Setting For Savage Worlds_ and Allan Wroe's _The Secret Files of Section D: Espionage Roleplaying In A World on the Brink of War_ (Imaginarium Games, 2022).
+
+****
+include::../partials/reuse.adoc[tag=pirating-sucks]
+****
+
+[NOTE]
+====
+The rules and text here are a work-in-progress effort.
+
+* I'll add a gear list
+* I want to keep the setting rules lean and not add much more (but _{sfsd}_ has so many good ones!)
+
+====
+
+////
+== The setting
 
 The year is 1983.
 You are agents working together in a joint mission under the service of The Agency (NATO nations).
 
 All the mission details are available as handouts inside the Roll20 campaign.
 
-See the {roll20-url}[Roll20 campaign].
+See the {url-roll20-campaign}[Roll20 campaign].
+////
 
 
-== Standard Setting Rules
+== Setting Rules
 
-Savage Worlds Adventure Edition has a number of setting rules that are good for running Top Secret espionage game.
+* Cliffhangers (_{sfsd}_ p12)
+* Conviction (SWADE p136)
+* Demolitions (_{sfsd}_ p15)
+* Gritty Damage (SWADE p139)
+* Multiple Languages (SWADE p149)
+* Skill Specializations (SWADE p141)
+* Training Packages (_{tt}_ p32)
+* Up Close and Personal (_{tt}_ p32)
+* Wound Cap (SWADE p141)
 
-// * Fanatics (SWADE p 138)
-* Gritty Damage (SWADE p 139)
-* Multiple Languages (SWADE p 149)
 
-== Special Setting Rules
 
 === Stunts
-// From Adamant Entertainment's "Thrilling Tales of Adventure"
 
-A stunt action is any action that is performed in a flashier than normal way.
-Any hero who attempts a stunt action deserves a benny.
-
-In game terms, a stunt is an action where the player purposefully makes the action more difficult for the hero.
-A stunt action always requires a trait roll, at a minimum -2 penalty.
-The GM is the final arbiter of the roll penalty of a particular stunt action.
-
-Conventional action::
-Getting on board a helicopter before it takes off from the platform is an action
-
-Stunt action::
-Leaping from a moving vehicle to grab on to the helicopter as the helo is taking off.
+include::../partials/reuse.adoc[tag=rule-stunts]
 
 === Surrender
 
-When the heroes surrender at a dramatically fitting place in the story and go along with the demands of the antagonists, each player takes a benny.
-The GM may need to signal that we're using the "surrender" rule at this point.
+include::../partials/reuse.adoc[tag=rule-surrender]
 
 == Character creation
 
+Each player should have a character concept in mind before creating her character.
+
+_{tt}_ describes a number or character archetypes to help develop a character concept.
+Each archetype is described with a _training package_, which represents an aspect the agent's previous training or background.
+Training packages are described in _{tt}_.
+
+.Sample archetypes from _{tt}_
+* Analyst ({tp}: Snoop)
+* Bulldog ({tp}: Investigator)
+* Debonair Spy ({tp}: Case Worker)
+* Digital Demon ({tp}: Boomer)
+* Grey Man ({tp}: Face)
+* Locksmith ({tp}: Burglar)
+* Looker ({tp}: Brute)
+* Masque ({tp}: Specialist)
+* Phantom ({tp}: Soldier)
+* Repo Man ({tp}: Driver)
+* Surgeon ({tp}: Assassin)
+* Tech Wiz ({tp}: Technical Specialist)
+
 Characters begin at novice rank with no advances.
+
+Race:: Everyone is human.
+
+=== Attributes
+
+Agents begin with all primary attributes at a d4.
+
+NOTE: One attribute, based on the selected training package, starts at d6. 
+
+You have 5 points to spend to increase your agent's attributes.
+
+At character creation, you can raise no attribute above d12.
 
 In addition to the standard core skills, characters have 12 skill points to spend at novice.
 
-.Agency training gives a novice agent the following skills at a d4: 
-* Fighting
+=== Skills
+
+.Core skills (start at d4)
+* Athletics
+* Common Knowledge,
+* Notice
+* Persuasion
+* Stealth
+
+Based on the agent's training package, she begins play with three additional skills at a d4 as well. 
+
+You then have 12 more points to spend to buy new skills and advance existing ones.
+
+.Skills applicable
+****
+The following skills are used.
+If the skill is mot listed (e.g., Faith), it is not applicable to this setting.
+
+* Academics
+* Athletics 
+* Battle
+* Boating 
+* Common Knowledge (related to tradecraft)
+* Deception (related to forgery)
+* Driving 
+* Electronics 
+* Fighting 
+* Gambling
+* Hacking 
+* Healing 
+* Intimidation 
+* Language
+* Notice
+* Performance
+* Persuasion
+* Piloting
+* Repair (related to demolitions)
+* Research
+* Riding
+* Science
 * Shooting
-* Tradecraft
-* Demolitions
-* Electronics
+* Stealth
+* Survival
+* Taunt
+* Thievery 
 
-Some sample tokens are https://drive.google.com/open?id=0B0lb1qfRe-jtQ2dIY3FwQk1QMmc[in Google Drive here].
+****
 
-And there's a https://play.spotify.com/user/achall-us/playlist/1NIH7MURguqFqBgcLJxhlj[playlist].
+==== New skill: Deception
 
-// It's go time!
-Agents begin with the major hindrance Obligation. 
-This does *not* count towards your normal Hindrance total.
-
-=== Languages
-Besides their native tongue, all agents know half their Smarts die in languages.
-They speak with an obvious accent, betraying their nationality. Social interaction
-skills dependent upon speech are at a -2 when attempted in the speaker's nonnative
-tongue.
-
-=== New skills
-// Skills are from Reality Blurs' _Agents of Oblivion_
-
-Demolitions (Smarts)::
-The ability to identify, set, shape, and defuse explosives. 
-Explosions may be planted in a focused and discrete manner, or "shaped" to cover a greater area.
-
-Forgery (Smarts)::
-The ability to fabricate, adapt, or imitate objects or documents with the intent to deceive. 
-Attempting to make forgeries without the proper tools is done at -2. 
-The tools vary wildly, depending upon the nature of the item in question.
-
-Tradecraft (Smarts)::
-This skill focuses on the application of procedures and protocols, such as dead drops, brief encounters, pickups, load and unload signals, danger and safe signals, and surveillance and counter-surveillance. 
-The tradecraft skill also covers knowledge of other agencies as well as aiding in field requisitions and governs exactly what you can requisition.
-
-////
-### Success with a cost
-If you roll a 1 on your skill die but your wild die is successful, that is still considered a success, but there is a negative effect or compromise (e.g., your weapon becomes entangled in an enemy's armor). 
-The player can describe what the negative effect looks like. This is derived from a Dungeon World mechanic.
-I also attribute the idea of applying this type of effect to Savage Worlds to Eric Lamoureux.
-////
+If the agent is going to try to deceive, bluff, or disguise herself, they can use Deception instead of Persuasion or Performance (see _{tt}_ p5).
 
 
-=== Removed Skills
+// Some sample tokens are https://drive.google.com/open?id=0B0lb1qfRe-jtQ2dIY3FwQk1QMmc[in Google Drive here].
 
-* Focus, applies to the Arcane Background (Gifted)
-* Faith, applies to the Arcane Background (Miracles)
-* Language (see the Multiple Languages setting rules in SWADE p 149)
-* Psionics, applies to the Arcane Background (Psionics)
-* Spellcasting, applies to the Arcane Background (Magic)
-* Weird Science, pplies to the Arcane Background (Weird Science)
+// And there's a https://play.spotify.com/user/achall-us/playlist/1NIH7MURguqFqBgcLJxhlj[playlist].
+
+
+.Training packages
+* Assassin (Aka Hitter Or Wetwork Specialist)
+* Boomer (Aka Eod Specialist Or Saboteur)
+* Brute (Aka Brawler, Muscle, Or A Thug)
+* Burglar (Aka Black Bagger Or Box Man)
+* Case Worker (Aka Asset Handler)
+* Driver (Aka Transporter Or Wheel Man)
+* Face (Aka Con Man, Grifter Or Social Engineer)
+* Financier (Aka Bag Man)
+* First Responder 
+* Forensic Specialist (Aka Cleaner)
+* Forger (Aka Cobbler)
+* Hacker
+* Investigator (Aka Detective Or Private Eye)
+* Overwatch (Aka Eyeball Or A Watcher)
+* Soldier
+* Smuggler (Aka Mule)
+* Snoop (Aka Analyst Or Journalist)
+* Technical Specialist (Aka Electronics Specialist Or A Wire Rat)
+
+
+=== Hindrances
+
+All agents begin with the major hindrance Obligation. 
+This does *not* count towards the character's normal Hindrance total and does not provide any points for building the character.
+
 
 == Edges
+
+Edges that are unsuited to the setting have been removed.
+Relevant new edges have been added.
 
 === Removed Edges
 
@@ -126,9 +206,76 @@ I also attribute the idea of applying this type of effect to Savage Worlds to Er
 * Beast Master
 * Champion
 * Chi
-* Scavenger
 
-.Legendary Edges
-* Followers
-* Sidekick
+=== New edges
 
+[sidebar]
+Unless state otherwise, all edges are from _{tt}_.
+Out of respect to the authors of _{tt}_ and _{sfsd}_, I am not stating more about the edges here.
+
+==== Background Edges
+
+===== Acute Sense
+Requirements: Novice
+
+===== Calm And Collected
+Requirements: Novice
+
+===== Natural Actor
+Requirements: Seasoned, Shakespearean Spirit
+
+===== Shakespearean Spirit
+Requirements: Novice
+
+==== Leadership Edges
+
+===== Voice From Beyond
+Requirements: Novice, Command
+
+==== Professional Edges
+
+===== Combat Medic
+Requirements: Novice, Smarts D6+, Healing D6+
+
+===== Computer Jock
+Requirements: Novice, Smarts D6+, Hacking D8+
+
+===== Deep Cover
+Requirements: Seasoned, Undercover Work,
+Performance D8+
+
+====== Legendary Cover
+Requirements: Veteran, Deep Cover, Performance
+D10+
+
+===== Demolitions (see _{sfsd}_ p25)
+REQUIREMENTS: Seasoned, Repair d6
+
+===== It's The Little Things
+Requirements: Novice, Smarts D6+, Notice D6+
+
+===== Ghost
+Requirements: Novice, Agility D6+, Stealth D6+
+
+===== Tactical Driving
+Requirements: Novice, Agility D6+, Driving D6+
+
+====== Improved Tactical Driving
+Requirements: Seasoned, Tactical Driving, Agility D8+, Boating Or Piloting D6+
+
+===== Tradecraft
+Requirements: Novice, Smarts D6+
+
+====== Improved Tradecraft
+Requirements: Seasoned, Level Headed, Tradecraft,
+Agility D6+, Smarts D8+
+
+===== Undercover Work
+Requirements: Novice, Smarts D6+, Performance D6+
+
+===== Up And At 'Em
+Requirements: Seasoned, Combat Medic
+
+== Gear
+
+#TODO#
