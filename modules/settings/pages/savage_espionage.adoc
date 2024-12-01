@@ -303,3 +303,5 @@ Out of respect to the authors of _{tt}_ and _{sfsd}_, I am not stating more abou
 == Gear
 
 #TODO#
+
+include::../partials/equipment_espionage.adoc[]
