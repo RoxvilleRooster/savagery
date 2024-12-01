@@ -3,6 +3,8 @@
 :tp: Training Package
 :tt: Tuxedos and Trenchcoats
 :sfsd: Secret Files of Section D
+:fn-tt-ref: footnote:tt-ref[From Tuxedos and Trenchcoats]
+:fn-sd-ref: footnote:tt-ref[From Secret Files of Section D]
 
 // _These setting rules are are largely a subset of the rules from Reality Blurs' "Agents of Oblivion"._
 
