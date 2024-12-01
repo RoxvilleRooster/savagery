@@ -1,10 +1,11 @@
-
+:fn-tt-ref: footnote:tt-ref[From Tuxedos and Trenchcoats]
+:fn-sd-ref: footnote:tt-ref[From Secret Files of Section D]
 
 .Handguns
 |===
 | Type | Range | Damage | Ap | Rof | Min Str. | Shots | Weight | Cost | Notes
 
-| Beretta 8357 Cougar (.357)
+| Beretta 8357 Cougar (.357)  {fn-tt-ref}
 | 12/24/48
 | 2d6+1
 | 1
@@ -13,9 +14,21 @@
 | 11
 | 6
 | 275
-| - 
+| -
 
-| Walther PPK (.380 Acp)
+| Beretta M1934 7.65mm / M1935 .32" ACP  {fn-sd-ref}
+| 10/20/40
+| 2d6-1
+| -
+| 1
+| d4
+| 8
+| 2
+| #£7/8/-#
+| -
+
+
+| Walther PPK (.380 Acp)  {fn-tt-ref}
 | 10/20/40
 | 2d6
 | 1
@@ -24,9 +37,9 @@
 | 6
 | 2
 | 150
-| - 
+| -
 
-| Colt 1908 Vest Pocket Pistol (.25)
+| Colt 1908 Vest Pocket Pistol (.25) {fn-tt-ref}
 | 10/20/40
 | 2d4+1
 | -
@@ -37,7 +50,7 @@
 | 75
 | Concealable 
 
-| Browning Hi-Power (.40)
+| Browning Hi-Power (.40) {fn-tt-ref}
 | 12/24/48
 | 2d6+1
 | 1
@@ -48,7 +61,7 @@
 | 225
 | - 
 
-| Makarov PM (9mm)
+| Makarov PM (9mm) {fn-tt-ref}
 | 12/24/48
 | 2d4+2
 | -
@@ -59,7 +72,7 @@
 | 175
 | Concealable 
 
-| Beretta M93R (9mm)
+| Beretta M93R (9mm) {fn-tt-ref}
 | 12/24/48
 | 2d4+2
 | 1
@@ -71,7 +84,7 @@
 | Detachable Stock (15/30/60 range when in use), ; Three Round Burst 
 
 
-| Manurhin Mr-73 Defense (.357)
+| Manurhin Mr-73 Defense (.357) {fn-tt-ref}
 | 12/24/48
 | 2d6+1
 | 1
@@ -82,7 +95,7 @@
 | 300
 | Accurate
 
-| TEC-9 (9MM)
+| TEC-9 (9MM) {fn-tt-ref}
 | 12/24/48
 | 2d4+2
 | 1
@@ -93,7 +106,7 @@
 | 350
 | Three Round Burst 
 
-| Scorpion VZ-61E (.32 ACP)
+| Scorpion VZ-61E (.32 ACP) {fn-tt-ref}
 | 10/20/40
 | 2d4
 | -
@@ -111,7 +124,7 @@
 |===
 | Type | Range | Damage | Ap | Rof | Min Str. | Shots | Weight | Cost | Notes
 
-| H&K MP5A3 (9mm)
+| H&K MP5A3 (9mm) {fn-tt-ref}
 | 12/24/48
 | 2d6
 | 1
@@ -123,7 +136,7 @@
 | -
 
 
-| H&K MP5SD3 (9mm)
+| H&K MP5SD3 (9mm) {fn-tt-ref}
 | 10/20/40
 | 2d6
 | 1
@@ -141,7 +154,7 @@
 |===
 | Type | Range | Damage | Ap | Rof | Min Str. | Shots | Weight | Cost | Notes
 
-| Armalite AR-7 Survival Rifle
+| Armalite AR-7 Survival Rifle {fn-tt-ref}
 | 12/24/48
 | 2d4
 | -
@@ -153,7 +166,7 @@
 | Modular 3
 
 
-| Parker Hale M85 Sniper Rifle (7.62MM)
+| Parker Hale M85 Sniper Rifle (7.62MM) {fn-tt-ref}
 | 24/48/96
 | 2d8+2
 | 2
@@ -164,7 +177,7 @@
 | 400
 | -
 
-| SVD Dragunov (7.62MM)
+| SVD Dragunov (7.62MM) {fn-tt-ref}
 | 32/64/128
 | 2d10
 | 2
@@ -175,7 +188,7 @@
 | 550
 | -
 
-| M40A3 Sniper Rifle
+| M40A3 Sniper Rifle {fn-tt-ref}
 | 24/48/96
 | 2d8
 | 2
@@ -193,7 +206,7 @@
 |===
 | Type | Range | Damage | Ap | Rof | Min Str. | Shots | Weight | Cost | Notes
 
-| Benelli M4 Shotgun (12 GA.)
+| Benelli M4 Shotgun (12 GA.) {fn-tt-ref}
 | 12/24/48
 | 1-3d6
 | -
