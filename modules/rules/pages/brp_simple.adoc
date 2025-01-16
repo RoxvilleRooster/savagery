@@ -1,0 +1,36 @@
+= Basic Roleplaying for Pulp Action Gaming
+
+All optional rules are listed on 193.
+
+== Character creation
+
+* Power level = Normal
+* Point-based character creation (17, 24 points)
+** Use Education characteristic (19)
+** Skill category bonuses (22)
+** Fatigue points (24, use "Simple Fatigue")
+** Sanity (24)
+** Personality Types (11)
+** Increased Personal Skill Points (16)
+** Total Hit Points (20)
+** Distinctive Features (25)
+** Complimentary Skills (38)
+** Acting Without Skill (34)
+* Powers (not used)
+* Skills
+** Skill Rating Over 100% (113)
+** Fate points (113)
+** Aging and Inaction (120)
+** Variant Combat Rules (131; Dying Blows)
+// and Attacks and Parries Over 100%
+* Spot Rules
+* Combat
+** Remove Statemsent of Intent (124)
+* Misc
+** Passions (214)
+** Reputation (216)
+** Personality Traits (203)
+
+
+
+
