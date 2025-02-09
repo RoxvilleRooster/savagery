@@ -1,0 +1,35 @@
+= "Before Rippers"
+
+The game setting is loosely set in the first quarter of the 19th century, likely between 1815 and 1840.
+At this point, there are many differences from the canon Rippers setting:
+
+* There is no Rippers organization
+** There is no network of Ripper lodges
+* _rippen transferre_ experiments are considered part of the larger body of mad and weird science
+** The integration of _rippen-transferre_, now going by the name of Rippen technologie, into humans is known to corrupt a man's mind and soul. 
+Surely, no good can come of it!
+It is a pursuit of madmen and deviants.
+** The term "Rippertech" has not been coined
+* The technology level is early industrial and this has affects on combat and travel.
+Black powder weapons are used and, as a result, there's more swordplay and less gunplay.
+* The protagonists are relatively normal people who are pulled into a world of gothic horror.
+
+
+
+
+.Story ideas
+* I think there's a story to tell where the PCs work with the antagonist, an esteemed personage, but then have to counter him as he slips into madness. 
+
+.Inspirations
+* Taboo - limited tv series
+* Jonathan Strange and Dr. Norrell - book and miniseries
+* The Count of Monte Cristo - book and films
+* The Frankenstein Chronicles - tv series
+
+
+== Savage Tales
+
+* Pyramid Power (OGR 77)
+* Frankenstein Unbound (OGR 82)
+* Artificial Light (OGR 94)
+* The Scarab (OGR 95)
