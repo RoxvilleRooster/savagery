@@ -25,7 +25,7 @@ All optional rules are listed on 193.
 // and Attacks and Parries Over 100%
 * Spot Rules
 * Combat
-** Remove Statemsent of Intent (124)
+** Remove Statements of Intent (124)
 * Misc
 ** Passions (214)
 ** Reputation (216)
