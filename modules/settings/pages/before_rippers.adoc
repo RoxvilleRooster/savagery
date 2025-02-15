@@ -1,7 +1,7 @@
 = "Before Rippers"
 
 The game setting is loosely set in the first quarter of the 19th century, likely between 1815 and 1840.
-At this point, there are many differences from the canon Rippers setting:
+At this point in time, there are many differences from the canon Rippers setting:
 
 * There is no Rippers organization
 ** There is no network of Ripper lodges
@@ -11,10 +11,11 @@ Surely, no good can come of it!
 It is a pursuit of madmen and deviants.
 ** The term "Rippertech" has not been coined
 * The technology level is early industrial and this has affects on combat and travel.
-Black powder weapons are used and, as a result, there's more swordplay and less gunplay.
+Black powder weapons are used and, as a result, there's more close combat and less gunplay.
+* The field of psychiatry is in its infancy.
+If you were deemed insane, you would be locked away in a madhouse, to suffer and likely die in squalor. 
+See https://www.ashfordstpeters.nhs.uk/19th-century-mental-health[19th Century Mental Health, window="_blank"].
 * The protagonists are relatively normal people who are pulled into a world of gothic horror.
-
-
 
 
 .Story ideas
