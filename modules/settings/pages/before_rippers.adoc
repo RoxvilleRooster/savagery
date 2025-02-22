@@ -6,16 +6,18 @@ At this point in time, there are many differences from the canon Rippers setting
 * There is no Rippers organization
 ** There is no network of Ripper lodges
 * _rippen transferre_ experiments are considered part of the larger body of mad and weird science
-** The integration of _rippen-transferre_, now going by the name of Rippen technologie, into humans is known to corrupt a man's mind and soul. 
+** The integration of _rippen-transferre_, now going by the name of _Rippen technologie_, into humans is known to corrupt a man's mind and soul. + 
 Surely, no good can come of it!
-It is a pursuit of madmen and deviants.
-** The term "Rippertech" has not been coined
+It is a pursuit of madmen and deviants. + 
+The term "Rippertech" has not been coined. 
 * The technology level is early industrial and this has affects on combat and travel.
 Black powder weapons are used and, as a result, there's more close combat and less gunplay.
-* The field of psychiatry is in its infancy.
+* The field of psychiatry, not to mention modern medical science, is in its infancy.
 If you were deemed insane, you would be locked away in a madhouse, to suffer and likely die in squalor. 
 See https://www.ashfordstpeters.nhs.uk/19th-century-mental-health[19th Century Mental Health, window="_blank"].
 * The protagonists are relatively normal people who are pulled into a world of gothic horror.
+This is not a superhero game.
+The heroes _are_ squishy.
 
 
 .Story ideas
@@ -26,6 +28,7 @@ See https://www.ashfordstpeters.nhs.uk/19th-century-mental-health[19th Century M
 * Jonathan Strange and Dr. Norrell - book and miniseries
 * The Count of Monte Cristo - book and films
 * The Frankenstein Chronicles - tv series
+* Brotherhood of the Wolf - movie
 
 
 == Savage Tales
