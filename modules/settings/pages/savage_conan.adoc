@@ -1,6 +1,4 @@
 = Savage Conan
-:toc:
-:toclevels: 4
 
 == Setting rules
 
