@@ -5,11 +5,14 @@ I ran into Savage Worlds back in 2011 at a now-defunct convention in Washington 
 
 == Rules Notes
 
-=== Ancestries Available*
+=== Ancestries Available
 
-*All ancestries are human and get to keep the starting free edge
-Aesir (Asgard): Golden-haired, blue-eyed, bearded barbarians clad in chain hauberks wielding axes and wooden shields.  Start with d8 in vigor, +1 to intimidation rolls
+NOTE: All ancestries are human and get to keep the starting free edge
 
+[horizontal]
+Aesir (Asgard):: 
+Golden-haired, blue-eyed, bearded barbarians clad in chain hauberks wielding axes and wooden shields.  
+Start with d8 in vigor, +1 to intimidation rolls
 Afghuli::
 Tall and powerful, with broad shoulders, curly hair and long beards, their brown skin wrinkled by harsh wind and sun.  Start with d8 in agility, +1 to athletics rolls
 Aquilonian (includes Poitainian)::
@@ -57,8 +60,10 @@ Tanned, curly-haired sailors and princelings, an admixture of Zingg Valley folk 
 [[language_list]]
 === Languages Available
 
-All characters start with multiple languages.  If the language is in the root family, they get a +1 to the skill roll speak, read, or understand it.
+All characters start with multiple languages.  
+If the language is in the root family, they get a +1 to the skill roll speak, read, or understand it.
 
+[horizontal]
 Hyborian:: 
 Aquilonian, Aquilonian, Argossean, Border Kingdoms Argot, Corinthian, Nemedian
 Khari:: 
