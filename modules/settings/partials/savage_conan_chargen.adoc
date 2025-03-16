@@ -54,21 +54,21 @@ Deeply tanned with dark eyes, wearing loose-fitting robes. Start with d6 in agil
 Zingaran:: 
 Tanned, curly-haired sailors and princelings, an admixture of Zingg Valley folk (possibly of Shemite origin), invading Picts, and Hyborian tribes. Start with d6 agility and spirit, +1 to notice rolls.
 
+[[language_list]]
 === Languages Available
 
 All characters start with multiple languages.  If the language is in the root family, they get a +1 to the skill roll speak, read, or understand it.
 
 Hyborian:: 
-Aquilonian, Argossean, Border Kingdoms Argot, Corinthian, Nemedian, 
-Ophiran, Kothic
+Aquilonian, Aquilonian, Argossean, Border Kingdoms Argot, Corinthian, Nemedian
 Khari:: 
 Hyperborean, Stygian, Ancient Stygian, Acheronian
 Atlantean:: 
-Cimmerian, Nordheimer, Pictish, Border Kingdoms Argot, Atlantean
+Cimmerian, Nordheimer, Pictish, Border Kingdoms Argot, Atlantean, Nemedian
 Shemitish:: 
 Shemitish, Khoran, Khorajan, Zamoran
 Vilayet:: 
-Ghulistani, Iranistani
+Ghulistani, Iranistani, Zuagir
 Hyrkanian:: 
 Hyrkanian, Turanian
 Black Kingdoms:: 

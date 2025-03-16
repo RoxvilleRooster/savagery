@@ -49,6 +49,7 @@ Multiple Languages::
 Some settings feature characters and cultures who typically speak many different languages.
 If this Setting Rule is in play, all characters have the Linguist Edge for free (page 40), and ignore its usual Requirements.
 A character who actually takes the Linguist Edge knows a number of languages equal to her Smarts (instead of half her Smarts).
+For a list of languages, see <<#language_list>>.
 
 Stream template::
 Any power or other effect that uses a Cone Template may use the Stream Template instead. This is a straight line 1" (2 yards)
