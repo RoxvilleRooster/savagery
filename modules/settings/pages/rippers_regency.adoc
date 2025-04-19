@@ -1,22 +1,26 @@
-= "Before Rippers"
+= Rippers - Regency
 
 The game setting is loosely set in the first quarter of the 19th century, likely between 1815 and 1840.
-At this point in time, there are many differences from the canon Rippers setting:
+This period overlaps with the late https://en.wikipedia.org/wiki/Regency_era[Regency era, window="_blank"].
 
-* There is no Rippers organization
-** There is no network of Ripper lodges
+During the Regency era, there are many differences from the canon Rippers setting:
+
 * _rippen transferre_ experiments are considered part of the larger body of mad and weird science
+** The term "Rippertech" has not been coined. 
 ** The integration of _rippen-transferre_, now going by the name of _Rippen technologie_, into humans is known to corrupt a man's mind and soul. + 
 Surely, no good can come of it!
 It is a pursuit of madmen and deviants. + 
-The term "Rippertech" has not been coined. 
-* The technology level is early industrial and this has affects on combat and travel.
+* There is nothing resembling the Rippers organization of the late Vicctorian period
+** There is no network of Ripper lodges
+* The technology level is early industrial.
+This affects on combat and travel.
 Black powder weapons are used and, as a result, there's more close combat and less gunplay.
 * The field of psychiatry, not to mention modern medical science, is in its infancy.
 If you were deemed insane, you would be locked away in a madhouse, to suffer and likely die in squalor. 
 See https://www.ashfordstpeters.nhs.uk/19th-century-mental-health[19th Century Mental Health, window="_blank"].
 * The protagonists are relatively normal people who are pulled into a world of gothic horror.
-This is not a superhero game.
++ 
+CAUTION: This is not a superhero game.
 The heroes _are_ squishy.
 
 
@@ -37,3 +41,10 @@ The heroes _are_ squishy.
 * Frankenstein Unbound (OGR 82)
 * Artificial Light (OGR 94)
 * The Scarab (OGR 95)
+
+
+= Resources
+
+* https://www.romanticlondon.org/maps/fullscreen/layer/26/#13/51.5077/-0.0740[Map of London in 1819] + 
+This is William Faden's Fourth Edition of Horwood's Plan (1819). 
+It is a digitized and fully scalable.
