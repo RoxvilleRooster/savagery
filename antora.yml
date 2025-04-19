@@ -1,6 +1,6 @@
 name: savagery
 title: Savage Worlds Content
-version: master
+version: true
 start_page: ROOT:index.adoc
 # start_page: ROOT:index.adoc
 nav:
