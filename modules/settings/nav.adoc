@@ -20,3 +20,4 @@
 ** xref:savage_conan.adoc[]
 ** xref:tyrnador.adoc[]
 ** xref:karthador.adoc[]
+** xref:rippers_regency.adoc[]
