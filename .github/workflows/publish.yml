@@ -1,0 +1,16 @@
+name: Trigger Repository Dispatch
+
+on:
+  workflow_dispatch: # Allows manual triggering of this workflow
+
+jobs:
+  trigger-dispatch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Trigger Repository Dispatch Event
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          token: ${{ secrets.SITEGEN_TOKEN }}
+          repository: RoxvilleRooster/savagery
+          event-type: publish
