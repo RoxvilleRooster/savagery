@@ -1,8 +1,10 @@
 name: Trigger Repository Dispatch
 
 on:
-  workflow_dispatch: # Allows manual triggering of this workflow
-
+  workflow_dispatch:
+  push:
+    branches:
+      - master
 jobs:
   trigger-dispatch:
     runs-on: ubuntu-latest
