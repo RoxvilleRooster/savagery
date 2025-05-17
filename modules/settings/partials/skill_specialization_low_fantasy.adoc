@@ -1,0 +1,116 @@
+[[skill_specialization]]
+= Skill specialization
+
+== Athletics (Agility)
+
+* Climbing
+* Running/Sprinting
+* Acrobatics
+* Throwing (includes slings)
+
+NOTE: Swimming is not included in this list, as it is an aspect of the Watercraft skill.
+
+== Fighting (Agility)
+
+* Axes
+* Long blade (long swords, broadswords)
+* Short blade (daggers, short swords)
+* Bludgeoning weapons (maces, hammers)
+* Shields
+* Pole arms
+* Brawling
+* Wrestling
+* Exotic weapon
+// * Improvised weapons
+
+== Riding (Agility)
+
+* Ride (creature)
+* Animal Handling
+* Driving (creature-powered vehicle)
+
+== Shooting (Agility)
+
+* Bows
+* Crossbows
+
+NOTE: Use of a sling is related to the Athletics skill (throwing).
+
+== Stealth (Agility)
+
+* Hiding
+* Shadowing
+* Sneaking
+
+== Survival (Smarts)
+
+* Tracking
+* Subsistence
+* Shelter building
+* Wilderness navigation
+* Herbalism
+* Lore, Wilderness
+* Lore, Animals
+* Lore, Plants
+* Lore, Weather 
+
+== Healing (Smarts)
+
+* Apothecary 
+footnote:[Apothecary and Herbalism overlap, but are not the same. Apothecary is a more formalized and scientific approach to healing, while herbalism is more of a folk tradition. The two can be used together, but they are not interchangeable.]
+
+* Bandaging/First Aid
+* Bone Setting
+
+== Repair (Smarts)
+
+* Blacksmithing
+* Armorsmithing
+* Weaponsmithing
+* Traps
+* Carpentry
+* Leatherworking
+* Masonry
+* Engineering
+* Shipbuilding
+
+== Persuasion (Spirit)
+
+* Leadership
+* Bargaining
+* Intimidation
+* Oratory
+* Diplomacy
+* Deception
+* Seduction
+
+== Common Knowledge (Smarts)
+
+* Local Lore
+* Customs and Traditions
+
+== Academics (Smarts)
+
+* History
+* Languages
+* Heraldry
+* Lore, Religion
+
+== Occult (Smarts)
+
+* Lore, Divine
+* Lore, Demonic
+* Lore, Monsters
+* Lore, Arcane
+* Rituals
+
+
+== Watercraft (Vigor or Smarts)
+
+* Boat handling
+* Ship handling
+* Swimming
+* Fishing
+* Navigation
+* Lore, Sea Monsters
+* Lore, Weather
