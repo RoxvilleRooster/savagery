@@ -1,5 +1,9 @@
 = Edges eligible for OV's martial flexibility
 
+NOTE: I dislike the martial flexibility edge.
+It is too "game"-y and, as a player, I have mistakenly used combat edges that the character did not have the prerequisites for.
+Keep it simple and eliminate players from using this edge.
+
 .SWADE core combat edges
 * Block (40)
 * Brawler (41)
