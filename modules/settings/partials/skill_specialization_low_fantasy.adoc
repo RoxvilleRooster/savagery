@@ -77,12 +77,21 @@ footnote:[Apothecary and Herbalism overlap, but are not the same. Apothecary is 
 == Persuasion (Spirit)
 
 * Leadership
-* Bargaining
-* Intimidation
+* Negotiation
 * Oratory
-* Diplomacy
 * Deception
 * Seduction
+
+NOTE: Intimidation and Taunt are still separate skills.
+
+== Thievery (Agility)
+
+* Pickpocketing
+* Lockpicking
+* Traps
+* Disguise
+* Sleight of Hand
+* Forgery
 
 == Common Knowledge (Smarts)
 
@@ -95,6 +104,7 @@ footnote:[Apothecary and Herbalism overlap, but are not the same. Apothecary is 
 * Languages
 * Heraldry
 * Lore, Religion
+* Literature
 
 == Occult (Smarts)
 
@@ -103,6 +113,20 @@ footnote:[Apothecary and Herbalism overlap, but are not the same. Apothecary is 
 * Lore, Monsters
 * Lore, Arcane
 * Rituals
+
+== Performance (Spirit)
+
+* Acting
+* Dancing
+* Play (instrument)
+* Singing
+* Storytelling and poetry
+* Physical performance (juggling, acrobatics, etc.)
+* Puppetry
+* Craft (artistic medium)
+
+
+
 
 
 == Watercraft (Vigor or Smarts)
