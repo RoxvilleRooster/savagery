@@ -1,6 +1,17 @@
 = Savage Worlds Low Fantasy
 :toc:
 
+.Setting expectations
+****
+Most action scenes need to be fast-paced and not get bogged down in mechanics.
+
+Do not expect standard tactical combats that last beyond 3 or 4 rounds.
+For a standard combat, I'll apply the "timers, threats, and treats" guidance from ICRPG.
+
+The SWADE quick encounter mechanics will be used regularly.
+The dramatic task mechanics will feature prominently.
+****
+
 == Setting Rules
 
 Savage Worlds Adventure Edition has a number of setting rules that are useful for running a low-fantasy game.
@@ -24,16 +35,7 @@ Savage Worlds Adventure Edition has a number of setting rules that are useful fo
 
 The following rules and directions further tune the setting for the low-fantasy type of game that I want to run.
 
-.Setting expectations
-****
-Most action scenes need to be fast-paced and not get bogged down in mechanics.
-
-Do not expect standard tactical combats that last beyond 3 or 4 rounds.
-For a standard combat, I'll apply the "timers, threats, and treats" guidance from ICRPG.
-
-The SWADE quick encounter mechanics will be used regularly.
-The dramatic task mechanics will feature prominently.
-****
+include::../partials/skill_specialization_low_fantasy.adoc[leveloffset=+2]
 
 === Arcane Backgrounds
 
