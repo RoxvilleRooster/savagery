@@ -1,0 +1,46 @@
+= Savage Worlds Low Fantasy
+:toc:
+
+== Setting Rules
+
+Savage Worlds Adventure Edition has a number of setting rules that are useful for running a low-fantasy game.
+
+* Conviction (SWADE p 136)
+* Downtime (SWFC p 77)
+// * Dynamic Backlash (SWADE p 138)
+* Gritty Damage (SWADE p 139)
+* Hard Choices (SWADE p 139)
+* Skill Specialization (SWADE p 139)
+// * Fast Healing (SWADE p 139)
+// * More Skill Points (SWADE p 140)
+// * Multiple Languages (SWADE p 140)
+// * Wound Cap (SWADE p 141)
+// * Dumb Luck (SWADE p 138)
+// * Fanatics (SWADE p 138)
+// * Heroes Never Die (SWADE p 140)
+// * High Adventure (SWADE p 140)
+// * Wealth (xref:rules:wealth_sw.adoc[])
+
+
+The following rules and directions further tune the setting for the low-fantasy type of game that I want to run.
+
+.Setting expectations
+****
+Most action scenes need to be fast-paced and not get bogged down in mechanics.
+
+Do not expect standard tactical combats that last beyond 3 or 4 rounds.
+For a standard combat, I'll apply the "timers, threats, and treats" guidance from ICRPG.
+
+The SWADE quick encounter mechanics will be used regularly.
+The dramatic task mechanics will feature prominently.
+****
+
+=== Arcane Backgrounds
+
+In this game, magic is generally sorcery and its viewed as dark and malign.
+
+No Arcane Backgrounds are available to the player characters. 
+All edges that are associated with arcane backgrounds are not available to the player characters.
+
+Of course, NPC villains may have arcane backgrounds and related edges.
+
