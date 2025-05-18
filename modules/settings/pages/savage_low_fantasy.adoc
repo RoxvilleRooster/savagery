@@ -1,5 +1,6 @@
 = Savage Worlds Low Fantasy
 :toc:
+:toclevels: 4
 
 .Setting expectations
 ****
@@ -14,15 +15,18 @@ The dramatic task mechanics will feature prominently.
 
 == Setting Rules
 
-Savage Worlds Adventure Edition has a number of setting rules that are useful for running a low-fantasy game.
+The following setting are useful for running a low-fantasy game:
 
-* Conviction (SWADE p 136)
+* Betrayal (SWFC p 76)
+// * Conviction (SWADE p 136)
 * Downtime (SWFC p 77)
-// * Dynamic Backlash (SWADE p 138)
+// * Fast Healing (SWADE p 139)
 * Gritty Damage (SWADE p 139)
 * Hard Choices (SWADE p 139)
 * Skill Specialization (SWADE p 139)
-// * Fast Healing (SWADE p 139)
+
+NOTE: The setting rule Dynamic Backlash (SWADE p 138) applies to NPC villains and not to player characters. 
+
 // * More Skill Points (SWADE p 140)
 // * Multiple Languages (SWADE p 140)
 // * Wound Cap (SWADE p 141)
@@ -35,7 +39,33 @@ Savage Worlds Adventure Edition has a number of setting rules that are useful fo
 
 The following rules and directions further tune the setting for the low-fantasy type of game that I want to run.
 
-include::../partials/skill_specialization_low_fantasy.adoc[leveloffset=+2]
+=== Down to my last copper
+
+Each game week, a character halves his total funds. 
+A character with the Poverty hindrance quarters his funds each week.
+// See LCoT 24.
+
+=== Skills
+
+==== Changed Skills
+
+* Hacking is recast as "Cryptography, Ciphers, Puzzles, and Riddles"
+* Academics covers scientific subjects so there is no need for a Science skill (see <<#removed_skills>>)
+* Riding also covers the driving of animal-propelled vehicles such as wagons and chariots
+
+[[removed_skills]]
+==== Removed Skills
+
+* Electronics
+* Piloting
+* Science
+* Focus, applies to the Arcane Background (Gifted)
+* Faith, applies to the Arcane Background (Miracles)
+* Psionics, applies to the Arcane Background (Psionics)
+* Spellcasting, applies to the Arcane Background (Magic)
+* Weird Science, applies to the Arcane Background (Weird Science)
+
+include::../partials/skill_specialization_low_fantasy.adoc[leveloffset=+3]
 
 === Arcane Backgrounds
 
@@ -46,3 +76,6 @@ All edges that are associated with arcane backgrounds are not available to the p
 
 Of course, NPC villains may have arcane backgrounds and related edges.
 
+== References:
+* Savage Worlds Adventure Edition Fantasy Companion (SWFC)
+* Savage Worlds Adventure Edition (SWADE)
