@@ -9,6 +9,8 @@ Most action scenes need to be fast-paced and not get bogged down in mechanics.
 Do not expect standard tactical combats that last beyond 3 or 4 rounds.
 For a standard combat, I'll apply the "timers, threats, and treats" guidance from ICRPG.
 
+If you, the player, cannot make the game, your character will be "out of the scene" and will not participate in the action.
+
 The SWADE quick encounter mechanics will be used regularly.
 The dramatic task mechanics will feature prominently.
 ****
@@ -17,13 +19,13 @@ The dramatic task mechanics will feature prominently.
 
 The following setting are useful for running a low-fantasy game:
 
-* Betrayal (SWFC p 76)
+// * Betrayal (SWFC p 76)
 // * Conviction (SWADE p 136)
-* Downtime (SWFC p 77)
+// * Downtime (SWFC p 77)
 // * Fast Healing (SWADE p 139)
 * Gritty Damage (SWADE p 139)
 * Hard Choices (SWADE p 139)
-* Skill Specialization (SWADE p 139)
+// * Skill Specialization (SWADE p 139)
 
 NOTE: The setting rule Dynamic Backlash (SWADE p 138) applies to NPC villains and not to player characters. 
 
@@ -49,14 +51,34 @@ A character with the Poverty hindrance quarters his funds each week.
 
 ==== Changed Skills
 
-* Hacking is recast as "Cryptography, Ciphers, Puzzles, and Riddles"
+* Hacking is recast as "Codes, Puzzles, and Riddles"
 * Academics covers scientific subjects so there is no need for a Science skill (see <<#removed_skills>>)
-* Riding also covers the driving of animal-propelled vehicles such as wagons and chariots
+* Riding covers (a) the driving of animal-propelled vehicles such as wagons and chariots and (b) animal handling
+* Swimming, typically an aspect of Athletics, is now part of the xref:watercraft[xrefstyle="full"] skill
+* Boating, typically its own skill, is now part of the Watercraft skill
+
+=== New skills
+
+[[watercraft]]
+==== Watercraft (Vigor)
+
+This skills the following marine-related activities:
+
+* Handling, boats and other small, simple watercraft
+* Handling, ships
+* Swimming
+* Fishing
+* Navigation
+* Lore, Sea Monsters
+* Lore, Weather
+
+
 
 [[removed_skills]]
 ==== Removed Skills
 
 * Electronics
+* Research
 * Piloting
 * Science
 * Focus, applies to the Arcane Background (Gifted)
