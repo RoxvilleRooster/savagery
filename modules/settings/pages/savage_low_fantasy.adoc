@@ -47,6 +47,65 @@ Each game week, a character halves his total funds.
 A character with the Poverty hindrance quarters his funds each week.
 // See LCoT 24.
 
+== Encumbrance and Inventory
+
+[sidebar]
+These rules are adapted from the _Tyrnador: Fate of Ventar_, a Savage Worlds setting.
+
+We will use a simplified, encumbrance system.
+
+The game distinguishes two types of objects: *Items* and *Trinkets*. 
+
+Trinkets::
+* Any item smaller than a dagger
+or worn garment (belts, helms, boots
+etc.). 
+* A character can carry any reasonable number of them.
++
+NOTE: If there are too many trinkets (this is a GM call) , they are considered an Item.
+
+Items::
+Items occupy different slots from trinkets in 
+the character's Inventory.
+
+[horizontal]
+Weapons::: 
+* A character can carry up to three weapons and/or shields. 
+* They are considered worn and can be reached
+quickly. 
+* Other weapons can be transported, but they are considered <<#carried_items,carried items>>.
+As such, these carried items take 1d4
+combat rounds to reach. 
+Armor::: 
+A character can wear a suit of armor. 
+Additional armor can be transported as Carried Items. 
+[[carried_items]]
+Carried Items::: a character can normally transport up to half his Strength die in Carried Items. 
+If he owns a Backpack, he can carry up to his full Strength die in items. 
+To carry additional items, characters can use Sacks (see Gear), but this mean being Encumbered.
+Cumbersome Items::: 
+Some items can be so cumbersome they fill more than
+one (usually two or three) inventory slots (e.g., furniture, statues, etc.).
+The GM has the final call on what is a Cumbersome item.
+Coins::: If a character has less than 500 coins, they are considered Trinkets. 
+Each 500 coins counts as an Item.
+
+=== Illumination
+
+Light Checks::
+During an exploration, the GM will sometimes ask for a Light Check for every perishable source of light you have (usually torches and lanterns). 
+Draw a card from the Action Deck; on a club, remove a Durability point from your source of light. 
+If the Durability drops to zero, the light is out. 
+Lanterns can be refilled with oil flasks, restoring their Durability to the maximum.
+Snuff Out Checks:: 
+During a dramatic situation, like a combat or a chase, whenever a character holding a light source rolls a 1 on his Trait roll, or whenever he is hit hard (being at least Shaken by a damaging effect), he must check if he drops the light, drawing a card from the Action Deck. 
+On a club, the light falls and is snuffed out. 
+It can be lit again, but a lantern breaks if the card drawn was a face card.
+Making Light in Darkness:: 
+A character with a torch or a lantern and flint and steel, can light a source of light in two rounds. 
+If she hasn't got Flint and Steel, she can try to start a fire with two stones, but this requires five minutes and a Survival (-2) roll. 
+
+
 === Skills
 
 ==== Changed Skills
