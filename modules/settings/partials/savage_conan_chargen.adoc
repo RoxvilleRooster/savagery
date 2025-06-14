@@ -65,7 +65,7 @@ If the language is in the root family, they get a +1 to the skill roll speak, re
 
 [horizontal]
 Hyborian:: 
-Aquilonian, Aquilonian, Argossean, Border Kingdoms Argot, Corinthian, Nemedian
+Aquilonian, Kothic, Argossean, Border Kingdoms Argot, Corinthian, Nemedian
 Khari:: 
 Hyperborean, Stygian, Ancient Stygian, Acheronian
 Atlantean:: 
