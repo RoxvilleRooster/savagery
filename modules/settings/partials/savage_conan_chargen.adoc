@@ -1,7 +1,7 @@
 = Create your Conan hero
 
 == Introduction
-I ran into Savage Worlds back in 2011 at a now-defunct convention in Washington DC.  It was love at first light.  I loved the fast, furious, and fun nature of the game’s rules and play style; and have stuck with the system ever since.  I discovered that someone named Stephen Rennick had written an adaptation of the Conan world for Savage Worlds around 2012 and I ran a few one-shots with his ruleset.  I kept the book around and this is my attempt to update it to the latest version of Savage Worlds (Savage Worlds Adventure Edition).
+I ran into Savage Worlds back in 2011 at a now-defunct convention in Washington DC.  It was love at first light.  I loved the fast, furious, and fun nature of the game's rules and play style and have stuck with the system ever since.  I discovered that someone named Stephen Rennick had written an adaptation of the Conan world for Savage Worlds around 2012 and I ran a few one-shots with his ruleset.  I kept the book around and this is my attempt to update it to the latest version of Savage Worlds (Savage Worlds Adventure Edition).
 
 == Rules Notes
 
@@ -65,7 +65,7 @@ If the language is in the root family, they get a +1 to the skill roll speak, re
 
 [horizontal]
 Hyborian:: 
-Aquilonian, Aquilonian, Argossean, Border Kingdoms Argot, Corinthian, Nemedian
+Aquilonian, Kothic, Argossean, Border Kingdoms Argot, Corinthian, Nemedian
 Khari:: 
 Hyperborean, Stygian, Ancient Stygian, Acheronian
 Atlantean:: 
