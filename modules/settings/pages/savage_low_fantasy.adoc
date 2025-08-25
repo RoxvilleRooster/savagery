@@ -1,0 +1,162 @@
+= Savage Worlds Low Fantasy
+:toc:
+:toclevels: 4
+
+.Setting expectations
+****
+Most action scenes need to be fast-paced and not get bogged down in mechanics.
+
+Do not expect standard tactical combats that last beyond 3 or 4 rounds.
+For a standard combat, I'll apply the "timers, threats, and treats" guidance from ICRPG.
+
+If you, the player, cannot make the game, your character will be "out of the scene" and will not participate in the action.
+
+The SWADE quick encounter mechanics will be used regularly.
+The dramatic task mechanics will feature prominently.
+****
+
+== Setting Rules
+
+The following setting are useful for running a low-fantasy game:
+
+// * Betrayal (SWFC p 76)
+// * Conviction (SWADE p 136)
+// * Downtime (SWFC p 77)
+// * Fast Healing (SWADE p 139)
+* Gritty Damage (SWADE p 139)
+* Hard Choices (SWADE p 139)
+// * Skill Specialization (SWADE p 139)
+
+NOTE: The setting rule Dynamic Backlash (SWADE p 138) applies to NPC villains and not to player characters. 
+
+// * More Skill Points (SWADE p 140)
+// * Multiple Languages (SWADE p 140)
+// * Wound Cap (SWADE p 141)
+// * Dumb Luck (SWADE p 138)
+// * Fanatics (SWADE p 138)
+// * Heroes Never Die (SWADE p 140)
+// * High Adventure (SWADE p 140)
+// * Wealth (xref:rules:wealth_sw.adoc[])
+
+
+The following rules and directions further tune the setting for the low-fantasy type of game that I want to run.
+
+=== Down to my last copper
+
+Each game week, a character halves his total funds. 
+A character with the Poverty hindrance quarters his funds each week.
+// See LCoT 24.
+
+== Encumbrance and Inventory
+
+[sidebar]
+These rules are adapted from the _Tyrnador: Fate of Ventar_, a Savage Worlds setting.
+
+We will use a simplified, encumbrance system.
+
+The game distinguishes two types of objects: *Items* and *Trinkets*. 
+
+Trinkets::
+* Any item smaller than a dagger
+or worn garment (belts, helms, boots
+etc.). 
+* A character can carry any reasonable number of them.
++
+NOTE: If there are too many trinkets (this is a GM call) , they are considered an Item.
+
+Items::
+Items occupy different slots from trinkets in 
+the character's Inventory.
+
+[horizontal]
+Weapons::: 
+* A character can carry up to three weapons and/or shields. 
+* They are considered worn and can be reached
+quickly. 
+* Other weapons can be transported, but they are considered <<#carried_items,carried items>>.
+As such, these carried items take 1d4
+combat rounds to reach. 
+Armor::: 
+A character can wear a suit of armor. 
+Additional armor can be transported as Carried Items. 
+[[carried_items]]
+Carried Items::: a character can normally transport up to half his Strength die in Carried Items. 
+If he owns a Backpack, he can carry up to his full Strength die in items. 
+To carry additional items, characters can use Sacks (see Gear), but this mean being Encumbered.
+Cumbersome Items::: 
+Some items can be so cumbersome they fill more than
+one (usually two or three) inventory slots (e.g., furniture, statues, etc.).
+The GM has the final call on what is a Cumbersome item.
+Coins::: If a character has less than 500 coins, they are considered Trinkets. 
+Each 500 coins counts as an Item.
+
+=== Illumination
+
+Light Checks::
+During an exploration, the GM will sometimes ask for a Light Check for every perishable source of light you have (usually torches and lanterns). 
+Draw a card from the Action Deck; on a club, remove a Durability point from your source of light. 
+If the Durability drops to zero, the light is out. 
+Lanterns can be refilled with oil flasks, restoring their Durability to the maximum.
+Snuff Out Checks:: 
+During a dramatic situation, like a combat or a chase, whenever a character holding a light source rolls a 1 on his Trait roll, or whenever he is hit hard (being at least Shaken by a damaging effect), he must check if he drops the light, drawing a card from the Action Deck. 
+On a club, the light falls and is snuffed out. 
+It can be lit again, but a lantern breaks if the card drawn was a face card.
+Making Light in Darkness:: 
+A character with a torch or a lantern and flint and steel, can light a source of light in two rounds. 
+If she hasn't got Flint and Steel, she can try to start a fire with two stones, but this requires five minutes and a Survival (-2) roll. 
+
+
+=== Skills
+
+==== Changed Skills
+
+* Hacking is recast as "Codes, Puzzles, and Riddles"
+* Academics covers scientific subjects so there is no need for a Science skill (see <<#removed_skills>>)
+* Riding covers (a) the driving of animal-propelled vehicles such as wagons and chariots and (b) animal handling
+* Swimming, typically an aspect of Athletics, is now part of the xref:watercraft[xrefstyle="full"] skill
+* Boating, typically its own skill, is now part of the Watercraft skill
+
+=== New skills
+
+[[watercraft]]
+==== Watercraft (Vigor)
+
+This skills the following marine-related activities:
+
+* Handling, boats and other small, simple watercraft
+* Handling, ships
+* Swimming
+* Fishing
+* Navigation
+* Lore, Sea Monsters
+* Lore, Weather
+
+
+
+[[removed_skills]]
+==== Removed Skills
+
+* Electronics
+* Research
+* Piloting
+* Science
+* Focus, applies to the Arcane Background (Gifted)
+* Faith, applies to the Arcane Background (Miracles)
+* Psionics, applies to the Arcane Background (Psionics)
+* Spellcasting, applies to the Arcane Background (Magic)
+* Weird Science, applies to the Arcane Background (Weird Science)
+
+include::../partials/skill_specialization_low_fantasy.adoc[leveloffset=+3]
+
+=== Arcane Backgrounds
+
+In this game, magic is generally sorcery and its viewed as dark and malign.
+
+No Arcane Backgrounds are available to the player characters. 
+All edges that are associated with arcane backgrounds are not available to the player characters.
+
+Of course, NPC villains may have arcane backgrounds and related edges.
+
+== References:
+* Savage Worlds Adventure Edition Fantasy Companion (SWFC)
+* Savage Worlds Adventure Edition (SWADE)
