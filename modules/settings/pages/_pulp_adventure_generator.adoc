@@ -1,7 +1,7 @@
 = Pulp adventure scenario resources
 
 * https://vanishingtower.blogspot.com/2018/11/brp-pulp-adventure-generator.html[BRP Pulp Adventure Generator]
-* https://www.godwars2.org/SavageWorlds/rag.html[Random Adventure Generator By OFTHEHILLPEOPLE]
+* https://www.godwars2.org/SavageWorlds/rag.html[Random Adventure Generator By OFTHEHILLPEOPLE] - for fantasy settings
 
 * Chapter 9 "Encounters" (p93) in _Deadlands: the Weird West_
 * "Adventure Generator" (p10) in the _Rippers Resurrected Game Master's Handbook_
