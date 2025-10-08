@@ -1,0 +1,39 @@
+:url-roll20-campaign: https://app.roll20.net/campaigns/details/1673998/savage-top-secret-1983
+:tp: Training Package
+:tt: Tuxedos and Trenchcoats
+:sfsd: Secret Files of Section D
+:fn-tt-ref: footnote:tt-ref[From Tuxedos and Trenchcoats]
+:fn-sd-ref: footnote:tt-ref[From Secret Files of Section D]
+
+= Pulp Action WW2 Horror
+
+This home game setting leverages 
+
+* Thomas Clegg's _Tuxedos and Trenchcoats: A Spy Thriller Setting For Savage Worlds_ 
+* Allan Wroe's _The Secret Files of Section D: Espionage Roleplaying In A World on the Brink of War_ (Imaginarium Games, 2022)
+* Modiphius' _Acthung Cthulhu_
+
+****
+include::../partials/reuse.adoc[tag=pirating-sucks]
+****
+
+[NOTE]
+====
+The rules and text here are a work-in-progress effort.
+
+* I'll add a gear list
+* I want to keep the setting rules lean and not add much more (but _{sfsd}_ has so many good ones!)
+
+====
+
+== Setting Rules
+
+* Cliffhangers (_{sfsd}_ p12)
+* Conviction (SWADE p136)
+* Demolitions (_{sfsd}_ p15)
+* Gritty Damage (SWADE p139)
+* Multiple Languages (SWADE p149)
+* Skill Specializations (SWADE p141)
+* Training Packages (_{tt}_ p32)
+* Up Close and Personal (_{tt}_ p32)
+* Wound Cap (SWADE p141)
