@@ -1,0 +1,23 @@
+flowchart TD
+    A["🏞️ Room 1: The Fen Road & the Toll of Frogs
+    → The PCs enter the marsh trail and meet the Bog Guardians."] 
+        --> B["🪶 Room 2: The Shrine of Lost Voices
+        → Solve the puzzle of the trapped bard’s name to learn the Reed-King’s tale."]
+    B --> C["💡 Room 3: The Will-o’-the-Wake
+        → Illusory lights lure travelers into danger in the deep marsh."]
+    C --> D["⚔️ Room 4: The Barrow of the Reed-King
+        → At the marsh ruins, the undead King awakens — battle or parley."]
+    D --> E["🌒 Room 5: The Crown Beneath the Mire
+        → Resolution, reward, or curse. Balance (or unrest) returns to the fen."]
+
+    %% Optional back paths
+    B -.-> A
+    C -.-> B
+    E -.-> A
+
+    %% Sub-labels for map use
+    A:::trail
+    D:::ruins
+
+    classDef trail fill:#b4d6a8,stroke:#355e3b,color:#000,font-weight:bold;
+    classDef ruins fill:#c1a67b,stroke:#5e412f,color:#000,font-weight:bold;
