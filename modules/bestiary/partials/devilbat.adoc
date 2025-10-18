@@ -1,0 +1,14 @@
+:imagesdir: ../images
+
+= Devilbat
+
+A boar-sized, hungry bat. image:token_devilbat.png[100,100]
+
+****
+Devilbat 
+3d6 AC 15 HD 2+1 + 
+Bite 1d8+1; Nat 19 Poisoned Brain: suffer a random Madness + 
+S14 D14 C12 I3 P14 W12 Ch4
+L6, Fly Slow. + 
+Reac 2-5 Hostile 6-8 Hungry  9-10 Wary 11-12 (follow from a distance)
+****
