@@ -1,11 +1,9 @@
-flowchart TD
-
+graph TD
     Tejon["Tejon the Hangman (Monk)"]
     Dorgan["Dorgan the Scholar (Rogue)"]
     Ronjon["Ronjon the Barkeep (Bard)"]
-    Andy["Andy the Unkown (Unknown)"]
+    Andy["Andy the Unknown (Unknown)"]
 
-
-    Dorgan -- "Survivors of the Great March" --> Ronjon
-    Tejon -- "Body servants of the Bandit Lord --> Ronjon
-    Tejon -- "Bodyuard" --> Andy   
+    Dorgan <-- "Survivors of the Great March" --> Ronjon
+    Ronjon <-- "Body servants of the Bandit Lord" --> Tejon
+    Tejon <-- "Bodyguard duties" --> Andy
