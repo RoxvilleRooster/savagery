@@ -1,0 +1,35 @@
+= Adventure Log Sheet (City)
+
+Objective::
+
+Reward::
+
+Complication::
+
+Opposition::
+
+Unknowns::
+
+Start site::
+
+Patron::
+
+.Site, Time, Weather
+|===
+
+|1
+|2 
+|3
+|4
+|5
+|6
+|7
+
+|===
+
+.Scenes
+|===
+| 
+|===
+
+
