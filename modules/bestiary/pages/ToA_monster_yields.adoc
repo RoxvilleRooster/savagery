@@ -1,0 +1,6 @@
+= Harvesting monsters
+
+[format=csv,options=header]
+|===
+include::../examples/toa_yield.csv[]
+|===
