@@ -1,18 +1,14 @@
 Creature Name,Medicinal,Hide/Trophy Items,Other
-"Elemental, Air",Nil,Nil,Nil
 Ankylosaurus,Nil,YES,Nil
 "Ant, Giant (Worker, Soldier, Queen)",YES,Nil,Nil
-"Ape (including Giant Ape)",Nil,Nil,Nil
-"Demon, Balor",Nil,Nil,Yes
+Ape (including Giant Ape),Nil,Nil,Nil
 Banshee,Nil,Ni,Nil
-"Demon, Basartu",Nil,Nil,Yes
 Basilisk,Nil,Nil,YES
-Bear,Nil,YES,Nil
-Bird,Nil,YES,Nil
 Bat,Nil,Nil,YES
-"Treant, Bloodroot",Nil,Nil,YES
+Bear,Nil,YES,Nil
+"Beetle, Fire",Nil,Nil,YES
+Bird,Nil,YES,Nil
 Boar,Nil,YES,Nil
-"Swarm, Ant, Bone Cutter",YES,Nil,YES
 "Bulette (including Desert, Ice, and Earth variants)",Nil,YES,YES
 Cat,Nil,Nil,Nil
 Centaur,Nil,Nil,Nil
@@ -21,122 +17,126 @@ Chuul,Nil,Nil,YES
 Cockatrice,Nil,YES,YES
 "Crocodile, Giant (including Kronosaurus)",Nil,YES,Nil
 Cyclops,Nil,Nil,Nil
-"Dog (including War Dog and Wolf)",Nil,Nil,Nil
+"Demon, Balor",Nil,Nil,Yes
+"Demon, Basartu",Nil,Nil,Yes
+"Demon, Gmorsha",Nil,Nil,YES
+"Demon, Hellhound",Nil,Nil,YES
+"Demon, Malafas",,,
+Dog (including War Dog and Wolf),Nil,Nil,Nil
 Doppelganger,YES,Nil,YES
-"Dragon (including Young Dragon)",Nil,YES,YES
+Dragon (including Young Dragon),Nil,YES,YES
 Dwarf,Nil,Nil,Nil
 "Eagle, Giant",Nil,Nil,YES
+"Elemental, Air",Nil,Nil,Nil
 "Elemental, Earth",Nil,Nil,YES
+"Elemental, Fire",Nil,Nil,Nil
+"Elemental, Water",,,
 Elf,Nil,Nil,Nil
 Ettin,Nil,Nil,Nil
-"Terror, Eye",Nil,Nil,Nil
-"Feathered Maw",YES,Nil,YES
+Feathered Maw,YES,Nil,YES
 Fey Creeper,Nil,Nil,Nil
-"Beetle, Fire",Nil,Nil,YES
-"Elemental, Fire",Nil,Nil,Nil
-"Vines, Flesh Eating",YES,Nil,Nil
-"Giant, Frost",Nil,Nil,YES
-"Worm, Frost",Nil,YES,YES
 Gargoyle,Nil,Nil,YES
 Gelatinous Cube,Yes,Nil,Nil
 Ghost,Nil,Nil,YES
 Ghoul,Nil,Nil,YES
-"Terror, Gibbering",Nil,Nil,YES
-"Demon, Gmorsha",Nil,Nil,YES
+"Giant, Frost",Nil,Nil,YES
 Gnoll,Nil,Nil,Nil
 Goblin,Nil,Nil,Nil
 "Golem, Flesh",Nil,Nil,Nil
 "Golem, Iron",Nil,Nil,Nil
 "Golem, Stone",Nil,Nil,Nil
-"Slime, Green",Nil,Nil,YES
-"Ooze, Grey",Nil,Nil,YES
 Griffon,Nil,YES,YES
 Hag,Nil,Nil,YES
-"Snail, Hammer",YES,Nil,YES
 Harpy,Nil,Nil,YES
-"Demon, Hellhound",Nil,Nil,YES
 Horse,Nil,Nil,Nil
 Hydra,YES,YES,YES
 Imp,Nil,Nil,YES
 Invisible Stalker,Nil,Nil,Nil
-"Wyrm, Lake",Nil,Nil,Nil 
 "Leech, Projectile",YES,Nil,YES
 Lich,Nil,Nil,Nil
 "Lizard, Giant",Nil,YES,YES
-"Demon, Malafas",
-"Monkey, Man Eating",
-Manticore
-Medusa
-Merscine
-Mimic
-Minotaur
-Mob
-Mummy
-Mushroom Men
-N'Tarc
-Ochre Jelly
-"Octopus, Giant"
-Ogre
-Ogre Mage
-"Ooze (Grey, Sentient)"
-Owlbear
-Plague Worm
-"Worm, Purple (including Ice Serpent)"
-Raptor
-"Rat (Giant, Dire)"
-Rat Swarm
-Rhino
-Roc
-Rock Grinder
-Roper
-Rust Monster
-"Scorpion, Giant"
-Scroach
-"Serpent, Giant"
-"Serpentman, Hraarsk"
-"Serpentman, Ssurloc"
-"Serpentman, Razkarrt"
-Shade
-"Shark (Giant, Dire)"
-Shrieker
-Skeleton
-Skinless Terror
-Skorn
-Skratt
-Slop Gorger
-"Snake (including Winged Snake)"
-Sorcerer
-Spectre
-"Spider, Giant (including Nestmother)"
-"Sprite (including Water Sprite)"
-Stirge
-Surgat
-Tentacle Spawn
-Thrall
-"Tiger (including Sabretooth)"
-"Toad, Giant"
-T-Rex
-Triceratops
-"Troll (Sea, Moor)"
-Urgozer
-Urgot
-Urgot Champion
-Vampire
-Vine Puppet
-"Wasp, Giant"
-"Elemental, Water",
-"Lycanthrope, Werebear"
-"Lycanthrope, Wererat"
-"Lycanthrope, Werewolf"
-Wight
-Will o' Wisp
-"Wolf (including Dire Wolf and Winter Wolf)"
-"Worm (Frost, Plague, Purple)"
-Wraith
-Wyvern
-Xarrox
-Xornling
-Yegnu
-"Mould, Yellow"
-Yeti
-"Zombie (including Brain Eater, Giant, Swarm, and Walker)"
+"Lycanthrope, Werebear",,,
+"Lycanthrope, Wererat",,,
+"Lycanthrope, Werewolf",,,
+Manticore,,,
+Medusa,,,
+Merscine,,,
+Mimic,,,
+Minotaur,,,
+Mob,,,
+"Monkey, Man Eating",,,
+"Mould, Yellow",,,
+Mummy,,,
+Mushroom Men,,,
+N'Tarc,,,
+Ochre Jelly,,,
+"Octopus, Giant",,,
+Ogre,,,
+Ogre Mage,,,
+"Ooze (Grey, Sentient)",,,
+"Ooze, Grey",Nil,Nil,YES
+Owlbear,,,
+Plague Worm,,,
+Raptor,,,
+"Rat (Giant, Dire)",,,
+Rat Swarm,,,
+Rhino,,,
+Roc,,,
+Rock Grinder,,,
+Roper,,,
+Rust Monster,,,
+"Scorpion, Giant",,,
+Scroach,,,
+"Serpent, Giant",,,
+"Serpentman, Hraarsk",,,
+"Serpentman, Razkarrt",,,
+"Serpentman, Ssurloc",,,
+Shade,,,
+"Shark (Giant, Dire)",,,
+Shrieker,,,
+Skeleton,,,
+Skinless Terror,,,
+Skorn,,,
+Skratt,,,
+"Slime, Green",Nil,Nil,YES
+Slop Gorger,,,
+"Snail, Hammer",YES,Nil,YES
+Snake (including Winged Snake),,,
+Sorcerer,,,
+Spectre,,,
+"Spider, Giant (including Nestmother)",,,
+Sprite (including Water Sprite),,,
+Stirge,,,
+Surgat,,,
+"Swarm, Ant, Bone Cutter",YES,Nil,YES
+T-Rex,,,
+Tentacle Spawn,,,
+"Terror, Eye",Nil,Nil,Nil
+"Terror, Gibbering",Nil,Nil,YES
+Thrall,,,
+Tiger (including Sabretooth),,,
+"Toad, Giant",,,
+"Treant, Bloodroot",Nil,Nil,YES
+Triceratops,,,
+"Troll (Sea, Moor)",,,
+Urgot,,,
+Urgot Champion,,,
+Urgozer,,,
+Vampire,,,
+Vine Puppet,,,
+"Vines, Flesh Eating",YES,Nil,Nil
+"Wasp, Giant",,,
+Wight,,,
+Will o' Wisp,,,
+Wolf (including Dire Wolf and Winter Wolf),,,
+"Worm (Frost, Plague, Purple)",,,
+"Worm, Frost",Nil,YES,YES
+"Worm, Purple (including Ice Serpent)",,,
+Wraith,,,
+"Wyrm, Lake",Nil,Nil,Nil 
+Wyvern,,,
+Xarrox,,,
+Xornling,,,
+Yegnu,,,
+Yeti,,,
+"Zombie (including Brain Eater, Giant, Swarm, and Walker)",,,
