@@ -1,82 +1,80 @@
 Creature Name,Medicinal,Hide/Trophy Items,Other
-Ankylosaurus,Nil,YES,Nil
-"Ant, Giant (Worker, Soldier, Queen)",YES,Nil,Nil
-Ape (including Giant Ape),Nil,Nil,Nil
-Banshee,Nil,Ni,Nil
-Basilisk,Nil,Nil,YES
-Bat,Nil,Nil,YES
-Bear,Nil,YES,Nil
-"Beetle, Fire",Nil,Nil,YES
-Bird,Nil,YES,Nil
-Boar,Nil,YES,Nil
-"Bulette (including Desert, Ice, and Earth variants)",Nil,YES,YES
+Ankylosaurus,Nil,Hardened Scutes (250sp): Used for Masterforged Plate.,Tail Club (50sp): Can be fashioned into a heavy maul.
+"Ant, Giant","Acid Sac (15sp): Raw acid for alchemical ""Burning Oil.""",Nil,Mandibles (5sp): Used as heavy-duty shears.
+Ape (Giant),Nil,Thick Pelt (40sp): High-quality winter cloak.,Nil
+Banshee,Nil,Nil,Essence of Sorrow (100sp): Used for Fear or Sleep scrolls.
+Basilisk,Petrified Bile (150sp): Key ingredient for anti-paralysis salves.,Nil,"Eye Lens (75sp): Ground into ""Gaze-Ward"" dust."
+Bat (Giant),Guano (High Quality): 2sp per jar. Smithing flux.,"Wing Membrane (10sp): Used for fine, waterproof vellum.",Nil
+Bear,"Bear Fat (5sp): Used for waterproofing and ""Warming Grease.""",Bear Rug (30sp): A staple trade good.,Claws (2sp): Common trophy.
+"Beetle, Fire",Nil,Nil,Luminescent Gland (10sp): Glows for 1d6 days after harvest.
+Bird (Giant),Nil,Fine Down (15sp): Highly prized for noble bedding.,Talons (5sp): Crafting components for arrows.
+Boar,Nil,Tusks (5sp): Common trophy/jewelry material.,Bristles: Used for high-end brushes.
+Bulette,Nil,Heavy Carapace (400sp): Yields 1 set of Masterforged Plate.,Digging Claws (60sp): Harder than iron; used for picks.
 Cat,Nil,Nil,Nil
-Centaur,Nil,Nil,Nil
-"Centipede, Giant",Nil,Nil,YES
-Chuul,Nil,Nil,YES
-Cockatrice,Nil,YES,YES
-"Crocodile, Giant (including Kronosaurus)",Nil,YES,Nil
-Cyclops,Nil,Nil,Nil
-"Demon, Balor",Nil,Nil,Yes
-"Demon, Basartu",Nil,Nil,Yes
-"Demon, Gmorsha",Nil,Nil,YES
-"Demon, Hellhound",Nil,Nil,YES
-"Demon, Malafas",,,
-Dog (including War Dog and Wolf),Nil,Nil,Nil
-Doppelganger,YES,Nil,YES
-Dragon (including Young Dragon),Nil,YES,YES
-Dwarf,Nil,Nil,Nil
+Centaur,Nil,Nil,Braided Tail Hair (10sp): Extremely strong; used for bowstrings.
+"Centipede, Giant",Venom Gland (20sp): Used for paralytic coatings.,Nil,Nil
+Chuul,Nil,Chitin Plates (120sp): Used for non-metallic Scale Mail.,"Pincer (20sp): Often used as a decorative ""shield"" boss."
+Cockatrice,"Dried Tongue (50sp): Used in tonics against ""Stone-flesh.""",Petrified Feathers (20sp): Used as quills for Earth magic.,Nil
+Crocodile (Giant),Nil,Belly Hide (80sp): High-end waterproof leather.,Teeth (1sp each): Common trinkets.
+Cyclops,Nil,"Cyclops Eye (150sp): Preserved in brine; used in ""True Sight"" rituals.",Nil
+Demon (General),Ichor (Variable): 50sp+. Highly volatile; triggers DDM checks if handled poorly.,Nil,Demon Horn (30sp): Used as a focus for dark rituals.
+Dog / Wolf,Nil,Wolf Pelt (10sp): Standard winter wear.,Nil
+Doppelganger,"Brain Fluid (200sp): Essential for ""Mind Reading"" or ""Identity"" elixirs.",Nil,Nil
+Dragon (including Young Dragon),"Draconic Blood (300sp): Used for ""Strength"" or ""Fire Resistance"" potions.",Dragon Scales (500sp): Material for Dragon-Scale Armor.,Heart-String (250sp): Used for legendary bowstrings.
+Dwarf / Elf,Nil,Nil,Personal Gear: Usually contains 2d6 sp and basic tools.
 "Eagle, Giant",Nil,Nil,YES
-"Elemental, Air",Nil,Nil,Nil
-"Elemental, Earth",Nil,Nil,YES
-"Elemental, Fire",Nil,Nil,Nil
-"Elemental, Water",,,
+Elemental (Air),Nil,Nil,Essence of Wind (100sp): Captured in a crystal; used for Fly spells.
+Elemental (Earth),Nil,Nil,Heart-Stone (1d6 x 50sp): A rare geode found at the core.
+Elemental (Fire),Nil,Nil,Ever-Burning Coal (100sp): Never goes out; highly dangerous to carry.
+Elemental (Water),Purest Water (40sp): Used as a base for high-tier potions.,Nil,Nil
 Elf,Nil,Nil,Nil
 Ettin,Nil,Nil,Nil
-Feathered Maw,YES,Nil,YES
-Fey Creeper,Nil,Nil,Nil
-Gargoyle,Nil,Nil,YES
-Gelatinous Cube,Yes,Nil,Nil
+Feathered Maw,Nil,Colorful Feathers (25sp): Highly prized for noble fashion.,Nil
+Fey Creeper,"Sap (30sp): Used in ""Sleep"" or ""Charm"" powders.",Nil,Nil
+Gargoyle,Nil,Nil,"Heart-Granite (40sp): Stone that ""remembers"" its shape; used in masonry."
+Gelatinous Cube,Digestive Acid (20sp): Can dissolve non-magical metal over time.,Nil,"Suspended Loot: Roll on ""Minor Treasure"" table."
 Ghost,Nil,Nil,YES
-Ghoul,Nil,Nil,YES
-"Giant, Frost",Nil,Nil,YES
-Gnoll,Nil,Nil,Nil
-Goblin,Nil,Nil,Nil
+Ghoul,"Paralytic Claw-Dust (15sp): Used in ""Stun"" poisons.",Nil,Nil
+Giant (Frost),"Giant's Heart (300sp): Grants temporary ""Immunity to Cold"" if eaten raw (risky).",Mammoth-Hide Cloak (150sp): Massive and heavy.,Nil
+Giant (Hill),Nil,Nil,Nil
+Giant (Storm),Nil,Nil,Nil
+Gnoll,Nil,Ear / Scalp (2sp): Standard bounty price in most human cities.,Nil
+Goblin,Nil,Ear (1sp): Standard bounty price in most human cities.,Nil
 "Golem, Flesh",Nil,Nil,Nil
 "Golem, Iron",Nil,Nil,Nil
 "Golem, Stone",Nil,Nil,Nil
-Griffon,Nil,YES,YES
-Hag,Nil,Nil,YES
+Griffon,Nil,Feathered Hide (100sp): Prestigious trophy.,Tail Hair (20sp): Used for high-quality rope.
+Hag,"Witch-Bile (150sp): Used for ""Cursing"" or ""Hexing"" oils.",Nil,Hag's Eye (50sp): A scrying focus (often cursed).
 Harpy,Nil,Nil,YES
 Horse,Nil,Nil,Nil
-Hydra,YES,YES,YES
+Hydra,"Regenerative Blood (400sp): Ingredient for ""Major Healing"" elixirs.",Hydra Skin (200sp): Acid-resistant leather.,"Hydra Tooth (20sp): Can be ""planted"" for rituals."
 Imp,Nil,Nil,YES
-Invisible Stalker,Nil,Nil,Nil
-"Leech, Projectile",YES,Nil,YES
-Lich,Nil,Nil,Nil
-"Lizard, Giant",Nil,YES,YES
+Invisible Stalker,Nil,Nil,"Vaporous Residue (150sp): Used for ""Invisibility"" potions."
+"Leech, Projectile",Saliva (10sp): A medical anticoagulant.,Nil,Nil
+Lich,Lich-Dust (500sp): Pure necromantic catalyst (Dangerous!).,Nil,Phylactery Bits: Value is astronomical but attracts doom.
+"Lizard, Giant",Liver (15sp): Treats swamp-rot.,"Reptile Hide (30sp): Durable, water-resistant leather.",Nil
 "Lycanthrope, Werebear",,,
 "Lycanthrope, Wererat",,,
 "Lycanthrope, Werewolf",,,
-Manticore,,,
-Medusa,,,
+Manticore,Nil,Maned Pelt (150sp): Grants +1 to Intimidate if worn.,Tail Spikes (5sp each): Can be used as Masterforged Darts.
+Medusa,"Eye Fluid (200sp): Used for ""Stone-to-Flesh"" or vice versa.",Snake-Hair (10sp each): Rare poison reagent.,Nil
 Merscine,,,
-Mimic,,,
-Minotaur,,,
-Mob,,,
+Mimic,Nil,Nil,Adhesive Gland (50sp): 1d4 jars of permanent glue.
+Minotaur,Nil,Minotaur Horns (60sp): Fashioned into high-end drinking horns.,Nil
 "Monkey, Man Eating",,,
 "Mould, Yellow",,,
-Mummy,,,
+Mummy,Nil,"Ancient Linen (10sp): If cleaned, sought by historians.","Dust of the Ages (40sp): Causes ""Wasting"" disease if inhaled."
 Mushroom Men,,,
 N'Tarc,,,
 Ochre Jelly,,,
 "Octopus, Giant",,,
-Ogre,,,
+Ogre,Nil,Ogre Ear (5sp): Common bounty.,Nil
 Ogre Mage,,,
 "Ooze (Grey, Sentient)",,,
 "Ooze, Grey",Nil,Nil,YES
-Owlbear,,,
+Owlbear,Feather-Fur Oil (25sp): Makes gear silent (+1 Stealth (Move)).,Beak (40sp): Used for heavy armor-piercing arrowheads.,Nil
 Plague Worm,,,
+Purple Worm,Nil,Segmented Hide (500sp): Can outfit an entire party in Studded Leather.,Worm Poison (250sp): Enough for 10 doses.
 Raptor,,,
 "Rat (Giant, Dire)",,,
 Rat Swarm,,,
@@ -84,17 +82,16 @@ Rhino,,,
 Roc,,,
 Rock Grinder,,,
 Roper,,,
-Rust Monster,,,
-"Scorpion, Giant",,,
+Rust Monster,Nil,Nil,Antennae (80sp): Vibrates when within Close range of iron.
+"Scorpion, Giant",Antivenom Gland (40sp): Used to brew Antitoxin.,Exoskeleton (75sp): Used for lightweight shields.,Stinger (30sp): Can be used as a spear tip.
 Scroach,,,
 "Serpent, Giant",,,
-"Serpentman, Hraarsk",,,
-"Serpentman, Razkarrt",,,
-"Serpentman, Ssurloc",,,
+Serpentman,"Shed Skin (20sp): Used for ""Disguise"" rituals.",Nil,Venom (15sp): Standard poison.
 Shade,,,
 "Shark (Giant, Dire)",,,
 Shrieker,,,
-Skeleton,,,
+Skeleton,Nil,Nil,Bone Meal (1sp): Used as fertilizer or low-grade alchemy.
+"Spider, Giant",Venom (20sp): Standard neurotoxin.,Nil,"Web Sac (10sp): 50ft of incredibly strong, sticky rope."
 Skinless Terror,,,
 Skorn,,,
 Skratt,,,
@@ -109,7 +106,7 @@ Sprite (including Water Sprite),,,
 Stirge,,,
 Surgat,,,
 "Swarm, Ant, Bone Cutter",YES,Nil,YES
-T-Rex,,,
+T-Rex,Nil,King's Hide (600sp): The ultimate trophy; Masterforged Heavy Armor.,Great Tooth (20sp): Fashioned into a dagger (1d6 dmg).
 Tentacle Spawn,,,
 "Terror, Eye",Nil,Nil,Nil
 "Terror, Gibbering",Nil,Nil,YES
@@ -118,7 +115,7 @@ Tiger (including Sabretooth),,,
 "Toad, Giant",,,
 "Treant, Bloodroot",Nil,Nil,YES
 Triceratops,,,
-"Troll (Sea, Moor)",,,
+Troll,"Troll Blood (50sp): Diluted, it helps wounds close faster (+1 HP/rest).",Rubbery Hide (80sp): Hard to cut; +1 vs Slashing dmg.,Nil
 Urgot,,,
 Urgot Champion,,,
 Urgozer,,,
@@ -134,9 +131,9 @@ Wolf (including Dire Wolf and Winter Wolf),,,
 "Worm, Purple (including Ice Serpent)",,,
 Wraith,,,
 "Wyrm, Lake",Nil,Nil,Nil 
-Wyvern,,,
+Wyvern,Tail Venom (150sp): Extremely lethal.,Leathery Wings (50sp): Used for making bellows or large sails.,Nil
 Xarrox,,,
 Xornling,,,
 Yegnu,,,
 Yeti,,,
-"Zombie (including Brain Eater, Giant, Swarm, and Walker)",,,
+"Zombie (including Brain Eater, Giant, Swarm, and Walker)",,,Bone Meal (1sp): Used as fertilizer or low-grade alchemy.
