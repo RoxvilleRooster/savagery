@@ -19,7 +19,7 @@ Crocodile (Giant),Nil,Belly Hide (80sp): High-end waterproof leather.,Teeth (1sp
 Cyclops,Nil,"Cyclops Eye (150sp): Preserved in brine; used in ""True Sight"" rituals.",Nil
 Demon (General),Ichor (Variable): 50sp+. Highly volatile; triggers DDM checks if handled poorly.,Nil,Demon Horn (30sp): Used as a focus for dark rituals.
 Dog / Wolf,Nil,Wolf Pelt (10sp): Standard winter wear.,Nil
-Doppelganger,"Brain Fluid (200sp): Essential for ""Mind Reading"" or ""Identity"" elixirs.",Nil,The corpse of a doppleganger miht be worth 100 to 400 sp to a magic user
+Doppelganger,"Brain Fluid (200sp): Essential for ""Mind Reading"" or ""Identity"" elixirs.",Nil,The corpse of a doppleganger might be worth 100 to 400 sp to a magic user
 Dragon (including Young Dragon),"Draconic Blood (300sp): Used for ""Strength"" or ""Fire Resistance"" potions.",Dragon Scales (500sp): Material for Dragon-Scale Armour.,Heart-String (250sp): Used for legendary bowstrings.
 Dwarf / Elf,Nil,Nil,Personal Gear: Usually contains 2d6 sp and basic tools.
 "Eagle, Giant",Nil,Nil,YES
@@ -29,7 +29,7 @@ Elemental (Fire),Nil,Nil,Ever-Burning Coal (100sp): Never goes out; highly dange
 Elemental (Water),Purest Water (40sp): Used as a base for high-tier potions.,Nil,Nil
 Elf,Nil,Nil,Nil
 Ettin,Nil,Nil,Nil
-Feathered Maw,Nil,Colorful Feathers (25sp): Highly prized for noble fashion.,Nil
+Feathered Maw,Nil,Colourful Feathers (25sp): Highly prized for noble fashion.,Nil
 Fey Creeper,"Sap (30sp): Used in ""Sleep"" or ""Charm"" powders.",Nil,Nil
 Gargoyle,Nil,Nil,"Heart-Granite (40sp): Stone that ""remembers"" its shape; used in masonry."
 Gelatinous Cube,Digestive Acid (20sp): Can dissolve non-magical metal over time.,Nil,"Suspended Loot: Roll on ""Minor Treasure"" table."
@@ -56,7 +56,7 @@ Lich,Lich-Dust (500sp): Pure necromantic catalyst (Dangerous!).,Nil,Phylactery B
 "Lycanthrope, Werebear","Blood from a lycathrope, if ingested, can cause lycanthropy to the person ingesting it",Nil,Nil
 "Lycanthrope, Wererat","Blood from a lycathrope, if ingested, can cause lycanthropy to the person ingesting it",Nil,Nil
 "Lycanthrope, Werewolf","Blood from a lycathrope, if ingested, can cause lycanthropy to the person ingesting it",Nil,Nil
-Manticore,Nil,Maned Pelt (150sp): Grants +1 to Intimidate if worn.,Tail Spikes (5sp each): Can be used as Masterforged Darts.
+Manticore,Nil,Maned Pelt (150sp): Grants +1 to Intimidate if worn.,Tail Spikes (5sp each): Can be used as maste-forged Darts.
 Medusa,"Eye Fluid (200sp): Used for ""Stone-to-Flesh"" or vice versa.",Snake-Hair (10sp each): Rare poison reagent.,Nil
 Merscine,Nil,Nil,Nil
 Mimic,Nil,Nil,Adhesive Gland (50sp): 1d4 jars of permanent glue.
@@ -106,7 +106,7 @@ Sprite (including Water Sprite),,,
 Stirge,,,
 Surgat,,,
 "Swarm, Ant, Bone Cutter",YES,Nil,YES
-T-Rex,Nil,King's Hide (600sp): The ultimate trophy; Masterforged Heavy Armor.,Great Tooth (20sp): Fashioned into a dagger (1d6 dmg).
+T-Rex,Nil,King's Hide (600sp): The ultimate trophy; maste-forged Heavy Armor.,Great Tooth (20sp): Fashioned into a dagger (1d6 dmg).
 Tentacle Spawn,,,
 "Terror, Eye",Nil,Nil,Nil
 "Terror, Gibbering",Nil,Nil,YES
