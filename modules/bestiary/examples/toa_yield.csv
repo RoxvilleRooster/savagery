@@ -1,5 +1,5 @@
 Creature Name,Medicinal,Hide/Trophy Items,Other
-Ankylosaurus,Nil,Hardened Scutes (250sp): Used for Masterforged Plate.,Tail Club (50sp): Can be fashioned into a heavy maul.
+Ankylosaurus,Nil,Hardened Scutes (250sp): Used for master-forged Plate.,Tail Club (50sp): Can be fashioned into a heavy maul.
 "Ant, Giant","Acid Sac (15sp): Raw acid for alchemical ""Burning Oil.""",Nil,Mandibles (5sp): Used as heavy-duty shears.
 Ape (Giant),Nil,Thick Pelt (40sp): High-quality winter cloak.,Nil
 Banshee,Nil,Nil,Essence of Sorrow (100sp): Used for Fear or Sleep scrolls.
@@ -8,8 +8,8 @@ Bat (Giant),Guano (High Quality): 2sp per jar. Smithing flux.,"Wing Membrane (10
 Bear,"Bear Fat (5sp): Used for waterproofing and ""Warming Grease.""",Bear Rug (30sp): A staple trade good.,Claws (2sp): Common trophy.
 "Beetle, Fire",Nil,Nil,Luminescent Gland (10sp): Glows for 1d6 days after harvest.
 Bird (Giant),Nil,Fine Down (15sp): Highly prized for noble bedding.,Talons (5sp): Crafting components for arrows.
-Boar,Nil,Tusks (5sp): Common trophy/jewelry material.,Bristles: Used for high-end brushes.
-Bulette,Nil,Heavy Carapace (400sp): Yields 1 set of Masterforged Plate.,Digging Claws (60sp): Harder than iron; used for picks.
+Boar,Nil,Tusks (5sp): Common trophy/jewellery material.,Bristles: Used for high-end brushes.
+Bulette,Nil,Heavy Carapace (400sp): Yields 1 set of master-forged Plate.,Digging Claws (60sp): Harder than iron; used for picks.
 Cat,Nil,Nil,A cat's paw ight be used in elixirs related to climbing
 Centaur,Nil,Nil,Braided Tail Hair (10sp): Extremely strong; used for bowstrings.
 "Centipede, Giant",Venom Gland (20sp): Used for paralytic coatings.,Nil,Nil
@@ -20,7 +20,7 @@ Cyclops,Nil,"Cyclops Eye (150sp): Preserved in brine; used in ""True Sight"" rit
 Demon (General),Ichor (Variable): 50sp+. Highly volatile; triggers DDM checks if handled poorly.,Nil,Demon Horn (30sp): Used as a focus for dark rituals.
 Dog / Wolf,Nil,Wolf Pelt (10sp): Standard winter wear.,Nil
 Doppelganger,"Brain Fluid (200sp): Essential for ""Mind Reading"" or ""Identity"" elixirs.",Nil,The corpse of a doppleganger miht be worth 100 to 400 sp to a magic user
-Dragon (including Young Dragon),"Draconic Blood (300sp): Used for ""Strength"" or ""Fire Resistance"" potions.",Dragon Scales (500sp): Material for Dragon-Scale Armor.,Heart-String (250sp): Used for legendary bowstrings.
+Dragon (including Young Dragon),"Draconic Blood (300sp): Used for ""Strength"" or ""Fire Resistance"" potions.",Dragon Scales (500sp): Material for Dragon-Scale Armour.,Heart-String (250sp): Used for legendary bowstrings.
 Dwarf / Elf,Nil,Nil,Personal Gear: Usually contains 2d6 sp and basic tools.
 "Eagle, Giant",Nil,Nil,YES
 Elemental (Air),Nil,Nil,Essence of Wind (100sp): Captured in a crystal; used for Fly spells.
