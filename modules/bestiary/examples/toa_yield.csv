@@ -10,7 +10,7 @@ Bear,"Bear Fat (5sp): Used for waterproofing and ""Warming Grease.""",Bear Rug (
 Bird (Giant),Nil,Fine Down (15sp): Highly prized for noble bedding.,Talons (5sp): Crafting components for arrows.
 Boar,Nil,Tusks (5sp): Common trophy/jewelry material.,Bristles: Used for high-end brushes.
 Bulette,Nil,Heavy Carapace (400sp): Yields 1 set of Masterforged Plate.,Digging Claws (60sp): Harder than iron; used for picks.
-Cat,Nil,Nil,Nil
+Cat,Nil,Nil,A cat's paw ight be used in elixirs related to climbing
 Centaur,Nil,Nil,Braided Tail Hair (10sp): Extremely strong; used for bowstrings.
 "Centipede, Giant",Venom Gland (20sp): Used for paralytic coatings.,Nil,Nil
 Chuul,Nil,Chitin Plates (120sp): Used for non-metallic Scale Mail.,"Pincer (20sp): Often used as a decorative ""shield"" boss."
@@ -19,7 +19,7 @@ Crocodile (Giant),Nil,Belly Hide (80sp): High-end waterproof leather.,Teeth (1sp
 Cyclops,Nil,"Cyclops Eye (150sp): Preserved in brine; used in ""True Sight"" rituals.",Nil
 Demon (General),Ichor (Variable): 50sp+. Highly volatile; triggers DDM checks if handled poorly.,Nil,Demon Horn (30sp): Used as a focus for dark rituals.
 Dog / Wolf,Nil,Wolf Pelt (10sp): Standard winter wear.,Nil
-Doppelganger,"Brain Fluid (200sp): Essential for ""Mind Reading"" or ""Identity"" elixirs.",Nil,Nil
+Doppelganger,"Brain Fluid (200sp): Essential for ""Mind Reading"" or ""Identity"" elixirs.",Nil,The corpse of a doppleganger miht be worth 100 to 400 sp to a magic user
 Dragon (including Young Dragon),"Draconic Blood (300sp): Used for ""Strength"" or ""Fire Resistance"" potions.",Dragon Scales (500sp): Material for Dragon-Scale Armor.,Heart-String (250sp): Used for legendary bowstrings.
 Dwarf / Elf,Nil,Nil,Personal Gear: Usually contains 2d6 sp and basic tools.
 "Eagle, Giant",Nil,Nil,YES
@@ -53,12 +53,12 @@ Invisible Stalker,Nil,Nil,"Vaporous Residue (150sp): Used for ""Invisibility"" p
 "Leech, Projectile",Saliva (10sp): A medical anticoagulant.,Nil,Nil
 Lich,Lich-Dust (500sp): Pure necromantic catalyst (Dangerous!).,Nil,Phylactery Bits: Value is astronomical but attracts doom.
 "Lizard, Giant",Liver (15sp): Treats swamp-rot.,"Reptile Hide (30sp): Durable, water-resistant leather.",Nil
-"Lycanthrope, Werebear",,,
-"Lycanthrope, Wererat",,,
-"Lycanthrope, Werewolf",,,
+"Lycanthrope, Werebear","Blood from a lycathrope, if ingested, can cause lycanthropy to the person ingesting it",Nil,Nil
+"Lycanthrope, Wererat","Blood from a lycathrope, if ingested, can cause lycanthropy to the person ingesting it",Nil,Nil
+"Lycanthrope, Werewolf","Blood from a lycathrope, if ingested, can cause lycanthropy to the person ingesting it",Nil,Nil
 Manticore,Nil,Maned Pelt (150sp): Grants +1 to Intimidate if worn.,Tail Spikes (5sp each): Can be used as Masterforged Darts.
 Medusa,"Eye Fluid (200sp): Used for ""Stone-to-Flesh"" or vice versa.",Snake-Hair (10sp each): Rare poison reagent.,Nil
-Merscine,,,
+Merscine,Nil,Nil,Nil
 Mimic,Nil,Nil,Adhesive Gland (50sp): 1d4 jars of permanent glue.
 Minotaur,Nil,Minotaur Horns (60sp): Fashioned into high-end drinking horns.,Nil
 "Monkey, Man Eating",,,
